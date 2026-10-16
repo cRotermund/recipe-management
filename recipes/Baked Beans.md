@@ -7,7 +7,7 @@ categories:
 cook_time: ''
 created: '2022-04-10 10:30:54'
 difficulty: ''
-hash: 591d81373e48951ff6aea5839a3fa00d11855208ea5cb8ac0a94f4603629d0c0
+hash: d214874425e141ec5151027c434c7ebfeb55b9a6355c16309699167490654b0b
 image_url: null
 in_trash: false
 is_pinned: false
@@ -35,7 +35,7 @@ uid: F0DC7BBF-5415-4A69-8194-042ED156C830
 
 ## Directions
 
-Spray casserole dish.  Put one large can beans in dish.  Mix b sugar and dry mustard.  sprinkle half of it over 1st layer of beans.  Add next can of beans and spread remaining sugar/mustard mix.  Bake 300°F for 2-3 hours.
+Spray casserole dish.  Put one large can beans in dish.  Mix brown sugar and dry mustard.  sprinkle half of it over 1st layer of beans.  Add next can of beans and spread remaining sugar/mustard mix.  Bake 300°F for 2-3 hours.
 
 ## Notes
 

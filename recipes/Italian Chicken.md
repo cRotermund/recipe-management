@@ -7,7 +7,7 @@ categories:
 cook_time: ''
 created: '2023-11-13 18:35:02'
 difficulty: ''
-hash: 7e685e0c3e30d7e8d8a59ba3c009ee73e3f97cf83a90f1ca20778e5f1d988adc
+hash: 08d5036922ad904816fd11210165d6e7d7558d892b2ed08abeca568d4e8e87fd
 image_url: null
 in_trash: false
 is_pinned: false
@@ -50,4 +50,4 @@ Heat vegetable oil in a skillet over medium high heat; cook chicken about 2 min.
 
 • Place chicken in a 9-inch square baking dish; set aside.
 
-•Combine remaining ingredients, well; pour over chicken. mixing bake at 350°F for 30 minutes.
+•Combine remaining ingredients, well; pour over chicken, mixing, and bake at 350°F for 30 minutes.
