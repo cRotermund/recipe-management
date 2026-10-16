@@ -8,6 +8,8 @@ This workspace contains a Paprika recipe working directory. The installed `papri
 
 **Do not send recipe data to Paprika without explicit approval from the owner after the proposed changes have been shown and reviewed.**
 
+**Never push to a remote (including `paprika-recipes push` and `git push` to any remote) without first asking the owner for confirmation and receiving an explicit yes for that specific push.** Ask again for every push; a previous approval does not carry over to later pushes.
+
 Never run a real `paprika-recipes push` on your own initiative. This includes edits, new recipes, photo uploads or replacements, and deletions. Approval must be obtained for the concrete push plan, not merely for making local edits.
 
 Safe commands include `status`, `pull --dry-run`, and `push --dry-run`. A dry run must remain dry; do not follow it with a real push until approval is explicit.
