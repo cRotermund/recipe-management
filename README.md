@@ -101,6 +101,20 @@ paprika-recipes --help
 paprika-recipes <command> --help
 ```
 
+## Cloning This Repository
+
+`kappari/` is a git submodule, so clone with submodules included:
+
+```powershell
+git clone --recurse-submodules git@github.com:cRotermund/recipe-management.git
+```
+
+If you already cloned without it, run:
+
+```powershell
+git submodule update --init --recursive
+```
+
 ## Tooling
 
 `paprika-recipes` is an external dependency, not part of this repository. Install it with:
