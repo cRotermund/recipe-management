@@ -1,0 +1,54 @@
+---
+categories:
+- 135D8DF8-5165-487A-9161-61345003AB1B
+- F0D08EC3-D9EF-4F02-A381-FF3D38660DA6
+- 7CD3F8E9-6459-40C0-8802-20549A6F50EC
+- 98E4F68D-11D7-4383-90FA-22C804880E1C
+cook_time: 35 to 45 minutes
+created: '2020-01-26 10:50:37'
+difficulty: ''
+hash: ae7e9ac14ce97930c15f5ac4b549a38e9cd5f2fd7bda8e0ef79e0593a04faf64
+image_url: https://static01.nyt.com/images/2016/04/18/dining/18COOKING-MCBITTYBEANBURGERS2/18COOKING-MCBITTYBEANBURGERS2-articleLarge.jpg
+in_trash: false
+is_pinned: false
+on_favorites: false
+on_grocery_list: false
+prep_time: ''
+rating: 0
+scale: null
+servings: Yield 8 small burgers
+source: Cooking.nytimes.com
+source_url: https://cooking.nytimes.com/recipes/12221-black-bean-burgers
+total_time: ''
+uid: 763B3CF9-3496-43FA-BC65-354BF063FCFC
+---
+
+# Black Bean Burgers
+
+![Photo of Black Bean Burgers](attachments/55473E5B-FF6D-4A15-A903-40848CEAA334.jpg)
+
+## Ingredients
+
+- ¼ cup dried, stemless porcini mushrooms
+- 2 cups cooked or drained canned black beans
+- 1 teaspoon roughly chopped garlic
+- ¾ cup rolled oats, or more if needed
+- 2 teaspoons smoked paprika or chili powder
+- 1 teaspoon cumin
+- 1 tablespoon soy sauce
+- Salt and black pepper
+- Bean-cooking liquid, porcini soaking liquid or water
+- ¼ cup chopped cilantro
+- 2 tablespoons olive oil
+
+## Directions
+
+Soak the mushrooms in hot water for 5 to 10 minutes; roughly chop.
+
+Put the mushrooms, beans, garlic, oats, spices and soy sauce in a food processor with a sprinkle of salt and pepper. Let the machine run until the mixture is combined, not puréed, about 30 seconds. (Or use a potato masher.) Add oats to thicken, or liquid to thin, as needed.
+
+Stir in the cilantro, and let sit for 5 minutes.
+
+Shape into 4 large or 8 small patties; let them sit for 5 minutes.
+
+Put the oil in a large skillet over medium-low heat. Cook until crisp on one side, about 5 minutes. Flip and cook until the burgers are crisp on the other side, another 5 minutes or so. Serve with the usual fixings.

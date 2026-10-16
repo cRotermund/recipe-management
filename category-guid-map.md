@@ -1,0 +1,47 @@
+# Paprika category GUID map
+
+Generated from the local Paprika database by `.opencode/skills/paprika-categories/sync_category_map.py`. Do not edit by hand.
+
+Use the UID in a recipe's `categories:` list. Names are for reference only. A `/` inside a name is escaped as `\/`.
+
+| Category (hierarchy) | UID |
+|---|---|
+| Meal | `537ECAB5-89A9-442C-80C5-513A3BBA2613` |
+| Meal > Breakfast | `595E8D63-42D3-4E28-88A2-D6D54EF026A1` |
+| Meal > Lunch | `A6695F02-BB88-4BF3-9B3A-4F3FB0ACFBBA` |
+| Meal > Dinner | `135D8DF8-5165-487A-9161-61345003AB1B` |
+| Meal > Side\/Snack | `9B3E8F54-7F9D-4782-919F-ACC9A0850C87` |
+| Meal > Dessert | `6BF378BD-8FD0-4FEF-9755-940308F0C8C7` |
+| Meal > Staple\/Base | `A3FA97E2-41F7-4C28-8433-211311D4E130` |
+| Method | `F74E6272-257D-4663-A474-7E6BED57EFF8` |
+| Method > Stove | `98E4F68D-11D7-4383-90FA-22C804880E1C` |
+| Method > Oven | `2BBE169B-4709-4377-8F54-765FFAAD9E1A` |
+| Method > Grill | `29FDEC25-D5A4-4D29-A800-2D2E46095301` |
+| Method > Pressure Cooker | `18EDB3A1-512C-4003-8EE4-AE58D58363B1` |
+| Method > Slow Cooker | `63E2508A-6723-4397-9696-DC45DB21A332` |
+| Method > No-Cook | `088012EF-69C0-412F-BD34-160FE5B0E043` |
+| Protein | `8453504B-6D3E-4DEF-B9C6-7751B4A9F795` |
+| Protein > Chicken | `E131025A-19E9-4C5F-99A8-75EE51F165D8` |
+| Protein > Beef | `55A42913-CF04-4D09-BB3B-A0886EAA8EC1` |
+| Protein > Pork | `DACC7E83-9563-43BB-A342-86C5AE800BA7` |
+| Protein > Lamb | `DE561603-A197-48AA-9F7C-B93B9AB3027E` |
+| Protein > Turkey | `DF723BE7-257E-4E0F-B4AA-BD8B0311B3D8` |
+| Protein > Fish | `0E6E410A-45EC-4274-98C8-2190B87DB54A` |
+| Protein > Shellfish | `74D19AD7-7FB6-416E-B539-74DCDC2A820A` |
+| Protein > Egg | `EAB653D6-0540-48C4-B9D0-FD56AE24841E` |
+| Protein > Vegetarian\/Legume | `F0D08EC3-D9EF-4F02-A381-FF3D38660DA6` |
+| Protein > None | `60FB6093-F8C4-447B-A9A2-81A75BBCBA70` |
+| Style | `CAB704FA-62EB-4343-A199-131DF5974A91` |
+| Style > Pasta | `460F3A6B-0B87-457B-AF84-A1CE51D92D74` |
+| Style > Soup\/Stew | `1A786DC7-9C26-4F71-B6F4-1B452FC14FB9` |
+| Style > Sheet-Pan | `3C8ADFAF-87C1-4C30-AA13-572072B4B626` |
+| Style > One-Pot | `A774024D-4AFA-4EB2-B28E-8925ACA5E85C` |
+| Style > Curry | `641901A6-C962-46DC-B418-1C19B51409EF` |
+| Style > Taco | `F254E705-1305-4DF7-9238-5C500D4EF54E` |
+| Style > Bowls | `35D4A321-CEA6-48CA-AB68-A32FD0778BE5` |
+| Style > Wrap | `BA747AF5-0E8E-4B51-BE59-2916BD3A58D4` |
+| Style > Salad | `9B27D475-7644-4A83-9A71-DACE79FB649E` |
+| Style > Sandwich | `0B4EDF55-58AC-4E2F-9ACC-EA7C5317BA40` |
+| Style > Burger | `7CD3F8E9-6459-40C0-8802-20549A6F50EC` |
+| Style > Baked Goods | `E5311B89-BA3B-4153-9D9E-C809730BC236` |
+| Style > Other | `1C21D75E-3CF2-4B23-B04F-A9275BC1033B` |

@@ -1,0 +1,3 @@
+[submodule "kappari"]
+	path = kappari
+	url = git@github.com:johnwbyrd/kappari.git
