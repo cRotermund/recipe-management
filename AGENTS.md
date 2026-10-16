@@ -4,6 +4,8 @@
 
 This workspace contains a Paprika recipe working directory. The installed `paprika-recipes` command is the authority for operations; it is an external dependency (see [Tooling in `README.md`](README.md#tooling) for the upstream URL and pinned version). The workspace-specific overview is in [`README.md`](README.md), and the tool's complete behavior is documented in the upstream repository.
 
+Recipe measurement and unit text must follow [`docs/unit-style.md`](docs/unit-style.md) (abbreviations, fractions, ranges, cans, garlic, temperatures, and metric rules). Apply it to any recipe you edit.
+
 ## Non-Negotiable Remote Safety Rule
 
 **Do not send recipe data to Paprika without explicit approval from the owner after the proposed changes have been shown and reviewed.**
