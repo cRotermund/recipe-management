@@ -7,7 +7,7 @@ categories:
 cook_time: 1 hour 10 minutes
 created: '2021-01-01 16:57:44'
 difficulty: Medium
-hash: 2d2d8345a2f3b64ba01e8788ed23509f4d4d4d945fb2509728d6167e0bb9802e
+hash: 62f94752b5c316c9b9db0f44fe33c3e3b9b39e8c8ffe74d531701d9517622632
 image_url: null
 in_trash: false
 is_pinned: false
@@ -29,7 +29,7 @@ uid: 9DE2D361-DE3B-4E97-A956-F200441CE227
 
 - **Crust**
 - 3 cups graham cracker crumbs
-- 1/2 cups melted butter
+- 1/2 cup melted butter
 
 - **Filling**
 - 5 packages cream cheese
@@ -56,6 +56,6 @@ Add eggs and egg yoks, one at a time, beating after each addition.
 
 Mix in vanilla and cream.
 
-Pour batter over frozen crust.  Back for 10 minutes at 500 degrees F, then reduce heat to 200 degrees F and bake for an additional 60 minutes.  Cool on a rack for 2 hours.
+Pour batter over frozen crust.  Back for 10 minutes at 500°F, then reduce heat to 200°F and bake for an additional 60 minutes.  Cool on a rack for 2 hours.
 
 Cover with plastic wrap and refrigerate for at least 6 hours.

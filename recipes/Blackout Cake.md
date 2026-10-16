@@ -7,7 +7,7 @@ categories:
 cook_time: ''
 created: '2021-02-10 11:17:35'
 difficulty: ''
-hash: d029bdb3013fc25f38787211ac97cbddb63d55d1419893a4b90153932273bd40
+hash: 030c56326c57358327c8ab3e1c76ac9f63664aac8edf99fe03c1819963dadd33
 image_url: https://assets.bonappetit.com/photos/59c924dc32e4b84f5a9e437a/1:1/w_2560%2Cc_limit/1017%252520WEB%252520WEEK1060.jpg
 in_trash: false
 is_pinned: false
@@ -30,42 +30,42 @@ uid: 792012CD-22C2-42E2-9AF3-9AAEB7DB71A6
 ## Ingredients
 
 - Unsalted butter, room temperature (for pans)
-- ¾ cup Dutch-processed cocoa powder, plus more for pans
-- 1½ cups all-purpose flour
-- 1½ teaspoons baking soda
-- ¾ teaspoon baking powder
+- 3/4 cup Dutch-processed cocoa powder, plus more for pans
+- 1 1/2 cups all-purpose flour
+- 1 1/2 tsp baking soda
+- 3/4 tsp baking powder
 - 1 large egg, room temperature
 - 1 large egg yolk, room temperature
-- 1½ cups (packed) dark brown sugar
-- ¾ cup sour cream, room temperature
-- 5 tablespoons vegetable oil
-- 2 teaspoons vanilla extract
-- ¾ teaspoon kosher salt
-- ⅓ cup Dutch-processed cocoa powder
-- 5 tablespoons cornstarch
-- 1¼ cups heavy cream
+- 1 1/2 cups (packed) dark brown sugar
+- 3/4 cup sour cream, room temperature
+- 5 tbsp vegetable oil
+- 2 tsp vanilla extract
+- 3/4 tsp kosher salt
+- 1/3 cup Dutch-processed cocoa powder
+- 5 tbsp cornstarch
+- 1 1/4 cups heavy cream
 - 4 large egg yolks, beaten to blend
-- 1¼ cups whole milk
-- ⅔ cup (packed) dark brown sugar
-- ¼ teaspoon kosher salt
-- 4 ounces milk chocolate, chopped
-- 1 teaspoon vanilla extract
+- 1 1/4 cups whole milk
+- 2/3 cup (packed) dark brown sugar
+- 1/4 tsp kosher salt
+- 4 oz milk chocolate, chopped
+- 1 tsp vanilla extract
 - 1 cup heavy cream
-- 3 tablespoons golden syrup (such as Lyle’s Golden Syrup)
-- ⅛ teaspoon kosher salt
-- 12 ounces bittersweet chocolate, chopped
-- ¾ cup sour cream, room temperature
-- 2 tablespoons unsalted butter, room temperature
+- 3 tbsp golden syrup (such as Lyle’s Golden Syrup)
+- 1/8 tsp kosher salt
+- 12 oz bittersweet chocolate, chopped
+- 3/4 cup sour cream, room temperature
+- 2 tbsp unsalted butter, room temperature
 
 ## Directions
 
-Arrange a rack in center of oven; preheat to 350°. Line two 8x2"-deep round cake pans with parchment paper. Grease with butter, then dust with cocoa powder, tapping out excess.
+Arrange a rack in center of oven; preheat to 350°F. Line two 8x2"-deep round cake pans with parchment paper. Grease with butter, then dust with cocoa powder, tapping out excess.
 
-Sift flour, baking soda, baking powder, and remaining ¾ cup cocoa powder into a medium bowl, then whisk to combine. Whisk egg, egg yolk, brown sugar, sour cream, oil, vanilla, salt, and ¾ cup hot water in a large bowl until smooth. Whisk in dry ingredients until just combined.
+Sift flour, baking soda, baking powder, and remaining 3/4 cup cocoa powder into a medium bowl, then whisk to combine. Whisk egg, egg yolk, brown sugar, sour cream, oil, vanilla, salt, and 3/4 cup hot water in a large bowl until smooth. Whisk in dry ingredients until just combined.
 
-Divide batter between prepared pans. Bake cake until a tester inserted into the center comes out clean, 25–35 minutes. Transfer pans to a wire rack; let cake cool completely in pan. Invert onto a plate, then invert again.
+Divide batter between prepared pans. Bake cake until a tester inserted into the center comes out clean, 25-35 minutes. Transfer pans to a wire rack; let cake cool completely in pan. Invert onto a plate, then invert again.
 
-Whisk cocoa powder and cornstarch in a large saucepan. Whisk in cream until smooth and no lumps remain. Add egg yolks, milk, brown sugar, and salt; whisk to combine. Bring to a boil over medium-high heat, whisking occasionally, then reduce heat to low. Continue to cook, whisking, until thick and smooth, 1–2 minutes.
+Whisk cocoa powder and cornstarch in a large saucepan. Whisk in cream until smooth and no lumps remain. Add egg yolks, milk, brown sugar, and salt; whisk to combine. Bring to a boil over medium-high heat, whisking occasionally, then reduce heat to low. Continue to cook, whisking, until thick and smooth, 1-2 minutes.
 
 Remove from heat and add chocolate and vanilla, stirring until chocolate is melted and mixture is smooth. Strain through a fine-mesh sieve into a medium bowl. Cover with plastic wrap, pressing directly onto surface of hot pudding to prevent a skin from forming. Chill until cold, at least 2 hours.
 
@@ -73,7 +73,7 @@ Using a serrated knife and sawing in long, even strokes, carefully halve cakes l
 
 Remove plastic from chilled pudding and vigorously whisk until smooth. Using a rubber spatula, spread half of pudding over cake layer on stand, spreading to edges. Top with another cake layer, cut side down, and spread remaining pudding over cake. Top with third cake layer cut side down (leave top bare). Chill cake 1 hour and up to 8 to let pudding firm up.
 
-Bring cream, syrup, and salt to a boil in a large saucepan over medium-high heat. Remove from heat and stir in chocolate, sour cream, and butter. Let sit, stirring occasionally, until chocolate and butter are melted and mixture is smooth and no streaks of white remain. Transfer to a medium bowl. Let frosting sit at room temperature, stirring every 30 minutes or so, until thickened and spreadable (it will look like a broken chocolate sauce at first, but magically, about 1½ hours later, it will start to thicken). Stir until smooth. (If your kitchen is warmer than 72°, chill frosting 5 minutes. Stir to combine cooler outer edges with warmer center, then chill another 5 minutes. It should be the consistency of sour cream; if not, chill another 5 minutes and stir.)
+Bring cream, syrup, and salt to a boil in a large saucepan over medium-high heat. Remove from heat and stir in chocolate, sour cream, and butter. Let sit, stirring occasionally, until chocolate and butter are melted and mixture is smooth and no streaks of white remain. Transfer to a medium bowl. Let frosting sit at room temperature, stirring every 30 minutes or so, until thickened and spreadable (it will look like a broken chocolate sauce at first, but magically, about 1 1/2 hours later, it will start to thicken). Stir until smooth. (If your kitchen is warmer than 72°F, chill frosting 5 minutes. Stir to combine cooler outer edges with warmer center, then chill another 5 minutes. It should be the consistency of sour cream; if not, chill another 5 minutes and stir.)
 
 Spread frosting all over top and sides of chilled cake. The frosting on top should be as smooth and level as possible, but it’s okay if the sides look messy; the crumbs will hide any mistakes you make.
 

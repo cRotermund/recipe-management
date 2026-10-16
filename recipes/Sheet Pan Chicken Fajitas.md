@@ -7,7 +7,7 @@ categories:
 cook_time: 25 minutes
 created: '2021-09-01 11:53:38'
 difficulty: ''
-hash: e43263bfdb1641f60107104e988d0bee7a25c952fd1b25b78bf3fe336e66813a
+hash: 1764cc8a7c294e8ac67d21d8a31edfb4e41d06abcf9e8f7c3886b382bc77f0b1
 image_url: https://s23209.pcdn.co/wp-content/uploads/2019/07/Sheet-Pan-Chicken-FajitasIMG_9933-600x900.jpg
 in_trash: false
 is_pinned: false
@@ -29,28 +29,28 @@ uid: BFE2F283-4F73-4AE2-82C5-4589F99B1F0A
 
 ## Ingredients
 
-- 2 teaspoons chili powder
-- 2 teaspoons ground cumin
-- 2 teaspoons dried oregano
-- 3/4 teaspoon paprika
-- 1/4 teaspoon smoked paprika
+- 2 tsp chili powder
+- 2 tsp ground cumin
+- 2 tsp dried oregano
+- 3/4 tsp paprika
+- 1/4 tsp smoked paprika
 - pinch of cayenne powder
 - Kosher salt and freshly ground black pepper, to taste
-- 1 1/2 pounds boneless, skinless chicken breasts, cut into thin strips
+- 1 1/2 lb boneless, skinless chicken breasts, cut into thin strips
 - 1 red bell pepper, cut into strips
 - 1 yellow bell pepper, cut into strips
 - 2 medium red onions, cut into wedges
-- 3 cloves garlic, grated
-- 3 tablespoons olive oil
+- 3 garlic cloves, grated
+- 3 tbsp olive oil
 - 1/4 cup chopped fresh cilantro leaves
-- 2 tablespoons freshly squeezed lime juice
+- 2 tbsp freshly squeezed lime juice
 - 6 (8-inch) flour or corn tortillas, warmed
 
 ## Directions
 
-Preheat oven to 425 degrees F. Lightly oil a baking sheet or coat with nonstick spray.
+Preheat oven to 425°F. Lightly oil a baking sheet or coat with nonstick spray.
 
-In a small bowl, combine chili powder, cumin, oregano, paprika, 1 1/4 teaspoons salt and 1 1/4 teaspoons pepper. Add enough olive oil to make into thick sauce. Grate in garlic and mix well.
+In a small bowl, combine chili powder, cumin, oregano, paprika, 1 1/4 tsp salt and 1 1/4 tsp pepper. Add enough olive oil to make into thick sauce. Grate in garlic and mix well.
 
 Place chicken, bell peppers, onion and garlic in a single layer onto the prepared baking sheet. Stir in olive oil and chili powder mixture; gently toss to combine.
 

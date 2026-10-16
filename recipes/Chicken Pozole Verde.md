@@ -7,7 +7,7 @@ categories:
 cook_time: 1 hr 15 mins
 created: '2023-10-07 21:28:30'
 difficulty: ''
-hash: e44c8fd36a6046f068dfa1cecfab94d1937dd66e8683bd29085b96339a6b7e3e
+hash: 604abebcb238ebdeb6707e7af640230a69f90645444b2b01b07e60d8d1815f75
 image_url: https://www.foodandwine.com/thmb/gPpzR_cDX3tnk2RUneD1rRrECog=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Chicken-Pozole-Verde-FT-RECIPE0422-1-a6c47eca8fd84448954f9c6596391021.jpg
 in_trash: false
 is_pinned: false
@@ -16,7 +16,7 @@ on_grocery_list: false
 prep_time: 45 mins
 rating: 0
 scale: null
-servings: 6 to 8 servings
+servings: 6-8 servings
 source: Foodandwine.com
 source_url: https://www.foodandwine.com/recipes/mexican-chicken-pozole-verde
 total_time: ''
@@ -32,17 +32,17 @@ uid: EB678605-6ADB-482B-A006-212514316563
 - 7 cups chicken stock or low-sodium broth
 - 2 cups water
 - 4 chicken breast halves on the bone, with skin
-- 1 pound tomatillos, husked and halved
+- 1 lb tomatillos, husked and halved
 - 1 small onion, quartered
 - 2 poblano chiles, cored, seeded, and quartered
 - 2 jalapeños, seeded and quartered
 - 4 large garlic cloves, smashed
 - 1/2 cup chopped cilantro
-- 1 tablespoon oregano leaves
+- 1 tbsp oregano leaves
 - Kosher salt
 - Freshly ground black pepper
-- 1 tablespoon vegetable oil
-- 3 (15-ounce) cans of hominy, drained
+- 1 tbsp vegetable oil
+- 3 (15 oz) cans of hominy, drained
 - Finely shredded iceberg lettuce, for serving
 - Sliced radishes, for serving
 - Chopped onion, for serving

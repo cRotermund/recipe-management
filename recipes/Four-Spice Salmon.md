@@ -7,7 +7,7 @@ categories:
 cook_time: 20 minutes
 created: '2020-01-26 10:47:25'
 difficulty: ''
-hash: fef4261fa75a450680db9ee5c9e6714ee8f2afd3dde1a2de591b771701837072
+hash: 1d539e826a33b28290f9d002a818b9126a6bc6cb09bedc9a0b015488dc0342ed
 image_url: https://static01.nyt.com/images/2017/12/13/dining/13COOKING-4SPICE-SALMON1/13COOKING-4SPICE-SALMON1-articleLarge.jpg
 in_trash: false
 is_pinned: false
@@ -29,18 +29,18 @@ uid: E0CF386C-1D2A-4D48-8E1B-12AFAAA8F164
 
 ## Ingredients
 
-- 4 6-ounce skinned salmon fillets
+- 4 (6 oz) skinned salmon fillets
 - Salt and black pepper
-- 1 tablespoon coriander seeds or ground coriander
-- ¼ teaspoon whole or ground cloves
-- 1 ½ teaspoons cumin seed or ground cumin
-- 1 teaspoon freshly grated nutmeg
-- 2 tablespoons peanut oil, grape seed or other neutral oil, or clarified butter
+- 1 tbsp coriander seeds or ground coriander
+- 1/4 tsp whole or ground cloves
+- 1 1/2 tsp cumin seed or ground cumin
+- 1 tsp freshly grated nutmeg
+- 2 tbsp peanut oil, grape seed or other neutral oil, or clarified butter
 
 ## Directions
 
 Season fillets on both sides with salt and pepper. If necessary, combine spices and grind them to a coarse powder in a coffee or spice grinder. Press some of the mixture onto the top of each fillet.
 
-Heat a large nonstick skillet over medium-high heat for 2 or 3 minutes. Add the oil or butter and, when it shimmers, place the fillets, coated side down, in the pan. Cook about 2 to 3 minutes, or until the spice mixture forms a nicely browned crust.
+Heat a large nonstick skillet over medium-high heat for 2 or 3 minutes. Add the oil or butter and, when it shimmers, place the fillets, coated side down, in the pan. Cook about 2-3 minutes, or until the spice mixture forms a nicely browned crust.
 
-Turn the fillets and cook for another 2 to 3 minutes, or until the salmon just slightly resists when pierced with a thin-bladed knife.
+Turn the fillets and cook for another 2-3 minutes, or until the salmon just slightly resists when pierced with a thin-bladed knife.

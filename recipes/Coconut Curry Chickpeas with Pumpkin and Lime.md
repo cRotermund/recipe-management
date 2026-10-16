@@ -7,7 +7,7 @@ categories:
 cook_time: ''
 created: '2023-06-11 11:37:00'
 difficulty: ''
-hash: a94eb2fb93fa8748960a7d3ab2c906699e282992a50fa1e1f6dd3bb353882310
+hash: 37b5fce805234cdd8d59b7af5ad2a70dd94d8c9626823c8edda5e413ca253a06
 image_url: https://static01.nyt.com/images/2019/09/25/dining/20canrex2/merlin_160763166_1a6f5c09-3b72-48bb-8f78-3bdbc5d752f2-videoSixteenByNineJumbo1600.jpg
 in_trash: false
 is_pinned: false
@@ -16,7 +16,7 @@ on_grocery_list: false
 prep_time: ''
 rating: 0
 scale: null
-servings: 4 to 6 servings
+servings: 4-6 servings
 source: cooking.nytimes.com
 source_url: https://cooking.nytimes.com/recipes/1020463-coconut-curry-chickpeas-with-pumpkin-and-lime
 total_time: 30 min
@@ -29,21 +29,21 @@ uid: EB7231BF-DA72-43CE-B996-118B3C80BD3B
 
 ## Ingredients
 
-- 3 tablespoons neutral oil, such as sunflower or canola
+- 3 tbsp neutral oil, such as sunflower or canola
 - 1 large onion, chopped
 - 2 jalapeños, seeded or not, thinly sliced
 - 1 bay leaf
 - 1 knob ginger (about 1 inch), minced
 - 4 garlic cloves, minced
-- 1 1/2 teaspoons garam masala
-- 1 teaspoon ground cumin
-- 1/2 teaspoon ground turmeric
-- 2 (15-ounce) cans chickpeas, rinsed
-- 1 (13.5-ounce) can coconut milk (do not use light coconut milk)
-- 1 (13.5-ounce) can pumpkin purée
-- 1 1/2 teaspoons fine sea salt, more as needed
+- 1 1/2 tsp garam masala
+- 1 tsp ground cumin
+- 1/2 tsp ground turmeric
+- 2 (15 oz) cans chickpeas, rinsed
+- 1 (13.5 oz) can coconut milk (do not use light coconut milk)
+- 1 (13.5 oz) can pumpkin purée
+- 1 1/2 tsp fine sea salt, more as needed
 - 3/4 cup chopped cilantro, more for serving
-- 2 to 3 tablespoons fresh lime juice, plus wedges for serving
+- 2-3 tbsp fresh lime juice, plus wedges for serving
 - Cooked rice or couscous, for serving (optional)
 
 ## Directions
@@ -52,19 +52,19 @@ Heat oil in a large skillet over medium-high heat. Stir in onion, jalapeño and 
 
 Add ginger and garlic and cook until fragrant, about 2 minutes, stirring frequently. Stir in garam masala, cumin and turmeric; cook for an additional 30 seconds.
 
-Stir in chickpeas, coconut milk, pumpkin, 1/2 cup water and 1 1/2 teaspoons salt. Bring to a simmer and continue to simmer for 10 minutes, stirring occasionally, to let the flavors meld. (Add more water if it starts to look too thick.) Stir in cilantro and lime juice to taste. Taste and add more salt if necessary.
+Stir in chickpeas, coconut milk, pumpkin, 1/2 cup water and 1 1/2 tsp salt. Bring to a simmer and continue to simmer for 10 minutes, stirring occasionally, to let the flavors meld. (Add more water if it starts to look too thick.) Stir in cilantro and lime juice to taste. Taste and add more salt if necessary.
 
 Serve over rice or couscous if you like, and top with more cilantro and lime wedges on the side.
 
 ## Nutritional Information
 
-Trans Fat: 0 grams
-Fat: 25 grams
+Trans Fat: 0 g
+Fat: 25 g
 Calories: 472
-Saturated Fat: 13 grams
-Unsaturated Fat: 9 grams
+Saturated Fat: 13 g
+Unsaturated Fat: 9 g
 Sodium: 822 milligrams
-Sugar: 9 grams
-Fiber: 12 grams
-Carbohydrate: 53 grams
-Protein: 14 grams
+Sugar: 9 g
+Fiber: 12 g
+Carbohydrate: 53 g
+Protein: 14 g

@@ -7,7 +7,7 @@ categories:
 cook_time: ''
 created: '2022-12-04 12:10:40'
 difficulty: ''
-hash: 7956eaa48328f34be467115144447f65aaa3c94d0731f3e9b300d0e1e4768086
+hash: e45f57e101df5284bbda23195eafd0f9a66dd5b0abc3e062777a885d6d4451d9
 image_url: https://s0.wp.com/i/blank.jpg
 in_trash: false
 is_pinned: false
@@ -29,14 +29,14 @@ uid: 4D5F2907-86AC-495B-99B4-9387C4F59563
 
 ## Ingredients
 
-- 3 Tablespoons sugar
-- 1 Tablespoon paprika
-- 1 Teaspoon ground chili powder
-- 1 teaspoon curry powder
-- 1 teaspoon ground cumin
-- 1 teaspoon ground coriander
-- 1 teaspoon ground black pepper
-- 1 teaspoon salt
+- 3 tbsp sugar
+- 1 tbsp paprika
+- 1 tsp ground chili powder
+- 1 tsp curry powder
+- 1 tsp ground cumin
+- 1 tsp ground coriander
+- 1 tsp ground black pepper
+- 1 tsp salt
 - 1/3 cup canola oil
 - 1 cup assorted unsalted nuts
 - 3 cups Rice Chex
@@ -48,7 +48,7 @@ uid: 4D5F2907-86AC-495B-99B4-9387C4F59563
 
 ## Directions
 
-1 whole wheat pita, split, spray with olive oil spray on cut sides, sprinkle lightly with Kosher salt, cut into 1″ squares, and bake at 250 degrees F for 15 minutes, stirring every 5 minutes. Set aside to cool. Leave the oven on…
+1 whole wheat pita, split, spray with olive oil spray on cut sides, sprinkle lightly with Kosher salt, cut into 1″ squares, and bake at 250°F for 15 minutes, stirring every 5 minutes. Set aside to cool. Leave the oven on…
 
 In a small bowl, mix together the seasonings and set aside.
 

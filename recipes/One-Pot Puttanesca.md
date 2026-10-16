@@ -7,7 +7,7 @@ categories:
 cook_time: ''
 created: '2022-02-08 21:08:14'
 difficulty: ''
-hash: af2a23a94aba7feb94327d4c1302f34d8368a903f1c30f5bbf53a5584bb749fc
+hash: eadfb0b232681bb50fb8d78efe06a1d61161bec37150935f101555f2038b8e1f
 image_url: https://assets.bonappetit.com/photos/61f7f1b95851a853ef804dbe/1:1/w_2560%2Cc_limit/puttanesca.jpg
 in_trash: false
 is_pinned: false
@@ -31,22 +31,22 @@ uid: 298EC636-5FCA-4ACD-B1B4-4323855B0E88
 
 - 6 garlic cloves, thinly sliced
 - 4 oil-packed anchovy fillets, divided
-- ⅓ cup plus 2 Tbsp. extra-virgin olive oil
-- ½ cup Kalamata olives, coarsely chopped
-- 6 Tbsp. double-concentrated tomato paste
-- 3 Tbsp. drained capers
-- ½ tsp. Diamond Crystal or ¼ tsp. Morton kosher salt, plus more
-- ¼ tsp. crushed red pepper flakes, plus more for panko
-- 8 oz. small pasta (such as ditalini, orzo, or mini shells; about 1½ cups)
-- 5 oz. baby spinach (about 4½ cups)
-- ½ cup panko
+- 1/3 cup plus 2 tbsp extra-virgin olive oil
+- 1/2 cup Kalamata olives, coarsely chopped
+- 6 tbsp double-concentrated tomato paste
+- 3 tbsp drained capers
+- 1/2 tsp Diamond Crystal or 1/4 tsp Morton kosher salt, plus more
+- 1/4 tsp crushed red pepper flakes, plus more for panko
+- 8 oz small pasta (such as ditalini, orzo, or mini shells; about 1 1/2 cups)
+- 5 oz baby spinach (about 4 1/2 cups)
+- 1/2 cup panko
 
 ## Directions
 
-Cook garlic, 2 anchovies, and ⅓ cup oil in a medium Dutch oven or other heavy pot over medium heat, stirring and smashing anchovies with a wooden spoon, until garlic starts to brown around the edges, about 3 minutes. Add olives, tomato paste, capers, ½ tsp. Diamond Crystal or ¼ tsp. Morton kosher salt, and ¼ tsp. red pepper flakes and cook, stirring, until tomato paste turns a shade darker, about 3 minutes.
+Cook garlic, 2 anchovies, and 1/3 cup oil in a medium Dutch oven or other heavy pot over medium heat, stirring and smashing anchovies with a wooden spoon, until garlic starts to brown around the edges, about 3 minutes. Add olives, tomato paste, capers, 1/2 tsp Diamond Crystal or 1/4 tsp Morton kosher salt, and 1/4 tsp red pepper flakes and cook, stirring, until tomato paste turns a shade darker, about 3 minutes.
 
-Add 4 cups water to pot, increase temperature to high, and bring to a boil. Add pasta and spinach, tearing leaves into smaller pieces as you go. Stir to combine, then reduce heat to medium and simmer, stirring often to keep pasta from sticking, until cooked through, 10–12 minutes.
+Add 4 cups water to pot, increase temperature to high, and bring to a boil. Add pasta and spinach, tearing leaves into smaller pieces as you go. Stir to combine, then reduce heat to medium and simmer, stirring often to keep pasta from sticking, until cooked through, 10-12 minutes.
 
-Meanwhile, heat remaining 2 anchovies and 2 Tbsp. oil in a medium skillet over medium. Add panko and a pinch of red pepper flakes and salt and cook, stirring often and breaking anchovies apart, until golden brown, about 2 minutes.
+Meanwhile, heat remaining 2 anchovies and 2 tbsp oil in a medium skillet over medium. Add panko and a pinch of red pepper flakes and salt and cook, stirring often and breaking anchovies apart, until golden brown, about 2 minutes.
 
 Divide pasta among bowls and top with panko mixture.

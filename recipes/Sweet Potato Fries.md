@@ -7,7 +7,7 @@ categories:
 cook_time: 35 minutes
 created: '2022-01-11 09:07:16'
 difficulty: ''
-hash: 3e1445275c46fda54aff6dbe7ef40b6d999471c1c32d6797ee4162da19e10409
+hash: 32564e88a34c9f16f16a665903f2f6514ae62b3b8da7552a280da2ffdf8f7dd8
 image_url: null
 in_trash: false
 is_pinned: false
@@ -16,7 +16,7 @@ on_grocery_list: false
 prep_time: ''
 rating: 0
 scale: null
-servings: Yield 4 to 6 servings
+servings: Yield 4-6 servings
 source: cooking.nytimes.com
 source_url: https://cooking.nytimes.com/recipes/1014647-sweet-potato-fries
 total_time: ''
@@ -29,18 +29,18 @@ uid: 5735E47E-7A75-451B-A88D-C17BD352FBCC
 
 ## Ingredients
 
-- 2 pounds sweet potatoes, peeled
-- 2 tablespoons olive oil
-- 1 teaspoon garlic powder
-- 1 teaspoon paprika
-- 1 teaspoon salt
-- ½ teaspoon black pepper
+- 2 lb sweet potatoes, peeled
+- 2 tbsp olive oil
+- 1 tsp garlic powder
+- 1 tsp paprika
+- 1 tsp salt
+- 1/2 tsp black pepper
 
 ## Directions
 
 Heat the oven to 400.
 
-Cut the sweet potatoes into sticks 1/4 to 1/2 inch wide and 3 inches long, and toss them with the oil.
+Cut the sweet potatoes into sticks 1/4-1/2 inch wide and 3 inches long, and toss them with the oil.
 
 Mix the spices, salt and pepper in a small bowl, and toss them with the sweet potatoes. Spread them out on 2 rimmed baking sheets.
 
@@ -48,12 +48,12 @@ Bake until brown and crisp on the bottom, about 15 minutes, then flip and cook u
 
 ## Nutritional Information
 
-Fat: 5 grams
+Fat: 5 g
 Calories: 173
-Saturated Fat: 1 gram
-Unsaturated Fat: 4 grams
+Saturated Fat: 1 g
+Unsaturated Fat: 4 g
 Sodium: 365 milligrams
-Sugar: 6 grams
-Fiber: 5 grams
-Carbohydrate: 31 grams
-Protein: 3 grams
+Sugar: 6 g
+Fiber: 5 g
+Carbohydrate: 31 g
+Protein: 3 g

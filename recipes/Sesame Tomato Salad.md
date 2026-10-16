@@ -7,7 +7,7 @@ categories:
 cook_time: ''
 created: '2023-07-03 15:22:44'
 difficulty: ''
-hash: c0b43c69578ae2000424d3441897714495371d77f0f48146926796750e6c9dbb
+hash: c8ecbc157359d82017e77d749e3d19aa05abf62551d326763bd0fd91c4845902
 image_url: https://static01.nyt.com/images/2023/05/18/multimedia/18MAKE-AHEAD-SALADSrex5-tomato-zhtw/18MAKE-AHEAD-SALADSrex5-tomato-zhtw-mediumSquareAt3X.jpg
 in_trash: false
 is_pinned: false
@@ -16,7 +16,7 @@ on_grocery_list: false
 prep_time: ''
 rating: 0
 scale: null
-servings: 6 to 8 servings
+servings: 6-8 servings
 source: Cooking.nytimes.com
 source_url: https://cooking.nytimes.com/recipes/1024154-sesame-tomato-salad
 total_time: 20 min
@@ -30,12 +30,12 @@ uid: 6EB7E359-0423-49E2-9336-7272878D5BA8
 ## Ingredients
 
 - 1/2 cup extra-virgin olive oil
-- 6 tablespoons low-sodium soy sauce
-- 2 tablespoons distilled white vinegar
-- 2 tablespoons toasted sesame oil
-- 1 teaspoon minced garlic
-- 1 teaspoon granulated sugar, plus more to taste
-- 3 pounds mixed tomatoes, large tomatoes chopped or sliced and small tomatoes halved
+- 6 tbsp low-sodium soy sauce
+- 2 tbsp distilled white vinegar
+- 2 tbsp toasted sesame oil
+- 1 tsp minced garlic
+- 1 tsp granulated sugar, plus more to taste
+- 3 lb mixed tomatoes, large tomatoes chopped or sliced and small tomatoes halved
 - Kosher salt (such as Diamond Crystal) and black pepper
 - 1/4 cup chopped basil
 
@@ -47,13 +47,13 @@ Arrange the tomatoes on a serving platter and season with salt and pepper. Drizz
 
 ## Nutritional Information
 
-Trans Fat: 0 grams
-Fat: 18 grams
+Trans Fat: 0 g
+Fat: 18 g
 Calories: 223
-Saturated Fat: 2 grams
-Unsaturated Fat: 14 grams
+Saturated Fat: 2 g
+Unsaturated Fat: 14 g
 Sodium: 870 milligrams
-Sugar: 10 grams
-Fiber: 4 grams
-Carbohydrate: 15 grams
-Protein: 4 grams
+Sugar: 10 g
+Fiber: 4 g
+Carbohydrate: 15 g
+Protein: 4 g

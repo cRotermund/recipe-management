@@ -7,7 +7,7 @@ categories:
 cook_time: ''
 created: '2026-10-04 17:22:38'
 difficulty: ''
-hash: fff94e030d3beed164809d8997f039689d1defeb9b77a0535a70ec81b865ce71
+hash: 21c2a0b394dd41f09fbb7ec09fde153c154485e545cea5e8367e6d2aab81a169
 image_url: https://static01.nyt.com/images/2025/07/22/multimedia/22MS-FOODMANREX-lzwf/22MS-FOODMANREX-lzwf-videoSixteenByNineJumbo1600.jpg
 in_trash: false
 is_pinned: false
@@ -30,23 +30,23 @@ uid: 54886CF1-033E-4C5E-8FDB-4C9D9CD84BEF
 ## Ingredients
 
 - 4 chicken legs or 8 bone-in, skin-on chicken thighs
-- 2 teaspoons kosher salt
-- 1 teaspoon freshly ground black pepper
-- ½ to ¾ cup all-purpose flour
-- 3 tablespoons olive oil
-- 2 tablespoons herbes de Provence
+- 2 tsp kosher salt
+- 1 tsp freshly ground black pepper
+- 1/2-3/4 cup all-purpose flour
+- 3 tbsp olive oil
+- 2 tbsp herbes de Provence
 - 1 lemon, quartered
-- 8 to 10 cloves garlic, peeled
-- 4 to 6 medium-size shallots, peeled and halved
-- ⅓ cup dry vermouth
+- 8-10 garlic cloves, peeled
+- 4-6 medium-size shallots, peeled and halved
+- 1/3 cup dry vermouth
 - 4 sprigs of thyme, for serving
 
 ## Directions
 
-Heat oven to 400 degrees. Season the chicken with salt and pepper. Put the flour in a shallow pan, and lightly dredge the chicken in it, shaking the pieces to remove excess flour.
+Heat oven to 400°F. Season the chicken with salt and pepper. Put the flour in a shallow pan, and lightly dredge the chicken in it, shaking the pieces to remove excess flour.
 
 Swirl the oil in a large roasting pan, and place the floured chicken in it. Season the chicken with the herbes de Provence. Arrange the lemon, garlic cloves and shallots around the chicken, then add the vermouth to the pan.
 
-Put the pan in the oven, and roast for 25 to 30 minutes, then baste it with the pan juices. Continue roasting for another 25 to 30 minutes, or until the chicken is very crisp and the meat cooked through.
+Put the pan in the oven, and roast for 25-30 minutes, then baste it with the pan juices. Continue roasting for another 25-30 minutes, or until the chicken is very crisp and the meat cooked through.
 
 Serve in the pan or on a warmed platter, garnished with the thyme.

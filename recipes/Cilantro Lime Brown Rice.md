@@ -4,7 +4,7 @@ categories:
 cook_time: ''
 created: '2020-01-26 10:48:24'
 difficulty: ''
-hash: 65a040807a67f935a50456f90a225a45d0e55ae4f39a1baa45a7a8da0c97d17b
+hash: 00c98a4650d22a6a77696822394ec6b2c2c1206141c4ea04682bc2b60e967be8
 image_url: https://cookieandkate.com/images/2019/06/cilantro-lime-brown-rice-recipe-2-768x1154.jpg
 in_trash: false
 is_pinned: false
@@ -26,13 +26,13 @@ uid: FECCE826-B8D3-421D-A83C-94500243B345
 
 ## Ingredients
 
-- 1 ½ cups long-grain brown rice or brown basmati rice, rinsed
+- 1 1/2 cups long-grain brown rice or brown basmati rice, rinsed
 - 1 bay leaf
-- ¼ cup chopped fresh cilantro
-- 2 tablespoons lime juice (from about 1 lime)*
-- 1 ½ teaspoons lemon juice (from 1 small lemon)
-- 1 tablespoon plus 1 teaspoon extra-virgin olive oil
-- ½ teaspoon fine sea salt
+- 1/4 cup chopped fresh cilantro
+- 2 tbsp lime juice (from about 1 lime)*
+- 1 1/2 tsp lemon juice (from 1 small lemon)
+- 1 tbsp plus 1 tsp extra-virgin olive oil
+- 1/2 tsp fine sea salt
 
 ## Directions
 
@@ -40,6 +40,6 @@ Bring a large pot of water to boil over high heat. Pour in the rinsed rice and d
 
 Drain the rice, return it to the pot, cover, and let it rest for 10 minutes off the heat. Discard the bay leaf and fluff the rice with a fork.
 
-Add the cilantro, lime juice, lemon juice, olive oil, and salt and stir to combine. Taste and add additional salt if necessary (I usually add an extra ¼ teaspoon). Cover until you’re ready to serve.
+Add the cilantro, lime juice, lemon juice, olive oil, and salt and stir to combine. Taste and add additional salt if necessary (I usually add an extra 1/4 tsp). Cover until you’re ready to serve.
 
 Leftover rice will keep well in the refrigerator, covered, for up to 5 days.

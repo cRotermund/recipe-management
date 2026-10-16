@@ -7,7 +7,7 @@ categories:
 cook_time: 60 minutes
 created: '2020-04-21 09:53:04'
 difficulty: ''
-hash: 327970d0fbb1df94ccc8b2a725c868b608b1c25206ca30d7dfac2bff03a5f602
+hash: 80f004a67c5e5defe090b9d88a01cdb24298e76fe083f823d5ce16982aa05740
 image_url: https://www.pauladeen.com/wp-content/uploads/z/u/zucchini-bread_1.jpg
 in_trash: false
 is_pinned: false
@@ -34,14 +34,14 @@ uid: 4A08F2C9-6551-4DC7-A15A-743A0BEA731C-1833-000001755BD85532
 - 4 beaten eggs
 - 1 cup vegetable oil
 - 3 cups sugar
-- 1 teaspoon ground cinnamon
-- 2 teaspoons baking soda
-- 1 teaspoon ground nutmeg
-- 1 1/2 teaspoons salt
+- 1 tsp ground cinnamon
+- 2 tsp baking soda
+- 1 tsp ground nutmeg
+- 1 1/2 tsp salt
 - 3 1/4 cups all purpose flour
-- 1 teaspoon lemon juice
+- 1 tsp lemon juice
 - 1 cup chopped (or pecans) walnuts
 
 ## Directions
 
-Preheat oven to 350 °F. In a large bowl, combine flour, salt, nutmeg, baking soda, cinnamon and sugar. In a separate bowl, combine oil, eggs, water, zucchini and lemon juice. Mix wet ingredients into dry, add nuts and fold in. Bake in 2 standard loaf pans, sprayed with nonstick spray, for 1 hour, or until a tester comes out clean. Alternately, bake in 5 mini loaf pans for about 45 minutes. Makes 2 loaves.
+Preheat oven to 350°F. In a large bowl, combine flour, salt, nutmeg, baking soda, cinnamon and sugar. In a separate bowl, combine oil, eggs, water, zucchini and lemon juice. Mix wet ingredients into dry, add nuts and fold in. Bake in 2 standard loaf pans, sprayed with nonstick spray, for 1 hour, or until a tester comes out clean. Alternately, bake in 5 mini loaf pans for about 45 minutes. Makes 2 loaves.

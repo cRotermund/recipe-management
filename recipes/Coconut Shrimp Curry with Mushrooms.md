@@ -7,7 +7,7 @@ categories:
 cook_time: 40 minutes
 created: '2021-03-02 08:14:56'
 difficulty: ''
-hash: bfbd7abb279ab49a1eb2324354239e10f882c6c59b285480967afb699b0de066
+hash: c70454f94f402490b935c439b45ad5eb05dbdc24cffbeca98b4865fcdc59a06d
 image_url: https://static01.nyt.com/images/2018/06/20/dining/20kitchen1/20kitchen1-articleLarge.jpg
 in_trash: false
 is_pinned: false
@@ -29,40 +29,40 @@ uid: C735107C-8A7B-478F-B100-A7550CC1E9E4-9653-000002C093679F20
 
 ## Ingredients
 
-- 1 pound medium shrimp, peeled and deveined
+- 1 lb medium shrimp, peeled and deveined
 - Salt and pepper
-- 1 teaspoon grated ginger
-- 1 teaspoon grated garlic
-- 1 teaspoon turmeric
-- ½ teaspoon coriander seeds, toasted and ground
-- ½ teaspoon cumin seeds, toasted and ground
-- 1 tablespoon tamarind paste
+- 1 tsp grated ginger
+- 1 tsp grated garlic
+- 1 tsp turmeric
+- 1/2 tsp coriander seeds, toasted and ground
+- 1/2 tsp cumin seeds, toasted and ground
+- 1 tbsp tamarind paste
 - 1 serrano chile, finely diced
 - Pinch of cayenne
-- 2 tablespoons coconut oil
+- 2 tbsp coconut oil
 - A few fresh curry leaves (optional)
-- 6 ounces mushrooms, chopped
+- 6 oz mushrooms, chopped
 - 2 cups coconut milk, fresh or canned
 - A few mint leaves and cilantro leaves, for garnish
 - Lime wedges, for garnish
 
 ## Directions
 
-Put shrimp in a medium bowl, and season generously with salt and pepper. Add ginger, garlic, turmeric, coriander, cumin, tamarind paste, serrano chile and cayenne, and mix to coat well. Leave to marinate for 5 to 10 minutes.
+Put shrimp in a medium bowl, and season generously with salt and pepper. Add ginger, garlic, turmeric, coriander, cumin, tamarind paste, serrano chile and cayenne, and mix to coat well. Leave to marinate for 5-10 minutes.
 
-Heat coconut oil in a wide skillet over medium-high heat. Add curry leaves, if using, and let them sputter, then add mushrooms and stir-fry gently for about 1 minute. Add shrimp and cook, stirring for about 1 to 2 more minutes until shrimp have turned pink and mushrooms have softened.
+Heat coconut oil in a wide skillet over medium-high heat. Add curry leaves, if using, and let them sputter, then add mushrooms and stir-fry gently for about 1 minute. Add shrimp and cook, stirring for about 1-2 more minutes until shrimp have turned pink and mushrooms have softened.
 
 Add coconut milk and simmer for about 1 minute. Taste sauce and adjust seasoning. Transfer to a serving dish, garnish with mint and cilantro and serve, with lime wedges on the side.
 
 ## Nutritional Information
 
-Trans Fat: 0 grams
-Fat: 32 grams
+Trans Fat: 0 g
+Fat: 32 g
 Calories: 384
-Saturated Fat: 28 grams
-Unsaturated Fat: 3 grams
+Saturated Fat: 28 g
+Unsaturated Fat: 3 g
 Sodium: 660 milligrams
-Sugar: 2 grams
-Fiber: 1 gram
-Carbohydrate: 9 grams
-Protein: 19 grams
+Sugar: 2 g
+Fiber: 1 g
+Carbohydrate: 9 g
+Protein: 19 g

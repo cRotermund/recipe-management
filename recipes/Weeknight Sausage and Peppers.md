@@ -7,7 +7,7 @@ categories:
 cook_time: ''
 created: '2020-02-16 09:09:08'
 difficulty: ''
-hash: b873a774beec40777ad33b63009a4833c8f1c40240ac79c64457c9d8f56469ac
+hash: 98fb60a5264724e4c45c0a690c81d1012dff911308ccf07ea88a9d497ad05018
 image_url: https://assets.bonappetit.com/photos/5dcdbc693417f4000888554c/16:9/w_1880,c_limit/0919-FIELD-ROAST15024-.jpg
 in_trash: false
 is_pinned: false
@@ -29,20 +29,20 @@ uid: 0B77B6A2-BBEF-4C01-AF4E-F1AB773E760D
 
 ## Ingredients
 
-- 1 12-oz. package Italian Sausage, sliced into ¼" rounds
-- ¼ cup extra-virgin olive oil
+- 1 (12 oz) package Italian Sausage, sliced into 1/4" rounds
+- 1/4 cup extra-virgin olive oil
 - 1 yellow onion, chopped
 - 3 cups chopped multicolor bell peppers
 - 4 garlic cloves, minced
-- ½ tsp red pepper flakes, plus more for serving
-- 1 14-oz. can crushed tomatoes
+- 1/2 tsp red pepper flakes, plus more for serving
+- 1 (14 oz) can crushed tomatoes
 - Spaghetti
 - Kosher salt and freshly ground black pepper
 
 ## Directions
 
-In large skillet, heat 2 Tbsp olive oil over medium-high. Add onion; cook, stirring occasionally, until light golden, 5 minutes. Add bell peppers. Cook stirring occasionally until tender, 5 minutes. Add garlic, fennel seeds and red pepper flakes; cook, stirring occasionally until fragrant, 30 seconds. Salt and pepper to taste.
+In large skillet, heat 2 tbsp olive oil over medium-high. Add onion; cook, stirring occasionally, until light golden, 5 minutes. Add bell peppers. Cook stirring occasionally until tender, 5 minutes. Add garlic, fennel seeds and red pepper flakes; cook, stirring occasionally until fragrant, 30 seconds. Salt and pepper to taste.
 
-Push vegetables to edges of skillet. Add remaining 2 Tbsp olive oil and Field Roast Plant-Based Italian Sausage in center of skillet. Cook until golden, 1 to 2 minutes. Stir to combine.
+Push vegetables to edges of skillet. Add remaining 2 tbsp olive oil and Field Roast Plant-Based Italian Sausage in center of skillet. Cook until golden, 1-2 minutes. Stir to combine.
 
 Add crushed tomatoes. Bring to a boil; reduce heat to medium-low. Simmer for 5 minutes. Salt and pepper to taste. Serve over spaghetti with red pepper flakes.

@@ -7,7 +7,7 @@ categories:
 cook_time: 10 minutes
 created: '2020-09-13 15:13:12'
 difficulty: ''
-hash: fd8c90e625621ac9a1357fe7ee209baa1b1e6efc6970558fed3c4e04c3d13573
+hash: 52e0452f6dd65f3ff755debf22e73c04aa8774e6e6228309297234bcc589fc0b
 image_url: https://cdn.jwplayer.com/v2/media/A4SVKIly/poster.jpg?width=720
 in_trash: false
 is_pinned: false
@@ -29,14 +29,14 @@ uid: 30D37931-78CF-40F9-AB80-E86F5B4AE4EF-10837-000005014F1223FF
 
 ## Ingredients
 
-- 1 pound large shrimp peeled and deveined (you can either leave tails on or remove them)
+- 1 lb large shrimp peeled and deveined (you can either leave tails on or remove them)
 - 1/4 cup olive oil
-- 2 tablespoons lemon juice
-- 3/4 teaspoon salt
-- 1/4 teaspoon pepper
-- 1 teaspoon Italian seasoning
-- 2 teaspoons minced garlic
-- 1 tablespoon chopped parsley
+- 2 tbsp lemon juice
+- 3/4 tsp salt
+- 1/4 tsp pepper
+- 1 tsp Italian seasoning
+- 2 tsp minced garlic
+- 1 tbsp chopped parsley
 - lemon wedges for serving
 
 ## Directions
@@ -57,5 +57,5 @@ Sprinkle with parsley and serve with lemon wedges.
 
 ## Nutritional Information
 
-Calories 206kcal
-Calories: 206kcal | Protein: 23g | Fat: 10g | Saturated Fat: 2g | Cholesterol: 285mg | Sodium: 1317mg | Potassium: 90mg | Vitamin C: 7.6mg | Calcium: 172mg | Iron: 2.7mg
+Calories 206 kcal
+Calories: 206 kcal | Protein: 23 g | Fat: 10 g | Saturated Fat: 2 g | Cholesterol: 285 mg | Sodium: 1317 mg | Potassium: 90 mg | Vitamin C: 7.6 mg | Calcium: 172 mg | Iron: 2.7 mg

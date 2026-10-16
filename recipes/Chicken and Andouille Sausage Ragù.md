@@ -7,7 +7,7 @@ categories:
 cook_time: ''
 created: '2020-01-26 10:36:37'
 difficulty: ''
-hash: c3940ed94ac351b6793f8e865e8b98eeff3c49b313d89db5e8421e456e01b362
+hash: 101ebd3ae563da3d5c6dd1b504f57be7daaaa3d3cd8106e5ab4bfbc350251978
 image_url: https://assets.bonappetit.com/photos/57b0831c53e63daf11a4eb1d/16:9/w_1880,c_limit/mare_chicken_and_andouille_sausage_ragu_h.jpg
 in_trash: false
 is_pinned: false
@@ -29,17 +29,17 @@ uid: 6BC1F36E-F3FD-4666-9A87-9CD4E7ED3377
 
 ## Ingredients
 
-- 9 chicken thighs with skin and bones (about 4 pounds), well trimmed
-- 2 tablespoons olive oil
-- 1 pound chicken andouille sausage or other fully cooked spicy smoked sausage, cut into 1/2-inch-thick rounds
+- 9 chicken thighs with skin and bones (about 4 lb), well trimmed
+- 2 tbsp olive oil
+- 1 lb chicken andouille sausage or other fully cooked spicy smoked sausage, cut into 1/2-inch-thick rounds
 - 3 medium carrots, peeled, diced
 - 2 large onions, chopped
 - 1/2 cup chopped fresh marjoram (from about 2 large bunches)
 - 6 garlic cloves, minced
-- 1 teaspoon grated lemon peel
-- 1/4 teaspoon dried crushed red pepper
+- 1 tsp grated lemon peel
+- 1/4 tsp dried crushed red pepper
 - 1 cup dry white wine
-- 2 14 1/2-ounce cans diced tomatoes in juice
+- 2 (14 1/2 oz) cans diced tomatoes in juice
 - 2 cups low-salt chicken broth
 - Campanelle Pasta with Parsley Butter (click for recipe)
 

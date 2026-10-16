@@ -7,7 +7,7 @@ categories:
 cook_time: ''
 created: '2020-01-30 11:40:55'
 difficulty: ''
-hash: b3d15618815e2c608034281e97f2b87a754bd2003d561a761ea556a87ed10cc8
+hash: 630c432165c5fe78dc7675ac48adc6855fbd9a0e83ff6cd8e98b782362636ce7
 image_url: https://assets.bonappetit.com/photos/5e2f8144fbb20b000996a9e0/16:9/w_1880,c_limit/HLY_0220_Chili.jpg
 in_trash: false
 is_pinned: false
@@ -34,32 +34,32 @@ uid: 9925D9F9-9AA0-4529-8F5E-CFEC6A77A65C-8524-0000061D574FCA7F
 - 2 dried guajillo chiles
 - 2 dried pasilla chiles
 - 2 canned chipotle chiles in adobo
-- 6 Tbsp. vegetable oil, divided
-- 3 lb. ground turkey, preferably dark meat
+- 6 tbsp vegetable oil, divided
+- 3 lb ground turkey, preferably dark meat
 - Kosher salt
 - 2 onions, finely chopped
 - 5 garlic cloves, smashed
-- 1 Tbsp. ground cumin
-- 2 tsp. dried oregano
-- 2 Tbsp. tomato paste
-- 1 12-oz. bottle hard cider or lager-style beer
+- 1 tbsp ground cumin
+- 2 tsp dried oregano
+- 2 tbsp tomato paste
+- 1 (12 oz) bottle hard cider or lager-style beer
 - 1 3" cinnamon stick
 - 2 bay leaves
-- 2 15.5-oz. cans cannellini beans, drained, rinsed
-- 3 Tbsp. pure maple syrup
+- 2 (15.5 oz) cans cannellini beans, drained, rinsed
+- 3 tbsp pure maple syrup
 - 1 cup plain Greek yogurt
-- 2 Tbsp. fresh lime juice (from 1–2 limes)
+- 2 tbsp fresh lime juice (from 1-2 limes)
 - Handful of cilantro leaves and stems, finely chopped
 - Freshly ground black pepper
 - Tostadas (for serving)
 
 ## Directions
 
-Bring broth to a simmer in a large Dutch oven or other heavy pot. Meanwhile, remove and discard stems from ancho, guajillo, and pasilla chiles. Tear flesh into a few pieces, letting seeds fall out. Transfer to a blender. Add hot broth and cover blender; let sit until chiles are softened, 25–30 minutes. Add chipotle chiles and blend on high speed until smooth, about 1 minute; set aside.
+Bring broth to a simmer in a large Dutch oven or other heavy pot. Meanwhile, remove and discard stems from ancho, guajillo, and pasilla chiles. Tear flesh into a few pieces, letting seeds fall out. Transfer to a blender. Add hot broth and cover blender; let sit until chiles are softened, 25-30 minutes. Add chipotle chiles and blend on high speed until smooth, about 1 minute; set aside.
 
-Heat 2 Tbsp. oil in same pot over medium-high. Season turkey all over with salt. Add half of turkey to pot and smash down with a wooden spoon to flatten against surface of pot and break into smaller clumps. Cook, undisturbed, until underside is browned, top side is no longer pink, and most of the liquid is cooked off, 8–10 minutes. Using a slotted spoon, transfer to a plate. Repeat with another 2 Tbsp. oil and remaining turkey.
+Heat 2 tbsp oil in same pot over medium-high. Season turkey all over with salt. Add half of turkey to pot and smash down with a wooden spoon to flatten against surface of pot and break into smaller clumps. Cook, undisturbed, until underside is browned, top side is no longer pink, and most of the liquid is cooked off, 8-10 minutes. Using a slotted spoon, transfer to a plate. Repeat with another 2 tbsp oil and remaining turkey.
 
-Heat remaining 2 Tbsp. oil in same pot over medium. Add onions and garlic; season with salt and stir to combine. Cover pot and cook, stirring occasionally, until onions are translucent, very soft, and starting to brown around the edges, 10–12 minutes. Add cumin and oregano and cook, stirring frequently, until fragrant and sizzling, about 1 minute. Add tomato paste and cook, stirring to coat vegetables, until paste darkens slightly, about 1 minute. Add cider, cinnamon, and bay leaves and scrape up any brown bits stuck to bottom of pot (if you’re not using beer, skip this step and increase water in next step to 5 cups). Bring to a lively simmer and cook, stirring occasionally, until liquid is mostly reduced, about 5 minutes.
+Heat remaining 2 tbsp oil in same pot over medium. Add onions and garlic; season with salt and stir to combine. Cover pot and cook, stirring occasionally, until onions are translucent, very soft, and starting to brown around the edges, 10-12 minutes. Add cumin and oregano and cook, stirring frequently, until fragrant and sizzling, about 1 minute. Add tomato paste and cook, stirring to coat vegetables, until paste darkens slightly, about 1 minute. Add cider, cinnamon, and bay leaves and scrape up any brown bits stuck to bottom of pot (if you’re not using beer, skip this step and increase water in next step to 5 cups). Bring to a lively simmer and cook, stirring occasionally, until liquid is mostly reduced, about 5 minutes.
 
 Add reserved chile purée, beans, and maple syrup. Add 4 cups water to blender, swish around to loosen any remaining purée, then pour into pot; season with salt. Bring to a boil, reduce heat to medium-low, and gently simmer, partially covered and stirring occasionally, until liquid is thickened and very flavorful, about 1 hour. Add turkey and simmer until flavors have melded, about 30 minutes longer.
 

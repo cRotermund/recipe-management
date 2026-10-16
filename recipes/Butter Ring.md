@@ -7,7 +7,7 @@ categories:
 cook_time: ''
 created: '2021-03-20 08:37:33'
 difficulty: ''
-hash: 8da875b0d3f445ed36384d1f478b9be700920cf24bdb09016ce158668ba1e739
+hash: 81cf1ad29d4b778f54f0ced5819a8d757c26b6614a29ab81b695cff641a3f018
 image_url: https://www.familycookbookproject.com/images/body.gif
 in_trash: false
 is_pinned: false
@@ -30,12 +30,12 @@ uid: 3DCDA179-30DE-4388-AF75-258E105755A1
 ## Ingredients
 
 - 3 cups flour
-- 2 T. sugar
-- 1 T. salt
-- 1/4 pound butter (1/2 cup)
+- 2 tbsp sugar
+- 1 tbsp salt
+- 1/4 lb butter (1/2 cup)
 - 2 yeast cakes
 - 1/4 cup scalded milk (cooled)
-- 2 T. sugar
+- 2 tbsp sugar
 - 1 cup half and half
 - 3 egg yolks, beaten
 - Icing: Confectioner's sugar and cream
@@ -43,13 +43,13 @@ uid: 3DCDA179-30DE-4388-AF75-258E105755A1
 
 ## Directions
 
-Sift and measure 3 cups flour, add 2 T. sugar, 1 T. salt and 1/2 cup butter. Mix as for pie crust.
+Sift and measure 3 cups flour, add 2 tbsp sugar, 1 tbsp salt and 1/2 cup butter. Mix as for pie crust.
 
-Crumble 2 yeast cakes, add 1/4 cup scalded milk, cooled. Add 2 T. sugar when foamy. Mix 3 beaten egg yolks with 1 cup half and half. Mix into yeast mixture. Mix well.
+Crumble 2 yeast cakes, add 1/4 cup scalded milk, cooled. Add 2 tbsp sugar when foamy. Mix 3 beaten egg yolks with 1 cup half and half. Mix into yeast mixture. Mix well.
 
 Add to flour mixture. Place in refrigerator overnight.
 
-Next morning, divide dough into three equal parts. Divide each third in half -- total of six equal parts. Roll into long strips and braid two parts together for each ring. Let rise in warm place 2 hours until light (risen). Bake at 375 degrees for 30 to 35 minutes or until lightly browned.
+Next morning, divide dough into three equal parts. Divide each third in half -- total of six equal parts. Roll into long strips and braid two parts together for each ring. Let rise in warm place 2 hours until light (risen). Bake at 375°F for 30-35 minutes or until lightly browned.
 
 While still warm, ice with confectioner's sugar icing and sprinkle with chopped nuts.
 

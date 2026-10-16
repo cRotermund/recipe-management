@@ -7,7 +7,7 @@ categories:
 cook_time: ''
 created: '2023-07-15 13:33:32'
 difficulty: ''
-hash: 7e1cd594f49ea044f633e8213e14f31ae8c935ac946009a6329c8b8b7d555d16
+hash: 3abb415231926a4191e1075801284574e88901374e2dc5c8008d3326220f862d
 image_url: https://static01.nyt.com/images/2019/07/31/dining/31food2/30COOKING-ZUCCHINI2-videoSixteenByNineJumbo1600.jpg
 in_trash: false
 is_pinned: false
@@ -29,13 +29,13 @@ uid: D1433BAA-B102-4488-9F75-FB504518984A
 
 ## Ingredients
 
-- 1 1/2 pounds small zucchini
-- 2 tablespoons olive oil
+- 1 1/2 lb small zucchini
+- 2 tbsp olive oil
 - Salt and freshly ground pepper to taste
-- 2 tablespoons fresh bread crumbs
-- 1 tablespoon butter
-- 2 tablespoons chopped shallots
-- 4 tablespoons chopped parsley
+- 2 tbsp fresh bread crumbs
+- 1 tbsp butter
+- 2 tbsp chopped shallots
+- 4 tbsp chopped parsley
 
 ## Directions
 
@@ -47,13 +47,13 @@ Add the bread crumbs and butter to the pan. When the crumbs start to brown, add 
 
 ## Nutritional Information
 
-Trans Fat: 0 grams
-Fat: 10 grams
+Trans Fat: 0 g
+Fat: 10 g
 Calories: 124
-Saturated Fat: 3 grams
-Unsaturated Fat: 7 grams
+Saturated Fat: 3 g
+Unsaturated Fat: 7 g
 Sodium: 445 milligrams
-Sugar: 5 grams
-Fiber: 2 grams
-Carbohydrate: 7 grams
-Protein: 3 grams
+Sugar: 5 g
+Fiber: 2 g
+Carbohydrate: 7 g
+Protein: 3 g

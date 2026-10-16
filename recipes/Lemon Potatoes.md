@@ -7,7 +7,7 @@ categories:
 cook_time: 1 hour
 created: '2021-04-05 13:13:21'
 difficulty: ''
-hash: 38a3d95d965a58147168f8c4e356039a4cc4eb0467634a0057a72ebda44fe940
+hash: 6e40e3e7ec74f343221d6758023f0d4aba0df5eda808797ae6fc32c0b8f8afc4
 image_url: https://i2.wp.com/smittenkitchen.com/wp-content/uploads/2021/04/lemon-potatoes-scaled.jpg?w=1920&ssl=1
 in_trash: false
 is_pinned: false
@@ -16,7 +16,7 @@ on_grocery_list: false
 prep_time: ''
 rating: 0
 scale: null
-servings: 'Servings: 4 to 6'
+servings: 'Servings: 4-6'
 source: smittenkitchen.com
 source_url: https://smittenkitchen.com/2021/04/lemon-potatoes/
 total_time: ''
@@ -29,13 +29,13 @@ uid: A9E8CF22-5607-42AD-BA1D-97C54E9D2DCC
 
 ## Ingredients
 
-- 2 pounds yukon gold (ideally) or russet potatoes (see note), peeled and quartered lengthwise into thick wedges
-- 4 tablespoons olive oil or 3 tablespoons olive oil plus 1 tablespoon unsalted butter, diced
-- 2 teaspoons fresh oregano leaves, minced or 1 teaspoon dried oregano
-- 1 teaspoon kosher salt
+- 2 lb yukon gold (ideally) or russet potatoes (see note), peeled and quartered lengthwise into thick wedges
+- 4 tbsp olive oil or 3 tbsp olive oil plus 1 tbsp unsalted butter, diced
+- 2 tsp fresh oregano leaves, minced or 1 tsp dried oregano
+- 1 tsp kosher salt
 - Finely grated zest and juice of two lemons (about 1/4 cup juice)
-- 1/2 teaspoon freshly ground black pepper
-- 3 to 4 garlic cloves, peeled and smashed
+- 1/2 tsp freshly ground black pepper
+- 3-4 garlic cloves, peeled and smashed
 - 3/4 cup broth, chicken or vegetable
 - Chopped fresh parsley or dill, plus additional lemon slices or wedges, to finish
 
@@ -43,7 +43,7 @@ uid: A9E8CF22-5607-42AD-BA1D-97C54E9D2DCC
 
 Heat oven to 475°F.
 
-In a 9×13-inch rimmed sheet pan or deeper baking dish (ideally stainless steel, coated, or stoneware, not glass*) toss potatoes with olive oil, oregano, salt, zest, and pepper evenly to coat. If using butter, dot it over. Roast for 15 to 20 minutes, until potatoes are well-browned underneath. Use a thin spatula** to turn potatoes over, sprinkle in garlic cloves, and return to the oven for another 10 to 15 minutes, until mostly browned underneath on the second side. Pour in broth and lemon juice all over and return to the oven a final time for 15 minutes, or until potatoes and garlic cloves are tender and liquids have reduced to a very thin puddle. Let rest for 5 minutes before serving (any remaining liquid will absorb), sprinkle with herbs, and serve with additional lemon wedges.
+In a 9×13-inch rimmed sheet pan or deeper baking dish (ideally stainless steel, coated, or stoneware, not glass*) toss potatoes with olive oil, oregano, salt, zest, and pepper evenly to coat. If using butter, dot it over. Roast for 15-20 minutes, until potatoes are well-browned underneath. Use a thin spatula** to turn potatoes over, sprinkle in garlic cloves, and return to the oven for another 10-15 minutes, until mostly browned underneath on the second side. Pour in broth and lemon juice all over and return to the oven a final time for 15 minutes, or until potatoes and garlic cloves are tender and liquids have reduced to a very thin puddle. Let rest for 5 minutes before serving (any remaining liquid will absorb), sprinkle with herbs, and serve with additional lemon wedges.
 
 As a few, sadly, have learned the hard way, glass can break when faced with a big temperature change, such as pouring the cold broth and lemon juice into the very hot pan near the end. If you only have glass to roast in, warm the broth before pouring it in, then, once it’s in, cold or room temperature lemon juice is fine to add next.
 

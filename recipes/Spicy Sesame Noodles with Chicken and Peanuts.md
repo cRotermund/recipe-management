@@ -7,7 +7,7 @@ categories:
 cook_time: ''
 created: '2023-07-07 18:47:28'
 difficulty: ''
-hash: 9adfc256ed8725ce0023ce880a82d1ae0081f04a96b17b0a94d22926f34ee970
+hash: 7e30952ae14c657749990fd2c636c4333c87ce037a702c1a8e599569360ae2bc
 image_url: https://static01.nyt.com/images/2019/12/18/dining/as-sesame-noodles/merlin_165769617_7f8cc187-825d-4114-ba1a-34c342286a07-videoSixteenByNineJumbo1600.jpg
 in_trash: false
 is_pinned: false
@@ -29,24 +29,24 @@ uid: 1996B7F9-1BC7-4C47-B7CF-6014ECA350BD
 
 ## Ingredients
 
-- 1 1/2 tablespoons red-pepper flakes
-- 1 1/2 tablespoons low-sodium soy sauce
-- 1 1/2 teaspoons toasted sesame oil, plus more as needed
+- 1 1/2 tbsp red-pepper flakes
+- 1 1/2 tbsp low-sodium soy sauce
+- 1 1/2 tsp toasted sesame oil, plus more as needed
 - Kosher salt and black pepper
-- 1/2 cup plus 1 tablespoon neutral oil, like grapeseed or vegetable
-- 6 tablespoons roasted, salted peanuts, coarsely chopped
-- Rind of 1/2 orange, peeled into 2- to 3-inch strips
-- 1 pound ground chicken
-- 10 to 12 ounces ramen or udon noodles, preferably fresh
-- 3 tablespoons finely chopped chives
+- 1/2 cup plus 1 tbsp neutral oil, like grapeseed or vegetable
+- 6 tbsp roasted, salted peanuts, coarsely chopped
+- Rind of 1/2 orange, peeled into 2-3 inch strips
+- 1 lb ground chicken
+- 10-12 oz ramen or udon noodles, preferably fresh
+- 3 tbsp finely chopped chives
 
 ## Directions
 
 In a medium heatproof bowl, stir together the red-pepper flakes, soy sauce and sesame oil. Set next to the stovetop.
 
-Bring a large pot of salted water to boil. Meanwhile, in a large (12-inch) skillet over medium heat, cook the 1/2 cup oil, peanuts and orange rind, shaking the pan occasionally, until the peanuts are golden and bubbling, 3 to 5 minutes. Immediately pour the contents of the skillet over the red-pepper mixture (be careful of splattering!) and set aside.
+Bring a large pot of salted water to boil. Meanwhile, in a large (12-inch) skillet over medium heat, cook the 1/2 cup oil, peanuts and orange rind, shaking the pan occasionally, until the peanuts are golden and bubbling, 3-5 minutes. Immediately pour the contents of the skillet over the red-pepper mixture (be careful of splattering!) and set aside.
 
-Meanwhile, in the same skillet, heat the remaining tablespoon oil over medium-high. Add the chicken and press it down with a wooden spoon into a thin layer. Season with salt and a generous amount of black pepper and cook, without stirring, occasionally pressing the layer of chicken down, until the bottom is browned, 5 to 7 minutes. Break the chicken up into small pieces and cook, stirring occasionally, until cooked through, 1 to 2 minutes more.
+Meanwhile, in the same skillet, heat the remaining tbsp oil over medium-high. Add the chicken and press it down with a wooden spoon into a thin layer. Season with salt and a generous amount of black pepper and cook, without stirring, occasionally pressing the layer of chicken down, until the bottom is browned, 5-7 minutes. Break the chicken up into small pieces and cook, stirring occasionally, until cooked through, 1-2 minutes more.
 
 While the chicken cooks, cook the noodles according to package directions, until chewy but not soft. Drain and toss with a bit of sesame oil.
 
@@ -54,13 +54,13 @@ Remove and discard the orange rind from the chile oil. Off the heat, add enough 
 
 ## Nutritional Information
 
-Trans Fat: 0 grams
-Fat: 19 grams
+Trans Fat: 0 g
+Fat: 19 g
 Calories: 564
-Saturated Fat: 4 grams
-Unsaturated Fat: 13 grams
+Saturated Fat: 4 g
+Unsaturated Fat: 13 g
 Sodium: 532 milligrams
-Sugar: 3 grams
-Fiber: 5 grams
-Carbohydrate: 64 grams
-Protein: 34 grams
+Sugar: 3 g
+Fiber: 5 g
+Carbohydrate: 64 g
+Protein: 34 g

@@ -4,10 +4,10 @@ categories:
 - F0D08EC3-D9EF-4F02-A381-FF3D38660DA6
 - 7CD3F8E9-6459-40C0-8802-20549A6F50EC
 - 98E4F68D-11D7-4383-90FA-22C804880E1C
-cook_time: 35 to 45 minutes
+cook_time: 35-45 minutes
 created: '2020-01-26 10:50:37'
 difficulty: ''
-hash: ae7e9ac14ce97930c15f5ac4b549a38e9cd5f2fd7bda8e0ef79e0593a04faf64
+hash: eb6e48b9e51ef56629be6e11fe53c0cc89d651b52c272207efc8149007d9ed13
 image_url: https://static01.nyt.com/images/2016/04/18/dining/18COOKING-MCBITTYBEANBURGERS2/18COOKING-MCBITTYBEANBURGERS2-articleLarge.jpg
 in_trash: false
 is_pinned: false
@@ -29,21 +29,21 @@ uid: 763B3CF9-3496-43FA-BC65-354BF063FCFC
 
 ## Ingredients
 
-- ¼ cup dried, stemless porcini mushrooms
+- 1/4 cup dried, stemless porcini mushrooms
 - 2 cups cooked or drained canned black beans
-- 1 teaspoon roughly chopped garlic
-- ¾ cup rolled oats, or more if needed
-- 2 teaspoons smoked paprika or chili powder
-- 1 teaspoon cumin
-- 1 tablespoon soy sauce
+- 1 tsp roughly chopped garlic
+- 3/4 cup rolled oats, or more if needed
+- 2 tsp smoked paprika or chili powder
+- 1 tsp cumin
+- 1 tbsp soy sauce
 - Salt and black pepper
 - Bean-cooking liquid, porcini soaking liquid or water
-- ¼ cup chopped cilantro
-- 2 tablespoons olive oil
+- 1/4 cup chopped cilantro
+- 2 tbsp olive oil
 
 ## Directions
 
-Soak the mushrooms in hot water for 5 to 10 minutes; roughly chop.
+Soak the mushrooms in hot water for 5-10 minutes; roughly chop.
 
 Put the mushrooms, beans, garlic, oats, spices and soy sauce in a food processor with a sprinkle of salt and pepper. Let the machine run until the mixture is combined, not puréed, about 30 seconds. (Or use a potato masher.) Add oats to thicken, or liquid to thin, as needed.
 

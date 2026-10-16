@@ -7,7 +7,7 @@ categories:
 cook_time: 25 mins
 created: '2020-06-04 12:02:56'
 difficulty: ''
-hash: 415836235495c6af24d0cfb556565624dff2ff911f8becc8e6d3378affb072c9
+hash: 69723e6a51a5f7f050734e1e83c89642f99b7dd1894c7d6fd4d24c4b77a7f564
 image_url: https://cdn.loveandlemons.com/wp-content/uploads/2019/09/falafel-580x862.jpg
 in_trash: false
 is_pinned: false
@@ -30,17 +30,17 @@ uid: 77222735-A524-4BD4-B2C6-CE2A9D5F6777-1089-000000B88D5C99F3
 ## Ingredients
 
 - 1 cup uncooked chickpeas, soaked 24 hours, drained, rinsed, and patted dry* (see note)
-- ½ cup chopped shallot or yellow onion
+- 1/2 cup chopped shallot or yellow onion
 - 3 garlic cloves
-- 1 teaspoon lemon zest
-- 1 teaspoon ground cumin
-- 1 teaspoon ground coriander
-- ¾ teaspoon sea salt
-- ¼ teaspoon cayenne pepper
-- ¼ teaspoon baking powder
+- 1 tsp lemon zest
+- 1 tsp ground cumin
+- 1 tsp ground coriander
+- 3/4 tsp sea salt
+- 1/4 tsp cayenne pepper
+- 1/4 tsp baking powder
 - 1 cup chopped fresh cilantro leaves and stems, patted dry
 - 1 cup chopped fresh parsley leaves and stems, patted dry
-- 1 tablespoon extra-virgin olive oil, plus more for drizzling
+- 1 tbsp extra-virgin olive oil, plus more for drizzling
 - For serving
 - Pita bread
 - Hummus
@@ -55,9 +55,9 @@ Preheat the oven to 400°F and line a large baking sheet with parchment paper.
 
 In a large food processor, place the chickpeas (they will be plump but still raw at this point), shallot, garlic, lemon zest, cumin, coriander, salt, cayenne, baking powder, cilantro, parsley, and olive oil. Pulse until well combined but not pureed. Use a spatula to scrape down the sides of the bowl as needed.
 
-Use a 2-tablespoon scoop and your hands to form the mixture into 12 to 15 thick patties (be careful not to pack them too tight or your falafel will be dense). If they're not holding together, give the mixture a few more pulses in the food processor.
+Use a 2-tbsp scoop and your hands to form the mixture into 12-15 thick patties (be careful not to pack them too tight or your falafel will be dense). If they're not holding together, give the mixture a few more pulses in the food processor.
 
-Place the patties on the baking sheet. Drizzle generously with olive oil (this is the key to making these moist and crisp since we're not frying) and bake for 14 minutes. Flip and bake for 10 to 12 minutes more or until golden brown and crisp on the outside. During the last few minutes of baking, wrap the pita in foil and warm in the oven.
+Place the patties on the baking sheet. Drizzle generously with olive oil (this is the key to making these moist and crisp since we're not frying) and bake for 14 minutes. Flip and bake for 10-12 minutes more or until golden brown and crisp on the outside. During the last few minutes of baking, wrap the pita in foil and warm in the oven.
 
 Assemble pitas with a slather of hummus, diced veggies, falafel, herbs, pickled red onions, and generous drizzles of tahini sauce.
 

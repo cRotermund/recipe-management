@@ -7,7 +7,7 @@ categories:
 cook_time: 1 hour
 created: '2020-12-20 15:32:35'
 difficulty: ''
-hash: 85429c06edab93923655a6dc3aeeb2d9714035898731a6d10f8597618efd4987
+hash: d0ba8cde9cbd510d113bf34562d46c9d7908f16e7edeb0e1f4cd60290cd44154
 image_url: https://static01.nyt.com/images/2020/12/14/dining/ss-chocolate-filled-oatmeal-cookies/merlin_178579281_446eb888-c84f-44b4-bb31-b2e5bc515cc7-articleLarge.jpg
 in_trash: false
 is_pinned: false
@@ -30,20 +30,20 @@ uid: E0CBD0F6-C066-4075-82E9-0FDE63510BC7
 ## Ingredients
 
 - FOR THE COOKIE DOUGH:
-- ½ cup/115 grams unsalted butter (1 stick), at room temperature
-- ¾ cup/165 grams dark brown sugar
-- ½ cup/100 grams granulated sugar
+- 1/2 cup/115 g unsalted butter (1 stick), at room temperature
+- 3/4 cup/165 g dark brown sugar
+- 1/2 cup/100 g granulated sugar
 - 1 large egg
-- 2 teaspoons pure vanilla extract
-- 1 ½ cups/150 grams quick-cooking or old-fashioned oats
-- 1 cup/130 grams all-purpose flour
-- ½ teaspoon baking powder
-- ½ teaspoon ground cinnamon
-- ½ teaspoon kosher salt
+- 2 tsp pure vanilla extract
+- 1 1/2 cups/150 g quick-cooking or old-fashioned oats
+- 1 cup/130 g all-purpose flour
+- 1/2 tsp baking powder
+- 1/2 tsp ground cinnamon
+- 1/2 tsp kosher salt
 - FOR THE FILLING:
-- 3 tablespoons heavy cream
-- ¾ cup/115 grams finely chopped semisweet or bittersweet chocolate
-- ½ teaspoon pure vanilla extract
+- 3 tbsp heavy cream
+- 3/4 cup/115 g finely chopped semisweet or bittersweet chocolate
+- 1/2 tsp pure vanilla extract
 - A generous pinch kosher salt
 
 ## Directions
@@ -54,10 +54,10 @@ Add the oats, flour, baking powder, cinnamon and salt, and process until combine
 
 Transfer the dough to a large piece of plastic wrap and use the sides of the plastic to shape it into a flat, 8-inch square that is about 1/2-inch thick. Chill until firm, at least 2 hours.
 
-Prepare the filling: Heat the cream in a small saucepan or in a bowl in the microwave until hot. (Be careful: Cream loves to boil over.) Add the chocolate, vanilla and salt to the hot cream and let stand 2 minutes, then stir until smooth and uniform. (If not fully smooth, carefully heat a bit longer on the stovetop, stirring until smooth, or heat in the microwave in 5-second spurts, stirring after each blast, until smooth.) Transfer the filling to a large piece of plastic wrap and use the sides of the plastic to shape it into a 4- to 6-inch square. Chill until firm, at least 2 hours.
+Prepare the filling: Heat the cream in a small saucepan or in a bowl in the microwave until hot. (Be careful: Cream loves to boil over.) Add the chocolate, vanilla and salt to the hot cream and let stand 2 minutes, then stir until smooth and uniform. (If not fully smooth, carefully heat a bit longer on the stovetop, stirring until smooth, or heat in the microwave in 5-second spurts, stirring after each blast, until smooth.) Transfer the filling to a large piece of plastic wrap and use the sides of the plastic to shape it into a 4-6 inch square. Chill until firm, at least 2 hours.
 
-Heat the oven to 375 degrees. Line two rimmed baking sheets with parchment paper.
+Heat the oven to 375°F. Line two rimmed baking sheets with parchment paper.
 
 Cut the cookie dough into 24 equal pieces. Cut the chocolate filling into 12 equal pieces. (It’s OK if the chocolate breaks a bit; just make sure you have 12 equal piles.) Flatten one piece of cookie dough slightly. Set a piece of chocolate filling into the center. Flatten another piece of cookie dough and set it on top of the chocolate filling. Use your hands to shape the cookie dough around the filling and then roll it into a neat ball. Repeat with the rest of the dough and filling.
 
-Set 6 dough balls onto one of the prepared sheets. Bake until set and relatively flat, with just-golden edges, 14 to 16 minutes. Let cool for 5 minutes on the baking sheet, then transfer to a rack to cool completely. Repeat with the remaining cookies on the other baking sheet. Serve cookies warm or at room temperature.
+Set 6 dough balls onto one of the prepared sheets. Bake until set and relatively flat, with just-golden edges, 14-16 minutes. Let cool for 5 minutes on the baking sheet, then transfer to a rack to cool completely. Repeat with the remaining cookies on the other baking sheet. Serve cookies warm or at room temperature.

@@ -7,7 +7,7 @@ categories:
 cook_time: 30 minutes
 created: '2022-01-02 15:19:19'
 difficulty: ''
-hash: 97df56409d0dac0931f95d8f623f2b0dd8314cb47713aa7bf85806d2c1da40ab
+hash: dfb85b6807f764a3a887f990ac7e3fad290e9fe0ad0cdb3d1a23ad810ea47183
 image_url: https://static01.nyt.com/images/2020/12/06/dining/yk-crispy-bean-cakes/yk-crispy-bean-cakes-articleLarge-v2.jpg
 in_trash: false
 is_pinned: false
@@ -29,19 +29,19 @@ uid: F29E3568-9847-4DF8-A609-E6C3DE9B2768
 
 ## Ingredients
 
-- 2 (15-ounce) cans beans, such as black-eyed peas, chickpeas, pinto, kidney or black beans, drained (about 3 cups)
-- ½ cup fresh cilantro leaves and tender stems, chopped, plus more for garnish
-- ¼ cup fresh dill, chopped, plus more for garnish
-- ¼ cup sliced scallions
-- 3 tablespoons cornstarch
-- 1 tablespoon harissa, plus more for serving
-- ¾ teaspoon ground coriander
-- ½ teaspoon ground cumin
-- 2 teaspoons kosher salt
-- 1 teaspoon black pepper
+- 2 (15 oz) cans beans, such as black-eyed peas, chickpeas, pinto, kidney or black beans, drained (about 3 cups)
+- 1/2 cup fresh cilantro leaves and tender stems, chopped, plus more for garnish
+- 1/4 cup fresh dill, chopped, plus more for garnish
+- 1/4 cup sliced scallions
+- 3 tbsp cornstarch
+- 1 tbsp harissa, plus more for serving
+- 3/4 tsp ground coriander
+- 1/2 tsp ground cumin
+- 2 tsp kosher salt
+- 1 tsp black pepper
 - 1 lemon, zested and cut into wedges
 - 1 egg white
-- 6 tablespoons olive oil, plus more as needed
+- 6 tbsp olive oil, plus more as needed
 - Labneh or full-fat Greek yogurt, for serving (optional)
 
 ## Directions
@@ -50,7 +50,7 @@ Place the drained beans in a large bowl and crush using a fork or your fingers u
 
 In a small bowl, whisk the egg white until foamy and fold it into the bean mixture. Cover the mixture and refrigerate to chill slightly, at least 15 minutes, before shaping and frying.
 
-Heat 3 tablespoons oil in a medium (10-inch) nonstick skillet or a well-seasoned cast-iron skillet over medium-high. Working in batches, use a 1/4-cup measure to scoop portions of the bean mixture into the oil. Using the flat surface of the cup, press each scooped portion to tightly pack and shape it into a 1/4-inch-thick patty. Cook until the bottom is golden brown, about 3 minutes. Turn using a wide spatula, and brown the other side, about 2 minutes.
+Heat 3 tbsp oil in a medium (10-inch) nonstick skillet or a well-seasoned cast-iron skillet over medium-high. Working in batches, use a 1/4-cup measure to scoop portions of the bean mixture into the oil. Using the flat surface of the cup, press each scooped portion to tightly pack and shape it into a 1/4-inch-thick patty. Cook until the bottom is golden brown, about 3 minutes. Turn using a wide spatula, and brown the other side, about 2 minutes.
 
 Remove cooked cakes from oil and drain on a plate lined with paper towels or a cooling rack on a baking sheet. Repeat until all the bean mixture is used, adding the remaining oil and removing any loose bits from the skillet as necessary. Return the bowl to the refrigerator in between batches to keep the mixture chilled.
 

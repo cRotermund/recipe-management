@@ -7,7 +7,7 @@ categories:
 cook_time: ''
 created: '2024-10-30 16:37:29'
 difficulty: ''
-hash: 4698c343149798cbe937179123dfffbe3da0804c62f52fa83bfc2a4a0c9cc378
+hash: 09881d33de23867ce7a4893cdb15f82cdd2497a2ca32a60ac5c7465b72e6e147
 image_url: https://static01.nyt.com/images/2016/01/19/dining/19COOKING_JAMBALAYA/19COOKING_JAMBALAYA-square640.jpg
 in_trash: false
 is_pinned: false
@@ -16,7 +16,7 @@ on_grocery_list: false
 prep_time: ''
 rating: 0
 scale: null
-servings: 6 to 8 servings
+servings: 6-8 servings
 source: Cooking.nytimes.com
 source_url: https://cooking.nytimes.com/recipes/6679-shrimp-jambalaya?smid=ck-recipe-android-share
 total_time: 45 min
@@ -29,18 +29,18 @@ uid: 8E5F3A8B-EC14-4965-A2A4-8DD5FD4640E7
 
 ## Ingredients
 
-- 2 pounds shrimp in the shell
-- 2 tablespoons corn, peanut or vegetable oil
-- 2 tablespoons flour
+- 2 lb shrimp in the shell
+- 2 tbsp corn, peanut or vegetable oil
+- 2 tbsp flour
 - 1 cup finely chopped onion
 - 1 cup finely chopped green onions or scallions
 - 1 cup finely chopped green pepper
 - 1 cup finely chopped celery
-- 1 tablespoon finely minced garlic
+- 1 tbsp finely minced garlic
 - 1 cup cooked ham cut into 1/2-inch cubes
 - 2 cups crushed imported tomatoes
-- 1/2 teaspoon dried thyme
-- 1 teaspoon dried crushed oregano
+- 1/2 tsp dried thyme
+- 1 tsp dried crushed oregano
 - 1 cup uncooked long-grain rice, optional, or serve the dish with Creole rice (see recipe)
 - Salt to taste if desired
 - Freshly ground pepper to taste
@@ -57,13 +57,13 @@ Add the onion, green onions, green pepper, celery and garlic. Cook, stirring, un
 
 ## Nutritional Information
 
-Trans Fat: 0 grams
-Fat: 9 grams
+Trans Fat: 0 g
+Fat: 9 g
 Calories: 318
-Saturated Fat: 2 grams
-Unsaturated Fat: 7 grams
+Saturated Fat: 2 g
+Unsaturated Fat: 7 g
 Sodium: 984 milligrams
-Sugar: 4 grams
-Fiber: 2 grams
-Carbohydrate: 28 grams
-Protein: 31 grams
+Sugar: 4 g
+Fiber: 2 g
+Carbohydrate: 28 g
+Protein: 31 g

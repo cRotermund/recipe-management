@@ -7,7 +7,7 @@ categories:
 cook_time: ''
 created: '2025-03-16 11:56:20'
 difficulty: ''
-hash: 8b1b87bb52afeefb8c655b6c93fc3bc7cf3142cc7f99eb7ef7165dfe948de52f
+hash: 6b40c392cb67def17d5d59d1bf38a7ba656ce92582448aed38d102bb8ca06022
 image_url: https://static01.nyt.com/images/2022/05/18/dining/yf-Ginger-Garlic-Shrimp-With-Coconut-Milk/yf-Ginger-Garlic-Shrimp-With-Coconut-Milk-videoSixteenByNineJumbo1600-v2.jpg
 in_trash: false
 is_pinned: false
@@ -30,14 +30,14 @@ uid: E95D4303-C50C-4414-85A9-74806AC69C9D
 ## Ingredients
 
 - 2 large garlic cloves, minced or grated
-- 1 teaspoon minced or grated ginger
-- 1 teaspoon ground turmeric
+- 1 tsp minced or grated ginger
+- 1 tsp ground turmeric
 - Kosher salt and black pepper
-- 1 tablespoon olive oil
-- 1 pound large shrimp, peeled and deveined, tails on or off
-- 2 tablespoons vegetable oil
-- 1 (14-ounce) can full-fat coconut milk
-- 1 tablespoon soy sauce
+- 1 tbsp olive oil
+- 1 lb large shrimp, peeled and deveined, tails on or off
+- 2 tbsp vegetable oil
+- 1 (14 oz) can full-fat coconut milk
+- 1 tbsp soy sauce
 - 3 packed cups baby spinach
 - 1 lime, halved
 - 1 fresno, jalapeño or serrano chile, thinly sliced
@@ -47,7 +47,7 @@ uid: E95D4303-C50C-4414-85A9-74806AC69C9D
 
 ## Directions
 
-In a mixing bowl, mix together the garlic, ginger, turmeric, 1 teaspoon salt, ½ teaspoon pepper and the olive oil. Add the shrimp and mix to coat well.
+In a mixing bowl, mix together the garlic, ginger, turmeric, 1 tsp salt, 1/2 tsp pepper and the olive oil. Add the shrimp and mix to coat well.
 
 Heat the vegetable oil in a large skillet over medium-high until shimmering. Add the shrimp in an even layer and cook, undisturbed, for 2 minutes. Pour in the coconut milk and soy sauce, stir to combine and turn the shrimp. Raise the heat to high and adjust it to maintain a simmer (avoid bringing to a boil), and cook until the liquid is slightly thickened and shrimp are almost cooked through, stirring occasionally, about 3 minutes. Stir in the spinach in batches until wilted.
 
@@ -55,13 +55,13 @@ Remove from the heat and squeeze in the juice from a lime half. Adjust seasoning
 
 ## Nutritional Information
 
-Trans Fat: 0 grams
-Fat: 32 grams
+Trans Fat: 0 g
+Fat: 32 g
 Calories: 469
-Saturated Fat: 20 grams
-Unsaturated Fat: 11 grams
+Saturated Fat: 20 g
+Unsaturated Fat: 11 g
 Sodium: 736 milligrams
-Sugar: 1 gram
-Fiber: 2 grams
-Carbohydrate: 22 grams
-Protein: 27 grams
+Sugar: 1 g
+Fiber: 2 g
+Carbohydrate: 22 g
+Protein: 27 g

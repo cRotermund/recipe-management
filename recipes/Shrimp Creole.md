@@ -7,7 +7,7 @@ categories:
 cook_time: 50 minutes
 created: '2021-01-20 08:46:02'
 difficulty: ''
-hash: 9d679f8d5c8be96ace4ed0182b869920e72c1386bc631f714b9065b7fda8824c
+hash: 83309cdb1adc5f137ad53a146bb4ac0ea55d3a39beb6ea868b2d6551d6f410a0
 image_url: https://static01.nyt.com/images/2020/12/14/dining/vl-shrimp-creole/vl-shrimp-creole-articleLarge.jpg
 in_trash: false
 is_pinned: false
@@ -30,45 +30,45 @@ uid: 6D2F371C-C3F4-4CA1-916F-EA4F340EE768-80308-00003BCBC4D25489
 ## Ingredients
 
 - FOR THE CREOLE SEASONING (OPTIONAL):
-- 1 tablespoon smoked paprika
-- 1 tablespoon chili powder
-- 1 teaspoon onion powder
-- 1 teaspoon garlic powder
-- ½ teaspoon cayenne pepper (or less, if desired)
-- ½ teaspoon fine sea salt
-- ½ teaspoon black pepper
+- 1 tbsp smoked paprika
+- 1 tbsp chili powder
+- 1 tsp onion powder
+- 1 tsp garlic powder
+- 1/2 tsp cayenne pepper (or less, if desired)
+- 1/2 tsp fine sea salt
+- 1/2 tsp black pepper
 - FOR THE SHRIMP:
-- 1 pound shrimp, peeled and deveined
-- 2 teaspoons homemade or store-bought Creole seasoning
-- ¼ cup unsalted butter (1/2 stick)
-- ⅓ cup all-purpose flour
+- 1 lb shrimp, peeled and deveined
+- 2 tsp homemade or store-bought Creole seasoning
+- 1/4 cup unsalted butter (1/2 stick)
+- 1/3 cup all-purpose flour
 - 1 medium yellow onion, finely chopped
 - 2 celery ribs, thinly sliced
 - 1 green bell pepper, seeded and finely chopped
 - 4 garlic cloves, minced
-- 1 (15-ounce) can tomato sauce (no salt added)
-- 1 to 2 teaspoons hot sauce, to taste (optional)
-- 1 teaspoon granulated sugar
-- ½ teaspoon dried thyme
-- ½ teaspoon dried oregano
-- ½ teaspoon dried basil
+- 1 (15 oz) can tomato sauce (no salt added)
+- 1-2 tsp hot sauce, to taste (optional)
+- 1 tsp granulated sugar
+- 1/2 tsp dried thyme
+- 1/2 tsp dried oregano
+- 1/2 tsp dried basil
 - 2 dried bay leaves
 - Fine sea salt and black pepper
-- ¼ cup chopped scallions
-- ¼ cup chopped flat-leaf parsley leaves and tender stems
+- 1/4 cup chopped scallions
+- 1/4 cup chopped flat-leaf parsley leaves and tender stems
 - Steamed rice, for serving
 
 ## Directions
 
 Make the optional Creole seasoning: Combine all ingredients in a small bowl and stir together. The seasoning makes about 1/4 cup; store it in a closed container in a cool, dry place.
 
-Toss the raw shrimp with 1 teaspoon Creole seasoning and set aside.
+Toss the raw shrimp with 1 tsp Creole seasoning and set aside.
 
 In a Dutch oven or large, heavy skillet, melt the butter over medium-low heat. Sprinkle the flour on top and stir constantly with a wooden spoon until a roux the color of peanut butter forms, about 10 minutes.
 
 Add the onion, celery and bell pepper, increase the heat to medium and cook until softened, stirring occasionally, about 8 minutes. Stir in the garlic and cook until fragrant, 1 minute.
 
-Stir in 1/3 cup water, then the tomato sauce, hot sauce (if using), sugar, thyme, oregano, basil, bay leaves, 1 1/2 teaspoons salt, 1/2 teaspoon black pepper and the remaining 1 teaspoon Creole seasoning. Bring to a simmer, then reduce the heat to low. Cover and simmer for 10 minutes until thickened, stirring occasionally to make sure that the bottom doesn’t burn. (If needed, add more water.)
+Stir in 1/3 cup water, then the tomato sauce, hot sauce (if using), sugar, thyme, oregano, basil, bay leaves, 1 1/2 tsp salt, 1/2 tsp black pepper and the remaining 1 tsp Creole seasoning. Bring to a simmer, then reduce the heat to low. Cover and simmer for 10 minutes until thickened, stirring occasionally to make sure that the bottom doesn’t burn. (If needed, add more water.)
 
 Once the stew has thickened, add the seasoned shrimp and simmer until opaque and cooked through, about 5 minutes, turning each piece halfway through the cooking time. Taste and adjust seasoning.
 

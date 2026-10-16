@@ -7,7 +7,7 @@ categories:
 cook_time: 30 minutes
 created: '2022-01-11 09:04:10'
 difficulty: ''
-hash: e7713f6e05b8c6eb17189ac7151186bcd94b0f9f304548118536d7c14008f602
+hash: ea52f50b7afcb07cf31f2623347bdbf915f723aed82a54c2e3edd483a62d0feb
 image_url: https://static01.nyt.com/images/2014/04/02/dining/Turkey-Burgers/Turkey-Burgers-articleLarge.jpg
 in_trash: false
 is_pinned: false
@@ -30,15 +30,15 @@ uid: 8C56E515-F9C6-4BAB-8730-2D4F82B26F3A
 ## Ingredients
 
 - FOR THE BURGERS:
-- ½ medium onion
+- 1/2 medium onion
 - 2-3 garlic cloves
-- 1 pound lean ground turkey
-- 1 tablespoon Worcestershire sauce
-- 2 tablespoons ketchup
-- ¾ teaspoon salt
+- 1 lb lean ground turkey
+- 1 tbsp Worcestershire sauce
+- 2 tbsp ketchup
+- 3/4 tsp salt
 - Freshly ground pepper to taste
 - 4 hamburger buns, preferably whole wheat
-- 1 tablespoon canola oil, or use pan spray
+- 1 tbsp canola oil, or use pan spray
 - FOR SERVING:
 - Sliced red onion
 - Sliced avocado
@@ -46,6 +46,6 @@ uid: 8C56E515-F9C6-4BAB-8730-2D4F82B26F3A
 
 ## Directions
 
-Grate the onion on the fine holes of a grater. You should have about two tablespoons of grated onion (and a lot of juice, which you can discard). Place in a bowl with the ground turkey, Worcestershire sauce, ketchup, salt and pepper. Using a fork, mix together well. Shape into four patties — the mixture will be quite moist — and press the patties into ½-inch thick rounds.
+Grate the onion on the fine holes of a grater. You should have about two tbsp of grated onion (and a lot of juice, which you can discard). Place in a bowl with the ground turkey, Worcestershire sauce, ketchup, salt and pepper. Using a fork, mix together well. Shape into four patties — the mixture will be quite moist — and press the patties into 1/2-inch thick rounds.
 
 Heat the canola oil in a nonstick griddle or large nonstick frying pan over medium-high heat. (Alternately, spray the griddle or pan with pan spray.) When you can feel the heat while holding your hand just above griddle or pan, cook the patties for five minutes on each side. Serve on buns, with the condiments of your choice.

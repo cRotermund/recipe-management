@@ -7,7 +7,7 @@ categories:
 cook_time: 20 minutes
 created: '2020-08-15 11:06:58'
 difficulty: ''
-hash: be70c536d8fc1208fa96df0af7a74e30029db18fca5a69015880699d2687098c
+hash: 2353cbcb76c3e7f7eb7b7fb1ea9644d8ae3ec7f36d3c91aad54b607d3e67452f
 image_url: https://static01.nyt.com/images/2015/08/14/dining/14CHICKENBREASTS/14CHICKENBREASTS-articleLarge.jpg
 in_trash: false
 is_pinned: false
@@ -29,19 +29,19 @@ uid: 3AE4C381-90C9-486E-BB80-A109E4285079-87110-00002C4BFADD5F81
 
 ## Ingredients
 
-- 4 boneless, skinless chicken breasts (about 2 1/4 pounds)
+- 4 boneless, skinless chicken breasts (about 2 1/4 lb)
 - Salt and freshly ground white pepper to taste
-- 2 tablespoons olive oil
-- 2 tablespoons butter
-- 6 tablespoons finely chopped shallots
-- 2 teaspoons finely chopped garlic
-- 4 teaspoons finely chopped fresh tarragon, or 2 teaspoons dried tarragon
-- 8 ripe plum tomatoes cut into small cubes (or one 28-ounce can of tomatoes, drained and chopped)
-- ¼ cup red wine vinegar
-- ¼ cup drained capers
+- 2 tbsp olive oil
+- 2 tbsp butter
+- 6 tbsp finely chopped shallots
+- 2 tsp finely chopped garlic
+- 4 tsp finely chopped fresh tarragon, or 2 tsp dried tarragon
+- 8 ripe plum tomatoes cut into small cubes (or one (28 oz) can of tomatoes, drained and chopped)
+- 1/4 cup red wine vinegar
+- 1/4 cup drained capers
 - 1 cup dry white wine
-- 2 tablespoons tomato paste
-- ¼ cup chopped fresh parsley leaves
+- 2 tbsp tomato paste
+- 1/4 cup chopped fresh parsley leaves
 
 ## Directions
 

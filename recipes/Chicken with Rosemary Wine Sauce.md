@@ -7,7 +7,7 @@ categories:
 cook_time: 20 minutes
 created: '2020-01-26 10:49:13'
 difficulty: ''
-hash: 7af6c16b91bfa437d1e9dc34c3ac4eeba8e66c949c8db4a6f067140e74bdd842
+hash: fe5ae7ba491d880ecfa001d37e766aee2ac3b7167c84a86b76414261bc7b0c04
 image_url: http://cdn1.girlgonegourmet.com/wp-content/uploads/2015/01/Chicken-with-a-Rosemary-Butter-Sauce-1-260x195.jpg
 in_trash: false
 is_pinned: false
@@ -33,13 +33,13 @@ uid: 39522CD9-22A8-4E46-91DD-D1AA0E9F472A
 - 4 bone-in, skin-on chicken thighs, patted dry and seasoned with salt and pepper
 - 1 small onion sliced thin
 - 2 garlic cloves, mashed
-- 1 tablespoon butter
-- 1 tablespoon flour
+- 1 tbsp butter
+- 1 tbsp flour
 - 3/4 cup chicken stock
 - 3/4 cup white wine (I used Chardonnay)
 - 1 large or 2 small sprigs of fresh rosemary
 - 3 sprigs fresh thyme
-- 1 teaspoon fresh parsley, chopped (optional)
+- 1 tsp fresh parsley, chopped (optional)
 
 ## Directions
 
@@ -51,10 +51,10 @@ Toss the onions in the pan and cook for about 2-3 minutes just until they start 
 
 Pour in the chicken stock and white wine, turn the heat up to medium-high and scrape the bottom of the pan to loosen all the brown bits. Give it all a good stir and bring it to a boil. Once at a boil, turn down the heat to medium and add the herbs. Add the chicken thighs back in. The liquid should come barely 1/2 way up the chicken, add a little more wine or chicken stock if needed.
 
-Cover and let it simmer for at least 20 minutes or until the chicken cooked through. I recommend using a thermometer to check – it should read 165 degrees when inserted near the bone of the largest piece.
+Cover and let it simmer for at least 20 minutes or until the chicken cooked through. I recommend using a thermometer to check – it should read 165°F when inserted near the bone of the largest piece.
 
 Remove the garlic and herb stems. At this point, you could serve the sauce as is, but I like to strain it to remove the solids. Do this using a fine mesh strainer over a smaller bowl or pot. Press on the solids to release all of the liquid. Return the chicken back to the pan and pour the sauce in around it. Garnish with chopped parsley.
 
 ## Nutritional Information
 
-Serving Size: 1/4 of recipe Calories: 479 Sugar: 2.4g Sodium: 210.3mg Fat: 35.1g Saturated Fat: 11g Unsaturated Fat: 20.9g Trans Fat: 0.1g Carbohydrates: 8.3g Fiber: 1g Protein: 30.1g Cholesterol: 179mg
+Serving Size: 1/4 of recipe Calories: 479 Sugar: 2.4 g Sodium: 210.3 mg Fat: 35.1 g Saturated Fat: 11 g Unsaturated Fat: 20.9 g Trans Fat: 0.1 g Carbohydrates: 8.3 g Fiber: 1 g Protein: 30.1 g Cholesterol: 179 mg

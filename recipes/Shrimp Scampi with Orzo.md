@@ -7,7 +7,7 @@ categories:
 cook_time: 25 minutes
 created: '2021-10-24 21:37:48'
 difficulty: ''
-hash: b715b691de49da1004add16d135c22aeb22a2477e282872f77a59b3eaa89e245
+hash: d666f9ba853175ff0da5c990063ec1a355ccb0fbaba8377a6bdcf8ff3847b51f
 image_url: https://static01.nyt.com/images/2021/03/28/dining/11as-shrimp-scampi-with-orzo/11as-shrimp-scampi-with-orzo-articleLarge-v2.jpg
 in_trash: false
 is_pinned: false
@@ -29,24 +29,24 @@ uid: 01AC1237-4BBA-45C8-98B6-384678D4531A
 
 ## Ingredients
 
-- 1 pound large shrimp, peeled and deveined
-- 3 tablespoons extra-virgin olive oil
-- 1 tablespoon lemon zest, plus 1 tablespoon juice (from 1 lemon)
-- ½ teaspoon red-pepper flakes
+- 1 lb large shrimp, peeled and deveined
+- 3 tbsp extra-virgin olive oil
+- 1 tbsp lemon zest, plus 1 tbsp juice (from 1 lemon)
+- 1/2 tsp red-pepper flakes
 - Kosher salt and black pepper
 - 4 garlic cloves, minced
-- 2 tablespoons unsalted butter
+- 2 tbsp unsalted butter
 - 1 cup orzo
-- ⅓ cup dry white wine
+- 1/3 cup dry white wine
 - 2 cups boiling water, seafood stock or chicken stock
-- 3 tablespoons finely chopped parsley
+- 3 tbsp finely chopped parsley
 
 ## Directions
 
-In a medium bowl, stir together shrimp, 1 tablespoon olive oil, lemon zest, red-pepper flakes, 1/2 teaspoon salt, 1/4 teaspoon pepper and half the garlic. Set aside to marinate. (This step can be done up to 1 hour in advance.)
+In a medium bowl, stir together shrimp, 1 tbsp olive oil, lemon zest, red-pepper flakes, 1/2 tsp salt, 1/4 tsp pepper and half the garlic. Set aside to marinate. (This step can be done up to 1 hour in advance.)
 
-Add butter, remaining olive oil and remaining garlic to a medium skillet set over medium heat. When the butter starts to bubble, add the orzo and 1/2 teaspoon salt and cook, stirring often, until the orzo is toasted, about 2 minutes, adjusting the heat as necessary to prevent the garlic from burning. Carefully add the wine — it will bubble — and stir until absorbed, about 1 minute. Stir in water, reduce heat to low, cover, and cook until orzo is al dente, about 12 minutes.
+Add butter, remaining olive oil and remaining garlic to a medium skillet set over medium heat. When the butter starts to bubble, add the orzo and 1/2 tsp salt and cook, stirring often, until the orzo is toasted, about 2 minutes, adjusting the heat as necessary to prevent the garlic from burning. Carefully add the wine — it will bubble — and stir until absorbed, about 1 minute. Stir in water, reduce heat to low, cover, and cook until orzo is al dente, about 12 minutes.
 
-Add the shrimp in a snug, even layer on top of the orzo, cover, and cook until all the shrimp is pink and cooked through, 2 to 4 minutes. Remove from heat and let sit, covered, 2 minutes.
+Add the shrimp in a snug, even layer on top of the orzo, cover, and cook until all the shrimp is pink and cooked through, 2-4 minutes. Remove from heat and let sit, covered, 2 minutes.
 
 Sprinkle with parsley and lemon juice, season with salt and pepper, and serve immediately.

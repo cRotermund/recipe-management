@@ -7,7 +7,7 @@ categories:
 cook_time: 30 minutes
 created: '2021-03-02 08:18:15'
 difficulty: ''
-hash: b14096166220041ecad340a7158a792e7daf2f2a97e074c14b959b891dc7c5de
+hash: 7ad84e624f7bdda2a6e998b2f7e2e3cc82292309769b5e30c2759c765b856efc
 image_url: https://static01.nyt.com/images/2017/01/17/dining/17COOKING-CURRIEDSHRIMP1/17COOKING-CURRIEDSHRIMP1-articleLarge.jpg
 in_trash: false
 is_pinned: false
@@ -29,17 +29,17 @@ uid: 04DA4C34-8725-4852-9EAD-3443AC6D47C8-9653-000002C1B7E2EB87
 
 ## Ingredients
 
-- 2 tablespoons peanut or vegetable oil
+- 2 tbsp peanut or vegetable oil
 - 1 cup minced onion
-- 1 tablespoon minced garlic
-- 1 tablespoon minced galangal or ginger
-- 1 teaspoon minced hot chili, or crushed red pepper flakes, or to taste
-- 1 tablespoon curry powder, or to taste
+- 1 tbsp minced garlic
+- 1 tbsp minced galangal or ginger
+- 1 tsp minced hot chili, or crushed red pepper flakes, or to taste
+- 1 tbsp curry powder, or to taste
 - 1 cup fresh or canned coconut milk
-- 1 ½ to 2 pounds medium-to-large shrimp, peeled
+- 1 1/2-2 lb medium-to-large shrimp, peeled
 - Salt and freshly ground black pepper
-- 2 tablespoons nam pla (fish sauce), or to taste
-- ¼ cup minced cilantro or mint leaves
+- 2 tbsp nam pla (fish sauce), or to taste
+- 1/4 cup minced cilantro or mint leaves
 
 ## Directions
 
@@ -51,13 +51,13 @@ Add half the nam pla, stir, then taste and add the rest if necessary. Garnish wi
 
 ## Nutritional Information
 
-Trans Fat: 0 grams
-Fat: 21 grams
+Trans Fat: 0 g
+Fat: 21 g
 Calories: 348
-Saturated Fat: 12 grams
-Unsaturated Fat: 8 grams
+Saturated Fat: 12 g
+Unsaturated Fat: 8 g
 Sodium: 1856 milligrams
-Sugar: 2 grams
-Fiber: 2 grams
-Carbohydrate: 10 grams
-Protein: 30 grams
+Sugar: 2 g
+Fiber: 2 g
+Carbohydrate: 10 g
+Protein: 30 g

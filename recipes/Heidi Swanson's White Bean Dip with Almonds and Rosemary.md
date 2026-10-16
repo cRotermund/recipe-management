@@ -7,7 +7,7 @@ categories:
 cook_time: ''
 created: '2020-03-15 16:22:39'
 difficulty: ''
-hash: 22150460df5e7fdd182545e8484d210643076139a19f12529a17f2508a1883ae
+hash: 5489eaf76c97c29d693dbb541ffdb06dd456ac360bfd2b1b0fcd94cd194e3e41
 image_url: http://3.bp.blogspot.com/-olWxY1Hoqdo/UCbX2k1YDCI/AAAAAAAAJSA/Ly5_OivkLyI/s640/IMG_4532.JPG
 in_trash: false
 is_pinned: false
@@ -30,20 +30,20 @@ uid: 33B4BBEF-FFDB-41E1-9FEE-95798612A01E-4240-00000175C9036C21
 ## Ingredients
 
 - 1/4 cup extra-virgin olive oil
-- 1 teaspoon chopped fresh rosemary
-- 1 clove garlic, finely chopped
-- 1 15 oz can white beans, rinsed and drained (I used Cannellini)
+- 1 tsp chopped fresh rosemary
+- 1 garlic clove, finely chopped
+- 1 (15 oz) can white beans, rinsed and drained (I used Cannellini)
 - 3/4 cup sliced almonds, toasted
 - Fine-grain sea salt
-- 1 tablespoon fresh lemon juice, plus more if needed (I used about 1 teaspoon more)
-- 1/4 to 3/4 cup hot water
+- 1 tbsp fresh lemon juice, plus more if needed (I used about 1 tsp more)
+- 1/4-3/4 cup hot water
 - Grated zest of 1/2 lemon
 
 ## Directions
 
-In a small saucepan, combine the olive oil, rosemary and garlic. Over medium-low heat, slowly warm the mixture until the oil just barely starts to sizzle, 1 to 2 minutes. Remove from the heat and set aside for 10 minutes. Pour the oil through a strainer and discard the garlic and rosemary bits.
+In a small saucepan, combine the olive oil, rosemary and garlic. Over medium-low heat, slowly warm the mixture until the oil just barely starts to sizzle, 1-2 minutes. Remove from the heat and set aside for 10 minutes. Pour the oil through a strainer and discard the garlic and rosemary bits.
 
-In a food processor, combine the beans, two-thirds of the almonds, a scant ½ teaspoon salt, the lemon juice, and two-thirds of the rosemary oil. Pulse a couple of times to bring the ingredients together. Add the water 1/4 cup at a time, pulsing all the while, until the mixture is the consistency of thick frosting. You might not need all the water; it really depends on how starchy your beans are and how thick you’d like the spread to be. Taste and adjust with more lemon juice or salt, if needed.
+In a food processor, combine the beans, two-thirds of the almonds, a scant 1/2 tsp salt, the lemon juice, and two-thirds of the rosemary oil. Pulse a couple of times to bring the ingredients together. Add the water 1/4 cup at a time, pulsing all the while, until the mixture is the consistency of thick frosting. You might not need all the water; it really depends on how starchy your beans are and how thick you’d like the spread to be. Taste and adjust with more lemon juice or salt, if needed.
 
 Scoop the spread into a serving dish and make a few indentations in the top. Sprinkle with the lemon zest and the remaining almonds and drizzle with the remaining rosemary oil. Serve with pita chips.
 

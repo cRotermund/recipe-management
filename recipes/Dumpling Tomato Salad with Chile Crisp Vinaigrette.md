@@ -7,7 +7,7 @@ categories:
 cook_time: ''
 created: '2023-07-15 13:34:45'
 difficulty: ''
-hash: 2c530295419a61d92d9a06bba6f07e630e4a163b67fd49a94f2b82af48b4a513
+hash: da730f5ec951d7bda13666fc87e223fb12dc1d6625d401827aa5d094d44e1e94
 image_url: https://static01.nyt.com/images/2023/06/13/multimedia/as-dumpling-salad-lvtc/as-dumpling-salad-lvtc-mediumSquareAt3X.jpg
 in_trash: false
 is_pinned: false
@@ -29,27 +29,27 @@ uid: 12658B51-F120-4A0B-A933-C7670E263842
 
 ## Ingredients
 
-- 2 1/2 pounds ripe tomatoes (any variety), cut into roughly 1- to 2-inch pieces (at room temperature)
+- 2 1/2 lb ripe tomatoes (any variety), cut into roughly 1-2 inch pieces (at room temperature)
 - 1 garlic clove, grated
 - 1/2 cup basil leaves, torn
 - Kosher salt (such as Diamond Crystal brand) and black pepper
-- 1 pound frozen potsticker dumplings (not thawed)
+- 1 lb frozen potsticker dumplings (not thawed)
 - Neutral oil, such as canola or vegetable
-- 1 to 2 tablespoons store-bought crispy fried shallots (optional)
-- 3 tablespoons chile crisp (or chile oil)
-- 2 tablespoons rice vinegar
-- 1 tablespoon soy sauce, or more to taste
+- 1-2 tbsp store-bought crispy fried shallots (optional)
+- 3 tbsp chile crisp (or chile oil)
+- 2 tbsp rice vinegar
+- 1 tbsp soy sauce, or more to taste
 
 ## Directions
 
-Place the tomatoes on a large serving plate or in a bowl. Add the garlic, half the basil leaves, 1 teaspoon of salt and a big pinch of black pepper. Toss to combine and set aside.
+Place the tomatoes on a large serving plate or in a bowl. Add the garlic, half the basil leaves, 1 tsp of salt and a big pinch of black pepper. Toss to combine and set aside.
 
-To make the vinaigrette, combine the chile crisp, rice vinegar and soy sauce and whisk to combine. Taste and if it needs more saltiness, add ½ teaspoon more soy sauce.
+To make the vinaigrette, combine the chile crisp, rice vinegar and soy sauce and whisk to combine. Taste and if it needs more saltiness, add 1/2 tsp more soy sauce.
 
-Heat a large (12-inch) nonstick or well-seasoned cast-iron skillet over medium high for 1 to 2 minutes until very hot. Add 1 to 2 tablespoons of oil and, working in batches, add the dumplings, flat-side down, and cook until the bottoms of the dumplings are lightly browned, 1 to 2 minutes. Immediately add about ¼ cup of water to the pan, just enough to cover the base of the dumplings, then cover and cook until the water has evaporated, 3 to 4 minutes. (If your dumplings contain meat, cook for an extra 1 to 2 minutes, or according to packet instructions). Transfer the cooked dumplings to a plate and continue cooking the remaining dumplings. (If you prefer to steam the dumplings, see Tip.)
+Heat a large (12-inch) nonstick or well-seasoned cast-iron skillet over medium high for 1-2 minutes until very hot. Add 1-2 tbsp of oil and, working in batches, add the dumplings, flat-side down, and cook until the bottoms of the dumplings are lightly browned, 1-2 minutes. Immediately add about 1/4 cup of water to the pan, just enough to cover the base of the dumplings, then cover and cook until the water has evaporated, 3-4 minutes. (If your dumplings contain meat, cook for an extra 1-2 minutes, or according to packet instructions). Transfer the cooked dumplings to a plate and continue cooking the remaining dumplings. (If you prefer to steam the dumplings, see Tip.)
 
 To serve, place the warm dumplings over the tomato salad and drizzle with the chile crisp vinaigrette. Toss very gently. Top with the crispy fried shallots (if using) and the remaining basil leaves. Serve either while the dumplings are still warm or at room temperature.
 
 ## Notes
 
-To steam, arrange the dumplings in a steaming basket lined with baking paper or cabbage leaves, place over a pan of boiling water and steam for 10 to 15 minutes.
+To steam, arrange the dumplings in a steaming basket lined with baking paper or cabbage leaves, place over a pan of boiling water and steam for 10-15 minutes.

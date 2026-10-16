@@ -7,7 +7,7 @@ categories:
 cook_time: 0 hours
 created: '2022-07-22 12:40:56'
 difficulty: ''
-hash: c9e5609bc6de62040a377aeaa870655b00311c9fd33a21342af95781a187dfa7
+hash: 53e60432b74f5c693a75ea3b5eccbd8e569d6e050d524b33693063bd90b1f9e7
 image_url: https://hips.hearstapps.com/del.h-cdn.co/assets/15/23/980x882/gallery-1433538274-blueberry-hand-pies.jpg?resize=480:*
 in_trash: false
 is_pinned: false
@@ -30,20 +30,20 @@ uid: D7CC1EB5-BD2F-4CFC-9886-2B61401D7904
 ## Ingredients
 
 - DOUGH
-- 2 c. all-purpose flour
-- 1/2 c. confectioners' sugar
-- 1/2 tsp. fine sea salt
+- 2 cups all-purpose flour
+- 1/2 cup confectioners' sugar
+- 1/2 tsp fine sea salt
 - 1 1/2 sticks cold unsalted butter, cubed
 - 1 lg. egg yolk
-- 1/4 c. ice water
+- 1/4 cup ice water
 - FILLING
-- 2 c. blueberries
-- 1/3 c. granulate sugar
-- 2 tbsp. all-purpose flour
-- 2 tbsp. fresh lemon juice
-- 1/4 tsp. fine sea salt
-- 1/4 tsp. ground cinnamon
-- 1 lg. egg beaten with 1 tsp. water
+- 2 cups blueberries
+- 1/3 cup granulate sugar
+- 2 tbsp all-purpose flour
+- 2 tbsp fresh lemon juice
+- 1/4 tsp fine sea salt
+- 1/4 tsp ground cinnamon
+- 1 lg. egg beaten with 1 tsp water
 - turbinado sugar, for sprinkling
 
 ## Directions
@@ -52,6 +52,6 @@ Make the dough: in a large bowl, whisk the flour with the confectioners’ sugar
 
 Meanwhile, make the filling: in a medium bowl, toss the blueberries with the granulated sugar, flour, lemon juice, salt and cinnamon.
 
-On a lightly floured work surface, roll out 1 disk of dough to a 16-by-9-inch rectangle, about 1/8 inch thick. Using a 4-inch plate as a guide, cut out 8 rounds from the dough. Spoon 2 tablespoons of the filling into the center of a dough round and fold the dough over to form a half-moon. Press the edge to seal, then crimp decoratively. Transfer the hand pie to a parchment paper–lined baking sheet. Repeat with all of the remaining dough and filling; space the pies 1 inch apart. Refrigerate the hand pies until well chilled, about 30 minutes.
+On a lightly floured work surface, roll out 1 disk of dough to a 16-by-9-inch rectangle, about 1/8 inch thick. Using a 4-inch plate as a guide, cut out 8 rounds from the dough. Spoon 2 tbsp of the filling into the center of a dough round and fold the dough over to form a half-moon. Press the edge to seal, then crimp decoratively. Transfer the hand pie to a parchment paper–lined baking sheet. Repeat with all of the remaining dough and filling; space the pies 1 inch apart. Refrigerate the hand pies until well chilled, about 30 minutes.
 
-Preheat the oven to 400 degrees F. Brush the hand pies with the beaten egg and sprinkle with turbinado sugar. Bake for 15 to 18 minutes, until golden; some of the juices will spill out. Let cool slightly. Serve warm or at room temperature.
+Preheat the oven to 400°F. Brush the hand pies with the beaten egg and sprinkle with turbinado sugar. Bake for 15-18 minutes, until golden; some of the juices will spill out. Let cool slightly. Serve warm or at room temperature.

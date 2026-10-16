@@ -7,7 +7,7 @@ categories:
 cook_time: ''
 created: '2020-05-31 14:32:40'
 difficulty: ''
-hash: 693099eef43608b5003b015c01c5288a6ddd89761bcf262a8997615722cdaf97
+hash: 8a58b8828abc15a328b4c810491d8bb07c426ac6fb9482a7983d07e0917aabc0
 image_url: https://assets.bonappetit.com/photos/5dfbe32041dabe000901c91e/16:9/w_1880,c_limit/Lil-Debs-Cabbage-Salad.jpg
 in_trash: false
 is_pinned: false
@@ -33,11 +33,11 @@ uid: 9C9EBD02-77EF-416C-BB3B-041FB4238A62-8154-000003C5D3378F77
 - 1 habanero chile, seeds removed
 - 4 garlic cloves
 - Zest of 2 limes
-- ½ cup fresh lime juice
-- ¼ cup vegetable oil
+- 1/2 cup fresh lime juice
+- 1/4 cup vegetable oil
 - Kosher salt
 - 1 small head of Napa cabbage, thinly sliced
-- 2 large watermelon radishes or one 6" piece daikon (Japanese radish), peeled, cut into ⅛"-thick matchsticks
+- 2 large watermelon radishes or one 6" piece daikon (Japanese radish), peeled, cut into 1/8"-thick matchsticks
 - Thinly sliced mint and thinly sliced red onion (for serving)
 
 ## Directions

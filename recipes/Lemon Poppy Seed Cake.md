@@ -7,7 +7,7 @@ categories:
 cook_time: ''
 created: '2020-02-23 09:58:39'
 difficulty: ''
-hash: 49eafdf43da046328064705f2557f9ca801500e45b9d336460a6ceb770e6f846
+hash: fce8b15036b73975e34b66a6321fb33833192550348410ccb6557b10dd8d6646
 image_url: https://smittenkitchendotcom.files.wordpress.com/2015/05/poppy-seed-lemon-cake1.jpg?w=300
 in_trash: false
 is_pinned: false
@@ -32,12 +32,12 @@ uid: E428FCB9-9A2B-49FA-863A-31DBB29BB74D-30191-0000166E6422AE4A
 - 2/3 cup sugar
 - 8 large egg yolks
 - 1 large whole egg
-- 1 1/2 tablespoons finely grated lemon zest (from 2 lemons)
+- 1 1/2 tbsp finely grated lemon zest (from 2 lemons)
 - 1/2 cup all-purpose flour
 - 1/2 cup cornstarch
 - Pinch of salt (edited to add this)
-- 2 sticks (1/2 pound) unsalted butter, melted and cooled a bit
-- 1/2 cup poppy seeds (I got this from one 3-ounce spice bottle)
+- 2 sticks (1/2 lb) unsalted butter, melted and cooled a bit
+- 1/2 cup poppy seeds (I got this from one (3 oz) spice bottle)
 
 ## Directions
 

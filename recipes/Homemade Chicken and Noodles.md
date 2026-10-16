@@ -7,7 +7,7 @@ categories:
 cook_time: 0 hours
 created: '2022-09-25 11:43:17'
 difficulty: ''
-hash: 2b26b0a659e697921ee683321d612fad35e3b2a0b26beeacbc95c38ace44b992
+hash: 9d05adc7efb3584dc2436e2296b4bedbc13440dba41a950e19e6ecaea30628ac
 image_url: https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/homemade-chicken-and-noodles-1597679333.jpg?crop=0.432xw:0.899xh;0.323xw,0.101xh&resize=640:*
 in_trash: false
 is_pinned: false
@@ -33,13 +33,13 @@ uid: 30D231F3-2F52-449B-B2A3-9EC8085E9218
 - 2 whole carrots, diced
 - 2 stalks celery, diced
 - 1/2 whole medium onion, diced (optional)
-- 1 tsp. salt
-- 1/2 tsp. turmeric
-- 1/4 tsp. white pepper (more to taste)
-- 1/4 tsp. ground thyme
-- 2 tsp. parsley flakes
-- 16 oz. frozen "homemade" egg noodles
-- 3 tbsp. all-purpose flour
+- 1 tsp salt
+- 1/2 tsp turmeric
+- 1/4 tsp white pepper (more to taste)
+- 1/4 tsp ground thyme
+- 2 tsp parsley flakes
+- 16 oz frozen "homemade" egg noodles
+- 3 tbsp all-purpose flour
 
 ## Directions
 
@@ -51,6 +51,6 @@ Remove bones from broth with a slotted spoon, making sure to get any small bones
 
 Add the carrots and celery (and onions, if using) to the pot, followed by the herbs and spices. Stir to combine and simmer for ten minutes to meld flavors.
 
-Increase heat and add frozen egg noodles and chicken. Cook for 8 to 10 minutes.
+Increase heat and add frozen egg noodles and chicken. Cook for 8-10 minutes.
 
 Mix flour and a little water. Stir until smooth. Pour into soup, stir to combine, and simmer for another 5 minutes, or until broth thickens a bit. Test and adjust seasonings as needed.

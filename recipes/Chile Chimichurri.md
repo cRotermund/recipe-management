@@ -4,7 +4,7 @@ categories:
 cook_time: ''
 created: '2023-07-02 15:25:59'
 difficulty: ''
-hash: bd6b3c670c6cc25738a28e1222012cfcf258bd1b0e7232201cd95d0cf2fdf6f2
+hash: 696aa526fb723c5b5806f2d4a5111ae8acaec5b31e8219707a16a4dd4d921dec
 image_url: https://static01.nyt.com/images/2015/08/16/magazine/16eat4_chimichurri/16eat4_chimichurri-superJumbo.jpg
 in_trash: false
 is_pinned: false
@@ -27,12 +27,12 @@ uid: 06E336C4-825A-46CB-BF1A-6E0A09B84878
 ## Ingredients
 
 - 2 cups fresh parsley leaves
-- 2 tablespoons chopped fresh oregano leaves
+- 2 tbsp chopped fresh oregano leaves
 - 1 medium jalapeño chile (more or less to taste), trimmed and halved
-- 1 large clove garlic, or more to taste
+- 1 large garlic clove, or more to taste
 - 1/2 cup extra-virgin olive oil, or more if you’d like
 - Salt
-- 2 tablespoons sherry or red-wine vinegar
+- 2 tbsp sherry or red-wine vinegar
 
 ## Directions
 
@@ -47,13 +47,13 @@ red wine vinegar is gross... try a different acid and dial it back to no more th
 
 ## Nutritional Information
 
-Trans Fat: 0 grams
-Fat: 27 grams
+Trans Fat: 0 g
+Fat: 27 g
 Calories: 258
-Saturated Fat: 4 grams
-Unsaturated Fat: 23 grams
+Saturated Fat: 4 g
+Unsaturated Fat: 23 g
 Sodium: 164 milligrams
-Sugar: 0 grams
-Fiber: 2 grams
-Carbohydrate: 4 grams
-Protein: 1 gram
+Sugar: 0 g
+Fiber: 2 g
+Carbohydrate: 4 g
+Protein: 1 g

@@ -4,7 +4,7 @@ categories:
 cook_time: 0 mins
 created: '2021-12-12 08:53:35'
 difficulty: ''
-hash: 13f508b19afe8b5f66547711a7dd08602fd23d6c28c928e0dbe0eb3ceaf0df32
+hash: f99c49074f0e99bedbc661113c170e9d72e23b6889732169f8e0d3adecc6879b
 image_url: https://www.thespruceeats.com/thmb/AaOwif4kW88t5UgtelCRYvexiwQ=/450x0/filters:no_upscale():max_bytes(150000):strip_icc()/easy-almond-paste-521145-hero-01-0b4463f6498c43758a27d8f605a16cbf.jpg
 in_trash: false
 is_pinned: false
@@ -29,7 +29,7 @@ uid: C19898BC-A40B-49D4-B7CC-90E13FECDB84
 - 1 1/2 cups whole blanched almonds
 - 1 1/2 cups sifted powdered sugar, divided
 - 1 large egg white, lightly beaten, at room temperature
-- 1/2 teaspoon almond extract, optional
+- 1/2 tsp almond extract, optional
 
 ## Directions
 
@@ -54,22 +54,22 @@ Enjoy.
 ## Nutritional Information
 
 (per serving)
-122 Calories 7g Fat 13g Carbs 3g Protein
+122 Calories 7 g Fat 13 g Carbs 3 g Protein
 Nutrition Facts
 Servings: 16
 Amount per serving
 Calories 122
 % Daily Value*
-Total Fat 7g 9%
-Saturated Fat 1g 3%
-Cholesterol 12mg 4%
-Sodium 69mg 3%
-Total Carbohydrate 13g 5%
-Dietary Fiber 1g 5%
-Total Sugars 11g
-Protein 3g
-Vitamin C 0mg 0%
-Calcium 37mg 3%
-Iron 1mg 3%
-Potassium 97mg 2%
+Total Fat 7 g 9%
+Saturated Fat 1 g 3%
+Cholesterol 12 mg 4%
+Sodium 69 mg 3%
+Total Carbohydrate 13 g 5%
+Dietary Fiber 1 g 5%
+Total Sugars 11 g
+Protein 3 g
+Vitamin C 0 mg 0%
+Calcium 37 mg 3%
+Iron 1 mg 3%
+Potassium 97 mg 2%
 *The % Daily Value (DV) tells you how much a nutrient in a food serving contributes to a daily diet. 2,000 calories a day is used for general nutrition advice.

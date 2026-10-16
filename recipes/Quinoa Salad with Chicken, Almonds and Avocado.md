@@ -7,7 +7,7 @@ categories:
 cook_time: ''
 created: '2024-03-31 10:34:02'
 difficulty: ''
-hash: 0a089330f5da9afc5d466a46e60d608ef0e89ed30418dcb84b713fe3f8d829ee
+hash: ad4484eaaae34cce759dde179c58f12cfb9fbaeaa26ef08345838be28928d17d
 image_url: https://static01.nyt.com/images/2018/08/17/dining/quinoa-salad-chicken/quinoa-salad-chicken-square640.jpg
 in_trash: false
 is_pinned: false
@@ -16,7 +16,7 @@ on_grocery_list: false
 prep_time: ''
 rating: 0
 scale: null
-servings: 4 to 6 servings
+servings: 4-6 servings
 source: cooking.nytimes.com
 source_url: https://cooking.nytimes.com/recipes/1019495-quinoa-salad-with-chicken-almonds-and-avocado?ds_c=&ds_c=71700000052595478&site=google&network=g&campaign_id=1400169272&gad_source=1&gbraid=0AAAAADwd30j-BsR0nxS0PgEuSKmr3OjIx&gclid=EAIaIQobChMIqpCJktyehQMVlHJHAR3E5gxzEAAYASAAEgKRGvD_BwE&gclsrc=aw.ds
 total_time: 20 min
@@ -29,10 +29,10 @@ uid: 76CBFA52-3F96-4706-807D-7FC52EC8295C
 
 ## Ingredients
 
-- 2 cups tricolor quinoa (12 ounces), rinsed well and drained
+- 2 cups tricolor quinoa (12 oz), rinsed well and drained
 - 1/4 cup finely diced shallot or onion
-- 3 tablespoons sherry vinegar
-- 1 tablespoon Dijon mustard
+- 3 tbsp sherry vinegar
+- 1 tbsp Dijon mustard
 - 1/3 cup extra-virgin olive oil
 - Kosher salt and black pepper
 - 2 cups leftover chicken meat, torn from a rotisserie bird
@@ -43,7 +43,7 @@ uid: 76CBFA52-3F96-4706-807D-7FC52EC8295C
 
 ## Directions
 
-Bring a large saucepan of generously salted water to a boil. Add quinoa and boil, stirring occasionally, until tender, 10 to 15 minutes.
+Bring a large saucepan of generously salted water to a boil. Add quinoa and boil, stirring occasionally, until tender, 10-15 minutes.
 
 Meanwhile, whisk the shallot, vinegar, mustard, oil and a generous pinch of salt and pepper in a very large bowl. When quinoa is done, drain very well, then add to the dressing, along with the chicken, cranberries and parsley. Fold until evenly mixed and cooled, then season to taste with salt and pepper.
 
@@ -55,13 +55,13 @@ It’s fastest and easiest to rinse grains in a sieve. Simply run cold water ove
 
 ## Nutritional Information
 
-Trans Fat: 0 grams
-Fat: 29 grams
+Trans Fat: 0 g
+Fat: 29 g
 Calories: 605
-Saturated Fat: 4 grams
-Unsaturated Fat: 23 grams
+Saturated Fat: 4 g
+Unsaturated Fat: 23 g
 Sodium: 574 milligrams
-Sugar: 16 grams
-Fiber: 10 grams
-Carbohydrate: 61 grams
-Protein: 28 grams
+Sugar: 16 g
+Fiber: 10 g
+Carbohydrate: 61 g
+Protein: 28 g

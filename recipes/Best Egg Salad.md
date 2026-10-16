@@ -7,7 +7,7 @@ categories:
 cook_time: 25 mins
 created: '2021-08-03 13:28:58'
 difficulty: ''
-hash: a3670a5b5d8da5e440b6345677139a539755108109a7cdc3b461c53949c52756
+hash: c0d539ddd13bb4ea5bbb140cb6079edd349c398b7576a9ac4e441dd37c1a6620
 image_url: https://cdn.loveandlemons.com/wp-content/uploads/2020/04/egg-salad-580x809.jpg
 in_trash: false
 is_pinned: false
@@ -29,19 +29,19 @@ uid: E9260063-E184-4721-86EF-AD065779B9D8
 
 ## Ingredients
 
-- ¼ cup mayonnaise
-- 1 teaspoon extra-virgin olive oil
-- 2 teaspoons Dijon mustard
-- 1 teaspoon capers
-- 1 teaspoon fresh lemon juice
+- 1/4 cup mayonnaise
+- 1 tsp extra-virgin olive oil
+- 2 tsp Dijon mustard
+- 1 tsp capers
+- 1 tsp fresh lemon juice
 - 1 small garlic clove, minced
-- ¼ teaspoon turmeric
-- ¼ teaspoon sea salt
+- 1/4 tsp turmeric
+- 1/4 tsp sea salt
 - Freshly ground black pepper
 - 6 hard boiled eggs, diced
 - Pinches of celery seed
-- 2 tablespoons chopped fresh dill
-- 2 tablespoons chopped fresh chives
+- 2 tbsp chopped fresh dill
+- 2 tbsp chopped fresh chives
 
 ## Directions
 

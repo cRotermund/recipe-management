@@ -7,7 +7,7 @@ categories:
 cook_time: ''
 created: '2023-11-13 18:35:02'
 difficulty: ''
-hash: 6b865d3b5019716f19e16470ad08e85acdda812dac50f98a0713540a622b5776
+hash: 234b206a075b59ef0ba98542863a7cb5f379675d9bd153ac6bf4727fe1656056
 image_url: null
 in_trash: false
 is_pinned: false
@@ -29,18 +29,18 @@ EZ Clark Baked Italian Chicken Recipe
 
 ## Ingredients
 
-- 1/2 t, salt
-- 1/2 t. dried basil
-- 1/2 t. dried oregano
-- 1/4 t. garlic powder
+- 1/2 tsp, salt
+- 1/2 tsp. dried basil
+- 1/2 tsp. dried oregano
+- 1/4 tsp. garlic powder
 - 4 chicken breasts.
-- 3. T all-purpose flour
+- 3 tbsp all-purpose flour
 - 1 egg, beaten
-- 1/2 c. fine, dry bread crumbs
-- 2 T vegetable bil
-- 2 T butter or margarine, mette
-- 2 T olive oil 
-- 2 T lemon juice.
+- 1/2 cup fine, dry bread crumbs
+- 2 tbsp vegetable oil
+- 2 tbsp butter or margarine, mette
+- 2 tbsp olive oil 
+- 2 tbsp lemon juice.
 
 ## Directions
 
@@ -50,4 +50,4 @@ Heat vegetable oil in a skillet over medium high heat; cook chicken about 2 min.
 
 • Place chicken in a 9-inch square baking dish; set aside.
 
-•Combine remaining ingredients, well; pour over clucken. mixing bake at 350° for 30 minutes.
+•Combine remaining ingredients, well; pour over clucken. mixing bake at 350°F for 30 minutes.

@@ -5,7 +5,7 @@ categories:
 cook_time: 1 min
 created: '2021-12-16 09:12:52'
 difficulty: ''
-hash: 3965bd3956b4bd8b2745ccbe237d54445b72cec6353aa2d2b838e65eacf86174
+hash: 8c60015e45f3b53d0bcf53fd7bb70f4ed3fa65590ccd7256529632355c64d42c
 image_url: https://toriavey.com/images/2012/10/How-to-Blanch-Almonds--900x675.jpg
 in_trash: false
 is_pinned: false
@@ -52,11 +52,11 @@ You will also need: pot of water, paper towels, colander or strainer.
 
 ## Nutritional Information
 
-Saturated Fat 4g
-Sodium 21mg
-Potassium 747mg
-Carbohydrates 21g
-Fiber 11g
-Protein 24g
-Calcium 268mg
-Iron 3.7mg
+Saturated Fat 4 g
+Sodium 21 mg
+Potassium 747 mg
+Carbohydrates 21 g
+Fiber 11 g
+Protein 24 g
+Calcium 268 mg
+Iron 3.7 mg

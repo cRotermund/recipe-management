@@ -7,7 +7,7 @@ categories:
 cook_time: 40 minutes
 created: '2020-02-20 19:35:15'
 difficulty: ''
-hash: 13ab07e42e2527634c2ad464d38f97c98b334128285f4bb7c376b18921ae8b7b
+hash: fe7555f61da290267c459ce49360cfe24128d4f4fdbbf4c509c627600d5127fa
 image_url: https://static01.nyt.com/images/2013/11/04/dining/04dinner/04dinner-articleLarge.jpg
 in_trash: false
 is_pinned: false
@@ -29,25 +29,25 @@ uid: C0372D7B-BC26-480C-A5C6-02D4445AC959-27939-0000158B97312169
 
 ## Ingredients
 
-- 1 tablespoon coriander seeds
-- 2 tablespoons extra-virgin olive oil, more for serving
+- 1 tbsp coriander seeds
+- 2 tbsp extra-virgin olive oil, more for serving
 - 1 large white onion, peeled and diced (2 cups)
 - 2 large garlic cloves, finely chopped
-- 5 medium carrots (1 pound), peeled and cut into 1/2-inch pieces (2 cups)
-- 1 ½ teaspoons kosher salt, more as needed
-- 3 tablespoons white miso
+- 5 medium carrots (1 lb), peeled and cut into 1/2-inch pieces (2 cups)
+- 1 1/2 tsp kosher salt, more as needed
+- 3 tbsp white miso
 - 1 small (or half of a large) head cauliflower, trimmed and cut into florets
-- ½ teaspoon lemon zest
-- 2 tablespoons lemon juice, more to taste
+- 1/2 tsp lemon zest
+- 2 tbsp lemon juice, more to taste
 - Smoky chile powder, for serving
 - Coarse sea salt, for serving
 - Cilantro leaves, for serving
 
 ## Directions
 
-In a large, dry pot over medium heat, toast coriander seeds until fragrant and dark golden-brown, 2 to 3 minutes. Transfer to a mortar and pestle and coarsely crush.
+In a large, dry pot over medium heat, toast coriander seeds until fragrant and dark golden-brown, 2-3 minutes. Transfer to a mortar and pestle and coarsely crush.
 
-Return the pot to medium heat. Add the oil and heat until warm. Stir in onion; cook, stirring occasionally, until soft and lightly colored, 7 to 10 minutes. Stir in garlic and cook 1 minute.
+Return the pot to medium heat. Add the oil and heat until warm. Stir in onion; cook, stirring occasionally, until soft and lightly colored, 7-10 minutes. Stir in garlic and cook 1 minute.
 
 Add carrots, crushed coriander, salt and 6 cups water to the pot. Stir in the miso until it dissolves. Bring mixture to a simmer and cook, uncovered, 5 minutes. Stir in cauliflower and cook, covered, over medium-low heat until the vegetables are very tender, about 10 minutes.
 

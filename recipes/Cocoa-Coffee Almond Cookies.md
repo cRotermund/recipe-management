@@ -7,7 +7,7 @@ categories:
 cook_time: ''
 created: '2021-12-17 08:55:49'
 difficulty: ''
-hash: b8086bd269e12fcde2332b22017d018b9a059e4b420fb71f995d944c4c6d9295
+hash: c289f553b2e32bf010bdeb30d6f9d8507574378babe1e8e4dbb91f5f815c28c8
 image_url: https://assets.bonappetit.com/photos/6192c058797bf47162ab923a/1:1/w_2560%2Cc_limit/Cocoa-Coffee-Almond-Cookies.jpg
 in_trash: false
 is_pinned: false
@@ -29,14 +29,14 @@ uid: 41AA0B60-12A6-4054-8C07-9BFF2667B4A6
 
 ## Ingredients
 
-- 6½ oz. almond paste (about ¾ cup)
+- 6 1/2 oz almond paste (about 3/4 cup)
 - 1 cup (200 g) granulated sugar
-- ⅓ cup (30 g) unsweetened Dutch-process cocoa powder
-- 2 tsp. Diamond Crystal or 1¼ tsp. Morton kosher salt
-- 2 tsp. instant espresso powder
+- 1/3 cup (30 g) unsweetened Dutch-process cocoa powder
+- 2 tsp Diamond Crystal or 1 1/4 tsp Morton kosher salt
+- 2 tsp instant espresso powder
 - 2 large egg whites
-- ⅔ cup (84 g) all-purpose flour
-- ¾ cup (83 g) powdered sugar, sifted
+- 2/3 cup (84 g) all-purpose flour
+- 3/4 cup (83 g) powdered sugar, sifted
 
 ## Directions
 
@@ -44,6 +44,6 @@ Pulse almond paste in a food processor until broken up into small pieces. Add gr
 
 Transfer dough to a medium bowl; fold in any dry spots with a rubber spatula if needed. Cover and chill at least 1 hour.
 
-Place racks in upper and lower thirds of oven; preheat to 350°. Put powdered sugar in a shallow bowl. Using a #30 cookie scoop (about 2 Tbsp.) and working one at a time, scoop out portions of dough and roll into balls (you should have about 12). Working quickly, roll balls in powdered sugar to coat. Divide between 2 parchment-lined baking sheets, spacing about 3" apart.
+Place racks in upper and lower thirds of oven; preheat to 350°F. Put powdered sugar in a shallow bowl. Using a #30 cookie scoop (about 2 tbsp) and working one at a time, scoop out portions of dough and roll into balls (you should have about 12). Working quickly, roll balls in powdered sugar to coat. Divide between 2 parchment-lined baking sheets, spacing about 3" apart.
 
-Bake cookies, rotating baking sheets top to bottom and front to back halfway through, just until puffed and cracked and edges are set (cookies will look slightly underbaked between the cracks), 12–14 minutes. Let cool on baking sheets.Do ahead: Dough can be made 3 days ahead; cover and chill. Cookies can be made 4 days ahead; store airtight at room temperature.
+Bake cookies, rotating baking sheets top to bottom and front to back halfway through, just until puffed and cracked and edges are set (cookies will look slightly underbaked between the cracks), 12-14 minutes. Let cool on baking sheets.Do ahead: Dough can be made 3 days ahead; cover and chill. Cookies can be made 4 days ahead; store airtight at room temperature.

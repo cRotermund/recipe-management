@@ -1,10 +1,10 @@
 ---
 categories:
 - A3FA97E2-41F7-4C28-8433-211311D4E130
-cook_time: 25 minutes to 30 minutes
+cook_time: 25-30 minutes
 created: '2022-07-19 12:35:36'
 difficulty: ''
-hash: 0d87530590203f4078aad7275c488643cc41790be7411a7380e9860a25b3fc20
+hash: 85f3d7a5ee78b91347361794bdd34757563cc2a9a5186a25c5ac0d0ff97800d4
 image_url: https://cdn.apartmenttherapy.info/image/upload/f_auto,q_auto:eco,c_fill,g_center,w_730,h_913/k%2Farchive%2Fd4fc553aa34f8086392b5cd44695759b57b5795d
 in_trash: false
 is_pinned: false
@@ -13,7 +13,7 @@ on_grocery_list: false
 prep_time: 5 minutes
 rating: 0
 scale: null
-servings: Serves 4 to 6, makes about 3 cups
+servings: Serves 4-6, makes about 3 cups
 source: thekitchn.com
 source_url: https://www.thekitchn.com/how-to-cook-quinoa-cooking-lessons-from-the-kitchn-63344
 total_time: ''
@@ -27,9 +27,9 @@ uid: C3D09721-B363-43B4-A834-284BA15D4D4B
 ## Ingredients
 
 - 1 cup uncooked quinoa (any variety — white or golden, red, or black)
-- 1 teaspoon olive oil
+- 1 tsp olive oil
 - 1 3/4 cups water or low-sodium broth
-- 1/2 teaspoon kosher salt
+- 1/2 tsp kosher salt
 - shallots or onion
 
 ## Directions

@@ -7,7 +7,7 @@ categories:
 cook_time: ''
 created: '2024-12-28 20:08:55'
 difficulty: ''
-hash: 27dba79d9ee06e7ab9ca0645e85191596e3ed778dc49e71904722b72df73596f
+hash: 1ac9557067065b8463900e6ae75a9d5c4bcf5e45c15ed0e17c3c15a1b2dd7af9
 image_url: https://static01.nyt.com/images/2016/01/04/dining/fragrant-chicken-soup/fragrant-chicken-soup-videoSixteenByNine1050-v2.jpg
 in_trash: false
 is_pinned: false
@@ -16,7 +16,7 @@ on_grocery_list: false
 prep_time: ''
 rating: 4
 scale: null
-servings: 6 to 8 servings
+servings: 6-8 servings
 source: Cooking.nytimes.com
 source_url: https://cooking.nytimes.com/recipes/1017914-fragrant-chicken-soup-with-chickpeas-and-vegetables?smid=ck-recipe-android-share
 total_time: 1 hr
@@ -29,25 +29,25 @@ uid: 7684028E-9A25-4653-A95C-B2C1D06FF327
 
 ## Ingredients
 
-- 2 tablespoons olive oil
+- 2 tbsp olive oil
 - 1 Spanish onion, chopped
-- 1/2 teaspoon kosher salt, more to taste
-- 3/4 teaspoon ground cinnamon
-- 3/4 teaspoon ground turmeric
-- 1/2 teaspoon sweet paprika
-- 1/2 teaspoon ground ginger
-- 1/4 teaspoon freshly grated nutmeg
-- 1/4 teaspoon ground black pepper
+- 1/2 tsp kosher salt, more to taste
+- 3/4 tsp ground cinnamon
+- 3/4 tsp ground turmeric
+- 1/2 tsp sweet paprika
+- 1/2 tsp ground ginger
+- 1/4 tsp freshly grated nutmeg
+- 1/4 tsp ground black pepper
 - Pinch of cayenne
-- 2 tablespoons tomato paste
+- 2 tbsp tomato paste
 - 2 celery stalks, diced
 - 1 turnip, peeled and diced
 - 1 sweet potato, peeled and diced
 - 1 quart chicken broth
-- 1 3/4 pounds boneless, skinless chicken thighs, cut into bite-sized pieces
-- 1 can (15 ounces) chickpeas, drained
+- 1 3/4 lb boneless, skinless chicken thighs, cut into bite-sized pieces
+- 1 (15 oz) can chickpeas, drained
 - 1/2 cup chopped cilantro, more for garnish
-- 1 tablespoon fresh lemon juice
+- 1 tbsp fresh lemon juice
 - Lemon wedges, for serving
 
 ## Directions
@@ -62,13 +62,13 @@ Add chickpeas and cilantro to pot and continue simmering until chicken is cooked
 
 ## Nutritional Information
 
-Trans Fat: 0 grams
-Fat: 11 grams
+Trans Fat: 0 g
+Fat: 11 g
 Calories: 300
-Saturated Fat: 2 grams
-Unsaturated Fat: 7 grams
+Saturated Fat: 2 g
+Unsaturated Fat: 7 g
 Sodium: 575 milligrams
-Sugar: 7 grams
-Fiber: 5 grams
-Carbohydrate: 24 grams
-Protein: 27 grams
+Sugar: 7 g
+Fiber: 5 g
+Carbohydrate: 24 g
+Protein: 27 g

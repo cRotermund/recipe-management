@@ -5,7 +5,7 @@ categories:
 cook_time: ''
 created: '2020-03-07 16:18:41'
 difficulty: ''
-hash: ec12a5f6fd55bb951fb73234d49c08cb03d16bb46241579bef0eeab780572920
+hash: 5d9c197fe67120deac61d89efaa03ded604704a91e1e2f204ccecdef9debc434
 image_url: null
 in_trash: false
 is_pinned: false
@@ -30,7 +30,7 @@ good sauce to use up fresh herbs.  good with scallops and gnocchi.
 ## Ingredients
 
 - 1 large yellow onion
-- 6 cloves garlic
+- 6 garlic cloves
 - 3/4 cup dry white wine
 - 1 cup chicken stock
 - fresh thyme

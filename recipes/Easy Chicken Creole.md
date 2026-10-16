@@ -7,7 +7,7 @@ categories:
 cook_time: 'prep/total time: 30 min.'
 created: '2023-01-22 10:53:08'
 difficulty: ''
-hash: 407b7ef6c402e7485e2b5e7361bf6c73c6d220ebd920b0c3fc270dc5ad3608b2
+hash: a225606bed2dd639b973a57ce8194f3d2ff8bea2c0aee0babb0c00d8d2907625
 image_url: https://www.tasteofhome.com/wp-content/uploads/2018/01/Easy-Chicken-Creole_EXPS_TOHDJ22_5142_B08_05_11b-9.jpg?fit=700,1024
 in_trash: false
 is_pinned: false
@@ -37,13 +37,13 @@ uid: DF89D0F0-F17B-42C3-A6E6-4353C0C0A87F
 - 1/4 cup all-purpose flour
 - 5 cups chicken broth
 - 6 cups shredded or cubed cooked chicken
-- 2 cans (6 ounces each) tomato paste
+- 2 (6 oz) cans tomato paste
 - 1/4 cup chopped fresh parsley
-- 4 teaspoons Worcestershire sauce
-- 2 teaspoons lemon juice
-- 1 teaspoon salt
-- 1/2 teaspoon each pepper, sugar and dried thyme
-- 12 to 16 drops hot pepper sauce
+- 4 tsp Worcestershire sauce
+- 2 tsp lemon juice
+- 1 tsp salt
+- 1/2 tsp each pepper, sugar and dried thyme
+- 12-16 drops hot pepper sauce
 - Hot cooked rice
 
 ## Directions
@@ -54,4 +54,4 @@ Stir in broth. Bring to a boil; cook and stir for 2 minutes. Add remaining ingre
 
 ## Nutritional Information
 
-1 cup: 259 calories, 12g fat (2g saturated fat), 75mg cholesterol, 821mg sodium, 10g carbohydrate (5g sugars, 2g fiber), 27g protein.
+1 cup: 259 calories, 12 g fat (2 g saturated fat), 75 mg cholesterol, 821 mg sodium, 10 g carbohydrate (5 g sugars, 2 g fiber), 27 g protein.

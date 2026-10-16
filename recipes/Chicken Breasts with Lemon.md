@@ -7,7 +7,7 @@ categories:
 cook_time: ''
 created: '2022-12-08 12:58:59'
 difficulty: ''
-hash: a89105fbad4b97b723c0fae3b72c7f05ee34f75fa8bb7904dd06df60e7ab8e56
+hash: 0844d9b42d1b1a1914bb6690caf770705fbc9e21efc992a5f25289e54dac4181
 image_url: https://static01.nyt.com/images/2022/11/08/dining/PF-Chicken-Breasts-with-Lemon/merlin_216285030_fd31034f-e5ef-429f-892d-9846cda8840b-articleLarge.jpg
 in_trash: false
 is_pinned: false
@@ -31,15 +31,15 @@ uid: F0F368A4-7305-4A20-AC7A-E37282708800
 
 - 1/2 cup flour for dredging
 - Salt and freshly ground pepper to taste
-- 4 skinless boneless chicken breasts, about 6 ounces each
-- 2 tablespoons olive oil
-- 4 sprigs fresh thyme or 1 teaspoon dried
-- 2 tablespoons finely chopped shallots
-- 2 teaspoons finely chopped garlic
-- 2 teaspoons grated lemon zest
-- 3 tablespoons lemon juice
+- 4 skinless boneless chicken breasts, about 6 oz each
+- 2 tbsp olive oil
+- 4 sprigs fresh thyme or 1 tsp dried
+- 2 tbsp finely chopped shallots
+- 2 tsp finely chopped garlic
+- 2 tsp grated lemon zest
+- 3 tbsp lemon juice
 - 1/2 cup chicken broth, fresh or canned
-- 2 tablespoons butter
+- 2 tbsp butter
 
 ## Directions
 
@@ -55,13 +55,13 @@ Scrape the skillet to dissolve the brown particles that cling to the bottom. Add
 
 ## Nutritional Information
 
-Trans Fat: 0 grams
-Fat: 18 grams
+Trans Fat: 0 g
+Fat: 18 g
 Calories: 396
-Saturated Fat: 6 grams
-Unsaturated Fat: 10 grams
+Saturated Fat: 6 g
+Unsaturated Fat: 10 g
 Sodium: 584 milligrams
-Sugar: 1 gram
-Fiber: 1 gram
-Carbohydrate: 16 grams
-Protein: 41 grams
+Sugar: 1 g
+Fiber: 1 g
+Carbohydrate: 16 g
+Protein: 41 g

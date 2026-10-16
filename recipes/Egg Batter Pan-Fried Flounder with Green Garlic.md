@@ -7,7 +7,7 @@ categories:
 cook_time: about 20 minutes
 created: '2021-10-24 21:39:49'
 difficulty: ''
-hash: 43799594d045768844a7f19f4bd654515f5d95f54daad7b865166aaec139d0ed
+hash: 8d0bbe6092220ff09480228bf3f8721a2e521ccf890f69b0e80c7dfc9fc76420
 image_url: https://static01.nyt.com/images/2014/03/11/dining/11flounder/11flounder-articleLarge.jpg
 in_trash: false
 is_pinned: false
@@ -29,16 +29,16 @@ uid: 09789F76-5B67-441B-B7D0-FC65BD99F36C
 
 ## Ingredients
 
-- 1 ½ pounds boneless flounder or sole fillets, preferably 4 6-ounce pieces
+- 1 1/2 lb boneless flounder or sole fillets, preferably 4 (6 oz) pieces
 - Salt and pepper
 - 2 large eggs
-- ½ cup milk
-- ½ cup all-purpose flour for dredging
+- 1/2 cup milk
+- 1/2 cup all-purpose flour for dredging
 - Mild olive oil or vegetable oil for frying
-- 4 tablespoons unsalted butter
-- ⅓ cup finely chopped green garlic, both white part and tender green stalks
+- 4 tbsp unsalted butter
+- 1/3 cup finely chopped green garlic, both white part and tender green stalks
 - Juice of 1/2 lemon
-- 3 tablespoons chopped flat-leaf parsley
+- 3 tbsp chopped flat-leaf parsley
 - Lemon wedges
 
 ## Directions
@@ -55,13 +55,13 @@ Spoon the green garlic butter over the fish. Sprinkle with parsley, garnish with
 
 ## Nutritional Information
 
-Trans Fat: 0 grams
-Fat: 58 grams
+Trans Fat: 0 g
+Fat: 58 g
 Calories: 709
-Saturated Fat: 15 grams
-Unsaturated Fat: 40 grams
+Saturated Fat: 15 g
+Unsaturated Fat: 40 g
 Sodium: 743 milligrams
-Sugar: 2 grams
-Fiber: 1 gram
-Carbohydrate: 19 grams
-Protein: 28 grams
+Sugar: 2 g
+Fiber: 1 g
+Carbohydrate: 19 g
+Protein: 28 g

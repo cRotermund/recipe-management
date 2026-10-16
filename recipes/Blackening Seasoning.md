@@ -4,7 +4,7 @@ categories:
 cook_time: ''
 created: '2020-01-26 10:39:51'
 difficulty: ''
-hash: 7f0f8671463d18b6c790f1d2c1a5ad0ec1b4c87c806d565613f933071c57e395
+hash: 2de10adf3443cc3a426595e3da4379b4bc26d3b8f9bf630ef535066d57082f08
 image_url: https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4538204.jpg&w=582&h=774.0600000000001&c=sc&poi=face&q=85
 in_trash: false
 is_pinned: false
@@ -26,13 +26,13 @@ uid: 3105470C-D221-4E5B-9D4C-614039F0CEED
 
 ## Ingredients
 
-- ½ teaspoon paprika
-- ⅛ teaspoon salt
-- ¼ teaspoon cayenne pepper
-- ¼ teaspoon ground cumin
-- ¼ teaspoon dried thyme
-- ⅛ teaspoon ground white pepper
-- ⅛ teaspoon onion powder
+- 1/2 tsp paprika
+- 1/8 tsp salt
+- 1/4 tsp cayenne pepper
+- 1/4 tsp ground cumin
+- 1/4 tsp dried thyme
+- 1/8 tsp ground white pepper
+- 1/8 tsp onion powder
 
 ## Directions
 

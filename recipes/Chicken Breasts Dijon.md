@@ -7,7 +7,7 @@ categories:
 cook_time: ''
 created: '2020-01-26 10:35:53'
 difficulty: ''
-hash: cb177fea8fd4d68ce738a7e60f7164d55aedb018164d1c6912d27e42aa9819a0
+hash: 30f93215d99bd6aa161a91cdf89ccd950d01c59cbee9f6f2935dc7f600eaa694
 image_url: https://assets.bonappetit.com/photos/57ae4aef53e63daf11a4e4d5/16:9/w_1880,c_limit/chicken-breasts-with-dijon-646.jpeg
 in_trash: false
 is_pinned: false
@@ -29,8 +29,8 @@ uid: 3E7ED922-82A7-4630-9FD5-F1F995940622
 
 ## Ingredients
 
-- 2 tablespoons olive oil
-- 4 skinless, boneless chicken breasts (about 1 1/2 pounds)
+- 2 tbsp olive oil
+- 4 skinless, boneless chicken breasts (about 1 1/2 lb)
 - Kosher salt and freshly ground black pepper
 - 2 small leeks, white and pale-green parts only, thinly sliced (about 1/2 cup)
 - 1 small onion, minced (about 1/2 cup)
@@ -38,8 +38,8 @@ uid: 3E7ED922-82A7-4630-9FD5-F1F995940622
 - 2 cups low-salt chicken broth
 - 1 cup dry white wine
 - 1/2 cup Dijon mustard
-- 2 tablespoons minced fresh thyme plus thyme leaves for garnish
-- 1 tablespoon unsalted butter
+- 2 tbsp minced fresh thyme plus thyme leaves for garnish
+- 1 tbsp unsalted butter
 
 ## Directions
 

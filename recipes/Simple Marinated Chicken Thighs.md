@@ -7,7 +7,7 @@ categories:
 cook_time: ''
 created: '2020-01-26 10:30:15'
 difficulty: ''
-hash: a3f64d28fba5bfdda5a00c58555c023c199179b412d4a77236b9709a36dc1be2
+hash: 94ec81e0bb1fa199715787e843cab6e918d0364d3d4c428913722fd408d4e60f
 image_url: https://assets.bonappetit.com/photos/5d1cb813e1b4270008a82ec4/16:9/w_1880,c_limit/Print-Summer-Marinade-Chicken.jpg
 in_trash: false
 is_pinned: false
@@ -34,14 +34,14 @@ uid: AFAB946A-A9F9-45BB-B3CA-039670F20088
 - 1 serrano chile
 - 3 garlic cloves
 - 1 1" piece ginger, peeled
-- 1 Tbsp. dark brown sugar
-- 1 Tbsp. extra-virgin olive oil
-- 1 Tbsp. fish sauce
-- 1 Tbsp. soy sauce
-- 1¼ lb. skinless, boneless chicken thighs
+- 1 tbsp dark brown sugar
+- 1 tbsp extra-virgin olive oil
+- 1 tbsp fish sauce
+- 1 tbsp soy sauce
+- 1 1/4 lb skinless, boneless chicken thighs
 - Kosher salt
 - 2 scallions, thinly sliced
-- ½ cup cilantro leaves with tender stems
+- 1/2 cup cilantro leaves with tender stems
 - Sesame seeds and lime wedges (for serving)
 
 ## Directions

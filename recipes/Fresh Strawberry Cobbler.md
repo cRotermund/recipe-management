@@ -7,7 +7,7 @@ categories:
 cook_time: 55 mins
 created: '2022-05-21 14:03:52'
 difficulty: ''
-hash: a4aa32b64b06aa4ab3d36573494f911835730e88e7d665584838edb471ece178
+hash: 1066d40aa494f840ad87990d6751c1b02f24b309d3c1731cd0a21a4eda771a94
 image_url: https://iambaker.net/wp-content/uploads/2021/04/straw-cobbler-4-1200x1800.jpg
 in_trash: false
 is_pinned: false
@@ -30,19 +30,19 @@ uid: 894F64F1-B3B5-4727-88B0-897257CCDDEB
 ## Ingredients
 
 - BATTER
-- ½ cup (1 stick or 113g) butter, melted
-- 1 cup (200g) granulated sugar
-- 1 cup (125g) all-purpose flour
-- 1½ teaspoons baking powder
-- ½ teaspoon kosher salt
+- 1/2 cup (1 stick or 113 g) butter, melted
+- 1 cup (200 g) granulated sugar
+- 1 cup (125 g) all-purpose flour
+- 1 1/2 tsp baking powder
+- 1/2 tsp kosher salt
 - 1 cup milk
 - STRAWBERRY MIXTURE
-- 2 pounds fresh strawberries, washed, dried, hulled, and halved
-- ½ cup (100g) granulated sugar
-- 2 tablespoons cornstarch
-- 2 teaspoons lemon juice
+- 2 lb fresh strawberries, washed, dried, hulled, and halved
+- 1/2 cup (100 g) granulated sugar
+- 2 tbsp cornstarch
+- 2 tsp lemon juice
 - SUGAR TOPPING
-- 1½ tablespoons turbinado sugar
+- 1 1/2 tbsp turbinado sugar
 
 ## Directions
 

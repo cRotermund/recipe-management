@@ -7,7 +7,7 @@ categories:
 cook_time: ''
 created: '2023-01-08 11:05:24'
 difficulty: ''
-hash: 1bb5b96ab575ed575473f8a2ef5cb14160fc7ba259e237134197f81a2ed24f44
+hash: e7b752f05be3cdebd11742c71ebd0240149d5babd47a1c08e1b412d2a262ef08
 image_url: https://static01.nyt.com/images/2018/04/19/dining/19COOKING-DAL3/19COOKING-DAL3-articleLarge-v3.jpg
 in_trash: false
 is_pinned: false
@@ -30,15 +30,15 @@ uid: E5AC0F15-19D6-4F95-B0D6-71FB3106E7DB
 ## Ingredients
 
 - 1 cup split chickpeas (chana dal)
-- 1 1/2 teaspoons turmeric
-- 1/2 teaspoon ground cardamom
+- 1 1/2 tsp turmeric
+- 1/2 tsp ground cardamom
 - 1 bay leaf, preferably Indian
-- 1 teaspoon salt
-- 2 tablespoons sunflower orsafflower oil
+- 1 tsp salt
+- 2 tbsp sunflower orsafflower oil
 - 6 whole cloves
 - 4 large garlic cloves, thinly sliced
-- 1 teaspoon crushed-red-chile flakes (optional)
-- 3 tablespoons freshly chopped cilantro
+- 1 tsp crushed-red-chile flakes (optional)
+- 3 tbsp freshly chopped cilantro
 
 ## Directions
 
@@ -50,13 +50,13 @@ Pour the tadka into the dal; stirgently to combine. Garnish with cilantroand ser
 
 ## Nutritional Information
 
-Trans Fat: 0 grams
-Fat: 10 grams
+Trans Fat: 0 g
+Fat: 10 g
 Calories: 264
-Saturated Fat: 1 gram
-Unsaturated Fat: 9 grams
+Saturated Fat: 1 g
+Unsaturated Fat: 9 g
 Sodium: 153 milligrams
-Sugar: 5 grams
-Fiber: 7 grams
-Carbohydrate: 34 grams
-Protein: 11 grams
+Sugar: 5 g
+Fiber: 7 g
+Carbohydrate: 34 g
+Protein: 11 g

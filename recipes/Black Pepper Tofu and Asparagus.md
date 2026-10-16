@@ -7,7 +7,7 @@ categories:
 cook_time: ''
 created: '2020-06-02 08:02:26'
 difficulty: ''
-hash: 9bb34646a14ec5d500279425b17bec60926c27a3c82d75c0753fd8fefaeda2c7
+hash: 00f76ea9fc5bfa96eb2c3ffeb4935fc28b1f5498e15cab203ff602910cc43fe3
 image_url: https://assets.bonappetit.com/photos/5eb5c703af0a613afd3886f0/16:9/w_1880,c_limit/HLY-Black-Pepper-Tofu-6x9.jpg
 in_trash: false
 is_pinned: false
@@ -29,17 +29,17 @@ uid: 4F907E9E-ACB7-4C69-B43E-28F352EFB064
 
 ## Ingredients
 
-- 1 14-oz. package firm or extra-firm tofu, drained
-- 1 Tbsp. black peppercorns
+- 1 (14 oz) package firm or extra-firm tofu, drained
+- 1 tbsp black peppercorns
 - 2 garlic cloves
-- 1 1½" piece ginger, peeled
-- 1 Tbsp. cornstarch
-- ½ tsp. kosher salt
-- 3 Tbsp. extra-virgin olive oil
-- 1 lb. asparagus, trimmed, cut into 1½" pieces
-- ⅓ cup soy sauce
-- 1 Tbsp. sugar
-- 1 tsp. unseasoned rice vinegar
+- 1 1/2" piece ginger, peeled
+- 1 tbsp cornstarch
+- 1/2 tsp kosher salt
+- 3 tbsp extra-virgin olive oil
+- 1 lb asparagus, trimmed, cut into 1 1/2" pieces
+- 1/3 cup soy sauce
+- 1 tbsp sugar
+- 1 tsp unseasoned rice vinegar
 - Cooked white or brown rice (for serving)
 
 ## Directions
@@ -50,7 +50,7 @@ Meanwhile, coarsely crack peppercorns in a spice mill or with a mortar and pestl
 
 Unwrap tofu and cut into 1" cubes. Transfer tofu to a medium bowl. Add cornstarch and salt and toss gently to coat tofu.
 
-Heat oil in a large nonstick skillet over medium-high. Arrange tofu in skillet in a single layer and cook, turning occasionally, until golden brown and crisp all over, 6–8 minutes. Using tongs or a slotted spoon, transfer to a large plate or baking sheet.
+Heat oil in a large nonstick skillet over medium-high. Arrange tofu in skillet in a single layer and cook, turning occasionally, until golden brown and crisp all over, 6-8 minutes. Using tongs or a slotted spoon, transfer to a large plate or baking sheet.
 
 Reduce heat to medium and add reserved cracked pepper to skillet. Cook, stirring often, until very fragrant, about 2 minutes, then add asparagus and cook, stirring often, until bright green, about 1 minute. Add reserved garlic and ginger and cook, stirring constantly, until fragrant, about 1 minute.
 

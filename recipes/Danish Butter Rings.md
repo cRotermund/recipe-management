@@ -7,7 +7,7 @@ categories:
 cook_time: ''
 created: '2021-03-20 08:39:59'
 difficulty: ''
-hash: 24193ac3699a0042e32b41e291d96d543c628559b12642a778bb82da3a33bb3c
+hash: 9f88cee10e7b6a6dedf636041c9d923ea2453d1d8de61812879e1ec0f3e7ae75
 image_url: null
 in_trash: false
 is_pinned: false
@@ -29,8 +29,8 @@ uid: 16B7DFAA-E736-42EF-9627-AED9743F39ED
 
 - Very rich and much like the butter rings sold at Hough Bakery.
 - 5 1/4 cups flour
-- 1/2 cup plus 2 tsp. sugar, divided use
-- 2 tsp. salt
+- 1/2 cup plus 2 tsp sugar, divided use
+- 2 tsp salt
 - 1/2 lb (1 cup) unsalted butter
 - 2 pkg. yeast
 - 1/2 cup warm milk
@@ -41,7 +41,7 @@ uid: 16B7DFAA-E736-42EF-9627-AED9743F39ED
 
 Combine flour, 1/2 cup of the sugar, and salt. Cut in the butter. Set aside.
 
-Combine yeast, warm milk and 2 tsp. of sugar. Let proof.
+Combine yeast, warm milk and 2 tsp of sugar. Let proof.
 
 Combine egg yolks and sour cream. Mix yeast mixture into egg yolks and sour cream.
 
@@ -55,7 +55,7 @@ Grease a baking sheet. Take a portion of dough, roll out and cut into squares.
 
 Use your favorite filling (I use Solo - I will enter a cheese filling recipe into website too). Smear a diagonal serving of filling and seal on the diagonal with milk moistened corners. Place on prepared baking sheets and let rise until puffy.
 
-Bake in preheated 350 degree F oven until golden.
+Bake in preheated 350°F oven until golden.
 
 TO MAKE A DANISH BUTTER RING:
 
@@ -63,7 +63,7 @@ Grease a round cake pan. Take a portion of dough, using very little flour, roll 
 
 Slice into 3 equal ropes, braid them together and lay that braid in a ring in a round, greased cake pan. Pinch together cut edges. (It sound difficult, but you will get the hang of it.) Cover and let rise.
 
-Bake in preheated 350 degree F oven until golden.
+Bake in preheated 350°F oven until golden.
 
 GLAZE:
 

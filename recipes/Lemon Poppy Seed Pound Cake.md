@@ -7,7 +7,7 @@ categories:
 cook_time: 1 hour 20 minutes
 created: '2020-02-23 10:00:23'
 difficulty: ''
-hash: 32107319a9cbe8ff0b0f308bdd91a416533cf6a4da9a1204cab41d7914dd97f1
+hash: 07f3816389cdc4239150d019552fbbe18d04be5020b85f7f1ef62cc5080cee00
 image_url: https://static01.nyt.com/images/2013/06/12/dining/12JPAPPE3/12JPAPPE3-articleLarge.jpg
 in_trash: false
 is_pinned: false
@@ -30,25 +30,25 @@ uid: B97ED440-FDAA-483B-91E8-A047916F61D8-30191-0000166EE1D14FDB
 ## Ingredients
 
 - Butter, for greasing pan
-- 1 ¾ cup all-purpose flour, more for pan
+- 1 3/4 cups all-purpose flour, more for pan
 - Zest of 2 lemons
 - 1 cup sugar
-- ½ cup buttermilk
-- 3 tablespoons plus 4 teaspoons lemon juice
+- 1/2 cup buttermilk
+- 3 tbsp plus 4 tsp lemon juice
 - 3 large eggs
-- 1 ½ teaspoons baking powder
-- ¼ teaspoon baking soda
-- ¼ teaspoon fine sea salt
-- ⅔ cup extra-virgin olive oil
-- 1 tablespoon poppy seeds
-- ½ cup confectioners’ sugar
+- 1 1/2 tsp baking powder
+- 1/4 tsp baking soda
+- 1/4 tsp fine sea salt
+- 2/3 cup extra-virgin olive oil
+- 1 tbsp poppy seeds
+- 1/2 cup confectioners’ sugar
 
 ## Directions
 
-Heat oven to 350 degrees. Butter and flour an 8-inch loaf pan.
+Heat oven to 350°F. Butter and flour an 8-inch loaf pan.
 
-In a bowl, combine lemon zest and sugar and rub with your fingers until it looks like wet sand. Whisk in buttermilk, 3 tablespoons lemon juice and eggs. In a separate bowl, whisk together flour, baking powder, baking soda and salt. Whisk dry ingredients into the batter, then whisk in oil and poppy seeds.
+In a bowl, combine lemon zest and sugar and rub with your fingers until it looks like wet sand. Whisk in buttermilk, 3 tbsp lemon juice and eggs. In a separate bowl, whisk together flour, baking powder, baking soda and salt. Whisk dry ingredients into the batter, then whisk in oil and poppy seeds.
 
 Pour batter into prepared pan. Bake until a toothpick inserted in the center emerges clean, about 1 hour. Let cool in pan until warm to the touch, then turn out onto a baking rack set over a rimmed baking sheet. Turn cake right side up.
 
-Whisk together remaining 4 teaspoons lemon and the confectioners’ sugar. Use a pastry brush to spread glaze evenly over top and sides of cake. Cool completely before slicing.
+Whisk together remaining 4 tsp lemon and the confectioners’ sugar. Use a pastry brush to spread glaze evenly over top and sides of cake. Cool completely before slicing.

@@ -7,7 +7,7 @@ categories:
 cook_time: 1 hour 45 minutes
 created: '2020-08-12 14:08:22'
 difficulty: ''
-hash: 25d8f953523ab90d0dbcf476269f328b4915e57fde6d5f4842bd1699e3059da9
+hash: a32898701c50d769deec968d46f386dd3169f25f1e6fadf583bc74c897a78507
 image_url: https://static01.nyt.com/images/2015/04/29/dining/spicy-chickpeas/spicy-chickpeas-articleLarge.jpg
 in_trash: false
 is_pinned: false
@@ -30,34 +30,34 @@ uid: 7B1D4054-7081-4536-B3AE-8D4A71167B7E-84199-00002AE18E0833EA
 ## Ingredients
 
 - FOR THE CHICKPEAS:
-- 1 ½ cups dried chickpeas, soaked overnight
+- 1 1/2 cups dried chickpeas, soaked overnight
 - 4 garlic cloves
 - 2 sprigs parsley
 - 1 onion, quartered
-- 1 tablespoon olive oil
-- 2 teaspoons sea salt
+- 1 tbsp olive oil
+- 2 tsp sea salt
 - FOR THE SAUCE:
-- 3 tablespoons mustard oil or vegetable oil
+- 3 tbsp mustard oil or vegetable oil
 - 1 large onion, finely diced
 - 1 bay leaf
 - 3 garlic cloves
-- 2 tablespoons grated ginger
-- 2 teaspoons ground coriander
-- 2 teaspoons ground cumin
-- ¼ teaspoon ground cardamom
-- ½ teaspoon salt
-- ½ teaspoon freshly ground black pepper
+- 2 tbsp grated ginger
+- 2 tsp ground coriander
+- 2 tsp ground cumin
+- 1/4 tsp ground cardamom
+- 1/2 tsp salt
+- 1/2 tsp freshly ground black pepper
 - 3 tomatoes, peeled and diced
-- 1 ½ cups chickpea broth or water
+- 1 1/2 cups chickpea broth or water
 - Juice of 1/2 lemon
-- 2 tablespoons diced onion
-- 1 teaspoon minced jalapeno pepper
-- 2 tablespoons chopped cilantro
+- 2 tbsp diced onion
+- 1 tsp minced jalapeno pepper
+- 2 tbsp chopped cilantro
 
 ## Directions
 
 Drain the chickpeas. Put them in a saucepan, cover with 3 quarts fresh water, and boil for 10 minutes. Skim off any foam that collects on the surface, then lower the heat. Add the garlic, parsley, onion and oil. Simmer, partly covered, until the peas are almost tender, about 45 minutes. Add the salt, and continue cooking until the peas are completely tender but not mushy, about 30 minutes more. Strain, reserving the broth. This should yield about 3 cups chickpeas.
 
-For the sauce, warm the oil in a large skillet over medium heat. Add the onion, and cook, stirring frequently, until well browned, 12 to 15 minutes. Lower the heat, and add the bay leaf, garlic, ginger, spices, salt, pepper and two-thirds of the diced tomatoes. Cook for 5 minutes.
+For the sauce, warm the oil in a large skillet over medium heat. Add the onion, and cook, stirring frequently, until well browned, 12-15 minutes. Lower the heat, and add the bay leaf, garlic, ginger, spices, salt, pepper and two-thirds of the diced tomatoes. Cook for 5 minutes.
 
 Add the reserved chickpea broth and the chickpeas. Simmer until the liquid is reduced to a saucelike consistency. Adjust the seasonings, and add lemon juice to taste. Serve accompanied by the remaining diced tomato, diced onion, minced jalapeno and chopped cilantro or scatter them over the chickpeas.

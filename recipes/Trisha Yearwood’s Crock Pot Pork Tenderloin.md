@@ -7,7 +7,7 @@ categories:
 cook_time: 4 hours
 created: '2021-09-01 14:23:18'
 difficulty: ''
-hash: 378e0992cb246dbfa419b16bc397d531ed5f3a17b26e1063f57c181bcf44e738
+hash: f80ac5a48354025c64a442c977235b7456a06eae118e256b8e4e4e10b5c4965f
 image_url: https://sparklesofyum.com/wp-content/uploads/2018/01/trishayearwood_N4-188x300.jpg
 in_trash: false
 is_pinned: false
@@ -29,16 +29,16 @@ uid: 8B61DA7E-8E64-49A5-8713-A3CE664A070D
 
 ## Ingredients
 
-- 2 & 1/2 to 3 lb pork tenderloin, trimmed of all visible fat (you can also use a pork loin, and get the same results)
-- 1 teaspoon granulated garlic powder
-- 1/4 teaspoon ground ginger
-- 1/2 teaspoon dried thyme
-- 1/2 teaspoon black pepper
-- 1 tablespoon vegetable oil
+- 2 & 1/2-3 lb pork tenderloin, trimmed of all visible fat (you can also use a pork loin, and get the same results)
+- 1 tsp granulated garlic powder
+- 1/4 tsp ground ginger
+- 1/2 tsp dried thyme
+- 1/2 tsp black pepper
+- 1 tbsp vegetable oil
 - 2 cups chicken broth
-- 2 tablespoons lemon juice
-- 1 tablespoon soy sauce
-- 3 tablespoons cornstarch
+- 2 tbsp lemon juice
+- 1 tbsp soy sauce
+- 3 tbsp cornstarch
 - salt and pepper, to taste
 
 ## Directions
@@ -47,7 +47,7 @@ Season the pork loin lightly with salt. In a small bowl combine the garlic powde
 
 In a skillet heat the oil and brown the pork loin on all sides. Transfer the pork to the crock pot. Combine the chicken broth, lemon juice, and soy sauce; pour over the pork loin.
 
-Cover and cook on low heat for 8 to 10 hours, or on high for 4 to 5. (Instapot cook on Meat setting for 45 minutes, with a 15 minute release)
+Cover and cook on low heat for 8-10 hours, or on high for 4-5. (Instapot cook on Meat setting for 45 minutes, with a 15 minute release)
 
 After cooking, transfer the roast to a platter and cover with foil to keep warm.
 

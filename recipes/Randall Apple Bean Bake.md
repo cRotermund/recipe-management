@@ -7,7 +7,7 @@ categories:
 cook_time: ''
 created: '2020-12-13 14:48:30'
 difficulty: ''
-hash: 2bbcb76e3340ccf621c2c5c99c10fd042112962a27e0d84b82f0852e387339a0
+hash: b0520cbe4446199658d9655e470790b76732d1af42b93af3ab67f6bb2e9a80c4
 image_url: https://randallbeans.com/wp-content/uploads/2013/05/apple-bean-bake.jpeg
 in_trash: false
 is_pinned: false
@@ -29,15 +29,15 @@ uid: 41D652E9-FC4F-4579-A6C8-CB42C008511A-43240-00001B2B170D9988
 
 ## Ingredients
 
-- 1 48-ounce jar Randall Great Northern Beans, drained
-- 4 tablespoons butter
+- 1 (48 oz) jar Randall Great Northern Beans, drained
+- 4 tbsp butter
 - 2 large Granny Smith or any type of cooking apples, cubed (3 cups)
 - 1/2 cup brown sugar
 - 1/4 cup white sugar
 - 1/2 cup ketchup
-- 1 teaspoon cinnamon
-- 1 tablespoon molasses
-- 1 teaspoon salt
+- 1 tsp cinnamon
+- 1 tbsp molasses
+- 1 tsp salt
 
 ## Directions
 
@@ -47,4 +47,4 @@ Add brown sugar and white sugar, stir and cook until sugar is melted.
 
 Stir in catsup, cinnamon, molasses, and salt. Add beans and mix well.
 
-Pour mixture into 2 quart casserole. Bake in a 400 degree oven for about 1 hour. Serves 6 to 8.
+Pour mixture into 2 quart casserole. Bake in a 400°F oven for about 1 hour. Serves 6-8.

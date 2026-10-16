@@ -7,7 +7,7 @@ categories:
 cook_time: ''
 created: '2022-10-12 12:53:17'
 difficulty: ''
-hash: 11bfa76ef227d00b0137ed3e2bfb29b1454417a441d99164b7e88be51935df1d
+hash: 674065ad64d1ae2b761e8525cfeb4fbc6ebdf8b92fbfb813acfbee3504d21c4b
 image_url: https://static01.nyt.com/images/2017/09/28/dining/28COOKING-APPLEBUTTER/28COOKING-APPLEBUTTER-articleLarge.jpg
 in_trash: false
 is_pinned: false
@@ -29,7 +29,7 @@ uid: 7FC9363E-B92D-49CB-AA6D-B4EB7B0C7C58
 
 ## Ingredients
 
-- 4 pounds apples (about 10 to 12 medium), washed, unpeeled, uncored, cut into 1-inch chunks
+- 4 lb apples (about 10-12 medium), washed, unpeeled, uncored, cut into 1-inch chunks
 - 1/2 cup apple cider vinegar
 - 3 allspice berries (optional)
 - 2 cinnamon sticks (optional)
@@ -41,22 +41,22 @@ uid: 7FC9363E-B92D-49CB-AA6D-B4EB7B0C7C58
 
 ## Directions
 
-Combine apples, vinegar, allspice berries (if using), cinnamon sticks (if using), ginger (if using), star anise pod (if using) and 4 cups water in a large, heavy bottomed pot over high heat. Bring to a simmer and reduce heat to medium-low. Cook, stirring occasionally, until the apples are completely softened and the liquid has reduced by half, 30 to 40 minutes. (Some pieces of apple might float at first; they will sink and become submerged as they soften.) Remove from heat and let cool slightly.
+Combine apples, vinegar, allspice berries (if using), cinnamon sticks (if using), ginger (if using), star anise pod (if using) and 4 cups water in a large, heavy bottomed pot over high heat. Bring to a simmer and reduce heat to medium-low. Cook, stirring occasionally, until the apples are completely softened and the liquid has reduced by half, 30-40 minutes. (Some pieces of apple might float at first; they will sink and become submerged as they soften.) Remove from heat and let cool slightly.
 
 Leaving behind allspice berries, cinnamon sticks and star anise pod, pass the apples through a food mill. (Alternatively, working in batches, ladle apples into a strainer or colander, and using a ladle, wooden spoon or spatula, press apples to pass pulp through, leaving behind seeds and skin.)
 
-To finish on the stovetop: Place apple pulp in the same large, heavy-bottomed pot, add granulated sugar and light brown sugar and stir to dissolve. Cook on medium-low heat, stirring occasionally, until mixture is thick, glossy and a deep golden brown (somewhere between honey and molasses), 2 to 2 1/2 hours. (Around the 1 1/2-hour mark, things will start to bubble rather violently. Stirring constantly will help, but expect, and be careful of, a few splatters.) To test the thickness, spoon a bit onto a plate: The mixture should set almost immediately with no spreading or wateriness. If it’s not there yet, cook another 8 to 10 minutes and test again. When the desired consistency is reached, season with kosher salt.
+To finish on the stovetop: Place apple pulp in the same large, heavy-bottomed pot, add granulated sugar and light brown sugar and stir to dissolve. Cook on medium-low heat, stirring occasionally, until mixture is thick, glossy and a deep golden brown (somewhere between honey and molasses), 2-2 1/2 hours. (Around the 1 1/2-hour mark, things will start to bubble rather violently. Stirring constantly will help, but expect, and be careful of, a few splatters.) To test the thickness, spoon a bit onto a plate: The mixture should set almost immediately with no spreading or wateriness. If it’s not there yet, cook another 8-10 minutes and test again. When the desired consistency is reached, season with kosher salt.
 
-To finish in the oven: Heat oven to 300 degrees. Place apple pulp in a 9-inch by 13-inch (3-quart) baking dish, add granulated sugar and light brown sugar and stir to dissolve. Place in oven and let cook, stirring every 30 minutes or so, until mixture is thick, glossy and a deep, golden brown color (somewhere between honey and molasses), 3 to 3 1/2 hours. To test the thickness, spoon a bit onto a plate: The mixture should set almost immediately with no spreading or wateriness. If it’s not there yet, cook another 20 to 30 minutes and test again. When the desired consistency is reached, season with kosher salt.
+To finish in the oven: Heat oven to 300°F. Place apple pulp in a 9-inch by 13-inch (3-quart) baking dish, add granulated sugar and light brown sugar and stir to dissolve. Place in oven and let cook, stirring every 30 minutes or so, until mixture is thick, glossy and a deep, golden brown color (somewhere between honey and molasses), 3-3 1/2 hours. To test the thickness, spoon a bit onto a plate: The mixture should set almost immediately with no spreading or wateriness. If it’s not there yet, cook another 20-30 minutes and test again. When the desired consistency is reached, season with kosher salt.
 
 ## Nutritional Information
 
-Fat: 0 grams
+Fat: 0 g
 Calories: 311
-Saturated Fat: 0 grams
-Unsaturated Fat: 0 grams
+Saturated Fat: 0 g
+Unsaturated Fat: 0 g
 Sodium: 19 milligrams
-Sugar: 72 grams
-Fiber: 5 grams
-Carbohydrate: 80 grams
-Protein: 1 gram
+Sugar: 72 g
+Fiber: 5 g
+Carbohydrate: 80 g
+Protein: 1 g

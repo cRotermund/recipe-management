@@ -7,7 +7,7 @@ categories:
 cook_time: 15 min
 created: '2022-01-31 21:21:29'
 difficulty: Easy
-hash: 1c7b7d1fb723c2cc8057fbb312ac22b1b91379df8cbf317304647633717f2b17
+hash: ca331fa1cb40a70dad8619e15810aba9b8eb571422583c1dbe299bfb294b2bce
 image_url: null
 in_trash: false
 is_pinned: false
@@ -27,12 +27,12 @@ uid: D26091C5-921B-4A68-BC4D-95643B2E78D5
 
 ## Ingredients
 
-- 100g extra firm tofu
+- 100 g extra firm tofu
 - 4-5 pieces garlic small piece ginger
 - 3 sticks green onion
 - 3 tbsp avocado oil
 - 3 tsp dark soy sauce
-- 150g knife pare noodles
+- 150 g knife pare noodles
 - 1 tbsp gochugaru
 - 1 tbsp plantbased oyster sauce
 
