@@ -9,7 +9,7 @@ The `paprika-recipes` tool provides two-way synchronization with Paprika. Its co
 - `recipes/`: the Paprika recipe working directory.
 - `recipes/*.md`: one Markdown file per recipe.
 - `recipes/attachments/`: downloaded recipe photos and locally prepared replacement photos.
-- `recipes/.paprika/`: tool-managed sync state. It contains the account configuration, pristine base copies, and photo bookkeeping required for change detection and three-way merges. Do not edit it manually.
+- `recipes/.paprika/`: tool-managed sync state. It contains the account configuration, pristine base copies, and photo bookkeeping required for change detection and three-way merges. Do not edit it manually. It is **not committed to this repository** (it contains the account email and Paprika photo URLs with signed credentials); see [Setting Up a New Clone](#setting-up-a-new-clone).
 - `AGENTS.md`: instructions for AI agents working in this workspace.
 
 The synchronization tool is not vendored in this repository. See [Tooling](#tooling).
@@ -114,6 +114,18 @@ If you already cloned without it, run:
 ```powershell
 git submodule update --init --recursive
 ```
+
+## Setting Up a New Clone
+
+`recipes/.paprika/` is local-only. On a fresh clone (or a new machine), it must be recreated before editing, or the tool cannot detect local changes against the last pull. Run:
+
+```powershell
+Set-Location D:\Development\recipe-management\recipes
+paprika-recipes pull --dry-run
+paprika-recipes pull
+```
+
+Do not make recipe edits in a fresh clone until `pull` has completed, and do not run `push` until `status` reports the expected state.
 
 ## Tooling
 
