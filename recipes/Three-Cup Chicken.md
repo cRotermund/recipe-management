@@ -7,7 +7,7 @@ categories:
 cook_time: ''
 created: '2024-05-27 13:29:21'
 difficulty: ''
-hash: 08591cdd7ebd6690f004b5a0d79a15235e5b59d93a16aed51d29622b2bf41599
+hash: 05ece5b48cb0f255aa78c77f2839370260b34353ca8e1ee267eabbfd7fea3d5e
 image_url: https://static01.nyt.com/images/2024/05/01/multimedia/SS-Three-Cup-Chicken-wqjc/SS-Three-Cup-Chicken-wqjc-square640.jpg
 in_trash: false
 is_pinned: false
@@ -30,7 +30,7 @@ uid: 820BD898-C655-440C-A543-60C7582C0EA7
 ## Ingredients
 
 - 3 tbsp sesame oil
-- 1 2-to-3-inch piece of ginger, peeled and sliced into coins, approximately 12
+- 1 2-to-3-inch piece of ginger, peeled and sliced into coins
 - 12 garlic cloves, peeled
 - 4 whole scallions, trimmed and cut into 1-inch pieces
 - 3 dried red peppers or 1 tsp red-pepper flakes

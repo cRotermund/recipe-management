@@ -7,7 +7,7 @@ categories:
 cook_time: 1 hour
 created: '2020-12-20 15:32:35'
 difficulty: ''
-hash: d0ba8cde9cbd510d113bf34562d46c9d7908f16e7edeb0e1f4cd60290cd44154
+hash: f5819d3041330cedb1fb8f4dd2ec1d3efbaf1871d8ea9f643f8e570565b1f87a
 image_url: https://static01.nyt.com/images/2020/12/14/dining/ss-chocolate-filled-oatmeal-cookies/merlin_178579281_446eb888-c84f-44b4-bb31-b2e5bc515cc7-articleLarge.jpg
 in_trash: false
 is_pinned: false
@@ -30,19 +30,19 @@ uid: E0CBD0F6-C066-4075-82E9-0FDE63510BC7
 ## Ingredients
 
 - FOR THE COOKIE DOUGH:
-- 1/2 cup/115 g unsalted butter (1 stick), at room temperature
-- 3/4 cup/165 g dark brown sugar
-- 1/2 cup/100 g granulated sugar
+- 1/2 cup (115 g) unsalted butter (1 stick), at room temperature
+- 3/4 cup (165 g) dark brown sugar
+- 1/2 cup (100 g) granulated sugar
 - 1 large egg
 - 2 tsp pure vanilla extract
-- 1 1/2 cups/150 g quick-cooking or old-fashioned oats
-- 1 cup/130 g all-purpose flour
+- 1 1/2 cups (150 g) quick-cooking or old-fashioned oats
+- 1 cup (130 g) all-purpose flour
 - 1/2 tsp baking powder
 - 1/2 tsp ground cinnamon
 - 1/2 tsp kosher salt
 - FOR THE FILLING:
 - 3 tbsp heavy cream
-- 3/4 cup/115 g finely chopped semisweet or bittersweet chocolate
+- 3/4 cup (115 g) finely chopped semisweet or bittersweet chocolate
 - 1/2 tsp pure vanilla extract
 - A generous pinch kosher salt
 

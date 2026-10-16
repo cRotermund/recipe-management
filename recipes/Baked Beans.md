@@ -7,7 +7,7 @@ categories:
 cook_time: ''
 created: '2022-04-10 10:30:54'
 difficulty: ''
-hash: 78d2efd3d3d0897810af971719d7af114cf798227715e76261b810789b98537b
+hash: 591d81373e48951ff6aea5839a3fa00d11855208ea5cb8ac0a94f4603629d0c0
 image_url: null
 in_trash: false
 is_pinned: false
@@ -29,7 +29,7 @@ uid: F0DC7BBF-5415-4A69-8194-042ED156C830
 
 ## Ingredients
 
-- 2 large cans b beans  Original flavor Bush's beans  (or 4 small)
+- 2 large cans baked beans  Original flavor Bush's beans  (or 4 small)
 - 1/3 cup brown sugar
 - 1/2 tsp dry mustard
 
