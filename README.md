@@ -14,12 +14,6 @@ The `paprika-recipes` tool provides two-way synchronization with Paprika. Its co
 
 The synchronization tool is not vendored in this repository. See [Tooling](#tooling).
 
-## Important Safety Rule
-
-**Never push recipe data to Paprika without explicit approval from the owner after the proposed changes have been reviewed.**
-
-This applies to `paprika-recipes push`, including new recipes, edits, photo changes, and deletions. Before uploading anything, review the proposed changes and the dry-run plan.
-
 ## Everyday Workflow
 
 Run commands from the `recipes/` directory. The tool is installed globally through `pipx` and is invoked as `paprika-recipes`; the local shell alias `pap` may also be available.
