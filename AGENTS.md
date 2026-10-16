@@ -53,7 +53,9 @@ Do not manually edit, delete, regenerate, or “clean up” `.paprika/`. Its bas
 
    Report the exact operations and affected recipes to the owner and wait for explicit approval.
 
-6. Only after approval, run `paprika-recipes push`. Then run `paprika-recipes status` and report the result. If the command reports conflicts, refused recipes, or unexpected operations, stop and ask for direction.
+6. Immediately before a real push, re-run `paprika-recipes push --dry-run`. Approval applies only to the plan that was shown, and Paprika may have changed since. If the operations differ from the approved plan, stop and ask again.
+
+7. Only after approval and a matching re-check, run `paprika-recipes push`. Then run `paprika-recipes status` and report the result. If the command reports conflicts, refused recipes, or unexpected operations, stop and ask for direction.
 
 ## Pull, Merge, and Restore
 

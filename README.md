@@ -62,6 +62,34 @@ paprika-recipes status
 
 Run `status` afterward to confirm the result. If the push reports conflicts or refuses a recipe, stop and review the problem before trying again.
 
+## Working With the Agent
+
+The agent (OpenCode) can read, edit, and sync these recipes for you. The `paprika-sync` skill (`.opencode/skills/paprika-sync/`) defines how it does this. Here is what to expect.
+
+### What the agent does on its own
+
+- **Checks Paprika at the start of every session.** It runs a pull preview and, if Paprika has changed (for example, from an edit on another device), pulls those changes and commits them to `main` as `paprika: pull <timestamp>`. Changes made in the app are treated as routine.
+- **Merges independent changes.** If you and Paprika both edited a recipe, the agent attempts the merge and reports what it combined.
+- **Edits local files** and reports the diff.
+
+### What the agent will ask you about
+
+- **Destructive merges.** It stops and asks if a merge would remove a recipe, drop a whole Ingredients or Directions passage, remove or replace a photo, leave a title/rating/time unresolved, or change more than 10 lines of a single recipe.
+- **Every upload.** Nothing is sent to Paprika without your explicit yes. The agent will show you the exact plan from a dry run (new recipes, edited recipes, photo changes, trashed recipes) and wait. Approval covers only that plan. If Paprika changes before the real push, the agent re-checks and asks again.
+
+### What the agent will not do
+
+- Commit recipe edits to `main` that have not been pushed to Paprika.
+- Edit or delete the `recipes/.paprika/` sync state.
+- Push based on an earlier approval for a different plan.
+
+### How to ask for things
+
+- Be specific about recipe titles and the change you want ("Add a note to Chicken Soup: freeze for up to 3 months").
+- If you want to review before anything is saved, say so ("show me the dry run only").
+- To discard local edits, ask the agent to restore the recipe (no Paprika contact).
+- After a push, expect a `push: <summary>` commit on `main` and a clean `status`. If you edited in the app since the last pull, expect a `paprika: pull` commit first.
+
 ## Undoing Local Changes
 
 `restore` returns recipes to their last synchronized local state without contacting Paprika:
