@@ -7,7 +7,7 @@ categories:
 cook_time: 35 minutes
 created: '2022-07-21 10:04:37'
 difficulty: ''
-hash: 008c210baf607b0c40ff2f25db53c006da1016d3924674e1068fe661ef49e7c3
+hash: 8c2152a5aa017fb3558878985bac3d91db2f938ac31a9fb03c9d5077cadbceaf
 image_url: https://static01.nyt.com/images/2022/06/29/dining/27COOKOUTREX2-double-tomato-pasta-salad/merlin_207624003_5bb1aeca-1a30-4c82-8964-fada2992127c-articleLarge.jpg
 in_trash: false
 is_pinned: false
@@ -35,7 +35,7 @@ uid: 7E491BA9-0417-4667-8772-DCB929497680
 - 2 garlic cloves, finely grated
 - Kosher salt (such as Diamond Crystal)
 - Freshly ground black pepper
-- 1 lb long or twirly noodles, like linguine or fusilli
+- 1 lb fusilli
 - 2 lb ripe tomatoes
 - Lemon juice or red wine vinegar, to taste
 - 2 cups torn basil, mint, dill or arugula leaves, or a combination

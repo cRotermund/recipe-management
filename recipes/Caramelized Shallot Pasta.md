@@ -7,7 +7,7 @@ categories:
 cook_time: 40 minutes
 created: '2020-02-02 12:05:52'
 difficulty: ''
-hash: af9fee7b080842bd751cc0fd8379cd125b5543867b007025b76186b5fe9dbbf0
+hash: c64ef743c23133f0e20e71c3fb6083627982a2e01c5d7532a16a31639d00d167
 image_url: https://static01.nyt.com/images/2020/01/29/dining/27Romanrex/merlin_167079174_ecc032e7-071b-44ab-8852-0d5025d0e90d-articleLarge.jpg
 in_trash: false
 is_pinned: false
@@ -36,7 +36,7 @@ uid: 075F4720-050F-44E9-874A-367BFCCA53B4-10580-0000082ACB86815B
 - 1 tsp red-pepper flakes, plus more to taste
 - 1 (2 oz) can anchovy fillets (about 12), drained
 - 1 (4.5 oz) tube or (6 oz) can of tomato paste (about 1/2-3/4 cup)
-- 10 oz pasta
+- 10 oz bucatini
 - 1 cup parsley, leaves and tender stems, finely chopped
 - Flaky sea salt
 

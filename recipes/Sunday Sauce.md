@@ -7,7 +7,7 @@ categories:
 cook_time: ''
 created: '2022-05-16 12:38:44'
 difficulty: ''
-hash: af561dd32a5c88ff2ce9d9ce2b2d158b200e6350d84583b491d36cdb0298ef38
+hash: 01f883dd797f3f5f0284dcbf449b7195b82b186a57929f39ac123dfb7336f113
 image_url: https://static01.nyt.com/images/2022/02/08/dining/as-sunday-sauce/merlin_201238980_104949b5-4fa9-4f9d-83a5-c0c7d26a4ec1-articleLarge.jpg
 in_trash: false
 is_pinned: false
@@ -39,7 +39,7 @@ uid: 38C9F735-6231-432D-9089-58E441F1A358
 - 2 (28 oz) cans crushed tomatoes
 - 3 basil sprigs
 - 1 lb uncooked homemade or store-bought meatballs
-- 1 1/2 lb tubular or long noodles, like rigatoni or spaghetti
+- 1 1/2 lb rigatoni
 - Grated Parmesan or pecorino, for serving
 
 ## Directions

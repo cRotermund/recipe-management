@@ -7,7 +7,7 @@ categories:
 cook_time: ''
 created: '2025-10-04 22:56:24'
 difficulty: ''
-hash: 4ef255ae8c702cd85187b133728cb15f282fbc7dbb61065edbe42ab5d4b2112f
+hash: 50a129aff991ce3577b2c67505aca448f4d6869b8b6989c3e0b954521d0ba079
 image_url: https://static01.nyt.com/images/2021/03/30/dining/yf-chicken-with-mushrooms-and-onions/merlin_185308269_36ffc313-cc76-49cf-b406-3e6e20a4d34f-videoSixteenByNineJumbo1600.jpg
 in_trash: false
 is_pinned: false
@@ -40,7 +40,7 @@ uid: 13DD9B73-4D33-4F68-9861-E095AC77B32B
 - 3/4 lb cremini mushrooms, stems removed and thinly sliced (about 4 cups)
 - 1/2 cup fresh flat-leaf parsley or dill leaves and fine stems, roughly chopped
 - 1/4 cup grated Parmesan or pecorino (optional)
-- Bread or cooked pasta, for serving
+- Bread or cooked linguine, for serving
 
 ## Directions
 

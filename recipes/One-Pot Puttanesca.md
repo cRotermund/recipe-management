@@ -7,7 +7,7 @@ categories:
 cook_time: ''
 created: '2022-02-08 21:08:14'
 difficulty: ''
-hash: eadfb0b232681bb50fb8d78efe06a1d61161bec37150935f101555f2038b8e1f
+hash: 85c38c9fa73a780a7069c652e51c2b080d0919995521b224df18fb5dc965731f
 image_url: https://assets.bonappetit.com/photos/61f7f1b95851a853ef804dbe/1:1/w_2560%2Cc_limit/puttanesca.jpg
 in_trash: false
 is_pinned: false
@@ -37,7 +37,7 @@ uid: 298EC636-5FCA-4ACD-B1B4-4323855B0E88
 - 3 tbsp drained capers
 - 1/2 tsp Diamond Crystal or 1/4 tsp Morton kosher salt, plus more
 - 1/4 tsp crushed red pepper flakes, plus more for panko
-- 8 oz small pasta (such as ditalini, orzo, or mini shells; about 1 1/2 cups)
+- 8 oz ditalini (about 1 1/2 cups)
 - 5 oz baby spinach (about 4 1/2 cups)
 - 1/2 cup panko
 

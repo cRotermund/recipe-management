@@ -7,7 +7,7 @@ categories:
 cook_time: 45 minutes
 created: '2020-02-20 19:31:52'
 difficulty: ''
-hash: 6ebceb7cfd512e7b08f589f6887de2628004802b35ec924c7c7dbb0a80f8d928
+hash: 144c64d79989e4bbf7a9d361e71fad1c5a65f297f571f02eb803432a7ec5d413
 image_url: https://static01.nyt.com/images/2018/12/01/dining/mb-pasta-with-chicken-and-mushrooms/merlin_147141321_b4c21206-fd33-4da0-a0d3-05faa52589f5-articleLarge.jpg
 in_trash: false
 is_pinned: false
@@ -33,7 +33,7 @@ uid: 3CA13949-A4C2-4BB9-9279-D2BBCCE06FEE-27939-0000158A731CE9BB
 - 1 shallot or small onion, chopped
 - 1 tbsp minced garlic
 - 2 cups crimini, shiitake or button mushrooms, cleaned, trimmed and sliced
-- 1/2 lb cut pasta like gemelli or penne, or long pasta broken into bits
+- 1/2 lb penne
 - Salt and freshly ground black pepper
 - 1/2 cup dry white wine or water
 - 3-4 cups chicken or vegetable stock
