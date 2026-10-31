@@ -6,6 +6,8 @@ This workspace contains a Paprika recipe working directory. The installed `papri
 
 Recipe measurement and unit text must follow [`docs/unit-style.md`](docs/unit-style.md) (abbreviations, fractions, ranges, cans, garlic, temperatures, and metric rules). Apply it to any recipe you edit.
 
+Cooked recipes open their Directions with a mise en place guide. Follow [`docs/mise-en-place-style.md`](docs/mise-en-place-style.md) when adding or editing one; [`docs/mise-en-place-manifest.md`](docs/mise-en-place-manifest.md) records which recipes are in scope.
+
 ## Non-Negotiable Remote Safety Rule
 
 **Do not send recipe data to Paprika without explicit approval from the owner after the proposed changes have been shown and reviewed.**

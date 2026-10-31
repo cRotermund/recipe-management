@@ -12,6 +12,7 @@ The `paprika-recipes` tool provides two-way synchronization with Paprika. Its co
 - `recipes/.paprika/`: tool-managed sync state. It contains the account configuration, pristine base copies, and photo bookkeeping required for change detection and three-way merges. Do not edit it manually. It is **not committed to this repository** (it contains the account email and Paprika photo URLs with signed credentials); see [Setting Up a New Clone](#setting-up-a-new-clone).
 - `AGENTS.md`: instructions for AI agents working in this workspace.
 - `docs/unit-style.md`: the standard syntax for measurements, fractions, ranges, and temperatures in recipe text. Follow it when editing recipes.
+- `docs/mise-en-place-style.md`: the layout and rules for the "Mise en place guide" at the top of each cooked recipe's Directions. `docs/mise-en-place-manifest.md` lists which recipes are in scope.
 
 The synchronization tool is not vendored in this repository. See [Tooling](#tooling).
 
