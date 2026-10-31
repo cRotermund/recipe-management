@@ -42,6 +42,13 @@ uid: 1996B7F9-1BC7-4C47-B7CF-6014ECA350BD
 
 ## Directions
 
+Mise en place guide:
+- Medium heatproof bowl: 1 1/2 tbsp red-pepper flakes; 1 1/2 tbsp soy sauce; 1 1/2 tsp sesame oil (set next to the stovetop)
+- Small bowl: 6 tbsp peanuts, coarsely chopped; rind of 1/2 orange, peeled into 2-3 inch strips
+- Measuring cup: 1/2 cup neutral oil
+- Small dish: 1 tbsp neutral oil
+- Small dish: 3 tbsp finely chopped chives, for serving
+
 In a medium heatproof bowl, stir together the red-pepper flakes, soy sauce and sesame oil. Set next to the stovetop.
 
 Bring a large pot of salted water to boil. Meanwhile, in a large (12-inch) skillet over medium heat, cook the 1/2 cup oil, peanuts and orange rind, shaking the pan occasionally, until the peanuts are golden and bubbling, 3-5 minutes. Immediately pour the contents of the skillet over the red-pepper mixture (be careful of splattering!) and set aside.

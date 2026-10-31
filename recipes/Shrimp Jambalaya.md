@@ -49,6 +49,16 @@ uid: 8E5F3A8B-EC14-4965-A2A4-8DD5FD4640E7
 
 ## Directions
 
+Mise en place guide:
+- Tray: 2 lb shrimp, peeled and deveined (save shells for broth); keep cold until the end
+- Small dish: 2 tbsp flour
+- Bowl: 1 cup chopped onion; 1 cup chopped green onions; 1 cup chopped green pepper; 1 cup chopped celery; 1 tbsp minced garlic
+- Small bowl: 1 cup cooked ham, cut into 1/2-inch cubes
+- Bowl: 2 cups crushed tomatoes; 1/2 tsp dried thyme; 1 tsp dried oregano
+- Measuring cup: 1 cup uncooked long-grain rice (optional)
+- Measuring cup: 5 cups shrimp broth or water
+- Small dish: 1/2 cup chopped green onions, for garnish (optional)
+
 Peel and devein the shrimp. The shells may be used to make a broth (see recipe).
 
 Heat the oil in a kettle or large saucepan with a heavy bottom over medium heat. Add the flour, and cook, stirring constantly, until lightly browned. Do not burn.

@@ -42,6 +42,12 @@ uid: 74D49BCA-E957-43B1-96EF-2C127D43FF49-10855-000003446A3F3098
 
 ## Directions
 
+Mise en place guide:
+- Small dish: 3 tbsp minced garlic (9 cloves)
+- Small bowl: 1/3 cup dry white wine; 1 tbsp lemon zest; 2 tbsp lemon juice; 1 1/2 tsp dried oregano; 1 tsp minced fresh thyme; 1 tsp salt
+- Tray: 4 chicken breasts, patted dry
+- Cutting board: 1 lemon, cut in 8 wedges
+
 Preheat the oven to 400°F.
 
 Warm the olive oil in a small saucepan over medium-low heat, add the garlic, and cook for just 1 minute but don’t allow the garlic to turn brown. Off the heat, add the white wine, lemon zest, lemon juice, oregano, thyme, and 1 tsp salt and pour into a 9 × 12-inch baking dish.

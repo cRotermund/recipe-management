@@ -41,6 +41,13 @@ uid: 41D652E9-FC4F-4579-A6C8-CB42C008511A-43240-00001B2B170D9988
 
 ## Directions
 
+Mise en place guide:
+- Small dish: 4 tbsp butter
+- Bowl: 2 large apples, cubed (3 cups)
+- Small bowl: 1/2 cup brown sugar; 1/4 cup white sugar
+- Small bowl: 1/2 cup ketchup; 1 tsp cinnamon; 1 tbsp molasses; 1 tsp salt
+- Colander: 1 (48 oz) jar beans, drained
+
 In large skillet, melt butter, add cubed apples and cook until tender.
 
 Add brown sugar and white sugar, stir and cook until sugar is melted.

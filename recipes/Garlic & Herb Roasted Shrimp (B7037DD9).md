@@ -42,6 +42,14 @@ uid: B7037DD9-6F5A-401D-8DA4-77A10BB1C4F9
 
 ## Directions
 
+Mise en place guide:
+- Small dish: 1/4 lb (1 stick) unsalted butter
+- Small bowl: 2 tbsp olive oil; 2 tbsp minced garlic (6 cloves); 2 tsp minced fresh rosemary; 1/4 tsp crushed red pepper flakes; 1 tsp kosher salt; 1/2 tsp black pepper
+- Cutting board: zest of 1 lemon; then 5 slices (1/4-inch thick) cut from that zested lemon, ends sliced off
+- Large ovenproof pan: 2 lb shrimp, peeled with tails on, arranged snugly in one layer
+- Small dish: 1 tsp coarse sea salt; 1/2 tsp black pepper
+- Plate: 1 lemon, halved; 4 slices country bread, toasted (toast just before serving)
+
 Preheat the oven to 400°F.
 
 Melt the butter over low heat in a medium (10-inch) saute pan. Add the olive oil, garlic, rosemary, red pepper flakes, 1 tsp kosher salt, and 1/2 tsp black pepper and cook over low heat for one minute. Off the heat, zest one of the lemons directly into the butter mixture.

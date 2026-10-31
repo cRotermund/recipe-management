@@ -42,6 +42,16 @@ uid: 2EB1D52F-E995-404A-9A76-68DBF746953E
 
 ## Directions
 
+Mise en place guide:
+- Tray: 6 chicken thighs, patted dry and seasoned all over with salt and pepper
+- Small dish: 3 tbsp butter; set aside 2 tbsp for browning and 1 tbsp for finishing
+- Bowl: 1 fennel bulb, chopped; 1 leek, white and pale green parts only, chopped
+- Small bowl: 8 oz orzo
+- Measuring cup: 1/3 cup dry white wine
+- Measuring cup: 2 1/2 cups low-sodium chicken broth (add 1/2 cup at a time)
+- Small dish: 1 tbsp lemon juice; fennel fronds, chopped; 1 tbsp butter
+- Small dish: 1 tsp finely grated lemon zest
+
 Preheat oven to 400°F. Rain salt and then some pepper all over chicken. Heat 2 tbsp butter in a medium cast-iron skillet over medium-high. Nestle chicken, skin side down, in skillet in a single layer with no gaps (if you can’t quite fit them all, wait until chicken shrinks slightly, then puzzle in the remaining pieces). Cook until meat is opaque around the edges and skin is deep golden brown, 6-8 minutes. Turn chicken skin side up and transfer skillet to oven; bake, uncovered, until chicken is cooked through, 10-15 minutes. Transfer chicken to a plate.
 
 Set same skillet over medium; combine fennel bulb and leek in skillet and sprinkle in some salt and pepper. Cook, tossing occasionally, until leek is looking golden around the edges, about 5 minutes. Add orzo and cook until pasta is darkened (it will take on a brown hue) to a nice nutty brown in spots and toasty smelling, about 3 minutes. Pour in wine and cook, stirring, until liquid is evaporated, about 1 minute. Add broth 1/2 cup at a time, stirring constantly and letting broth absorb before adding more, until orzo is tender and broth is mostly absorbed but pan is not dry, 10-15 minutes.

@@ -45,6 +45,11 @@ uid: E9260063-E184-4721-86EF-AD065779B9D8
 
 ## Directions
 
+Mise en place guide:
+- Small bowl: 1/4 cup mayonnaise; 1 tsp olive oil; 2 tsp Dijon mustard; 1 tsp capers; 1 tsp lemon juice; 1 small garlic clove, minced; 1/4 tsp turmeric; 1/4 tsp sea salt; black pepper (the dressing)
+- Cutting board: 6 hard boiled eggs, diced
+- Small dish: pinches of celery seed; 2 tbsp chopped dill; 2 tbsp chopped chives
+
 In a small bowl, whisk together the mayonnaise, olive oil, mustard, capers, lemon juice, garlic, turmeric, salt, and several grinds of black pepper.
 
 Mix in the eggs, then stir in the celery seed, dill, and chives. If desired, lightly mash the mixture if it's too chunky. Chill until ready to serve.

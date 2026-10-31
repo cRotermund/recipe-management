@@ -45,6 +45,13 @@ uid: ADEF96C0-D0AC-48AE-8873-B523A887C435
 
 ## Directions
 
+Mise en place guide:
+- Small dish: 2 garlic cloves, peeled and smashed
+- Small dish: 3 tbsp tomato paste; 1 tsp kosher salt; black pepper or red pepper flakes to taste
+- Bowl: 1 1/2 cups cooked chickpeas, drained and rinsed; 1/2 cup (2 oz) ditalini
+- Measuring cup: 2 cups boiling water
+- Small dish (finishing oil): 2-3 tbsp olive oil; 1 garlic clove, finely chopped; 1 tsp minced rosemary; a pinch of salt and red pepper flakes
+
 In a medium-large heavy-bottomed pot or deep saute pan, heat 2 tbsp olive oil until it shimmers. Add 2 smashed garlic cloves and cook, stirring until it becomes lightly, barely browned but very fragrant. Stir in the tomato paste, salt, and pepper and cook them with the garlic for 30 seconds or so. Add the chickpeas, pasta, and boiling water. Stir to scrape up any browned bits on the bottom of the pot, lower the heat, and simmer until the pasta is cooked and a lot of the liquid has been absorbed, about 15-20 minutes. Taste and adjust seasoning and ladle into bowls.
 
 Make finishing oil: Heat 2-3 tbsp olive oil in a small sauce- or frying pan over medium-low heat with remaining garlic clove, rosemary, a pinch or two of salt and pepper flakes, until sizzling; pull it off the heat as soon as the garlic is going to start taking on color. Drizzle this over bowls of pasta e ceci and eat it right away.

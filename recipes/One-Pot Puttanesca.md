@@ -43,6 +43,14 @@ uid: 298EC636-5FCA-4ACD-B1B4-4323855B0E88
 
 ## Directions
 
+Mise en place guide:
+- Small bowl: 6 garlic cloves, thinly sliced; 2 anchovy fillets; 1/3 cup olive oil
+- Small bowl: 1/2 cup Kalamata olives, coarsely chopped; 6 tbsp tomato paste; 3 tbsp drained capers; 1/2 tsp Diamond Crystal or 1/4 tsp Morton kosher salt; 1/4 tsp crushed red pepper flakes
+- Measuring cup: 4 cups water
+- Bowl: 8 oz ditalini; 5 oz baby spinach
+- Small dish: 2 anchovy fillets; 2 tbsp olive oil
+- Small dish: 1/2 cup panko; a pinch of crushed red pepper flakes; a pinch of salt
+
 Cook garlic, 2 anchovies, and 1/3 cup oil in a medium Dutch oven or other heavy pot over medium heat, stirring and smashing anchovies with a wooden spoon, until garlic starts to brown around the edges, about 3 minutes. Add olives, tomato paste, capers, 1/2 tsp Diamond Crystal or 1/4 tsp Morton kosher salt, and 1/4 tsp red pepper flakes and cook, stirring, until tomato paste turns a shade darker, about 3 minutes.
 
 Add 4 cups water to pot, increase temperature to high, and bring to a boil. Add pasta and spinach, tearing leaves into smaller pieces as you go. Stir to combine, then reduce heat to medium and simmer, stirring often to keep pasta from sticking, until cooked through, 10-12 minutes.

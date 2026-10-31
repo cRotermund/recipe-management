@@ -46,6 +46,12 @@ uid: AFAB946A-A9F9-45BB-B3CA-039670F20088
 
 ## Directions
 
+Mise en place guide:
+- Medium bowl: 2 lemongrass stalks, grated; 1 serrano chile, grated; 3 garlic cloves, grated; 1 piece ginger (1"), grated; 1 tbsp dark brown sugar; 1 tbsp olive oil; 1 tbsp fish sauce; 1 tbsp soy sauce
+- Tray: 1 1/4 lb chicken thighs, seasoned with salt (add to the marinade; can marinate 10 minutes to 2 hours)
+- Small dish: 2 scallions, thinly sliced; 1/2 cup cilantro leaves; sesame seeds
+- Small plate: lime wedges
+
 Prepare a grill for high indirect heat (for a gas grill, leave one or two burners off; for a charcoal grill, bank coals on one side); oil grate. Using a Microplane, finely grate lemongrass, chile (seeds and all!), garlic, and ginger into a medium bowl. (Alternatively, you can chop very finely, then mash to a paste using the side of your knife.) Add brown sugar, oil, fish sauce, and soy sauce and mix well.
 
 Season chicken with salt and add to bowl. Turn as needed to coat completely. Let sit at least 10 minutes and up to 2 hours. (If marinating longer, wait to fire up the grill.)

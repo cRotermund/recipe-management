@@ -42,6 +42,12 @@ uid: 12658B51-F120-4A0B-A933-C7670E263842
 
 ## Directions
 
+Mise en place guide:
+- Large serving plate: 2 1/2 lb ripe tomatoes, cut into 1-2 inch pieces, at room temperature; 1 garlic clove, grated; half of the torn basil; 1 tsp salt; big pinch of black pepper
+- Small bowl: 3 tbsp chile crisp; 2 tbsp rice vinegar; 1 tbsp soy sauce
+- Tray: 1 lb frozen potsticker dumplings (keep frozen until cooking)
+- Small dish: remaining torn basil; 1-2 tbsp crispy fried shallots (optional)
+
 Place the tomatoes on a large serving plate or in a bowl. Add the garlic, half the basil leaves, 1 tsp of salt and a big pinch of black pepper. Toss to combine and set aside.
 
 To make the vinaigrette, combine the chile crisp, rice vinegar and soy sauce and whisk to combine. Taste and if it needs more saltiness, add 1/2 tsp more soy sauce.

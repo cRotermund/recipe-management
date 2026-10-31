@@ -45,6 +45,14 @@ uid: C0372D7B-BC26-480C-A5C6-02D4445AC959-27939-0000158B97312169
 
 ## Directions
 
+Mise en place guide:
+- Small dish: 1 tbsp coriander seeds
+- Bowl: 1 large white onion, peeled and diced (2 cups); 2 large garlic cloves, finely chopped
+- Large bowl: 5 medium carrots, peeled and cut into 1/2-inch pieces; 1 1/2 tsp salt; 3 tbsp white miso
+- Bowl: 1 small head cauliflower, trimmed and cut into florets
+- Small dish: 1/2 tsp lemon zest; 2 tbsp lemon juice (add just before serving)
+- Plate: smoky chile powder; coarse sea salt; cilantro leaves; olive oil for drizzling
+
 In a large, dry pot over medium heat, toast coriander seeds until fragrant and dark golden-brown, 2-3 minutes. Transfer to a mortar and pestle and coarsely crush.
 
 Return the pot to medium heat. Add the oil and heat until warm. Stir in onion; cook, stirring occasionally, until soft and lightly colored, 7-10 minutes. Stir in garlic and cook 1 minute.

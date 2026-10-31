@@ -43,6 +43,14 @@ uid: 01AC1237-4BBA-45C8-98B6-384678D4531A
 
 ## Directions
 
+Mise en place guide:
+- Medium bowl: 1 lb shrimp, peeled and deveined; 1 tbsp olive oil; 1 tbsp lemon zest; 1/2 tsp red-pepper flakes; 1/2 tsp salt; 1/4 tsp pepper; 2 garlic cloves, minced (can marinate up to 1 hour)
+- Small dish: 2 garlic cloves, minced; 2 tbsp butter; 2 tbsp olive oil
+- Small bowl: 1 cup orzo and 1/2 tsp salt
+- Measuring cup: 1/3 cup dry white wine
+- Measuring cup: 2 cups boiling water or stock (heat while the orzo toasts)
+- Small dish: 3 tbsp finely chopped parsley and 1 tbsp lemon juice (from the zested lemon)
+
 In a medium bowl, stir together shrimp, 1 tbsp olive oil, lemon zest, red-pepper flakes, 1/2 tsp salt, 1/4 tsp pepper and half the garlic. Set aside to marinate. (This step can be done up to 1 hour in advance.)
 
 Add butter, remaining olive oil and remaining garlic to a medium skillet set over medium heat. When the butter starts to bubble, add the orzo and 1/2 tsp salt and cook, stirring often, until the orzo is toasted, about 2 minutes, adjusting the heat as necessary to prevent the garlic from burning. Carefully add the wine — it will bubble — and stir until absorbed, about 1 minute. Stir in water, reduce heat to low, cover, and cook until orzo is al dente, about 12 minutes.

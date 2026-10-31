@@ -46,6 +46,18 @@ uid: 7543895F-081C-4C36-9BB5-239555863677
 
 ## Directions
 
+Mise en place guide:
+- Small dish: 1/4 cup ghee
+- Bowl: 2 medium red onions, thinly sliced
+- Small dish: 4 whole dried chiles de árbol; 2 tbsp tomato paste; 2 tsp coriander; 1 tsp pepper; 1/2 tsp turmeric
+- Strainer: 1 1/2 cups basmati rice, rinsed until the water runs clear
+- Measuring cup: 2 1/4 cups water; 1 1/2 tsp salt, in a small dish alongside
+- Medium bowl: 1 lb shrimp, peeled and deveined
+- Small dish: 3 garlic cloves, finely grated; 2 tsp ginger, finely grated; 2 tsp coriander; 1 tsp pepper; 1/2 tsp turmeric
+- Small dish: 2 tbsp ghee
+- Small dish: 1/2 cup coarsely chopped cilantro, dill, or mint
+- Plate: lime wedges, for serving
+
 Melt 1/4 cup ghee in a medium pot over medium heat. Add onions, season with salt, and cook, stirring occasionally, until deeply golden brown and starting to look lacy (this will take some time!), 15-20 minutes. Using a slotted spoon, transfer half of the onions to a plate and set aside for serving.
 
 Add chiles de árbol, tomato paste, 2 tsp coriander, 1 tsp pepper, and 1/2 tsp turmeric to onions still in pot. Cook, stirring often, until tomato paste darkens slightly, about 3 minutes. Add rice and cook, stirring, until each grain is well coated, about 30 seconds. Add 1 1/2 tsp salt, pour in 2 1/4 cups water, and give mixture a stir to prevent any grains from sticking to bottom of pot. Bring to a boil, then reduce heat to low and cover pot. Let rice cook until water is completely absorbed and rice is tender, 16-18 minutes. Remove pot from heat and let rice sit (still covered) 15 minutes.

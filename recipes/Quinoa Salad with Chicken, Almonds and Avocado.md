@@ -43,6 +43,13 @@ uid: 76CBFA52-3F96-4706-807D-7FC52EC8295C
 
 ## Directions
 
+Mise en place guide:
+- Sieve: 2 cups tricolor quinoa, rinsed well and drained
+- Very large bowl (dressing): 1/4 cup finely diced shallot or onion; 3 tbsp sherry vinegar; 1 tbsp Dijon mustard; 1/3 cup olive oil; a generous pinch of salt and pepper
+- Bowl: 2 cups chicken meat, torn; 3/4 cup dried cranberries; 2 cups chopped parsley
+- Small dish: 1/2 cup roasted salted almonds, chopped
+- Cutting board: 1 avocado, pitted, peeled and thinly sliced (slice just before serving)
+
 Bring a large saucepan of generously salted water to a boil. Add quinoa and boil, stirring occasionally, until tender, 10-15 minutes.
 
 Meanwhile, whisk the shallot, vinegar, mustard, oil and a generous pinch of salt and pepper in a very large bowl. When quinoa is done, drain very well, then add to the dressing, along with the chicken, cranberries and parsley. Fold until evenly mixed and cooled, then season to taste with salt and pepper.

@@ -49,6 +49,17 @@ uid: 9C7519BD-7BDD-4260-BB22-1B3375402AC8-4240-00000178260885C8
 
 ## Directions
 
+Mise en place guide:
+- Bowl: 1 large onion, peeled and finely diced; 2 carrots, peeled and diced
+- Small dish: 1 tsp caraway seeds, lightly crushed (optional)
+- Small dish: 1/2 cup whole wheat pastry flour
+- Measuring cup: 5 cups water or vegetable broth; 1 tsp fine grain sea salt
+- Bowl: 1 (14 oz) can cannellini beans, drained and rinsed
+- Mixing bowl (wet): 1 cup almond milk, 1 egg, 2 tbsp pesto
+- Small dish: 1 cup chopped herbs (add to the wet mix after whisking)
+- Mixing bowl (dry): 1 1/2 cups whole wheat pastry flour, 2 tsp baking powder, 1/2 tsp fine grain sea salt
+- Small dish: extra chopped herbs and scallions, for serving
+
 In a large, wide soup pot saute the onions and carrots in the olive oil over medium high heat. Cook until the vegetables are tender, 5-7 minutes. Stir in the caraway seeds, if using, and then sprinkle with the flour, stir, and allow to cook for another 2-3 minutes, allowing the flour to toast just a bit. Stir in the water, and salt, and bring to a gentle simmer, and cook until the soup thickens, 5 minutes or so. Stir in the beans. Allow to simmer gently while you make the dumplings.
 
 In a mixing bowl, combine the almond milk, egg, and pesto, whisk well, until uniform, then add the herbs. In another mixing bowl whisk together the flour, baking powder, and salt. Pour the liquid ingredients into the dry, then stir with a large fork until just combined. Drop generous tbsp of this dumpling mixture into the gently simmering soup. Resist the urge to make the dumplings larger than this, they will definitely blossom in size. It's fine if the dumplings are touching. Cover and cook for 7 minutes or so. Use a big spoon to flip each dumpling, and cook for another 7 minutes, or until cooked through. Serve hot, topped with more chopped herbs and scallions.

@@ -45,6 +45,11 @@ uid: BF76F489-75D7-4B89-9B07-190071341F4B
 
 ## Directions
 
+Mise en place guide:
+- Large bowl: 5 cups shredded red cabbage; 1/2 lb carrots, shredded; 1 1/2 cups shredded peeled broccoli stems
+- Small bowl: 2 tbsp sesame seeds; 2 tsp caraway seeds; 1 tsp baking powder; 3 tbsp oat bran; 3 tbsp all-purpose flour; 3 tbsp cornmeal; 2 tbsp buckwheat flour; salt
+- Small bowl: 3 eggs, beaten
+
 Heat the oven to 300°F. Line a sheet pan with parchment and place a rack over another sheet pan.
 
 In a large bowl mix together the shredded cabbage, carrots, broccoli stems, baking powder, sesame seeds, caraway seeds, salt, oat bran, flour, cornmeal and buckwheat flour. Taste and adjust salt. Add the eggs and stir together. Let the mixture sit for 10-15 minutes.

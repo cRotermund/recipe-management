@@ -39,6 +39,12 @@ uid: 1F7BF67F-2A3D-4FFA-92FD-E016AC322886-59616-0000293D146E94FF
 
 ## Directions
 
+Mise en place guide:
+- Small bowl: 3 tbsp softened butter; 4 anchovy fillets, minced; 1 garlic clove, minced; 1/2 tsp kosher salt; black pepper (mash together)
+- Tray: 4 (6-8 oz) skin-on salmon fillets
+- Small dish: 2 tbsp drained capers, patted dry
+- Cutting board: 1/2 lemon; chopped parsley, for serving
+
 Heat oven to 400°F. In a small bowl, mash together butter, anchovies, garlic, salt and pepper.
 
 In a large ovenproof skillet, melt about half the anchovy butter. Add fish, skin side down. Cook for 3 minutes over high heat to brown the skin, spooning some pan drippings over the top of the fish as it cooks. Add capers to bottom of pan and transfer to oven. Roast until fish is just cooked through, 8-10 minutes.

@@ -44,6 +44,12 @@ EZ Clark Baked Italian Chicken Recipe
 
 ## Directions
 
+Mise en place guide:
+- Shallow dish: 3 tbsp all-purpose flour
+- Shallow dish: 1 egg, beaten
+- Shallow dish: 1/2 cup fine, dry bread crumbs
+- Small bowl: 1/2 tsp salt; 1/2 tsp dried basil; 1/2 tsp dried oregano; 1/4 tsp garlic powder; 2 tbsp melted butter; 2 tbsp olive oil; 2 tbsp lemon juice (mix together for pouring over the chicken)
+
 -Dredge each chicken breast half in flour; coat with breadcrumbs
 
 Heat vegetable oil in a skillet over medium high heat; cook chicken about 2 min. on each side or until golden. brown

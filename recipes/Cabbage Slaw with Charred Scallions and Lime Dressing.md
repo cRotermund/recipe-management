@@ -42,6 +42,12 @@ uid: 9C9EBD02-77EF-416C-BB3B-041FB4238A62-8154-000003C5D3378F77
 
 ## Directions
 
+Mise en place guide:
+- Cutting board: 1 bunch scallions (about 6), trimmed (to char)
+- Blender: 1 habanero, seeds removed; 4 garlic cloves; zest of 2 limes; 1/2 cup lime juice; 1/4 cup vegetable oil (the charred scallions join)
+- Large bowl: 1 small head Napa cabbage, thinly sliced; 2 large watermelon radishes or one 6" piece daikon, peeled and cut into 1/8"-thick matchsticks
+- Small dish: mint, thinly sliced; red onion, thinly sliced (keep fresh until serving)
+
 Heat a dry medium cast-iron skillet over medium-high. Cook scallions, turning once or twice, until lightly charred in spots, about 3 minutes. Transfer to a blender and add chile, garlic, lime zest and juice, and oil. Blend until smooth; season dressing with salt.
 
 Toss cabbage, radishes, and half of dressing in a large bowl. Taste and season with salt and add more dressing if needed. Top with mint and onion just before serving.

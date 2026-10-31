@@ -42,6 +42,13 @@ uid: 77804A70-0D9D-4984-BE53-BC76C20BD5AA
 
 ## Directions
 
+Mise en place guide:
+- Measuring cup: 1/3 cup olive oil; 2 tsp smoked paprika; 1/2 tsp red-pepper flakes; 1 1/2 tsp salt; a generous grind of pepper; 1 cup water
+- Large skillet: 2 lb new potatoes, cut into 1-inch pieces if necessary
+- Small bowl: 1 medium onion, finely chopped; 4 garlic cloves, finely chopped
+- Small dish: 4 eggs (added later)
+- Plate: lemon wedges; flaky sea salt
+
 In a measuring cup, combine the olive oil, paprika, red-pepper flakes, 1 1/2 tsp salt, a generous grind of pepper and 1 cup water. Put the potatoes in a large skillet and pour the olive oil mixture over them. Bring to a boil, then cover and cook on high until the potatoes are fork-tender, 6-9 minutes.
 
 Uncover and turn the heat to low. If the potatoes are sticking or dry, add more olive oil. Arrange the potatoes in an even layer, cut side down if halved, then add the onion and garlic surrounding the potatoes. Cover and cook until the potatoes are golden-brown and the onions are softened, 4-6 minutes.

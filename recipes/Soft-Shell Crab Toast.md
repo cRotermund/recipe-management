@@ -41,6 +41,13 @@ uid: B1EDF90C-4D7F-4E46-9DC7-C029B4F63B50
 
 ## Directions
 
+Mise en place guide:
+- Blender: 2 cups parsley leaves; 2 jalapeños, seeded and coarsely chopped; 2 tsp lemon juice; 1/4 tsp salt; 1/2 cup olive oil; 3 tbsp water
+- Baking sheet: 6 slices bread, in a single layer
+- Small dish: 1 garlic clove, halved; unsalted butter (optional)
+- Tray: 6 soft-shelled crabs, cleaned (coat with oil and season with salt and pepper just before broiling)
+- Small plate: lemon wedges
+
 In a blender, combine parsley, jalapeño, lemon juice and salt. Add oil and 3 tbsp water. Purée until sauce is smooth, adding additional water if needed, a tbsp at a time, until you have a thick yet pourable sauce. Transfer sauce to a bowl and add more salt or lemon juice, or both, if needed.
 
 Heat broiler. Place bread slices in a single layer on a baking sheet. Broil, turning once, until golden brown, 1-2 minutes per side. Rub toast with cut garlic. Drizzle with oil or slather with butter (butter is nice on pain de mie), remove from pan and set aside.

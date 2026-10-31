@@ -52,6 +52,18 @@ uid: ACE4643D-BB12-46DB-969D-EF64D3BBF569
 
 ## Directions
 
+Mise en place guide:
+- Bowl: 3-4 ripe tomatoes, halved through their equators (to grate)
+- Small dish: 3 tbsp ghee, butter or safflower oil; 3 tbsp virgin coconut oil
+- Bowl: 2 cups finely chopped onions
+- Small dish: 6 garlic cloves, grated or minced; 2 tbsp grated fresh ginger; 1 tsp cumin seeds
+- Small dish: cinnamon stick or 1/2 tsp ground cinnamon; 8 cardamom pods, lightly crushed, or 1 tsp ground cardamom
+- Small dish: 2 tsp ground coriander; 1 tbsp kosher salt; 1 tsp ground turmeric; 1/4 tsp crushed red pepper flakes; 1/4 tsp black pepper
+- Bowl: 2 1/2 lb boneless, skinless chicken thighs, cut into 1-inch chunks
+- Small dish: 1-2 tsp garam masala
+- Measuring cup: 1/2 cup canned unsweetened coconut milk
+- Small dish: 3 tbsp finely chopped cilantro, for garnish
+
 Set a box grater over a bowl. Starting with their cut sides, grate the tomatoes through the large holes of the box grater so the tomato pulp falls into the bowl. Discard the skins. Measure out 2 cups of tomato purée.
 
 Using the sauté function, heat the ghee and the coconut oil in the pressure cooker. Stir in the onions and cook, stirring often to encourage even browning, until they are caramelized, 12-18 minutes. Stir in the garlic, ginger and cumin seeds; cook until fragrant, about 2 minutes. Stir in the cinnamon and cardamom and cook for another minute. Then stir in the coriander, salt, turmeric, red pepper flakes, black pepper and finally the tomato purée.

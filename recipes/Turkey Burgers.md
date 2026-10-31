@@ -46,6 +46,11 @@ uid: 8C56E515-F9C6-4BAB-8730-2D4F82B26F3A
 
 ## Directions
 
+Mise en place guide:
+- Large bowl: 1/2 onion, grated on the fine holes (about 2 tbsp; discard the juice); 1 lb ground turkey; 1 tbsp Worcestershire sauce; 2 tbsp ketchup; 3/4 tsp salt; freshly ground pepper
+- Plate: 4 hamburger buns
+- Serving plate: sliced red onion, sliced avocado, sliced red pepper
+
 Grate the onion on the fine holes of a grater. You should have about two tbsp of grated onion (and a lot of juice, which you can discard). Place in a bowl with the ground turkey, Worcestershire sauce, ketchup, salt and pepper. Using a fork, mix together well. Shape into four patties — the mixture will be quite moist — and press the patties into 1/2-inch thick rounds.
 
 Heat the canola oil in a nonstick griddle or large nonstick frying pan over medium-high heat. (Alternately, spray the griddle or pan with pan spray.) When you can feel the heat while holding your hand just above griddle or pan, cook the patties for five minutes on each side. Serve on buns, with the condiments of your choice.

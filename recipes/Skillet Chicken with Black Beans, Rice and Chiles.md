@@ -47,6 +47,16 @@ uid: 8FDCFAAF-898A-47D7-917E-4CD87DEDA226
 
 ## Directions
 
+Mise en place guide:
+- Tray: 8 chicken thighs, seasoned with salt and pepper on both sides
+- Bowl: 1 large onion, chopped; 2 bell peppers, halved, seeded and sliced
+- Measuring cup: 2 1/2 cups chicken stock
+- Small bowl: 2 Fresno chiles or jalapeños, halved, seeded and chopped; 1 cinnamon stick, broken in half; 3 garlic cloves, finely grated; 1 tsp cumin
+- Bowl: 1 (15 oz) can black beans, rinsed; 1/3 lb cherry tomatoes, halved
+- Sieve: 1 cup basmati rice, rinsed until the water runs clear
+- Small dish: 3 tbsp chopped cilantro
+- Serving dishes: lime wedges, pickled chiles, sliced fresh chiles, sour cream
+
 Heat the oven to 375°F. Season the chicken with salt and pepper on both sides. Heat the oil in a 12-inch ovenproof skillet (the pan size is very important) over medium-high. Brown the chicken on both sides to give it good color, 3-5 minutes per side. Transfer to a plate. Add the onion and bell peppers to the pan and sauté until just starting to soften, about 5 minutes. Season with salt and pepper.
 
 In a small saucepan, bring the chicken stock to a boil. Meanwhile, add the Fresno chiles or jalapeños, cinnamon, garlic and cumin to the skillet and cook for about 2 minutes, then add the black beans and cherry tomatoes. Season generously with salt and pepper. Sprinkle the rice on top in an even layer. (It’s important that the black beans are beneath the rice and chicken. The rice will burn otherwise.) Add the stock and return the chicken to the pan, skin-side up.

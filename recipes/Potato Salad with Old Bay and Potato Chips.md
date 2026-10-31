@@ -44,6 +44,13 @@ uid: F2DA5E6E-0A9C-41A0-B7E3-0236244FF099-69016-0000233FBA302634
 
 ## Directions
 
+Mise en place guide:
+- Large pot: 2 lb small waxy potatoes, scrubbed and halved
+- Cutting board: 1 small red onion, thinly sliced
+- Large bowl (vinaigrette): 1/4 cup apple cider vinegar; 1 tbsp whole grain mustard; 1 tsp Old Bay seasoning; 1 tsp coarsely ground black pepper; a pinch of cayenne (can be made up to 3 days ahead and chilled)
+- Bowl: 2 cups kettle-cooked potato chips (keep crisp until the end)
+- Small dish: 1/4 cup coarsely chopped parsley; 3 tbsp finely chopped chives
+
 Place potatoes in a large pot and pour in cold water to cover; season with salt. Bring to a boil; reduce heat and simmer until tender, 15-18 minutes. Drain and return to pot to dry out; let cool.
 
 Meanwhile, heat 1/4 cup oil in a medium skillet over medium-high. Add onion; season with salt. Cook, stirring occasionally, until soft, about 5 minutes.

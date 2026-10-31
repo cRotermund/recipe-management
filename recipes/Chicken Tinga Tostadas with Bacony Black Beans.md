@@ -44,6 +44,15 @@ uid: 992167C6-61C1-4CE9-8B35-DE35CE6F884A-25082-00000C8628EC3A2D
 
 ## Directions
 
+Mise en place guide:
+- Cutting board: 1 medium white onion, finely chopped and divided: 1/2 cup for serving, half of the rest for the sauce, the remainder for the beans
+- Small bowl (sauce): half of the remaining chopped onion; 4 garlic cloves, finely chopped; 1 chipotle chile, finely chopped; 1 (15 oz) can fire-roasted tomatoes; 2 tbsp chili powder; 2 tbsp adobo sauce (1 tbsp if sensitive to heat)
+- Plate: 2 skin-on, bone-in chicken breasts
+- Large skillet bowl (beans): 4 oz smoked bacon, sliced into 1/4" strips; remaining chopped onion
+- Cans: 2 (15 oz) black beans, opened (do not drain)
+- Small dish (serving): 1/2 cup chopped onion; 4 oz queso fresco, crumbled; 3/4 cup cilantro
+- Tray: 8 tostadas
+
 First, prep the spicy tomato sauce: Peel and finely chop 1 medium white onion; set aside 1/2 cup for serving. Transfer half of remaining chopped onion to a large saucepan (you’ll use the rest of the onion for the beans). Peel and finely chop 4 garlic cloves. Transfer to saucepan. Finely chop 1 chipotle chile and transfer to saucepan. (You can store any remaining chiles individually in the freezer to use for later.)
 
 Slide 1 of 3

@@ -43,6 +43,15 @@ uid: BD0727A7-C461-4C21-93CB-D4CFF63A76C2-10580-0000082A4BED5F7B
 
 ## Directions
 
+Mise en place guide:
+- Medium bowl: 1 tsp lemon zest; 1 tsp sweet paprika; 2 garlic cloves, grated; 3/4 tsp salt; 3/4 tsp pepper; 1 lb shrimp, peeled and deveined
+- Small dish: 4 tbsp butter
+- Bowl: 2 large leeks, halved lengthwise and sliced crosswise 1/2-inch thick
+- Colander: 1 (15 oz) can cannellini beans, rinsed
+- Measuring cup: 2 cups chicken broth
+- Small dish: 2 tbsp chopped parsley; 2 tbsp lemon juice
+- Toasted bread, for serving
+
 Combine lemon zest, paprika, garlic, 3/4 tsp salt and 3/4 tsp pepper in a medium bowl. Add shrimp and toss to coat.
 
 In a large pot, melt butter over medium-high heat. When butter is foaming, add shrimp and cook, stirring occasionally, until pink and starting to curl, 2-3 minutes. Using a slotted spoon, transfer shrimp to a plate; set aside.

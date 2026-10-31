@@ -42,6 +42,13 @@ uid: 820BD898-C655-440C-A543-60C7582C0EA7
 
 ## Directions
 
+Mise en place guide:
+- Small dish (aromatics): 1 2-3 inch piece ginger, peeled and sliced into coins; 12 garlic cloves, peeled; 4 scallions, trimmed and cut into 1-inch pieces; 3 dried red peppers or 1 tsp red-pepper flakes
+- Bowl: 2 lb chicken thighs, cut into bite-size pieces
+- Small dish: 1 tbsp brown sugar
+- Measuring cup: 1/2 cup rice wine and 1/4 cup light soy sauce
+- Bowl: 2 cups Thai basil or regular basil leaves
+
 Heat a wok over high heat and add 2 tbsp sesame oil. When the oil shimmers, add the ginger, garlic, scallions and peppers, and cook until fragrant, approximately 2 minutes.
 
 Scrape the aromatics to the sides of the wok, add remaining oil and allow to heat through. Add the chicken, and cook, stirring occasionally, until it is browned and crisping at the edges, approximately 5-7 minutes.

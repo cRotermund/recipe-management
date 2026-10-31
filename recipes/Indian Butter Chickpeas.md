@@ -47,6 +47,17 @@ uid: 14069927-26C4-4ED1-BEE9-3F14869D3F8F-87110-00002C4CCC786CC7
 
 ## Directions
 
+Mise en place guide:
+- Small dish: 4 tbsp butter
+- Bowl: 1 large onion, minced; 1/2 tsp salt
+- Small dish: 4 garlic cloves, finely grated or minced; 1 tbsp grated fresh ginger
+- Small dish: 2 tsp cumin; 2 tsp sweet paprika; 2 tsp garam masala; 1 small cinnamon stick
+- Can: 1 (28 oz) can whole peeled plum tomatoes, opened with their juices
+- Small bowl: 1 (15 oz) can coconut milk; remaining 1 tsp salt
+- Colander: 2 (15 oz) cans chickpeas, drained
+- Small dish: pinch of cayenne (optional)
+- Small dish: 1/2 cup cilantro leaves and tender stems, for serving
+
 Melt butter in a large heavy-bottomed pot or Dutch oven over medium heat. Stir in onion and 1/2 tsp salt; cook until golden and browned around the edges, stirring occasionally, about 20 minutes. (Don’t be tempted to turn the heat up to medium-high; keeping the heat on medium ensures even browning without burning the butter.)
 
 Stir in garlic and ginger, and cook another 1 minute. Stir in cumin, paprika, garam masala and cinnamon stick, and cook another 30 seconds.

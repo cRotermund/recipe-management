@@ -46,6 +46,13 @@ uid: A363EDBF-ED12-42E8-96B5-4DBEE130D51F
 
 ## Directions
 
+Mise en place guide:
+- Bowl: 4 cups chopped yellow onions (3 onions)
+- Small dish: 1/8 cup minced garlic (2 cloves)
+- Bowl: 2 red and 2 yellow bell peppers, cored, seeded, and large-diced; 1 tsp chili powder; 1 tsp ground cumin; 1/4 tsp red pepper flakes; 1/4 tsp cayenne; 2 tsp kosher salt
+- Large bowl: 2 (28 oz) cans whole peeled plum tomatoes with puree, crushed by hand; 1/4 cup minced basil
+- Baking sheet: 4 split chicken breasts, rubbed with olive oil and sprinkled generously with salt and pepper (can wait until the chili is simmering)
+
 Cook the onions in the oil over medium-low heat for 10-15 minutes, until translucent. Add the garlic and cook for 1 more minute. Add the bell peppers, chili powder, cumin, red pepper flakes, cayenne, and salt. Cook for 1 minute. Crush the tomatoes by hand or in batches in a food processor fitted with a steel blade (pulse 6-8 times). Add to the pot with the basil. Bring to a boil, then reduce the heat and simmer, uncovered, for 30 minutes, stirring occasionally.
 
 Preheat the oven to 350°F.

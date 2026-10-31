@@ -44,6 +44,14 @@ uid: BC2CEB0C-688D-42B2-8B8A-6D7672A1B5A2-1611-000001650420DB67
 
 ## Directions
 
+Mise en place guide:
+- Small bowl: 12 anchovies, chopped; 6 garlic cloves, minced; 1/4 tsp red pepper flakes
+- Small bowl: 1 cup bread crumbs
+- Measuring cup: 1/3 cup olive oil
+- Large bowl (warm it if you can): 2 egg yolks; 1 tbsp fish sauce (optional); 1 tsp hot sauce
+- Small dish: 1/2 cup roughly chopped parsley
+- Plate: lemon wedges, for serving
+
 In a medium skillet over medium-high heat, warm oil. Add anchovies, garlic and red pepper flakes; cook until fragrant, 1 minute. Stir in bread crumbs and cook until golden, 2-3 minutes. Season liberally with black pepper, and a little salt if needed.
 
 Bring a large pot of salted water to a boil. Add spaghetti and cook according to package instructions; drain well, reserving some of the pasta water (about 1/2 cup is plenty).

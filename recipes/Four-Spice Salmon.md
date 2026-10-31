@@ -39,6 +39,10 @@ uid: E0CF386C-1D2A-4D48-8E1B-12AFAAA8F164
 
 ## Directions
 
+Mise en place guide:
+- Tray: 4 (6 oz) skinned salmon fillets, seasoned on both sides with salt and pepper
+- Small dish (spice mix): 1 tbsp coriander; 1/4 tsp cloves; 1 1/2 tsp cumin; 1 tsp freshly grated nutmeg (ground to a coarse powder if whole)
+
 Season fillets on both sides with salt and pepper. If necessary, combine spices and grind them to a coarse powder in a coffee or spice grinder. Press some of the mixture onto the top of each fillet.
 
 Heat a large nonstick skillet over medium-high heat for 2 or 3 minutes. Add the oil or butter and, when it shimmers, place the fillets, coated side down, in the pan. Cook about 2-3 minutes, or until the spice mixture forms a nicely browned crust.

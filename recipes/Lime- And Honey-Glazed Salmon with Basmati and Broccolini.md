@@ -43,6 +43,15 @@ uid: B172CD22-8DBC-4A35-AA81-6A596FBC3F4B
 
 ## Directions
 
+Mise en place guide:
+- Small bowl: 1/4 cup lime juice; 2 tbsp grated lime peel; 2 tbsp honey; 2 tbsp chopped cilantro; 4 tsp soy sauce (whisk together)
+- Bowl: 3/4 cup sliced shallots
+- Bowl: 1 1/2 cups basmati rice
+- Measuring cup: 3 1/4 cups chicken broth (plus extra on hand)
+- Tray: 4 salmon fillets, seasoned with salt and pepper
+- Bowl: 1 bunch broccolini, bottom inch trimmed, stalks separated if necessary
+- Small dish: additional chopped cilantro, for sprinkling
+
 Preheat oven to 450°F. Whisk lime juice, lime peel, honey, 2 tbsp cilantro, and soy sauce in small bowl; set aside.
 
 Heat oil in large deep ovenproof skillet or casserole (with lid) over medium-high heat. Add shallots and sauté until beginning to soften and brown, about 5 minutes. Stir in rice, then 3 1/4 cups broth; bring to boil. Cover skillet tightly with lid; place in oven and bake 10 minutes (rice will be almost cooked through and most of broth will be absorbed; mix in more broth by 1/4 cupfuls if dry).

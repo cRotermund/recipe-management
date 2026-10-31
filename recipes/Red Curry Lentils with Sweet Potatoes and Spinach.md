@@ -48,6 +48,15 @@ uid: 42C7B1C4-46EE-4705-979B-444CCAFB3473
 
 ## Directions
 
+Mise en place guide:
+- Bowl: 1 lb sweet potatoes, peeled and cut into 3/4-inch cubes
+- Cutting board: 1 medium yellow onion, chopped
+- Small bowl: 3 tbsp Thai red curry paste; 3 garlic cloves, minced; 1 tbsp grated fresh ginger; 1 red chile, seeds and ribs removed, minced; 1 tsp ground turmeric
+- Bowl: 1 cup red lentils, rinsed; 2 tsp kosher salt
+- Measuring cup: 4 cups vegetable stock
+- Small dish: juice of 1/2 lime
+- Small dish: fresh cilantro leaves; toasted coconut flakes (optional)
+
 In a Dutch oven or pot, heat 2 tbsp olive oil over medium-high. Add the sweet potatoes and cook, stirring occasionally, until browned all over, 5-7 minutes. Transfer the browned sweet potatoes to a plate and set aside.
 
 Add the remaining 1 tbsp olive oil to the pot and set the heat to medium-low. Add the onion and cook, stirring occasionally, until translucent, 4-6 minutes. Add the curry paste, garlic, ginger, chile and turmeric, and cook until fragrant, about 1 minute.

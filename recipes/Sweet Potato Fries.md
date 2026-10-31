@@ -38,6 +38,10 @@ uid: 5735E47E-7A75-451B-A88D-C17BD352FBCC
 
 ## Directions
 
+Mise en place guide:
+- Large bowl: 2 lb sweet potatoes, peeled and cut into sticks 1/4-1/2 inch wide and 3 inches long; 2 tbsp olive oil
+- Small bowl: 1 tsp garlic powder; 1 tsp paprika; 1 tsp salt; 1/2 tsp black pepper
+
 Heat the oven to 400.
 
 Cut the sweet potatoes into sticks 1/4-1/2 inch wide and 3 inches long, and toss them with the oil.

@@ -40,6 +40,14 @@ uid: 29D7C383-1C3D-4DB1-BF7D-1162F696AC96
 
 ## Directions
 
+Mise en place guide:
+- Tray: 3 whole chicken breasts, halved, patted dry and seasoned with salt and pepper
+- Small dish: 3 1/2 tbsp butter; set aside 1 1/2 tbsp for browning and keep the remaining 2 tbsp cold for finishing the sauce
+- Bowl: 1 onion, halved and sliced thin; 3/4 lb mushrooms, sliced thin
+- Measuring cup: 1/2 cup dry Marsala
+- Measuring cup: 1 cup chicken broth
+- Small dish: 2 tbsp minced parsley, for garnish
+
 Pat chicken dry and season with salt and pepper. In a large heavy skillet heat oil and 1 1/2 tbsp butter over moderately high heat until hot but not smoking and brown chicken in 2 batches, transferring with tongs to a large plate as browned.
 
 Discard all but 1 tbsp fat from skillet and sauté onion and mushrooms, stirring occasionally, until liquid mushrooms give off is evaporated. Add Marsala and cook mixture, stirring, until Marsala is almost evaporated. Add broth and chicken with any juices that have accumulated on plate and simmer, turning chicken once, until cooked through, about 15 minutes. Transfer chicken with tongs to a platter.

@@ -48,6 +48,14 @@ uid: EB7231BF-DA72-43CE-B996-118B3C80BD3B
 
 ## Directions
 
+Mise en place guide:
+- Cutting board: 1 large onion, chopped; 2 jalapeños, thinly sliced; 1 bay leaf
+- Small dish: 1 inch ginger, minced; 4 garlic cloves, minced
+- Small dish: 1 1/2 tsp garam masala; 1 tsp ground cumin; 1/2 tsp ground turmeric
+- Large bowl: 2 (15 oz) cans chickpeas, rinsed; 1 (13.5 oz) can coconut milk; 1 (13.5 oz) can pumpkin purée; 1/2 cup water; 1 1/2 tsp salt
+- Small dish: 3/4 cup chopped cilantro (plus more for serving); 2-3 tbsp lime juice
+- Plate: lime wedges, for serving
+
 Heat oil in a large skillet over medium-high heat. Stir in onion, jalapeño and bay leaf. Cook, stirring occasionally, until onion is golden on the edges, about 8 minutes.
 
 Add ginger and garlic and cook until fragrant, about 2 minutes, stirring frequently. Stir in garam masala, cumin and turmeric; cook for an additional 30 seconds.

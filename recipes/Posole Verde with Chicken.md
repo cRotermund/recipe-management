@@ -48,6 +48,15 @@ uid: 08A9E187-79D1-4223-96F9-8D370114181B-67785-0000306C35CD6E60
 
 ## Directions
 
+Mise en place guide:
+- Bowl: 1 large yellow onion, chopped; 6 garlic cloves, sliced
+- Small dish: 2 tsp ground coriander; 1 tsp ground cumin; 1/2 tsp dried oregano
+- Tray: 1 whole chicken (about 4 lb)
+- Baking sheet: 1 1/2 lb tomatillos, husked and rinsed; 4 poblano chiles; 3 serrano chiles; 2 Cubanelle peppers
+- Bowl: 2 (15 oz) cans hominy, drained and rinsed
+- Small bowl: 2 cups cilantro leaves with tender stems
+- Small dish: 1/2 small red onion, very finely chopped; extra cilantro, extra oregano, lime slices, for serving
+
 Heat oil in a large heavy pot or Dutch oven over medium. Cook yellow onion and garlic, stirring occasionally, until very tender, 12-15 minutes. Add coriander, cumin, and 1/2 tsp oregano and cook, stirring constantly, until very fragrant, about 1 minute.
 
 Add chicken and 12 cups water. Bring to a simmer and cook, uncovered and reducing heat as needed to maintain a very gentle simmer, until chicken is cooked through (if it isn’t completely submerged, you can turn it once or twice) and legs wiggle easily in their joints, 40-50 minutes. At this point, you can let chicken and broth cool, then chill overnight.

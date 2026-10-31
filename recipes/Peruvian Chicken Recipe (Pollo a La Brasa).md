@@ -44,6 +44,13 @@ uid: C743ECED-A07B-4C7F-A126-C61EB7EAE772
 
 ## Directions
 
+Mise en place guide:
+- Small dish: 1 tsp cumin seeds; 1 tsp coriander seeds (toasted first)
+- Mortar: 12 garlic cloves; 1/2" peeled chunk of fresh ginger
+- Large bowl (marinade): 1 tbsp finely minced rosemary; 1 tbsp huacatay or 3-4 fresh mint leaves; 1 1/2 tbsp aji panca or 1 dried ancho chili (stem and seeds removed); 3 tbsp soy sauce; 3 tbsp red wine vinegar; 1/4 cup olive oil
+- Large bowl: 1 whole chicken, rinsed and patted dry inside and out
+- Small dish: 2-3 tbsp marinade, reserved for brushing at the end
+- Measuring cup: 2 cups water or chicken stock, for the pan
 Add the cumin and coriander seeds to a medium-sized sauté pan and cook over low to medium heat for 7-8 minutes while occasionally stirring.
 
 Transfer them to a mortar and pestle and grind until finely ground.

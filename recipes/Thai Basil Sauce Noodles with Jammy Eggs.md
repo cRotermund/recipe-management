@@ -43,6 +43,13 @@ uid: 94416C94-E229-4E41-AB95-81350508FF8F
 
 ## Directions
 
+Mise en place guide:
+- Blender: 1 head garlic, peeled; 3 cups Thai basil; 1/2 cup vegetable oil
+- Measuring cup: 1/4 cup vegetable oil
+- Small dish: 1/4 cup michiu tou or other rice wine; 1 tsp sugar; 1 tsp Diamond Crystal salt (or 1/2 tsp Morton)
+- Bowl: 4 garlic chives, cut into 1/2" pieces; 2 cups mung bean sprouts
+- Small dish: store-bought fried garlic, for serving
+
 If using eggs, bring a large pot of water to a boil over medium-high heat. Using a slotted spoon, carefully lower eggs into water one at a time. Cook 6 1/2 minutes, adjusting heat to maintain a gentle boil. Transfer eggs to a bowl of ice water with slotted spoon; reserve pot with boiling water. Let eggs sit until just slightly warm, about 2 minutes.
 
 Gently crack eggs all over and peel, starting from the wider end, which contains the air pocket. Slice in half and set aside for serving.

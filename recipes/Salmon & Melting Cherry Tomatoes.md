@@ -47,6 +47,13 @@ uid: 31D29F88-6C7C-4456-A61F-5A9B4DDAA6F8
 
 ## Directions
 
+Mise en place guide:
+- Cutting board: 1 cup sweet onion, chopped
+- Small dish: 2 tsp minced garlic (2 cloves)
+- Bowl: 2 cups (1 pint) cherry tomatoes, halved through the stem; 1 tsp kosher salt; 1/2 tsp black pepper
+- Small dish: 1 1/2 tbsp balsamic vinegar; 1 1/2 tbsp julienned basil
+- Tray: 2 lb salmon fillet, cut crosswise into 4 pieces
+
 Preheat the oven to 425°F.
 
 Heat 3 tbsp of the olive oil in a medium (10-inch) saute pan. Add the onion and saute over medium-low heat for 5 minutes, stirring occasionally, until very tender but not browned. Add the garlic and saute for 1 more minute. Stir in the tomatoes, 1 tsp salt, and 1/2 tsp pepper and cook over medium-low heat for 10-15 minutes, stirring occasionally, until the liquid evaporates and the tomato sauce thickens slightly. Off the heat, stir in the vinegar and basil.

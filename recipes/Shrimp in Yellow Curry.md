@@ -43,6 +43,14 @@ uid: 04DA4C34-8725-4852-9EAD-3443AC6D47C8-9653-000002C1B7E2EB87
 
 ## Directions
 
+Mise en place guide:
+- Bowl: 1 cup minced onion; 1 tbsp minced garlic; 1 tbsp minced galangal or ginger; 1 tsp minced hot chili or red pepper flakes
+- Small dish: 1 tbsp curry powder
+- Measuring cup: 1 cup coconut milk
+- Tray: 1 1/2-2 lb shrimp, peeled (keep cold until the end)
+- Small dish: 2 tbsp nam pla (added half at a time)
+- Small dish: 1/4 cup minced cilantro or mint, for garnish
+
 Place the oil in a large, deep skillet and turn the heat to medium. Add the onion, garlic, ginger, and chilies and cook, stirring frequently, until the vegetables are tender and the mixture pasty. Add the curry and cook, stirring, another minute.
 
 Add the coconut milk and raise the heat to medium-high. Cook, stirring occasionally, until the mixture is nearly dry. Add the shrimp, a few pinches of salt and a little black pepper and cook, stirring frequently, until the shrimp release their liquid (the mixture will become quite moist again) and turn pink.

@@ -51,6 +51,13 @@ uid: 77222735-A524-4BD4-B2C6-CE2A9D5F6777-1089-000000B88D5C99F3
 
 ## Directions
 
+Mise en place guide:
+- Large bowl: 1 cup chickpeas, soaked 24 hours, drained, rinsed, and patted dry; 1/2 cup chopped shallot or onion; 3 garlic cloves; 1 tsp lemon zest
+- Small dish: 1 tsp cumin; 1 tsp coriander; 3/4 tsp sea salt; 1/4 tsp cayenne; 1/4 tsp baking powder
+- Cutting board: 1 cup chopped cilantro and 1 cup chopped parsley, patted dry
+- Small dish: 1 tbsp olive oil, plus more for drizzling
+- Serving plates: pita; hummus; diced tomato and cucumber; chopped parsley and mint; pickled red onions; tahini sauce
+
 Preheat the oven to 400°F and line a large baking sheet with parchment paper.
 
 In a large food processor, place the chickpeas (they will be plump but still raw at this point), shallot, garlic, lemon zest, cumin, coriander, salt, cayenne, baking powder, cilantro, parsley, and olive oil. Pulse until well combined but not pureed. Use a spatula to scrape down the sides of the bowl as needed.

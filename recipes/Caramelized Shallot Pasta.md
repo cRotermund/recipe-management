@@ -42,6 +42,14 @@ uid: 075F4720-050F-44E9-874A-367BFCCA53B4-10580-0000082ACB86815B
 
 ## Directions
 
+Mise en place guide:
+- Cutting board: 6 large shallots, very thinly sliced; 4 garlic cloves, thinly sliced
+- Small dish: 1 tsp red-pepper flakes; 1 (2 oz) can anchovy fillets, drained
+- Small dish: 1 (4.5 oz) tube or (6 oz) can tomato paste
+- Measuring cup: 1/4 cup olive oil
+- Counter: 10 oz bucatini, for the pasta water
+- Small bowl: 1 cup parsley, finely chopped; 1 garlic clove, finely chopped; flaky sea salt and pepper (the topping)
+
 Heat olive oil in a large heavy-bottomed Dutch oven over medium high. Add shallots and thinly sliced garlic, and season with salt and pepper. Cook, stirring occasionally, until the shallots have become totally softened and caramelized with golden-brown fried edges, 15-20 minutes.
 
 Add red-pepper flakes and anchovies. (No need to chop the anchovies; they will dissolve on their own.) Stir to melt the anchovies into the shallots, about 2 minutes.

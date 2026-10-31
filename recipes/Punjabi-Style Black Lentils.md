@@ -49,6 +49,14 @@ uid: A4E49D85-6BBC-4F41-BA09-5D8E8757B40C
 
 ## Directions
 
+Mise en place guide:
+- Small dish: 1 medium onion, finely chopped; 1/2 tsp cumin seeds
+- Small dish: 1-inch piece ginger, finely chopped; 2 garlic cloves, finely chopped
+- Small dish: 1 tsp ground coriander; 1/4 tsp ground turmeric; 1/2 tsp garam masala; chile powder to taste; 1 cup chopped or pureed tomatoes
+- Measuring cup: 4 1/2 cups water; 1 tsp fine sea salt
+- Bowl: 1 cup dried black lentils
+- Small dish: 4 tsp butter, cut into 4 pats; 2 tbsp heavy cream; handful chopped cilantro (for finishing)
+
 Make the dal: Heat oil (or oil and butter) over medium. Once hot, add onion and cumin seeds and cook, stirring occasionally, until onion browned in spots. Add garlic and ginger, cook for 1 minute more, then the rest of the spices and tomato and cook for 3 minutes more, scraping up any stuck bits. Add water and salt, then lentils. Bring to simmer, then reduce to low and cover and cook until lentils are tender, between 35 and 45 minutes, stirring occasionally. For a looser dal, you can add more water. Adjust spices and seasonings to taste.
 
 To finish as shown: Ladle into four bowls. Place a 1-tsp pat of butter in the center of each, letting it begin to melt before swirling in 1 1/2 tsp cream and finishing with cilantro.

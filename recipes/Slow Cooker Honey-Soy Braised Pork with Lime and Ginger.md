@@ -42,6 +42,13 @@ uid: 9B7607DA-5865-492F-8FA7-B1B101E9C611
 
 ## Directions
 
+Mise en place guide:
+- Cutting board: 3-4 lb pork shoulder, trimmed of big hunks of fat and cut in half
+- Small bowl: 8 garlic cloves, finely chopped; 3 tbsp minced ginger; 1 tsp red-pepper flakes; 2 tsp lime zest
+- Measuring cup: 1 cup tamari or soy sauce; 1 cup honey; 1 tbsp toasted sesame oil
+- Small dish: 2 tbsp lime juice (for the end)
+- Small dishes for topping: sesame seeds; sliced scallions; chopped cilantro; lime wedges
+
 Place the pork in a 6-8 quart slow cooker. Scatter the garlic, ginger, red-pepper flakes and lime zest over the top. In a liquid measuring cup, whisk together the tamari, honey and sesame oil, then pour it over the pork. Using tongs, turn to coat all sides of the pork in the sauce, and spoon some over the top so that some of the garlic and ginger is on top of the pork. Cover and cook on low until the pork is very tender and shreds easily with a fork, 8-9 hours; it will hold well on warm. (If you are home and able to flip the pork once during cooking, that will help the flavors distribute evenly on the meat and make the color uniform. If not, it will be fine.)
 
 Using tongs, transfer the pork from the slow cooker to a serving platter or large, shallow serving bowl. Using a ladle, skim excess fat off the surface of the cooking liquid, if desired. Carefully pour the sauce into a large pot. Bring the sauce to a boil over medium-high heat and let it simmer until reduced and slightly syrupy, 15-20 minutes. Meanwhile, coarsely shred the pork using two forks.

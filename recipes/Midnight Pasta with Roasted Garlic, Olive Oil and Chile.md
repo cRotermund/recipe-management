@@ -40,6 +40,14 @@ uid: 450B3360-350D-4015-83D7-7784237C7095
 
 ## Directions
 
+Mise en place guide:
+- Foil: 1 head garlic, top 1/4 inch cut off, cut-side up, sprinkled with salt and drizzled with 1 tsp olive oil
+- Cutting board: 1 cup parsley leaves, finely chopped
+- Measuring cup: 1/2 cup olive oil
+- Small dish: 1/2 tsp red-pepper flakes; black pepper
+- Measuring cup: for 1 cup reserved pasta water
+- Plate: grated Parmesan; extra red-pepper flakes and black pepper, for serving
+
 Heat the oven to 400°F. Cut off the top 1/4 inch of the head of garlic to expose the top of the cloves, then place on a piece of foil, cut-side up. Sprinkle exposed cloves with salt, then drizzle with 1 tsp oil. Wrap the garlic in the foil and roast until soft and golden brown, 40-50 minutes.
 
 When you’re ready to make the pasta, bring a large pot of salted water to a boil. Finely chop the parsley leaves. Add pasta to the boiling water and cook according to package instructions until al dente. Reserve 1 cup of the pasta water, then drain the pasta.

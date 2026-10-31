@@ -44,6 +44,13 @@ uid: B656D3AB-5883-41C8-8B4F-A63CEBEBCF40
 
 ## Directions
 
+Mise en place guide:
+- Medium bowl: 1 lb skirt steak, trimmed, sliced against the grain into 1/4"-thick strips, patted dry; 1 tsp sugar; 1 tsp sesame oil; 1 tsp soy sauce; 1 tsp salt (marinates 20 minutes)
+- Cutting board: 1 medium sweet onion, sliced into 1/2"-thick rounds; 1 3" piece ginger, peeled and very thinly sliced
+- Small dish: black pepper (lots); 1/3 cup water
+- Small dish: 3 tbsp butter, cut into pieces; 1 tbsp lemon juice; 1 tbsp soy sauce (add off the heat)
+- Pot: cooked rice, kept warm for serving
+
 Toss steak in a medium bowl with sugar, sesame oil, 1 tsp soy sauce, and 1 tsp salt to coat and let sit 20 minutes.
 
 Place a large skillet over high heat. Pour in vegetable oil and swirl to coat bottom of pan. The oil should be shimmering and you should see some wisps of smoke—if it’s not hot enough, the meat will steam instead of getting deeply browned.

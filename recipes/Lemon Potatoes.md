@@ -41,6 +41,12 @@ uid: A9E8CF22-5607-42AD-BA1D-97C54E9D2DCC
 
 ## Directions
 
+Mise en place guide:
+- Baking dish: 2 lb potatoes, peeled and quartered lengthwise into thick wedges; 4 tbsp olive oil (or 3 tbsp oil, with 1 tbsp butter, diced, in a small dish); 2 tsp fresh oregano; 1 tsp salt; zest of 2 lemons; 1/2 tsp pepper
+- Small dish: 3-4 garlic cloves, peeled and smashed
+- Measuring cup: 3/4 cup broth; 1/4 cup lemon juice (from the zested lemons)
+- Plate: chopped parsley or dill; lemon slices or wedges, to finish
+
 Heat oven to 475°F.
 
 In a 9×13-inch rimmed sheet pan or deeper baking dish (ideally stainless steel, coated, or stoneware, not glass*) toss potatoes with olive oil, oregano, salt, zest, and pepper evenly to coat. If using butter, dot it over. Roast for 15-20 minutes, until potatoes are well-browned underneath. Use a thin spatula** to turn potatoes over, sprinkle in garlic cloves, and return to the oven for another 10-15 minutes, until mostly browned underneath on the second side. Pour in broth and lemon juice all over and return to the oven a final time for 15 minutes, or until potatoes and garlic cloves are tender and liquids have reduced to a very thin puddle. Let rest for 5 minutes before serving (any remaining liquid will absorb), sprinkle with herbs, and serve with additional lemon wedges.

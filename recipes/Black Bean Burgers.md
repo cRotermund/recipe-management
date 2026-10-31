@@ -43,6 +43,13 @@ uid: 763B3CF9-3496-43FA-BC65-354BF063FCFC
 
 ## Directions
 
+Mise en place guide:
+- Small bowl: 1/4 cup dried porcini mushrooms covered with hot water (soak 5-10 minutes, then drain, keep the soaking liquid, and chop)
+- Food processor: 2 cups black beans, drained; 1 tsp chopped garlic; 3/4 cup rolled oats; 2 tsp smoked paprika; 1 tsp cumin; 1 tbsp soy sauce; salt and pepper (add the chopped mushrooms)
+- Small dish: 1/4 cup chopped cilantro
+- Measuring cup: bean liquid, porcini soaking liquid, or water, for thinning
+- Small dish: 2 tbsp olive oil
+
 Soak the mushrooms in hot water for 5-10 minutes; roughly chop.
 
 Put the mushrooms, beans, garlic, oats, spices and soy sauce in a food processor with a sprinkle of salt and pepper. Let the machine run until the mixture is combined, not puréed, about 30 seconds. (Or use a potato masher.) Add oats to thicken, or liquid to thin, as needed.

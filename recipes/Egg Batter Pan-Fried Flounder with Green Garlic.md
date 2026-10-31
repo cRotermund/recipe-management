@@ -43,6 +43,14 @@ uid: 09789F76-5B67-441B-B7D0-FC65BD99F36C
 
 ## Directions
 
+Mise en place guide:
+- Tray: 4 (6 oz) flounder or sole fillets, seasoned with salt and pepper
+- Shallow bowl: 2 large eggs whisked with 1/2 cup milk and a pinch of salt (fish can sit in the batter up to 30 minutes)
+- Plate: 1/2 cup flour
+- Small dish: 4 tbsp butter; 1/3 cup finely chopped green garlic
+- Small dish: juice of 1/2 lemon
+- Small dish: 3 tbsp chopped flat-leaf parsley; lemon wedges, for serving
+
 Season the fish fillets with salt and pepper. Make the egg batter by whisking together the eggs and milk in a shallow bowl, along with a pinch of salt.
 
 Put the flour on a plate. Coat each fillet lightly on both sides, then submerge the fish in the egg batter. (This can be done up to 30 minutes ahead.)

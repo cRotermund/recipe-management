@@ -40,6 +40,12 @@ uid: 2A82CDE7-4B43-4DB2-AEA5-AFC1244F2DE9
 
 ## Directions
 
+Mise en place guide:
+- Large, wide bowl or 9- by 13-inch baking dish: 1/2 cup brown sugar; 1/2 cup dry white wine; 1/4 cup lemon juice; 1/2 tsp salt; 1/4 tsp pepper (stir until the sugar dissolves)
+- Plate: 8 salmon fillets (about 6 oz each), rinsed and patted dry (marinate 1-2 hours in the chilled marinade)
+- Small dish: 1/4 cup butter
+- Plate: lemon wedges, for serving
+
 In a large, wide bowl or 9- by 13-inch baking dish, stir brown sugar, wine, lemon juice, 1/2 tsp salt, and 1/4 tsp pepper until sugar is dissolved.
 
 Rinse fish and pat dry. Add to marinade and turn to coat. Cover and chill for 1-2 hours.

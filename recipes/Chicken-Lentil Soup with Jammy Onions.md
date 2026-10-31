@@ -43,6 +43,15 @@ uid: 02C82CE9-B712-489E-BD1C-1E8F1991EDE5-36261-00001AE9016FA1DF
 
 ## Directions
 
+Mise en place guide:
+- Tray: 4 chicken thighs, patted dry and lightly seasoned with salt
+- Bowl: 2 large Vidalia onions, thinly sliced
+- Small bowl: 6 garlic cloves, thinly sliced
+- Small bowl: 1 cup red lentils, rinsed, and 1 tsp turmeric
+- Measuring cup: 6 cups water
+- Small dish: 1/2 cup finely chopped parsley and 2 tbsp lemon juice
+- For serving: plain yogurt
+
 Lightly season chicken thighs all over with salt and set aside.
 
 Heat oil in a medium pot over medium-high. Add onion, season with salt, and cook, stirring occasionally, until golden brown, 12-15 minutes. Add garlic and cook, stirring often, until garlic is golden and onion is deep golden brown and lightly charred around the edges, about 5 minutes. Remove pot from heat and transfer onion and garlic to a plate with a slotted spoon; set aside for serving.

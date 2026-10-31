@@ -44,6 +44,15 @@ uid: 13DD9B73-4D33-4F68-9861-E095AC77B32B
 
 ## Directions
 
+Mise en place guide:
+- Large mixing bowl: 2 tbsp olive oil; 2 tbsp sherry vinegar; 2 tsp honey; 1 tsp Dijon mustard; 1/4 tsp red-pepper flakes; 1 tsp salt (whisk, then add the chicken)
+- Tray: 1 1/2 lb chicken thighs, cut into 3-inch pieces, patted dry and seasoned with salt and pepper (can sit in the marinade at room temperature while the onions cook)
+- Bowl: 2 medium yellow onions, thinly sliced
+- Bowl: 3/4 lb cremini mushrooms, stems removed and thinly sliced
+- Small dish: 3 tbsp olive oil
+- Small dish: 2 tsp sherry vinegar
+- Small dish: 1/2 cup chopped parsley or dill; 1/4 cup grated Parmesan or pecorino (optional)
+
 In a large mixing bowl, combine 2 tbsp oil, 2 tbsp vinegar, the honey, mustard, red-pepper flakes and 1 tsp salt; whisk until smooth. Pat the chicken dry and season with salt and pepper, then add to the mixture, coating it well. Set aside at room temperature, stirring it once while you make the onions.
 
 Heat a 12-inch cast-iron or heavy skillet over medium-high until very hot, 1 1/2-2 minutes, then add the onions in an even layer. Season with salt, then cook, mostly undisturbed, for 4 minutes more, stirring every minute or so. Add the mushrooms, season with salt, and stir to combine. (It will look crowded, and that’s OK.) Allow to cook mostly undisturbed until the mushrooms shrink and start to brown, about 4 minutes, stirring every minute or so.

@@ -46,6 +46,16 @@ uid: 30337C40-ABFB-4F0C-BBE9-9D4E20807D5E
 
 ## Directions
 
+Mise en place guide:
+- Large bowl: 2 1/2 lb chicken thighs, trimmed and cut into 1/2-1 inch pieces; 1 tbsp paprika; 1/2 tsp turmeric; 2 tsp salt (marinate while you prep, or overnight in the refrigerator)
+- Bowl: 2 yellow onions, finely diced
+- Small dish: 4 garlic cloves, minced
+- Measuring cup: 1 (13 oz) can coconut milk, shaken and opened
+- Small dish: 1 1/2 tbsp fish sauce
+- Measuring cup: 1 1/2 cups water
+- Small dish: 1 tsp Madras curry powder and 1/2 tsp cayenne
+- For serving: cooked rice or noodles; 1 cup cilantro sprigs in a bowl; 1 lime or lemon, cut into wedges
+
 Trim the chicken thighs of excess fat and cut into 1/2-1 inch pieces; transfer to a bowl. Add the paprika, turmeric and salt, and use your hands to mix well. Let the chicken marinate at room temperature while you prepare the other ingredients, or cover and refrigerate overnight.
 
 In a large pot, heat the oil over medium-high. Stir in the onions, lower the heat to medium-low and cook gently, stirring often to prevent scorching, until tender and translucent, 8-10 minutes. Add the garlic and continue to cook, stirring often, until most of the water from the onions has been cooked out and a glossy layer of oil has risen to the surface, about 5 minutes more.

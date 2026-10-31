@@ -44,6 +44,17 @@ uid: 4F907E9E-ACB7-4C69-B43E-28F352EFB064
 
 ## Directions
 
+Mise en place guide:
+- Baking dish: 1 (14 oz) package tofu, drained, wrapped in a clean kitchen towel and weighted (press 15 minutes to 1 hour)
+- Small dish: 1 tbsp black peppercorns, coarsely cracked
+- Small bowl: 2 garlic cloves and 1 1/2" piece ginger, peeled, both finely grated
+- Medium bowl: 1 tbsp cornstarch; 1/2 tsp salt (the pressed tofu, cut into 1" cubes, goes in)
+- Cutting board: 1 lb asparagus, trimmed and cut into 1 1/2" pieces
+- Small dish: 1/3 cup soy sauce; 1 tbsp sugar
+- Small dish: 1 tsp rice vinegar
+- Large plate: for the browned tofu
+- Pot: cooked rice for serving
+
 Wrap tofu in a clean kitchen towel and place in a shallow baking dish or on a rimmed baking sheet. Weigh down with a heavy object (a cast-iron skillet topped with a couple of heavy cans works well). Let sit at least 15 minutes and up to 1 hour (go the full time if you can).
 
 Meanwhile, coarsely crack peppercorns in a spice mill or with a mortar and pestle (you can use a chef’s knife or a very heavy object, although be prepared for some peppercorns to fly!); set aside. Finely grate garlic and ginger into a small bowl; set aside.

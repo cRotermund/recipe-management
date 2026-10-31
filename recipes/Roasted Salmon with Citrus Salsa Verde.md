@@ -44,6 +44,12 @@ uid: A80B1B00-D1D7-4B32-A3ED-D769CAA11408
 
 ## Directions
 
+Mise en place guide:
+- Small baking dish: 1 shallot, very thinly sliced into rings; half the orange zest; half the lemon zest; 1 tbsp olive oil
+- Tray: 1 lb salmon fillet
+- Medium bowl: 1/2 cup chopped cilantro; 1/2 cup chopped parsley; 1 small garlic clove, finely grated; 1/2 tsp smoked paprika; remaining orange and lemon zest; 1/2 cup olive oil
+- Small dish: juice of 1 orange and 1 lemon
+
 Preheat oven to 250°F. Combine shallot, half of orange zest, half of lemon zest, and 1 tbsp oil in a small baking dish just large enough to fit salmon. Season salmon with salt and coat with zest mixture. Bake fish until fillet is just opaque in the center and flakes with a fork, 30-35 minutes.
 
 Meanwhile, mix cilantro, parsley, garlic, paprika, remaining zests, and 1/2 cup oil in a medium bowl. Stir in orange and lemon juice and season citrus salsa verde with salt just before spooning over fish.

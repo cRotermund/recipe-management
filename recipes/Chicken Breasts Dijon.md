@@ -43,6 +43,14 @@ uid: 3E7ED922-82A7-4630-9FD5-F1F995940622
 
 ## Directions
 
+Mise en place guide:
+- Plate: 4 chicken breasts, ready to season with salt and pepper
+- Bowl: 2 small leeks, white and pale-green parts only, thinly sliced; 1 small onion, minced
+- Small dish: 4 garlic cloves, minced
+- Measuring cup: 2 cups chicken broth; 1 cup dry white wine; 1/2 cup Dijon mustard; 2 tbsp minced thyme
+- Small dish: 1 tbsp butter
+- Small dish: thyme leaves, for garnish
+
 Heat oil in a large heavy Dutch oven over medium-high heat. Season chicken breasts with salt and pepper. Place chicken in Dutch oven and cook until brown on both sides, 12-15 minutes total. Transfer to a plate and set aside.
 
 Place leeks and onion in same pot and sauté until tender, about 8 minutes. Add garlic and sauté until tender, about 2 minutes. Stir in broth, wine, Dijon mustard, and minced thyme and bring to a simmer. Return chicken to pot. Cover and simmer over medium-low heat until chicken is cooked through, about 15 minutes.

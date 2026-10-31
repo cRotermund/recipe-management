@@ -60,6 +60,16 @@ uid: 6D2F371C-C3F4-4CA1-916F-EA4F340EE768-80308-00003BCBC4D25489
 
 ## Directions
 
+Mise en place guide:
+- Small bowl (optional Creole seasoning): 1 tbsp smoked paprika; 1 tbsp chili powder; 1 tsp onion powder; 1 tsp garlic powder; 1/2 tsp cayenne; 1/2 tsp sea salt; 1/2 tsp black pepper
+- Bowl: 1 lb shrimp, peeled and deveined; 1 tsp Creole seasoning
+- Small dish: 1/4 cup butter; 1/3 cup flour (for the roux)
+- Cutting board: 1 yellow onion, finely chopped; 2 celery ribs, thinly sliced; 1 green bell pepper, seeded and finely chopped
+- Small dish: 4 garlic cloves, minced
+- Measuring cup: 1/3 cup water; 1 (15 oz) can tomato sauce; 1-2 tsp hot sauce (optional)
+- Small bowl: 1 tsp sugar; 1/2 tsp dried thyme; 1/2 tsp dried oregano; 1/2 tsp dried basil; 2 bay leaves; 1 1/2 tsp salt; 1/2 tsp black pepper; remaining 1 tsp Creole seasoning
+- Small dish: 1/4 cup chopped scallions; 1/4 cup chopped parsley, for garnish
+
 Make the optional Creole seasoning: Combine all ingredients in a small bowl and stir together. The seasoning makes about 1/4 cup; store it in a closed container in a cool, dry place.
 
 Toss the raw shrimp with 1 tsp Creole seasoning and set aside.

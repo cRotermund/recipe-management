@@ -47,6 +47,16 @@ uid: FCB5CFEC-CB88-458E-B87E-CD32305ABE09-87110-00002C4B49EF262C
 
 ## Directions
 
+Mise en place guide:
+- Tray: 2 lb chicken thighs, rubbed with 1 tbsp oil and seasoned with salt and pepper
+- Small dish: 1 tbsp butter (with the remaining 1 tbsp oil for browning)
+- Bowl: 1/2 cup finely chopped onion
+- Small bowl: 3 tbsp Madras curry powder; 1 tbsp minced garlic; 1 tbsp minced ginger; 3/4 tsp ground nutmeg; 2 tbsp butter
+- Bowl: 1 1/2 cups short-grain white rice, rinsed until water runs clear
+- Bowl: 1 large baking potato, peeled and cut into 1/2-inch cubes; 3 medium carrots, sliced 1/2-inch thick
+- Measuring cup: 3 1/2 cups low-sodium chicken broth; 2 tbsp Worcestershire sauce
+- Small dish: chopped scallions, for serving
+
 Heat oven to 375°F. Rub chicken with 1 tbsp oil, and season with salt and pepper.
 
 In a large Dutch oven or heavy pot, heat remaining 1 tbsp oil with 1 tbsp butter over medium until butter is melted. Working in two batches, brown chicken 3-4 minutes per side, and transfer to a plate.

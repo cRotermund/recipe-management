@@ -45,6 +45,15 @@ uid: 6BC1F36E-F3FD-4666-9A87-9CD4E7ED3377
 
 ## Directions
 
+Mise en place guide:
+- Cutting board: 9 chicken thighs, each cut lengthwise along both sides of the bone into 2 pieces, bones reserved; season chicken and bones with salt and pepper
+- Bowl: 1 lb chicken andouille sausage, cut into 1/2-inch-thick rounds
+- Bowl: 3 medium carrots, peeled and diced; 2 large onions, chopped
+- Small dish: 1/4 cup chopped marjoram; 6 garlic cloves, minced; 1 tsp grated lemon peel; 1/4 tsp dried crushed red pepper
+- Measuring cup: 1 cup dry white wine
+- Large measuring cup: 2 (14 1/2 oz) cans diced tomatoes with juice; 2 cups chicken broth
+- Small dish: remaining 1/4 cup chopped marjoram (for the end)
+
 Place chicken thighs, skin side down, on work surface. Using sharp knife, cut each thigh lengthwise along each side of bone, forming 2 pieces of meat (some meat may remain on bones); reserve bones.
 
 Heat oil in heavy large pot over medium-high heat. Sprinkle chicken and bones with salt and pepper. Working in batches, sauté in pot until brown, about 6 minutes per batch. Transfer to bowl. Add sausage to pot and sauté until brown, about 5 minutes. Using slotted spoon, transfer to bowl with chicken. Add carrots and onions to pot and sauté until onions are tender and golden, about 10 minutes. Stir in 1/4 cup marjoram, garlic, lemon peel, and crushed red pepper; sauté 2 minutes. Add wine and boil until reduced by half, about 3 minutes. Stir in tomatoes with juices and broth; bring to boil. Add chicken, bones, sausage, and any accumulated juices from bowl. Reduce heat, cover, and simmer until chicken is cooked through, about 35 minutes.

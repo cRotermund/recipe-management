@@ -43,6 +43,17 @@ uid: 885A743A-F7A2-4711-B714-8A2D4A74D249
 
 ## Directions
 
+Mise en place guide:
+- Small dish: 1/2 cup panko (toasted first)
+- Large bowl: empty, for the toasted panko
+- Cutting board: 3 shallots or 1 small onion, diced
+- Small dish: 1 tbsp tomato paste; 1 1/2 tsp salt
+- Small dish: 1 cup packed grated carrot (from 2 medium carrots)
+- Measuring cup: 1 1/2 tbsp apple cider vinegar
+- Colander: 2 (15 oz) cans cannellini beans, drained and rinsed
+- Small bowl: 1 large egg, beaten
+- Counter: olive oil (3 tbsp for the mixture, more for cooking the patties); black pepper; burger accompaniments
+
 Heat 1 tbsp olive oil in a large skillet over low heat. Add the panko and cook, stirring often, until lightly browned and crisp, 3-5 minutes. Transfer crumbs to a large bowl, then return the pan to the heat.
 
 Add 2 tbsp olive oil to the skillet, followed by the shallot or onion. Cook until softened and lightly golden, 8-10 minutes. Stir in the tomato paste, salt, and carrots and stir frequently until the carrots are soft and a bit blistered, another 8-10 minutes. Add the vinegar, scraping up all the browned bits until the pan is dry. Remove from heat and add the bowl with the toasted panko. Add beans and use a wooden spoon or spatula to very coarsely mash the mixture until a bit pasty and the mixture coheres in places—there should still be plenty of beans intact. Add pepper, and more salt if needed, to aste. Stir in the egg. Shape into 6 patties (I used a 1/2 cup measure as a scoop) for the size burger you see here; 4 patties for really large burgers (to warn, I found this size a little unwieldy), or 8-10 for slider-size.

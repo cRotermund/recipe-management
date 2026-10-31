@@ -50,6 +50,14 @@ uid: 9DAE46E5-22AF-41F1-A513-8A9A713777AB
 
 ## Directions
 
+Mise en place guide:
+- Bowl: 1 large onion, chopped; 1 green apple, peeled and chopped
+- Large bowl: 1 delicata or small butternut squash, cut into 3/4-inch pieces; 3 medium carrots, peeled and cut into 1-inch pieces; 1 medium russet potato, peeled and cut into 1/2-inch pieces; 1 small daikon, peeled and cut into 3/4-inch pieces; 6 garlic cloves, thinly sliced
+- Small dish: 1 (1-inch) piece ginger, finely chopped; 2 tbsp curry powder; 2 tbsp flour
+- Medium bowl: 2 cups chicken broth; 1/4 cup soy sauce; 3 tbsp cornstarch (whisk smooth just before using)
+- Bowl: 1 1/2 lb chicken thighs, cut into 1-inch pieces
+- Small dish: 1 large egg, beaten
+
 Preheat oven to 425°F. Heat butter in a large shallow braising pot or large skillet (around 12" in diameter) over medium. Cook onion and apple, stirring often, until very soft, 8-10 minutes. Add squash, carrots, potato, daikon, and garlic and cook, stirring occasionally, until vegetables are partly tender, 12-15 minutes. Add ginger and sprinkle with curry powder and 2 tbsp flour; cook, stirring to coat, just until curry powder darkens, about 1 minute. Whisk broth, soy sauce, and cornstarch in a small bowl until smooth. Add broth mixture to pot and bring to a simmer, stirring often. Cook, still stirring frequently, until mixture is very thick. Taste and season with salt, if needed. Add chicken and stir to evenly distribute. The mixture will look so thick at this point that it will seem wrong. Trust us, the vegetables and chicken will release liquid as they cook under the pastry, creating a rich and just-thick-enough sauce as they do so.
 
 Roll out puff pastry on a lightly floured surface until large enough to cover pot with an overhang of about 1" on all sides. Drape pastry over pot and press firmly around edges to adhere. Lightly brush with egg and cut 2-3 small slits in the center so that steam can escape.

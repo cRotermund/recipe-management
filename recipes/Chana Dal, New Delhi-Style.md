@@ -42,6 +42,14 @@ uid: E5AC0F15-19D6-4F95-B0D6-71FB3106E7DB
 
 ## Directions
 
+Mise en place guide:
+- Large saucepan: 1 cup chana dal; 1 1/2 tsp turmeric; 1/2 tsp ground cardamom; 1 bay leaf; 1 tsp salt; 4 cups water
+- Measuring cup: 1 cup extra water (only if needed)
+- Small saucepan: 2 tbsp sunflower or safflower oil (the tadka)
+- Small dish: 6 whole cloves
+- Small dish: 4 large garlic cloves, thinly sliced; 1 tsp crushed red chile flakes (optional)
+- Small dish: 3 tbsp chopped cilantro, for garnish
+
 Combine the chana dal, turmeric,cardamom, bay leaf, salt and 4 cups waterin a large saucepan and bring to a boil.Adjust the heat so the mixture bubblesgently, cover partly and cook for 40minutes. At that point, the mixture shouldstill be quite moist; if it is not, add 1 cupadditional water and continue cooking,covered, until the dal is tender, about 20minutes; turn off the heat. Remove thebay leaf. Use an Indian mathani (see related article)to purée the dal for about 1 minute;the dal should be saucy but not soupy.
 
 To make the tadka, put the oil in asmall saucepan over medium-high heat.When the oil is hot, add the cloves; letsizzle for about 30 seconds until fragrant.Add the garlic and cook, stirringconstantly, until medium brown. Stir inthe chili flakes if you’re using them,and turn off the heat.

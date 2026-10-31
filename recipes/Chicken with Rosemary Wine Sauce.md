@@ -43,6 +43,17 @@ uid: 39522CD9-22A8-4E46-91DD-D1AA0E9F472A
 
 ## Directions
 
+Mise en place guide:
+- Cutting board: 2 slices bacon, chopped
+- Plate: 4 chicken thighs, patted dry and seasoned with salt and pepper
+- Bowl: 1 small onion, sliced thin
+- Small dish: 2 garlic cloves, mashed
+- Small dish: 1 tbsp butter
+- Small dish: 1 tbsp flour
+- Measuring cup: 3/4 cup chicken stock; 3/4 cup white wine (keep extra of each nearby to top up)
+- Small dish: 1-2 sprigs rosemary; 3 sprigs thyme
+- Small dish: 1 tsp chopped parsley, for garnish
+
 In a large pan, cook the bacon over medium heat until it’s crispy. Remove it from the pan and leave the fat in the pan. You won’t use the bacon in the recipe, so store it in the fridge to use on salads, eggs, etc. You just need the bacon fat.
 
 Add the chicken to the pan, skin side down, and cook over medium to medium-high heat until the skin is nicely browned, about five minutes or so. Turn each piece over and let it cook another 2-3 minutes. Remove the chicken from the pan and set aside.

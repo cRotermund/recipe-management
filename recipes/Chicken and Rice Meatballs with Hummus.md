@@ -46,6 +46,12 @@ uid: 297D4019-9FA9-4C2F-9B70-F8E2CA75359D
 
 ## Directions
 
+Mise en place guide:
+- Medium bowl (meatballs): 6 scallions, thinly sliced; 2 garlic cloves, finely chopped; 1 piece (1") ginger, peeled and finely chopped; 1 lb ground chicken; 1 1/2 cups cooled cooked rice; 1/4 cup olive oil; 2 tsp hawaij or other spice blend; 1 tsp Diamond Crystal or 1/2 tsp Morton kosher salt
+- Medium bowl (salad): 1 small white onion, thinly sliced; 4 small dill pickles, sliced; 2 Persian cucumbers, sliced; 2 cups parsley leaves with tender stems
+- Small dish: 1 tbsp lemon juice
+- Tray: hummus and lemon wedges, for serving
+
 Preheat oven to 425°F. Gently mix scallions, garlic, ginger, chicken, rice, oil, hawaij, and 1 tsp Diamond Crystal or 1/2 tsp Morton kosher salt in a medium bowl (don’t overwork). Form mixture into 12 balls (about 1 1/2" in diameter). Place on a rimmed baking sheet and bake until lightly browned and cooked through, about 15 minutes.
 
 Toss onion, pickles, cucumbers, parsley, and lemon juice in a medium bowl to combine; season salad with salt.

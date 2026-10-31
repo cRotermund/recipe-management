@@ -41,6 +41,13 @@ uid: 0B77B6A2-BBEF-4C01-AF4E-F1AB773E760D
 
 ## Directions
 
+Mise en place guide:
+- Bowl: 1 yellow onion, chopped
+- Bowl: 3 cups chopped multicolor bell peppers
+- Small dish: 4 garlic cloves, minced; 1/2 tsp red pepper flakes (extra for serving)
+- Plate: 1 (12 oz) package Italian sausage, sliced into 1/4" rounds
+- Measuring cup: 1/4 cup olive oil, divided (2 tbsp for the onion, 2 tbsp for the sausage)
+
 In large skillet, heat 2 tbsp olive oil over medium-high. Add onion; cook, stirring occasionally, until light golden, 5 minutes. Add bell peppers. Cook stirring occasionally until tender, 5 minutes. Add garlic, fennel seeds and red pepper flakes; cook, stirring occasionally until fragrant, 30 seconds. Salt and pepper to taste.
 
 Push vegetables to edges of skillet. Add remaining 2 tbsp olive oil and Field Roast Plant-Based Italian Sausage in center of skillet. Cook until golden, 1-2 minutes. Stir to combine.

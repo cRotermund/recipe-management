@@ -42,6 +42,15 @@ uid: 7EE49867-D0A4-44F6-B68A-AE8010283CC0-60208-00002992E4C196B7
 
 ## Directions
 
+Mise en place guide:
+- Cutting board: 2 chicken breasts, sliced in half crosswise into 4 cutlets, pounded to 1/2" thick or less, lightly salted
+- Shallow bowl: 1/2 cup flour
+- Small dish: 4 garlic cloves, smashed
+- Measuring cup: 1/3 cup dry white wine; 1 tbsp drained capers, coarsely chopped
+- Small dish: 4 tbsp butter, cut into pieces
+- Small dish: 2 tbsp lemon juice
+- Small dish: chopped parsley and lemon wedges, for serving
+
 Slice chicken breasts in half crosswise into 4 cutlets and lightly pound each piece between sheets of plastic wrap until an even thickness (about 1/2" thick or less). Season lightly with salt. Place flour in a medium shallow bowl. Working one at a time, place cutlets in bowl and toss to coat in flour. Knock off excess flour and transfer to a plate.
 
 Heat 2 tbsp oil in a large skillet over medium-high. Working in batches if needed to avoid overcrowding the pan, cook cutlets, without moving them, until deeply browned underneath, about 2 minutes. Turn over and cook on the other side just until chicken is nearly cooked through, about 30 seconds. Transfer to a clean plate.

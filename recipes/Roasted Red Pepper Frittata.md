@@ -38,6 +38,11 @@ uid: 742E7CDF-D1F4-4319-95C5-2BBF3BE0DAA9-532-000000A1CA3A33D5
 
 ## Directions
 
+Mise en place guide:
+- Baking sheet: 2 red bell peppers (can be roasted up to 2 days ahead; bring to room temperature before using)
+- Cutting board: 1 large onion, thinly sliced; 1 1/2 lb potatoes, peeled and sliced 1/4" thick
+- Medium bowl: 8 large eggs
+
 Preheat oven to 400°F. Place bell peppers on a rimmed baking sheet, drizzle with oil, and turn to coat. Season with salt. Roast peppers, turning every 5 minutes, until softened and skins look wrinkly and lightly blistered, 20-25 minutes. Let cool slightly. Peel and remove seeds from bell peppers, then cut flesh into 1/2"-thick slices. (You should have about 1 cup.)
 
 Meanwhile, toss together onion and potatoes in an 8" cast-iron skillet; season with salt. Cover with 1 1/4 cups oil and set over medium heat. Bring to a gentle simmer, about 3 minutes, and cook, stirring occasionally with a wooden spoon and scraping the bottom of the pan to minimize sticking, reducing heat if needed, until there is no crunch left to the onion (do not let it take on any color) and the potatoes are tender, 25-30 minutes. Taste a piece of potato and onion to check. Some of the mixture may stick to the pan, and some of the potatoes may break into smaller pieces toward the end of cooking—both of these things are okay. Transfer to a medium bowl; let cool until warm, 8-10 minutes. Stir in roasted peppers.

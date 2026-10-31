@@ -43,6 +43,13 @@ uid: 30D231F3-2F52-449B-B2A3-9EC8085E9218
 
 ## Directions
 
+Mise en place guide:
+- Stockpot: 1 whole cut-up fryer chicken
+- Cutting board: 2 carrots, diced; 2 celery stalks, diced; 1/2 medium onion, diced (optional)
+- Small dish: 1 tsp salt; 1/2 tsp turmeric; 1/4 tsp white pepper; 1/4 tsp ground thyme; 2 tsp parsley flakes
+- Bowl: 16 oz frozen egg noodles (keep frozen until needed)
+- Small bowl: 3 tbsp all-purpose flour (stir with a little water until smooth just before adding)
+
 Cover chicken in 4 quarts water. Bring to a boil, then reduce heat to low. Simmer for 30 minutes.
 
 Remove chicken from pot with a slotted spoon. With two forks, remove as much meat from the bones as you can, slightly shredding meat in the process. Return bones to broth and simmer on low, covered, for 45 minutes.

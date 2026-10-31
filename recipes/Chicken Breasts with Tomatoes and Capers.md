@@ -45,6 +45,15 @@ uid: 3AE4C381-90C9-486E-BB80-A109E4285079-87110-00002C4BFADD5F81
 
 ## Directions
 
+Mise en place guide:
+- Plate: 4 chicken breasts, seasoned with salt and white pepper
+- Small dish: 2 tbsp butter
+- Small dish: 6 tbsp finely chopped shallots; 2 tsp finely chopped garlic
+- Bowl: 8 plum tomatoes, cut into small cubes; 4 tsp finely chopped tarragon; 1/4 cup drained capers
+- Measuring cup: 1/4 cup red wine vinegar; 1 cup dry white wine
+- Small dish: 2 tbsp tomato paste
+- Small dish: 1/4 cup chopped parsley, for garnish
+
 Sprinkle the chicken with salt and pepper. Heat the oil and butter in a heavy-bottom skillet. Add the chicken breasts and saute over medium-high heat, turning the pieces often until lightly browned, about 5 minutes.
 
 Add the shallots and garlic around the chicken. Cook briefly; add the tarragon, tomatoes, vinegar, capers, wine and tomato paste. Stir to dissolve the brown particles adhering to the bottom of the skillet.

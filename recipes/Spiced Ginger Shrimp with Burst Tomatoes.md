@@ -44,6 +44,13 @@ uid: CC536982-5EEB-4DD8-86D3-C5683B14C845-69958-000021DA81D590AC
 
 ## Directions
 
+Mise en place guide:
+- Medium bowl: 1 1/2 tsp spice blend; 1 1/2 tsp grated ginger; 2 garlic cloves, minced; scallion whites from 3 scallions, thinly sliced; 1/2 tsp salt; 1/4 tsp pepper; 1 lb shrimp, shelled and deveined
+- Small bowl: 3/4 cup cherry tomatoes (halve large ones); 1/4 tsp salt
+- Small dish: 2 tbsp butter
+- Small dish: 1/2 cup mint leaves, torn; scallion greens, thinly sliced, for garnish
+- Cutting board: 1 lime, cut for juicing
+
 In a medium bowl, combine spice blend, ginger, garlic, scallion whites, 1/2 tsp salt and 1/4 tsp pepper. Add shrimp and toss well. Heat a large skillet over high heat, then add the oil. Add the tomatoes and 1/4 tsp salt. Cook until the whole tomatoes burst and the halved ones start to wrinkle, about 2 minutes.
 
 Add shrimp mixture and sauté for another 2-4 minutes, turning the shrimp, until they are pink all over.

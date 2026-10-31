@@ -38,4 +38,7 @@ uid: B48A3CE4-3D88-4419-BD2F-07AE2C061BEF
 
 ## Directions
 
+Mise en place guide:
+- Bowl: shells from 2 lb shrimp; 1/2 cup coarsely chopped onion; 1 celery rib, coarsely chopped; 6 peppercorns; 1 bay leaf
+
 Put all the ingredients into a saucepan and bring to a boil. Let simmer about 20 minutes. Strain, discarding the solids.

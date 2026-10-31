@@ -46,6 +46,13 @@ uid: 95F236C4-9448-41FC-96F3-427042B9BF75
 
 ## Directions
 
+Mise en place guide:
+- Large bowl: half of the grated ginger, garlic and jalapeño (1 (4-inch) piece ginger, 6 garlic cloves, 1 jalapeño, grated on the small holes of a box grater); 2 lb ground chicken; 1 large bunch cilantro, leaves and stems finely chopped (reserve a few whole leaves for serving); 2 tbsp fish sauce; 1 tsp salt
+- Small bowl: remaining half of the grated ginger, garlic and jalapeño
+- Large measuring cup: 2 cups chicken broth; 1 (14 oz) can coconut milk; 1/2 tsp sugar; 1 tbsp fish sauce
+- Bowl: 5 oz baby spinach; 1 tbsp lime juice
+- Plate: reserved cilantro leaves; lime wedges, for serving
+
 Using the small holes of a box grater, or a Microplane, grate the ginger, garlic and jalapeño (or finely chop them by hand). Transfer half to a large bowl and set the rest aside. To the large bowl, add the chicken, finely chopped cilantro, 2 tbsp fish sauce and 1 tsp salt. Use your hands or a fork to fully combine but do not overmix.
 
 Use your hands or an ice cream scoop to form 2-inch meatballs (about 2 oz each). In a large Dutch oven or pot, heat the oil over medium-high heat. Working in batches, add the meatballs in a single layer and cook, flipping halfway through, until golden brown on two sides, 5-8 minutes. Transfer to a plate and repeat, adding oil as needed.

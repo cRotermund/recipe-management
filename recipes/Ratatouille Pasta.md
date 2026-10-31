@@ -46,6 +46,14 @@ uid: FD31C20B-BF2D-4738-AC33-0E8708296E6E
 
 ## Directions
 
+Mise en place guide:
+- Colander set over a medium bowl: eggplant, cut into 1/2" pieces and tossed with 2 tsp salt (let sit 30 minutes, then squeeze gently)
+- Small dish: 1/4 cup capers; 1/2 tsp crushed red pepper flakes
+- Medium bowl: bell peppers and zucchini, cut into 1/2" pieces; 2 medium onions, peeled and sliced into thin slivers
+- Small bowl: 1 pint cherry tomatoes, halved; 4 garlic cloves, smashed and coarsely chopped
+- Small bowl: 1 1/2 oz Parmesan, finely grated
+- Cutting board: 1 lemon, halved; 1 1/2 cups basil leaves, torn if large
+
 Cut 1 large or 2 medium Italian eggplants into 1/2" pieces. Transfer to a colander set over a medium bowl and sprinkle with 2 tsp salt. Let sit 30 minutes. Your eggplant might start to discolor and should start to release some brownish liquid that will fall into the bowl below. That’s good! It’s losing excess moisture that would prevent it from getting silky-soft.
 
 Meanwhile, cut 1 large or 2 small red bell peppers and 1 large zucchini into 1/2" pieces. Transfer to a medium bowl. Peel 2 medium onions, cut through root end, then slice through root end into thin slivers. Transfer to bowl with bell peppers. Halve 1 pint cherry tomatoes (the fastest—but dorkiest—way to do this is to sandwich them between two quart container lids) and transfer to a small bowl. Smash 4 garlic cloves, then coarsely chop and add to bowl with tomatoes. Slice 1 lemon in half; set aside. Finely grate 1 1/2 oz Parmesan with a Microplane or the small holes of a box grater into another small bowl.

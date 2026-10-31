@@ -41,6 +41,13 @@ uid: DAAF712B-67F6-4B0D-A838-1FF6FAEA9941-3367-0000010584357EE6
 
 ## Directions
 
+Mise en place guide:
+- Bowl: 3 scallion whites, thinly sliced; 8 oz shiitake caps (stems discarded), thinly sliced
+- Bowl: 1 medium bok choy, cut into bite-size pieces
+- Small bowl: 3 tbsp soy sauce; 2 tsp sesame oil
+- 2 small bowls: 1 egg cracked into each (discard the shells)
+- Small dish: 3 scallion greens, thinly sliced, for serving
+
 Bring a large saucepan of water to a simmer.
 
 Heat vegetable oil in a pot over medium. Add scallion whites and sliced mushrooms, season with salt and cook until browned, stirring occasionally, 5-6 minutes.

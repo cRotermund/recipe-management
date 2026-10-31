@@ -38,6 +38,10 @@ uid: 50F308EE-CCCE-4ECC-8B8C-67F725D8D9FB
 
 ## Directions
 
+Mise en place guide:
+- Small dish: 5 tsp fine sea salt; 2 bay leaves; 1 tsp dried thyme; 1 tsp dried rosemary; 1 tsp dried oregano
+- Measuring cup: 4 cups cold running tap water
+
 Add Spice & Salt: Add 5 tsp fine sea salt, 2 bay leaves, 1 tsp dried thyme, 1 tsp dried rosemary, and 1 tsp dried oregano to Instant Pot.
 
 *Note: This amount of salt won’t make the chicken breasts too salty. You can skip the salt & spices if you're planning to add your own dressings, spices, or sauces to the chicken breast for salads, sandwiches, or other chicken recipes.

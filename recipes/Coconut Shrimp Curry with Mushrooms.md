@@ -48,6 +48,14 @@ uid: C735107C-8A7B-478F-B100-A7550CC1E9E4-9653-000002C093679F20
 
 ## Directions
 
+Mise en place guide:
+- Medium bowl: 1 lb shrimp, peeled and deveined; salt and pepper; 1 tsp grated ginger; 1 tsp grated garlic; 1 tsp turmeric; 1/2 tsp coriander seeds, toasted and ground; 1/2 tsp cumin seeds, toasted and ground; 1 tbsp tamarind paste; 1 serrano chile, finely diced; pinch of cayenne (can marinate 5-10 minutes)
+- Small dish: a few curry leaves (optional)
+- Cutting board: 6 oz mushrooms, chopped
+- Measuring cup: 2 cups coconut milk
+- Small dish: a few mint and cilantro leaves, for garnish
+- Plate: lime wedges, for garnish
+
 Put shrimp in a medium bowl, and season generously with salt and pepper. Add ginger, garlic, turmeric, coriander, cumin, tamarind paste, serrano chile and cayenne, and mix to coat well. Leave to marinate for 5-10 minutes.
 
 Heat coconut oil in a wide skillet over medium-high heat. Add curry leaves, if using, and let them sputter, then add mushrooms and stir-fry gently for about 1 minute. Add shrimp and cook, stirring for about 1-2 more minutes until shrimp have turned pink and mushrooms have softened.

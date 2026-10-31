@@ -44,6 +44,16 @@ uid: FB5E0F86-854E-4D6E-9FE7-49C6A4D14C98
 
 ## Directions
 
+Mise en place guide:
+- Large bowl: 1 lb shrimp, thawed, patted dry and seasoned with 1 tsp salt
+- Small bowl: 3/4 cup panko; 2 tbsp olive oil; 1/4 tsp salt; 2 garlic cloves, grated
+- Medium bowl: 1 medium onion, finely chopped; 5 garlic cloves, grated; zest of 1/2 lemon
+- Small dish: 4 tbsp butter; 1 tsp salt; 1/2 tsp red pepper flakes (go in with the onion mixture)
+- Measuring cup: 3/4 cup dry white wine
+- Small dish: 4 tbsp butter; 2 tbsp olive oil (for finishing the pasta)
+- Small bowl: 1 cup parsley leaves with tender stems, coarsely chopped
+- Cutting board: 1 lemon, halved for juicing; 1 lemon, cut into wedges for serving
+
 Thaw that shrimp! Place unopened 1-lb bag of shrimp in a large bowl and fill with cool water. Place a heavy plate on top to submerge until thawed, about 45 minutes. If you're the kind of person who actually thinks about dinner more than a few hours before you're going to make it, you can also let the shrimp thaw overnight in the fridge. Alternatively, if you're in a hurry, take the shrimp out of the bag and let them soak in a big bowl of cold water—they'll be ready in about 15 minutes. However you thaw them, make sure to pat them dry before proceeding. Season shrimp with 1 tsp salt. Let sit until ready to use. While all that's happening, bring a large pot of salted water to a boil.
 
 This dish comes together quite quickly, so you're going to want to have all of your prep done before you start cooking. Peel 1 medium onion, then finely chop so that all pieces are about the size of lentils. Transfer to a medium bowl. Using a Microplane, grate 5 garlic cloves right into bowl. Finely grate zest of 1/2 lemon right into bowl. Coarsely chop 1 cup parsley leaves with tender stems; transfer to a separate small bowl and set aside.

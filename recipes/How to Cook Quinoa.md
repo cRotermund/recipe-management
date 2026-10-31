@@ -34,6 +34,11 @@ uid: C3D09721-B363-43B4-A834-284BA15D4D4B
 
 ## Directions
 
+Mise en place guide:
+- Fine-mesh strainer: 1 cup quinoa, rinsed thoroughly and drained
+- Measuring cup: 1 3/4 cups water or low-sodium broth
+- Small dish: 1/2 tsp kosher salt
+
 Rinse the quinoa. Place the quinoa in a fine-mesh strainer. Rinse thoroughly under cool, running water. Rub and swish the quinoa with your hand while rinsing. Drain.
 
 Toast the quinoa in a saucepan. Heat the olive oil in a small saucepan over medium-high heat until shimmering. Add the drained quinoa and cook, stirring constantly, to let the water evaporate and toast the quinoa, about 2 minutes.

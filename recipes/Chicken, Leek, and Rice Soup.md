@@ -44,6 +44,15 @@ uid: 37F78850-8D46-4EDD-AA56-18E3D9F6F2C2
 
 ## Directions
 
+Mise en place guide:
+- Bowl: 2 large or 3 medium leeks, halved and thinly sliced; 1 celery rib, thinly sliced; 1 carrot, thinly sliced (optional)
+- Small dish: 2 large garlic cloves, minced
+- Measuring cup: 4 cups chicken stock; 2 cups water
+- Plate: 1 lb boneless, skinless chicken thighs
+- Small dish: 1/2 cup long-grain white rice
+- Small dish (serving): chopped fresh herbs (parsley, chives, dill); lemon zest; red pepper flakes or harissa
+- Cutting board: lemon wedges
+
 Heat olive oil or butter over medium-high heat in a 4-5 quart pot. Add leeks, celery, and carrot (if using), salt, and pepper, and cook, stirring, until leeks have softened a bit, about 4 minutes. Add garlic and cook one minute more. Add broth, water, and chicken plus salt (I use 2-3 tsp of additional kosher salt for barely-salted stock) and many grinds of black pepper and bring to a boil. Reduce heat to medium-low and cover, simmering for 15 minutes, until chicken is very tender and cooked through. Remove chicken with tongs and set on a cutting board. Add rice and return the heat to a low simmer, cover with lid, and cook for 15 minutes, until rice is tender. Use two forks to shred chicken into bite-sized pieces and return to the soup to rewarm. Adjust seasonings to taste.
 
 Ladle soup into bowls and finish with some herbs, lemon zest, red pepper flakes (or harissa), and serve with lemon wedges on the side.

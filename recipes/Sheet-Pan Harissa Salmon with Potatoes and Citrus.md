@@ -45,6 +45,12 @@ uid: 0DD438CA-E405-4142-8E68-D753A7C35906-52825-000025907D946A54
 
 ## Directions
 
+Mise en place guide:
+- Plate: 4 salmon fillets, seasoned with salt and pepper
+- Shallow bowl: 2-3 tbsp harissa; 2 tsp grated ginger; 1 garlic clove, grated; 1/2 tsp orange zest; 1/4 cup orange juice (spoon over the salmon, can marinate at room temperature while the potatoes roast)
+- Large bowl: 1 lb small potatoes, halved lengthwise; 1 small red onion, cut into 1/2-inch wedges; 2 tbsp olive oil; salt and pepper
+- Small dish: 1/4 cup chopped cilantro; 3 tbsp thinly sliced scallions; flaky salt
+
 Heat oven to 450°F. Lay salmon on a plate, and season with salt and pepper. In a shallow bowl, whisk together harissa, ginger, garlic, orange zest and juice. Spoon the mixture over the flesh and sides of the fish, and let marinate at room temperature.
 
 Meanwhile, line a sheet pan with parchment paper (or use a nonstick sheet pan). In a large bowl, toss together the potatoes and onion with the olive oil, and season well with salt and pepper. Arrange them on the sheet pan in 1 layer, leaving 4 spaces for the salmon fillets to be added later. Roast until the potatoes are beginning to brown and are almost cooked through, about 20 minutes.

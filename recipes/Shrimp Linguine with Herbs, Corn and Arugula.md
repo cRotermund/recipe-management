@@ -44,6 +44,15 @@ uid: 06EDB4E4-0C80-42C1-B526-E6F5B0CEBF7E-57272-00001C3D04021AAA
 
 ## Directions
 
+Mise en place guide:
+- Tray: 1 lb shrimp, peeled and deveined, seasoned with salt and pepper
+- Small dish: 1/2 cup butter, divided in half
+- Bowl: 2 cups corn kernels
+- Small dish: 3 garlic cloves, thinly sliced; 1/2 tsp red-pepper flakes
+- Measuring cup: 1 cup dry white wine
+- Large bowl: 8 oz baby arugula
+- Bowl: 2 cups roughly chopped tender herbs, divided in half (half to stir in, half to top)
+
 Bring a large pot of well-salted water to a boil. Add pasta and cook according to package instructions until it is just short of al dente. Reserve 1 cup of the pasta cooking water, then drain pasta.
 
 While the pasta cooks, season the shrimp well with salt and pepper. Melt half the butter in a deep 12-inch skillet over medium heat. Add the shrimp and sauté until just cooked through, 1-2 minutes per side. Remove and set aside.

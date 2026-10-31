@@ -55,6 +55,18 @@ uid: 9925D9F9-9AA0-4529-8F5E-CFEC6A77A65C-8524-0000061D574FCA7F
 
 ## Directions
 
+Mise en place guide:
+- Measuring cup: 4 cups chicken broth (for the chiles)
+- Blender: 3 large or 6 medium ancho chiles, 2 guajillo chiles, and 2 pasilla chiles, stems removed and flesh torn into pieces; 2 canned chipotle chiles in adobo (add after soaking)
+- Tray: 3 lb ground turkey, divided in half for 2 batches
+- Bowl: 2 onions, finely chopped; 5 garlic cloves, smashed
+- Small dish: 1 tbsp ground cumin; 2 tsp dried oregano
+- Small dish: 2 tbsp tomato paste
+- Measuring cup: 1 (12 oz) bottle hard cider or beer; 1 cinnamon stick; 2 bay leaves
+- Bowl: 2 (15.5 oz) cans cannellini beans, drained and rinsed; 3 tbsp maple syrup
+- Small bowl: 1 cup plain Greek yogurt; 2 tbsp lime juice; chopped cilantro (keep cold until serving)
+- Serving plate: tostadas
+
 Bring broth to a simmer in a large Dutch oven or other heavy pot. Meanwhile, remove and discard stems from ancho, guajillo, and pasilla chiles. Tear flesh into a few pieces, letting seeds fall out. Transfer to a blender. Add hot broth and cover blender; let sit until chiles are softened, 25-30 minutes. Add chipotle chiles and blend on high speed until smooth, about 1 minute; set aside.
 
 Heat 2 tbsp oil in same pot over medium-high. Season turkey all over with salt. Add half of turkey to pot and smash down with a wooden spoon to flatten against surface of pot and break into smaller clumps. Cook, undisturbed, until underside is browned, top side is no longer pink, and most of the liquid is cooked off, 8-10 minutes. Using a slotted spoon, transfer to a plate. Repeat with another 2 tbsp oil and remaining turkey.

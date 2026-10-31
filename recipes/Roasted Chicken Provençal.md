@@ -43,6 +43,14 @@ uid: 54886CF1-033E-4C5E-8FDB-4C9D9CD84BEF
 
 ## Directions
 
+Mise en place guide:
+- Tray: 4 chicken legs or 8 chicken thighs, seasoned with 2 tsp kosher salt and 1 tsp black pepper
+- Shallow pan: 1/2-3/4 cup all-purpose flour
+- Small dish: 2 tbsp herbes de Provence
+- Bowl: 1 lemon, quartered; 8-10 garlic cloves, peeled; 4-6 shallots, peeled and halved
+- Measuring cup: 1/3 cup dry vermouth
+- Small dish: 4 sprigs thyme, for garnish
+
 Heat oven to 400°F. Season the chicken with salt and pepper. Put the flour in a shallow pan, and lightly dredge the chicken in it, shaking the pieces to remove excess flour.
 
 Swirl the oil in a large roasting pan, and place the floured chicken in it. Season the chicken with the herbes de Provence. Arrange the lemon, garlic cloves and shallots around the chicken, then add the vermouth to the pan.

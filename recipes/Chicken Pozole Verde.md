@@ -53,6 +53,13 @@ uid: EB678605-6ADB-482B-A006-212514316563
 
 ## Directions
 
+Mise en place guide:
+- Measuring cup: 7 cups chicken stock; 2 cups water
+- Plate: 4 chicken breast halves, on the bone, with skin
+- Large bowl (for the blender): 1 lb tomatillos, husked and halved; 1 small onion, quartered; 2 poblano chiles, cored, seeded, and quartered; 2 jalapeños, seeded and quartered; 4 garlic cloves, smashed; 1/2 cup chopped cilantro; 1 tbsp oregano
+- Colander: 3 (15 oz) cans hominy, drained
+- Tray: finely shredded iceberg lettuce; sliced radishes; chopped onion; diced avocado; sour cream; tortilla chips; lime wedges (for serving)
+
 Gather the ingredients.
 
 In a large enameled cast-iron casserole, bring the chicken stock and water to a boil.

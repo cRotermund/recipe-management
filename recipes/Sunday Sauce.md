@@ -44,6 +44,12 @@ uid: 38C9F735-6231-432D-9089-58E441F1A358
 
 ## Directions
 
+Mise en place guide:
+- Tray: 2 lb pork shoulder, cut into 3-inch chunks and seasoned all over with salt and pepper
+- Cutting board: 1 yellow onion, coarsely chopped; 6 garlic cloves, smashed and peeled
+- Measuring cup: 1/3 cup red wine
+- Opened cans: 2 (28 oz) cans crushed tomatoes (keep one can to fill with water); 3 basil sprigs
+
 Season the pork shoulder all over with salt and pepper. In a large Dutch oven, heat 2 tbsp oil over medium high. Working in batches if necessary, cook the pork until browned on two sides, 8-10 minutes total, adding more oil if the pan looks dry. Transfer pieces to a bowl as they finish. Add the sausages to the pot and cook until browned, 4-6 minutes total. Transfer to the bowl.
 
 Reduce the heat to medium-low. Add the remaining 2 tbsp oil, if needed, and the onion and garlic. Season with salt and pepper, and cook until softened, 2-4 minutes. Add the red wine, stir, scrape up the browned bits on the bottom of the pan and cook until the wine is nearly evaporated, 2-4 minutes.

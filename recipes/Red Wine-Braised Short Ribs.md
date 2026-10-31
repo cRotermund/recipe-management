@@ -48,6 +48,13 @@ uid: 1A113C4A-51A0-47C6-890C-2B70B202EB2B-381-000000C319C173BB
 
 ## Directions
 
+Mise en place guide:
+- Tray: 5 lb short ribs, cut into 2-inch pieces, patted dry and seasoned with salt and pepper
+- Large bowl: 3 medium onions, chopped; 3 medium carrots, peeled and chopped; 2 celery stalks, chopped
+- Small dish: 3 tbsp flour and 1 tbsp tomato paste
+- Plate: 10 parsley sprigs, 8 thyme sprigs, 4 oregano sprigs, 2 rosemary sprigs, 2 bay leaves, and 1 head of garlic, halved crosswise
+- Measuring cups: 1 bottle (750 ml) red wine, opened; 4 cups beef stock
+
 Preheat oven to 350°F. Season short ribs with salt and pepper. Heat oil in a large Dutch oven over medium-high. Working in 2 batches, brown short ribs on all sides, about 8 minutes per batch. Transfer short ribs to a plate. Pour off all but 3 tbsp drippings from pot.
 
 Add onions, carrots, and celery to pot and cook over medium-high heat, stirring often, until onions are browned, about 5 minutes. Add flour and tomato paste; cook, stirring constantly, until well combined and deep red, 2-3 minutes. Stir in wine, then add short ribs with any accumulated juices. Bring to a boil; lower heat to medium and simmer until wine is reduced by half, about 25 minutes. Add all herbs to pot along with garlic. Stir in stock. Bring to a boil, cover, and transfer to oven.

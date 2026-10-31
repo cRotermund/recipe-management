@@ -42,6 +42,14 @@ uid: 2E88E0A5-8503-4510-AFDB-4B5731ADB9BC
 
 ## Directions
 
+Mise en place guide:
+- Tray: 2 pork chops, seasoned with salt and sprinkled with 1/2 tsp sugar
+- Small dish: 1 large shallot, chopped; 4 garlic cloves, thinly sliced
+- Measuring cup: 1/4 cup red wine vinegar; 1 tsp sugar
+- Small dish: 3 rosemary sprigs; 1 tbsp drained capers
+- Measuring cup: 1/2 cup water
+- Small dish: 2 tbsp butter, cut into pieces (keep cold)
+
 Season pork chops with salt and sprinkle evenly with 1/2 tsp sugar. Heat 1 tbsp oil in a large skillet over medium-high. Cook chops, undisturbed, until well browned underneath, about 3 minutes. Turn and cook just until second side is lightly browned, about 1 minute. Transfer chops to a plate (they won’t be fully cooked); reduce heat to medium.
 
 Pour remaining 1 tbsp oil into same skillet and add shallot and garlic. Cook, stirring often, until softened and just beginning to brown, about 3 minutes.

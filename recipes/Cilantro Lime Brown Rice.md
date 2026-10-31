@@ -36,6 +36,10 @@ uid: FECCE826-B8D3-421D-A83C-94500243B345
 
 ## Directions
 
+Mise en place guide:
+- Colander: 1 1/2 cups brown rice, rinsed; set 1 bay leaf alongside
+- Small bowl: 1/4 cup chopped cilantro; 2 tbsp lime juice; 1 1/2 tsp lemon juice; 1 tbsp plus 1 tsp olive oil; 1/2 tsp fine sea salt
+
 Bring a large pot of water to boil over high heat. Pour in the rinsed rice and drop in the bay leaf. Give the mixture a brief stir and let it boil for 30 minutes, reducing the heat if necessary to prevent overflow.
 
 Drain the rice, return it to the pot, cover, and let it rest for 10 minutes off the heat. Discard the bay leaf and fluff the rice with a fork.

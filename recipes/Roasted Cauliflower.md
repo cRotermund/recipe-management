@@ -34,5 +34,8 @@ uid: 4CEFD719-4DDE-4219-8684-4A22AF2C446A
 
 ## Directions
 
+Mise en place guide:
+- Baking sheet: 1 head cauliflower, cut into florets and tossed with olive oil
+
 Oven @ 400
 ~ 25 min

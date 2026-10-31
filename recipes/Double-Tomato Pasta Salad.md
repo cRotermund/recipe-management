@@ -42,6 +42,15 @@ uid: 7E491BA9-0417-4667-8772-DCB929497680
 
 ## Directions
 
+Mise en place guide:
+- Cutting board: 1 (7-8 oz) jar sun-dried tomatoes, drained (oil goes into the pot), coarsely chopped; 1 1/2 cups nuts, coarsely chopped
+- Measuring cup: 1/4 cup olive oil
+- Small dish: 2 garlic cloves, finely grated; 1/2 tsp salt; 1/2 tsp pepper
+- Large bowl: 2 lb ripe tomatoes, coarsely chopped; 1 tsp salt (while the pasta water comes to a boil)
+- Bowl: 1 lb fusilli
+- Small dish: lemon juice or red wine vinegar, to taste
+- Cutting board: 2 cups torn basil, mint, dill or arugula leaves
+
 Holding back the sun-dried tomatoes with your fingers, drain the oil from the jar into a large pot. Coarsely chop the sun-dried tomatoes and add them to the pot, along with the nuts and olive oil. Set over medium-low and cook, stirring often, until the nuts are toasted, 5-6 minutes. Scrape into a large bowl (reserve the pot), then stir in the garlic and 1/2 tsp each salt and pepper. 
 
 Fill the reserved pot with water (no need to wash) and bring to a boil. Season water with salt, add the pasta and cook until just past al dente. (The pasta will not cook further in the sauce.) Drain the pasta.

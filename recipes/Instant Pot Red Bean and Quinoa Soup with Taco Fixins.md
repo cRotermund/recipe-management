@@ -53,6 +53,14 @@ uid: 63A5B9DB-86D7-4480-8CD0-F4EDE8F346D7
 
 ## Directions
 
+Mise en place guide:
+- Small bowl (pickled onions, make first): 1/2 small red onion, thinly sliced; 2 tbsp red wine vinegar; 1/2 tsp kosher salt; 1/4 tsp sugar; 4 tsp water (chill until serving)
+- Bowl: 1 large red onion, finely chopped
+- Small dish: 4 garlic cloves, finely grated; 1 tbsp ground cumin
+- Large bowl: 1 (16 oz) package dried red beans; 1/2 cup red quinoa, rinsed; 1 tbsp adobo sauce; 2 tsp kosher salt; 7 cups water
+- Cutting board: 1/2 lime, for squeezing into the finished soup
+- Serving plate: lime wedges; sliced avocado; sour cream; chopped cilantro; crumbled queso fresco or shredded cheese; hot sauce; tortilla strips
+
 Soup
 
 Heat oil in an Instant Pot or other electric pressure cooker on the Sauté setting. Add onion and cook, stirring occasionally, until beginning to turn golden brown around the edges, 6-8 minutes. Add garlic and cumin and cook, stirring constantly, 2 minutes. Add beans, quinoa, adobo sauce, 2 tsp salt, and 7 cups water. Lock lid and cook soup on high pressure 45 minutes, then release pressure manually. Squeeze in juice from lime half; mix well. Taste and season soup with more salt if needed.

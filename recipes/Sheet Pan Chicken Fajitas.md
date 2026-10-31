@@ -48,6 +48,12 @@ uid: BFE2F283-4F73-4AE2-82C5-4589F99B1F0A
 
 ## Directions
 
+Mise en place guide:
+- Small bowl: 2 tsp chili powder; 2 tsp ground cumin; 2 tsp dried oregano; 3/4 tsp paprika; 1/4 tsp smoked paprika; pinch of cayenne; 1 1/4 tsp salt; 1 1/4 tsp pepper; 3 garlic cloves, grated; 3 tbsp olive oil
+- Large bowl: 1 1/2 lb chicken breasts, cut into thin strips; 1 red and 1 yellow bell pepper, cut into strips; 2 medium red onions, cut into wedges
+- Small dish: 1/4 cup chopped cilantro; 2 tbsp lime juice
+- Plate: 6 tortillas (warm before serving)
+
 Preheat oven to 425°F. Lightly oil a baking sheet or coat with nonstick spray.
 
 In a small bowl, combine chili powder, cumin, oregano, paprika, 1 1/4 tsp salt and 1 1/4 tsp pepper. Add enough olive oil to make into thick sauce. Grate in garlic and mix well.

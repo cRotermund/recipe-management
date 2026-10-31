@@ -56,6 +56,16 @@ uid: 7B1D4054-7081-4536-B3AE-8D4A71167B7E-84199-00002AE18E0833EA
 
 ## Directions
 
+Mise en place guide:
+- Colander: 1 1/2 cups soaked dried chickpeas, drained
+- Small dish: 4 garlic cloves; 2 sprigs parsley; 1 onion, quartered; 1 tbsp olive oil
+- Small dish: 2 tsp sea salt (added partway through simmering)
+- Bowl: 1 large onion, finely diced
+- Small dish: 1 bay leaf; 3 garlic cloves; 2 tbsp grated ginger; 2 tsp ground coriander; 2 tsp ground cumin; 1/4 tsp ground cardamom; 1/2 tsp salt; 1/2 tsp black pepper
+- Bowl: 2/3 of the 3 tomatoes, peeled and diced
+- Small dish: juice of 1/2 lemon
+- Serving dish: remaining diced tomato; 2 tbsp diced onion; 1 tsp minced jalapeño; 2 tbsp chopped cilantro
+
 Drain the chickpeas. Put them in a saucepan, cover with 3 quarts fresh water, and boil for 10 minutes. Skim off any foam that collects on the surface, then lower the heat. Add the garlic, parsley, onion and oil. Simmer, partly covered, until the peas are almost tender, about 45 minutes. Add the salt, and continue cooking until the peas are completely tender but not mushy, about 30 minutes more. Strain, reserving the broth. This should yield about 3 cups chickpeas.
 
 For the sauce, warm the oil in a large skillet over medium heat. Add the onion, and cook, stirring frequently, until well browned, 12-15 minutes. Lower the heat, and add the bay leaf, garlic, ginger, spices, salt, pepper and two-thirds of the diced tomatoes. Cook for 5 minutes.

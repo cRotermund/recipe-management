@@ -39,6 +39,13 @@ uid: 75DC6225-392F-42AA-AB6C-F3654909C91F-272-00000010053938FF
 
 ## Directions
 
+Mise en place guide:
+- Baking sheet: 12 scallions, trimmed; 1 tbsp olive oil; salt and pepper
+- Medium bowl: 1 lb Yukon gold potatoes, sliced 1/8-inch-thick; 2 tbsp olive oil; salt and pepper
+- Tray: 8 chicken thighs; 2 tbsp olive oil; salt and pepper
+- Small dish: 2 tbsp drained capers; 1 tbsp lemon juice
+- Small dish: 4 lemon wedges, for serving (optional)
+
 Heat oven to 450°F. Place scallions in a single layer on a rimmed baking sheet, drizzle with 1 tbsp oil and season with salt and pepper. In a medium bowl, season potatoes with salt and pepper and toss with 2 tbsp oil. Spread half of potatoes in a single layer over scallions. Season chicken with salt and pepper, drizzle with the remaining 2 tbsp oil and place on top of the potatoes. Arrange remaining potatoes around chicken. Roast until chicken is cooked through and potatoes are tender and golden, 30-35 minutes.
 
 Transfer chicken, potatoes and scallions to serving plates. Scrape remaining pan juices and drippings into a small bowl, stir in capers and lemon juice and season with salt and pepper. Spoon over chicken and serve with lemon wedges, if using.

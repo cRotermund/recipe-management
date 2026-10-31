@@ -41,6 +41,14 @@ uid: BE67A849-7702-4BFB-8D81-8D078DE6B427
 
 ## Directions
 
+Mise en place guide:
+- Plate: 4-6 chicken thighs, seasoned generously on top with salt and pepper
+- Small dish: 3 tbsp butter (1 tbsp for browning the chicken, 2 tbsp for the onions); 1 tbsp olive oil
+- Bowl: 1 1/2 lb (3 large) yellow onions, diced just shy of 1/2" pieces
+- Small dish: thyme leaves from a few sprigs; 1 1/2 cups uncooked rice
+- Small dish: 1/4 cup white wine (optional)
+- Measuring cup: 2 cups chicken broth, plus 1/4 cup more on the side
+
 Prepare the chicken: Arrange chicken skin side up on a plate and season generously on top with salt and freshly ground black pepper. We’ll get to the undersides in a minute.
 
 Heat a large sauté pan, preferably one with a lid, over medium-high heat for one minute. Once the pan is very hot, add 1 tbsp olive oil and 1 tbsp butter, and heat them together for another full minute. Arrange chicken skin side down and cook until deeply brown underneath, about 4-5 minutes. [Don’t crowd the chicken; depending on the size of your pan, you might need to do this in two batches.] While it browns, season what is now the top side with additional salt and pepper. Once browned, flip the pieces over and brown on the second side, about another 3-4 minutes. Don’t skimp on the color, please. Transfer the chicken to a plate.

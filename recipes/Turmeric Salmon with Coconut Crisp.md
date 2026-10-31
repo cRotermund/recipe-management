@@ -43,6 +43,12 @@ uid: 7983ABAF-8730-4272-BADC-F687AD04AB10
 
 ## Directions
 
+Mise en place guide:
+- Bowl: Swiss chard ribs and stems, finely chopped; 1 large shallot, thinly sliced; 1 3" piece ginger, peeled and thinly sliced lengthwise
+- Large bowl: Swiss chard leaves, coarsely chopped (add after the stems)
+- Small bowl: 2 tbsp olive oil and 1/2 tsp ground turmeric
+- Small dish (coconut crisp): 3 garlic cloves, thinly sliced; 1/2 serrano chile, thinly sliced; 1/2 cup coconut flakes
+
 Preheat oven to 300°F. Heat 2 tbsp oil in a large ovenproof skillet over medium-high. Add Swiss chard ribs and stems, shallot, and ginger and cook, stirring occasionally, until shallot is softened but not browned, about 3 minutes. Add Swiss chard leaves and cook, stirring, until partly wilted, about 3 minutes. Remove from heat and season with salt.
 
 Combine 2 tbsp oil and turmeric in a small bowl. Place salmon, flat side down, on top of greens in skillet. Season salmon with salt and coat with turmeric oil. Transfer to oven and bake until fillet is just opaque in the center and flakes easily and greens are tender, 25-30 minutes.

@@ -47,6 +47,15 @@ uid: 1B16F06D-CE2E-475A-9536-C2EC622F1051-36261-00001AE2B109FC33
 
 ## Directions
 
+Mise en place guide:
+- Bowl: 1 lb sweet Italian sausage, removed from the casings
+- Cutting board: 1 onion, chopped; 1 fennel bulb, chopped (reserve the fronds); 4 garlic cloves, chopped
+- Small dish: 2 anchovy filets; 1/2 tsp fennel seeds; 1/2 tsp red pepper flakes
+- Strainer: 15 oz chickpeas, rinsed and drained
+- Measuring cup: 3 cups chicken stock
+- Opened can: 28 oz whole peeled tomatoes (break up by hand over the pot); 2 bay leaves
+- Small dish: chopped fennel fronds; a few sprigs each of basil and oregano; a dash of red pepper flakes
+
 First, start with a solid base. Working in a big Dutch oven, brown 1 lb of store-bought, sweet Italian sausage that's been removed from the casings in 1 or 2 tbsp of olive oil, breaking it up into pieces. When it’s cooked through and there’s good caramelization on the pieces, remove the sausage with a slotted spoon and transfer to a bowl. You can omit the meat, but I’d highly recommend using even a little bit so that fat renders enough to to cook chopped aromatics.
 
 Use about 1 onion, 1 fennel bulb, and 4 garlic cloves (they all go well with the flavors of the sausage, but any combination of aromatics—leek, celery, carrot—could work). Sweat the vegetables for 8-10 minutes until they start to brown, then stir in a couple of anchovy filets and about 1/2 tsp each of fennel seed and red pepper flakes. Because this is a quick-cooking soup, you want to pack in as much flavor as possible using whatever ingredients you have on hand.

@@ -44,6 +44,14 @@ uid: 5581830E-80AF-4AE5-BE8D-A0D4E668B6C8
 
 ## Directions
 
+Mise en place guide:
+- Casserole dish (8-by-12-inch): 1 3/4 lb cherry tomatoes; 12 large garlic cloves; 4 large shallots, cut into 1 1/4-inch pieces; 1 1/4 cups cilantro stems, cut into 1 1/2-inch pieces; 3 tbsp thyme leaves; 4 small cinnamon sticks; 1/2 tsp salt; black pepper
+- Measuring cup: 7 tbsp olive oil
+- Small bowl: 1 1/2 cups basmati rice; 1/2 tsp salt; black pepper
+- Measuring cup: 2 1/2 cups water (boil it during the last 10 minutes of the first bake)
+- Small dish: 1/2 cup cilantro leaves, roughly chopped
+- Counter: foil to cover the dish
+
 Heat oven to 350°F.
 
 In an 8-by-12-inch casserole dish, toss together tomatoes, garlic, shallots, cilantro stems, thyme, cinnamon sticks, 1/2 tsp salt and pepper to taste. Pour oil over everything, then bake until vegetables are soft, about 1 hour. Remove from oven and increase oven temperature to 450.

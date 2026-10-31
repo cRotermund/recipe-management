@@ -44,6 +44,15 @@ uid: 475EA7F8-AC08-4B62-9E80-3F83435880D7
 
 ## Directions
 
+Mise en place guide:
+- Tray: 4 chicken legs, seasoned with salt
+- Bowl: 2 red bell peppers, seeds and ribs removed, coarsely chopped; 1 large onion, coarsely chopped
+- Bowl: 2 beefsteak tomatoes, seeds removed, coarsely chopped; 2 habanero chiles, stemmed, halved, seeds removed; 1 tsp black pepper
+- Measuring cup: 2 cups low-sodium chicken broth
+- Bowl: 2 small sweet potatoes or yams, sliced into 1/2" rounds (or 2 medium Yukon Gold potatoes, cut into 1" pieces)
+- Small bowl: 1 small bunch spinach, stems trimmed
+- Small dish: sliced chives, for serving
+
 Heat oil in a large Dutch oven over medium-high heat. Season chicken with salt and cook (skin side down), undisturbed, until skin is browned and crisp, 8-10 minutes. Turn and cook just until lightly browned, about 3 minutes longer. Using tongs, transfer chicken to a plate (it will not be cooked through).
 
 Cook bell peppers and onion in same pot, stirring often, until onion is golden brown and vegetables are softened, 6-8 minutes. Add tomatoes, chiles, and pepper and cook, stirring often, until tomatoes are broken down and softened, about 6 minutes longer. Transfer to a blender (reserve pot) and pour in broth. Purée until very smooth.

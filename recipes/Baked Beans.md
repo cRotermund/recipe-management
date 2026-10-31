@@ -35,6 +35,11 @@ uid: F0DC7BBF-5415-4A69-8194-042ED156C830
 
 ## Directions
 
+Mise en place guide:
+- Casserole dish: sprayed with cooking spray
+- Small bowl: 1/3 cup brown sugar; 1/2 tsp dry mustard, mixed together
+- Counter: 2 large cans baked beans, opened
+
 Spray casserole dish.  Put one large can beans in dish.  Mix brown sugar and dry mustard.  sprinkle half of it over 1st layer of beans.  Add next can of beans and spread remaining sugar/mustard mix.  Bake 300°F for 2-3 hours.
 
 ## Notes

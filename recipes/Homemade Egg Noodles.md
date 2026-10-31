@@ -35,6 +35,12 @@ uid: 8EC8F5C4-F6E5-470F-AFD1-55FCDB58BCB3
 
 ## Directions
 
+Mise en place guide:
+- Food processor bowl: 2 cups all-purpose flour; 1 tsp salt; 1 tsp baking powder
+- Small bowl: 2 large eggs, whisked well
+- Measuring cup: 1/2 cup milk (hold back the last 1-2 tbsp until needed)
+- Small dish: extra flour, for dusting
+
 Place the flour, salt, and baking powder in the bowl of a food processor and pulse to aerate and combine.
 
 With the machine running, drizzle in the eggs. Process for 20 seconds, or until the mixture looks like fine cornmeal.

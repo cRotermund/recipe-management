@@ -40,6 +40,11 @@ uid: 511746A0-583E-418A-8AA9-5178F5A8194D
 
 ## Directions
 
+Mise en place guide:
+- Cutting board: 4 chicken breasts, pounded to an even 1/2 inch between parchment or plastic wrap
+- Large bowl: 1 1/2 tsp salt; 1 tsp pepper; 2 tbsp chopped thyme; 4 garlic cloves, crushed; zest and juice of 1 lemon; 2 tbsp olive oil (chicken marinates 1-2 hours in the refrigerator)
+- Plate: 1 lemon, cut for juice; torn basil or mint leaves
+
 Place chicken breasts between two sheets of parchment or plastic wrap. Using a mallet or rolling pin, pound each to an even thickness of 1/2 inch. Do not make them any thinner or they could dry out.
 
 Place chicken in a large bowl and toss with salt, pepper, thyme, garlic and the zest and juice of 1 lemon. Mix in olive oil. Cover and refrigerate 1-2 hours. Remove chicken from fridge while you heat the grill.

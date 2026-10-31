@@ -45,6 +45,12 @@ uid: 2E7D2979-1880-49E7-85C7-8E0D1008E5E9
 
 ## Directions
 
+Mise en place guide:
+- Large bowl (marinade): juice of 2 lemons; 1/2 cup olive oil; 6 garlic cloves, smashed and minced; 1 tsp kosher salt; 2 tsp black pepper; 2 tsp cumin; 2 tsp paprika; 1/2 tsp turmeric; a pinch of cinnamon; crushed red pepper to taste. Whisk, add 2 lb chicken thighs and marinate 1-12 hours in the refrigerator
+- Cutting board: 1 large red onion, peeled and quartered
+- Small dish: 1 tbsp olive oil, for the pan
+- Small dish: 2 tbsp chopped parsley, for serving
+
 Prepare a marinade for the chicken. Combine the lemon juice, 1/2 cup olive oil, garlic, salt, pepper, cumin, paprika, turmeric, cinnamon and crushed red pepper in a large bowl, then whisk to combine. Add the chicken and toss well to coat. Cover and store in refrigerator for at least 1 hour and up to 12 hours.
 
 When ready to cook, heat oven to 425°F. Use the remaining tbsp of olive oil to grease a rimmed sheet pan. Add the quartered onion to the chicken and marinade, and toss once to combine. Remove the chicken and onion from the marinade, and place on the pan, spreading everything evenly across it.

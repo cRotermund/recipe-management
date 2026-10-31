@@ -40,6 +40,14 @@ uid: EE4DDBC3-D9E0-4987-9131-DA6E46B78923-60208-00002990E95331AF
 
 ## Directions
 
+Mise en place guide:
+- Tray: 1 1/2 lb chicken thighs, seasoned with salt and pepper on both sides
+- Cutting board: 2 scallions, thinly sliced (set aside for serving)
+- Small dish: remaining scallions, left whole; 1 head garlic, halved crosswise
+- Small dish: 2 garlic cloves, peeled and finely grated
+- Measuring cup: 2 tbsp fresh lime juice; 1 tbsp low-sodium soy sauce; 1 cup water
+- Plate: 1 lime, whole, for zesting and quartering at the end
+
 Season chicken with salt and pepper on both sides.
 
 Heat oil in a large Dutch oven or large, high-sided skillet over medium heat.

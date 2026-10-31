@@ -42,6 +42,14 @@ uid: 1722D85D-B3C0-46A2-9D7C-F1803100BB7E
 
 ## Directions
 
+Mise en place guide:
+- Small dish: 2 tbsp olive oil; 2 tbsp butter
+- Tray: 1 1/2-2 lb halibut or swordfish steaks; salt and pepper
+- Small dish: 4 anchovy fillets; 1 tbsp minced garlic
+- Measuring cup: 1/2 cup dry white wine; 1 tbsp drained capers
+- Small dish: 1 tsp lemon juice
+- Small dish: chopped parsley, for garnish
+
 Heat oven to 400°F. Put a large skillet, preferably nonstick, over medium-high heat, and leave it there until hot. Add oil and butter together. Butter should sizzle. When butter foam subsides, add fish, and season it lightly with salt and pepper. Brown fish, basting with pan juices, then turn, and brown again. Do not worry about cooking through. Turn off heat, put fish on an ovenproof plate, and place it in oven.
 
 Turn heat under skillet to medium, and add anchovies and garlic. Cook, stirring occasionally, until anchovies break up, just a couple of minutes. Add capers and wine, and turn heat to high. Cook until wine is reduced by half. Return fish and its juices to pan, and turn it in sauce once or twice. Fish should be cooked through by now. (A thin-bladed knife inserted into its thickest part will meet little resistance.)

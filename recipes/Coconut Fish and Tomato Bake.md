@@ -45,6 +45,14 @@ uid: 6EF78987-CA6B-408D-916C-83F6149D1921
 
 ## Directions
 
+Mise en place guide:
+- Large bowl (marinade): 3/4 cup coconut milk; 1 (1-inch) piece ginger, finely grated; 1 garlic clove, finely grated; 1/2 tsp turmeric; 1/2 tsp red-pepper flakes; 1 tbsp honey; 1 tsp salt; zest and juice of 1 lime; 1/4 cup chopped cilantro
+- Tray: 4 (6 oz) fish fillets (go into the marinade for 15-30 minutes)
+- Sheet pan: 2 pints cherry or grape tomatoes
+- Small dish: 3 tbsp olive oil (2 tbsp for the tomatoes, 1 tbsp for the fish)
+- Cutting board: remaining lime, cut into wedges, for serving
+- Small dish: 1/4 cup chopped cilantro, for garnish
+
 In a large bowl, whisk together the coconut milk, ginger, garlic, turmeric, red-pepper flakes, honey and 1 tsp salt.
 
 Zest and juice 1 lime directly into the coconut milk mixture. Stir in 1/4 cup chopped cilantro. Add the fish fillets and turn to coat. Marinate in the refrigerator for 15-30 minutes.

@@ -44,6 +44,14 @@ uid: BB7AA5B1-6093-482A-86AA-B09C9E2BEAC1
 
 ## Directions
 
+Mise en place guide:
+- Large bowl (meatballs): 1 tsp garam masala; half of the finely chopped shallots; half of the finely chopped garlic; 1/2 cup finely chopped cilantro; 1 tsp Diamond Crystal or 1/2 tsp Morton salt; pepper; 1 lb ground pork added when ready to mix
+- Cutting board: remaining half of the shallots and garlic, finely chopped
+- Bowl: 1/3 cup harissa paste; 1 (13.5 oz) can coconut milk; 1 tsp Diamond Crystal or 1/2 tsp Morton salt
+- Bowl: 2 (15 oz) cans white beans, rinsed; 1/2 tsp sumac
+- Small dish: 1/4 cup coconut oil, room temperature, for the beans
+- Small dish: cilantro leaves and a pinch of sumac, for serving
+
 Finely chop shallots and garlic. Combine garam masala, half of the shallots, half of the garlic, 1/2 cup cilantro, and 1 tsp Diamond Crystal or 1/2 tsp Morton kosher salt in a large bowl; season with pepper. Add pork and mix gently until just combined. Divide into 12 pieces and roll into balls.
 
 Heat 1 tbsp oil in a large skillet over medium-high. Cook meatballs, turning occasionally, until browned in spots, 5-8 minutes. Transfer to a plate.

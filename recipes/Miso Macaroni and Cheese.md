@@ -42,6 +42,13 @@ uid: 2D95ADE7-4667-47E9-8301-B3CBD0E74777
 
 ## Directions
 
+Mise en place guide:
+- Small saucepan: 3 cups whole milk; 2 tbsp white miso; 1 tsp garlic powder; 1/2 tsp black pepper; 1 1/2 tsp Diamond Crystal or 1 tsp Morton kosher salt; 1/2 tsp crushed red pepper flakes
+- Small dish: 4 tbsp unsalted butter
+- Small bowl: 1/2 cup all-purpose flour
+- Bowl: 8 oz sharp yellow cheddar, coarsely grated
+- Measuring cup: 1 cup pasta cooking liquid, reserved from the pasta pot
+
 Cook 12 oz conchigliette (small shells) in a large pot of boiling salted water, stirring occasionally, until al dente. Drain, reserving 1 cup pasta cooking liquid (do not rinse pasta). Spread pasta out on a rimmed baking sheet and set aside.
 
 Whisk 3 cups whole milk, 2 tbsp white miso, 1 tsp garlic powder, 1/2 tsp freshly ground black pepper, 1 1/2 tsp Diamond Crystal or 1 tsp Morton kosher salt, and 1/2 tsp crushed red pepper flakes in a small saucepan to combine, then bring to a simmer over medium-high heat.

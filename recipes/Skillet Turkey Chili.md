@@ -44,6 +44,14 @@ uid: 3310A533-6AC6-4DD4-872D-543982F2D101-6364-000002EF35C64C5B
 
 ## Directions
 
+Mise en place guide:
+- Cutting board: 1 large onion, chopped small
+- Small dish: 3 garlic cloves, minced; 2 tsp salt; 1 tsp chile powder (more to taste later); 1 tsp dried oregano; 1 tsp cumin
+- Plate: 1 lb ground turkey
+- Bowl: 1 (15 oz) can beans, drained and rinsed; 1 (15 oz) can diced tomatoes (keep the empty can for water)
+- Cutting board: 1 lime, halved
+- Serving dishes: any of sour cream, pickled red onions, pickled jalapenos, grated cheddar, cilantro, lime wedges, sliced scallions
+
 Heat a large skillet — ideally 11-12 inches in diameter — over medium high heat. Once hot, add the oil and let it warm up. Once the oil is hot, add the onion and cook until somewhat softened, about 4 minutes. Add the garlic, salt, your first tsp chile powder (and more to taste), oregano, and cumin and cook for 1-2 minutes more. Add turkey and use your spatula to break it up and work the onion mixture through it. Cook until lightly browned at edges and no pink remains, about 5 minutes. Add beans and tomatoes and refill empty tomato can with water, setting it aside.
 
 Bring chili mixture to a simmer and cook for 25-30 minutes, stirring regularly. Add reserved can of water, 1/3 at a time, if mixture looks dry. Taste for salt and spice and adjust as needed. With a mild chile powder, I’ll add up to 2 tsp more, and did so here. If you can, let chili rest 5 minutes off heat before serving; I find that the texture sets up nicely. Finish with the juice of half the lime, and any fixings you like.

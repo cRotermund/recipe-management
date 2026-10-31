@@ -49,6 +49,13 @@ uid: 04F7BEC2-93BA-4513-8AB7-81F7657ECC30
 
 ## Directions
 
+Mise en place guide:
+- Large bowl (chickpeas): 2 (15 oz) cans chickpeas, rinsed and patted dry; 2 tbsp oil; 2 tsp cumin; 1 tsp coriander; 1/2 tsp turmeric; 1/4 tsp cayenne; 1/2 tsp salt
+- Small dish: 3 thyme sprigs, to top the chickpeas
+- Large bowl (vegetables): 2 bell peppers, sliced lengthwise 1/4-inch thick; 2 medium tomatoes, diced; 1 small red onion, sliced; 2 jalapeños, sliced; 3 thyme sprigs; 2 tbsp oil; 1/2 tsp salt
+- Small bowl (dressing): juice of 1 lemon; 1 garlic clove, finely grated; 1/4 cup oil (make while the pans roast)
+- Small dish: 1 cup fresh herbs; 1/2 cup pomegranate seeds
+
 Heat the oven to 450°F and arrange racks on the top and bottom thirds of the oven.
 
 In a large bowl, toss chickpeas with 2 tbsp oil, the cumin, coriander, turmeric, cayenne and 1/2 tsp salt until evenly coated. Spread onto a rimmed sheet pan in a single layer and top with 3 thyme sprigs.

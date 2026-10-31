@@ -46,6 +46,14 @@ uid: F29E3568-9847-4DF8-A609-E6C3DE9B2768
 
 ## Directions
 
+Mise en place guide:
+- Large bowl: 2 (15 oz) cans beans, drained
+- Cutting board: 1/2 cup chopped cilantro leaves and tender stems; 1/4 cup chopped dill; 1/4 cup sliced scallions; zest of 1 lemon
+- Small dish: 3 tbsp cornstarch; 1 tbsp harissa; 3/4 tsp ground coriander; 1/2 tsp ground cumin; 2 tsp kosher salt; 1 tsp black pepper
+- Small bowl: 1 egg white
+- Measuring cup: 6 tbsp olive oil (3 tbsp to start, the rest as needed)
+- Serving plate: zested lemon cut into wedges; extra cilantro and dill; extra harissa; labneh or Greek yogurt (optional)
+
 Place the drained beans in a large bowl and crush using a fork or your fingers until coarsely mashed. Add the cilantro, dill, scallions, cornstarch, harissa, coriander, cumin, salt and pepper. Add the lemon zest and stir to incorporate. Alternatively, you can incorporate ingredients using a food processor and pulse to combine.
 
 In a small bowl, whisk the egg white until foamy and fold it into the bean mixture. Cover the mixture and refrigerate to chill slightly, at least 15 minutes, before shaping and frying.

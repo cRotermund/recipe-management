@@ -43,6 +43,13 @@ uid: F0F368A4-7305-4A20-AC7A-E37282708800
 
 ## Directions
 
+Mise en place guide:
+- Shallow dish: 1/2 cup flour, seasoned with salt and pepper
+- Plate: 4 chicken breasts
+- Small dish: 4 thyme sprigs; 2 tbsp finely chopped shallots; 2 tsp finely chopped garlic
+- Measuring cup: 2 tsp grated lemon zest; 3 tbsp lemon juice; 1/2 cup chicken broth
+- Small dish: 2 tbsp butter
+
 Season flour with salt and pepper, and dredge the chicken all over. Remove the excess flour.
 
 Heat the oil in a heavy skillet large enough to hold the chicken pieces in one layer. Add chicken and cook, uncovered, over medium heat for 5 minutes or until lightly browned.

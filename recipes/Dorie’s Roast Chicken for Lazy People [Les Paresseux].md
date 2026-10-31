@@ -44,6 +44,14 @@ uid: FCF81912-CC08-43EF-874E-358CE8B22EB2-30191-000016708727D662
 
 ## Directions
 
+Mise en place guide:
+- Dutch oven: rubbed inside with olive oil; 1 thick slice bread in the center
+- Tray: 1 chicken (4 1/2-5 lb) at room temperature, seasoned inside and out with salt and pepper; liver, if it came with the chicken
+- Small dish: 2 sprigs each rosemary, thyme and oregano (half a sprig of each goes inside the chicken, the rest in the pot)
+- Cutting board: 1 garlic head, halved horizontally, unpeeled (one half inside the chicken, one half in the pot)
+- Measuring cup: about 2/3 cup dry white wine or water (a few tbsp go in at the start; the rest is for the pan sauce)
+- Large bowl: 4 baby potatoes, quartered; 2 carrots, cut into thick chunks; 4 shallots or 1 quartered onion (optional, added after the chicken has roasted 45 minutes)
+
 Center a rack in the oven and preheat the oven to 450°F.
 
 Rub the inside of a Dutch oven or other large high-sided casserole with oil and place the bread in the center of the pot. Season the chicken inside and out with salt and pepper. Put the liver, if you’ve got it, inside the chicken and toss in a half sprig of each of the herbs as well as one half of the garlic. Put the chicken in the pot, resting it on the bread. Put the other garlic half in the pot, along with] the remaining herbs, and pour in a few tbsp each of oil and the wine or water, if you’re using it. Slide the pot into the oven.

@@ -53,6 +53,15 @@ uid: 11B3B296-D0D1-4E28-AB35-A31AA927F196-456-000000339BE71D33
 
 ## Directions
 
+Mise en place guide:
+- Small bowl: juice of 1 lime; 1 small red onion or large shallot, thinly sliced; 1 jalapeño, seeded and thinly sliced; large pinch of sea salt; small pinch of sugar (can sit while the beans cook)
+- Cutting board: 1 large onion, chopped; 1/2 cup diced bell pepper
+- Small dish: 2 garlic cloves, minced; 1 jalapeño, seeded and minced
+- Small dish: 1 tbsp tomato paste; 1/2 tbsp chili powder; 1/2 tsp oregano; 1/2 tsp cumin
+- Colander: 2 (15 oz) cans black beans, drained and rinsed
+- Plate: 1 avocado, peeled, pitted, and sliced (cut just before serving)
+- Serving: corn tortillas, warmed; cilantro, salsa, and sour cream (optional)
+
 Make the spicy onions: Squeeze the lime into a bowl and add the onion or shallot, jalapeño, salt and sugar to the juice. Set aside while you make the black beans.
 
 Prepare the beans: Heat a large skillet, then add 2 tbsp oil. When oil is hot, add the onion and bell pepper and sauté until soft and golden, about 10 minutes. If the pan looks dry, drizzle in a little more oil.

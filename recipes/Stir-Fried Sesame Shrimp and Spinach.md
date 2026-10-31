@@ -42,6 +42,13 @@ uid: 78485C52-889C-4956-94ED-BB4FC19CFC46
 
 ## Directions
 
+Mise en place guide:
+- Plate lined with paper towels: 1 lb shrimp, rinsed, salted and rinsed as directed, then drained and patted dry (can be done several hours ahead)
+- Small bowl: 1/4-1/2 tsp salt; 1/8 tsp sugar (set next to the wok)
+- Small dish: 1 tbsp minced garlic; 1 tbsp minced ginger; 1/4-1/2 tsp crumbled dried red chili
+- Large bowl: 1 bunch spinach (about 1 lb), stems trimmed and rinsed in 2 changes of water; 2 tbsp sesame seeds
+- Small dish: 2 tsp dark sesame oil
+
 Place the shrimp in a large colander and rinse with water. Sprinkle generously with salt and toss together for about a minute. Rinse with water and repeat. After rinsing one more time, drain on paper towels. Pat dry with more paper towels.
 
 Combine 1/4-1/2 tsp salt (to taste) and the sugar in a small bowl and place close to your wok.

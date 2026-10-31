@@ -51,6 +51,13 @@ uid: 9DCF3799-6586-4F94-A2ED-B915CBFFB525
 
 ## Directions
 
+Mise en place guide:
+- Measuring cup: 1 1/2 cups chicken stock; 2 tbsp lime juice; 1 tbsp olive oil; 1 tsp red-pepper flakes; 1 tsp salt
+- Small bowl: 1 cup couscous
+- Food processor bowl: 1 lb ground chicken; 2 shallots, minced; 1 large egg, lightly whisked; 2 tbsp chopped parsley; 1 serrano chile, trimmed and chopped; 4 garlic cloves, minced; 2 tbsp grated ginger; 1 tsp salt; 1 tsp pepper
+- Large mixing bowl (for the finished couscous): 1/2 tsp lime zest; 1/4 cup chopped parsley; 1/4 cup dried cherries or cranberries; 3 tbsp toasted pine nuts
+- Cutting board: 1 lime, cut into wedges
+
 Make the couscous: In a medium saucepan over high heat, bring the stock, lime juice, olive oil, red-pepper flakes and 1 tsp salt to a rolling boil. Remove from the heat and stir in the couscous. Cover with a lid and let sit for 10 minutes.
 
 As the couscous sits, prepare the koftas: Place the ground chicken, shallots, egg, parsley, serrano, garlic, ginger, 1 tsp salt and 1 tsp pepper in the bowl of a food processor and pulse until the mixture resembles a coarse paste.

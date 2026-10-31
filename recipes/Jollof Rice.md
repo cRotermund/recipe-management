@@ -52,6 +52,16 @@ uid: A1C279A7-9143-4086-A4C5-BCCCA93D9AF3
 
 ## Directions
 
+Mise en place guide:
+- Blender: 1 (14 oz) can whole peeled tomatoes with their juices; 1 medium red bell pepper, stemmed, seeded and roughly chopped; 1/2 medium red onion, roughly chopped; 4 garlic cloves, peeled; 1 (1-inch) piece ginger, peeled and finely chopped; 1 red habanero chile, stemmed
+- Measuring cup: 2 tbsp canola oil
+- Measuring cup: 1/2 cup canola oil
+- Bowl: 2 medium red onions, halved and thinly sliced
+- Small dish: 4 garlic cloves, thinly sliced
+- Small dish: 1 tbsp tomato paste; 1 tsp ground turmeric; 1/4 tsp smoked paprika (optional)
+- Large bowl: 3 cups rice; 5 thyme sprigs; 1 bay leaf
+- Measuring cup: 2 cups stock
+
 Prepare the obe ata: Working in batches if needed, combine all the obe ata ingredients except the canola oil in a blender and purée on high until smooth. The liquid from the can of tomatoes should suffice, but you can add up to 1/4 cup of water if necessary to get the purée going. (You should have about 3 cups of purée.)
 
 Heat the 2 tbsp canola oil in a medium saucepan over medium-high. Add the purée and bring to a simmer. Reduce heat to medium, cover and simmer until the sauce is slightly reduced by about a third of its original volume, 18-20 minutes. (It should make about 2 cups. Obe ata can be cooled and refrigerated for up to 2 weeks, or frozen for up to 1 month.)

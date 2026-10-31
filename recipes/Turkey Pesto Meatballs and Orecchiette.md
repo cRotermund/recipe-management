@@ -45,6 +45,15 @@ uid: 252AAC31-7C6C-4FF9-87C2-7DA077064C3B
 
 ## Directions
 
+Mise en place guide:
+- Large sheet pan: coated with olive oil or lined with nonstick foil
+- Large bowl (meatballs): 1 lb ground turkey; 1/2 cup panko; 1/4 cup pesto; 2 garlic cloves, minced; 2 tbsp grated parmesan; 1 tbsp water; 1 tsp kosher salt; black pepper; 1 large egg
+- Big bowl (zucchini): 1 lb zucchini, sliced into 1/4″ half-moons; 1-2 tbsp olive oil; 1 tsp kosher salt; black pepper
+- Small dish: 2 garlic cloves, minced (for the pasta pot)
+- Measuring cup: 2 cups chicken or vegetable broth
+- Small bowl: 1/2 cup pesto (for the brothy sauce)
+- Small bowl: 1/4 cup pesto and extra grated parmesan, for finishing the bowls
+
 Heat your oven: To 450°F. Coat a large sheet pan with oil, or line it with nonstick foil for easier cleanup.
 
 Prepared the meatballs: Combine turkey, panko, 1/4 cup of the pesto, half the minced garlic, 2 tbsp grated parmesan, water, 1 tsp kosher salt, many grinds of black pepper, and the egg in a large bowl with a fork, mixing until just combined. Coat your palms lightly with olive oil and use a heaped tbsp or 1.5-tbsp scoop to measure the meatballs, rolling them briefly in palms to smooth them, and space them out on the prepared sheet pan.

@@ -45,6 +45,12 @@ uid: 1E2AB0B2-A8DB-4FAA-B3B3-9F5A2E8F4645-272-0000000EC790F960
 
 ## Directions
 
+Mise en place guide:
+- Bowl: 1 1/2 lb chicken thighs; 1 1/2 cups salsa verde; 1 (4 oz) can chopped green chiles
+- Small bowl: 8 garlic cloves, finely chopped; 1 jalapeño, stemmed, seeded and diced; 1 tsp garlic powder; 1 tsp onion powder; 1 tsp cumin
+- Small bowl: 3 scallions, thinly sliced; 1 small bunch cilantro, finely chopped (stir in at the end)
+- Serving dishes: rice, tortillas, pepitas, queso fresco, diced avocado, crushed tortilla chips
+
 Combine the chicken thighs, salsa verde, green chiles, chopped garlic, jalapeño, garlic powder, onion powder and cumin in a 6-8 quart slow cooker. Stir to evenly combine. (Don’t add salt now; jarred salsas are often high in sodium.) Cook on low until the chicken is tender and the flavors are blended, 5-6 hours. (If you will be away for 8 hours or more, set the cook time for 4 hours on low and set the slow cooker auto-switch to warm for the remaining time.)
 
 Use two forks to coarsely shred the chicken. With the heat on low, add the scallions and cilantro, and stir to combine. Season to taste with salt and lime juice. Serve with rice or in tortillas, if desired, with accompaniments.

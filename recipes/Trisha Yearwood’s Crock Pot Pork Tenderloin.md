@@ -43,6 +43,12 @@ uid: 8B61DA7E-8E64-49A5-8713-A3CE664A070D
 
 ## Directions
 
+Mise en place guide:
+- Tray: 2 1/2-3 lb pork tenderloin, trimmed of all visible fat
+- Small bowl: 1 tsp garlic powder, 1/4 tsp ground ginger, 1/2 tsp dried thyme, 1/2 tsp black pepper
+- Measuring cup: 2 cups chicken broth, 2 tbsp lemon juice, 1 tbsp soy sauce
+- Small dish: 3 tbsp cornstarch (for the gravy)
+
 Season the pork loin lightly with salt. In a small bowl combine the garlic powder, ginger, dried thyme, and black pepper. Rub the seasoning over the surface of the pork loin.
 
 In a skillet heat the oil and brown the pork loin on all sides. Transfer the pork to the crock pot. Combine the chicken broth, lemon juice, and soy sauce; pour over the pork loin.

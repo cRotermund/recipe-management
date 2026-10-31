@@ -43,6 +43,13 @@ uid: 776DD0BE-740F-46A3-943C-820DFDCD51DC-1254-000000BE007FEEE2
 
 ## Directions
 
+Mise en place guide:
+- Large bowl (marinade): 3/4 cup Greek yogurt, 2 tbsp lemon juice, 1 tsp turmeric, 2 tbsp water, salt and pepper; add the chicken parts, seasoned with salt and pepper (marinate 30 minutes at room temperature or overnight in the refrigerator)
+- Baking sheet: 2 (15 oz) cans chickpeas, drained and rinsed; 1 tbsp fennel seed; 1 tsp cumin; 1 tsp turmeric; half of 1 large red onion, thinly sliced; 2 tbsp olive oil
+- Small bowl: the other half of the red onion, thinly sliced, with 2 tbsp lemon juice, salt and pepper
+- Small bowl: 3/4 cup Greek yogurt, 1 tbsp lemon juice, salt and pepper (chill until serving)
+- Small dish: 1/2 cup mint or cilantro leaves, torn
+
 Season chicken parts with salt and pepper.
 
 Combine 3/4 cup yogurt, 2 tbsp lemon juice, 1 tsp turmeric and 2 tbsp water in a large bowl. Season well with salt and pepper. (It should be on the salty side, as this is a marinade.) Add chicken and toss to coat evenly. Let sit at least 30 minutes at room temperature, and up to overnight in the refrigerator.

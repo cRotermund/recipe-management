@@ -38,6 +38,12 @@ uid: EE19E755-175A-4FC5-A388-AE29455A590E-10855-00000343827F14BA
 
 ## Directions
 
+Mise en place guide:
+- Plate: 4 eggs, set next to the stove
+- Small dish: 2 tbsp lemon juice; 1/2 tsp Sriracha; 1 tsp salt; 1/2 tsp pepper
+- Cutting board: 2 avocados, halved, pitted, and peeled (cut just before mashing)
+- Cutting board: 4 slices bread, ready to toast
+
 Fill a medium saucepan with water and bring to a simmer. Very carefully (you don’t want to crack the shells!), lower the eggs into the pan with a spoon. Simmer the eggs for exactly 6 1/2 minutes, take them out of the water and run them under cool tap water, until cool enough to handle. Peel the eggs and set them aside.
 
 Meanwhile, toast the bread in a toaster and place two pieces of toast on each of two plates. Place the avocados in a bowl with the lemon juice, Sriracha, 1 tsp salt and 1/2 tsp pepper and mash them with a fork.

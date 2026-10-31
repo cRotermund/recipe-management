@@ -45,6 +45,16 @@ uid: 1312F8E6-7D81-42E7-8969-574C622EC42D
 
 ## Directions
 
+Mise en place guide:
+- Plate: 1 lb Italian sausage, casings removed
+- Small dish: 3 garlic cloves, thinly sliced; 1/2 tsp dried oregano; 1/4 tsp red pepper flakes (optional)
+- Measuring cup: 1 (28 oz) can crushed tomatoes, 2 1/2 tsp kosher salt, 1 cup water
+- Cutting board: 1 (5 oz) package baby spinach, coarsely chopped
+- Bowl: 2 (15.5 oz) cans white beans, rinsed
+- Small dish (garlic butter): 4 tbsp butter; 2 garlic cloves, finely grated; 1/2 tsp kosher salt
+- Foil-lined baking sheet: bread, split lengthwise
+- Small dish: 1 oz Parmesan, finely grated; chopped parsley (optional)
+
 Heat oil in a large Dutch oven or high-sided skillet over medium-high. Add sausage and press down on it with a heatproof rubber spatula to flatten slightly. Cook, undisturbed, until browned underneath, about 4 minutes. Turn sausage over and cook, undisturbed, until browned on the other side, about 3 minutes. Break up sausage into bite-size pieces with spatula. Add sliced garlic, oregano, and red pepper flakes (if using) and cook, stirring, until garlic is beginning to get golden around the edges, about 1 minute. Carefully add tomatoes (beware of splatter!), then 2 1/2 tsp salt and 1 cup water. Bring sauce to a simmer and cook, stirring occasionally, until slightly reduced, 10-12 minutes. Mix in spinach and cook until wilted, about 2 minutes. Add beans and cook until warmed through, about 3 minutes. Taste ragù and season with more salt if needed.
 
 Meanwhile, heat broiler. Melt butter in a small saucepan over medium heat. Mix in grated garlic and remaining 1/2 tsp salt and cook until fragrant and sizzling but garlic is not yet browned, about 30 seconds; remove from heat.

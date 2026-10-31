@@ -39,6 +39,12 @@ uid: 542FB090-7CAF-4EE3-8EB8-D2D2D24F40DA
 
 ## Directions
 
+Mise en place guide:
+- Cutting board: 1 head cabbage, halved and sliced into 1-1.5-inch thick slabs
+- Small dish: 4 tbsp butter, melted (1 tbsp for the rub, the rest for basting)
+- Tray: 1 whole chicken, patted dry
+- Cutting board: lemon, cut into wedges (optional, for serving)
+
 Heat your oven to 450°F. Halve your cabbage and slice each half into 1-1.5-inch thick slabs. Very thinly coat the bottom of a 12-inch ovensafe skillet* or an equivalent roasting pan with oil, just to keep the cabbage from sticking before juices trickle down. Arrange cabbage slices in the pan as if you were making a mosaic, cutting pieces down as needed to get them to fit tightly. Season cabbage with salt and pepper. Pat your chicken dry and rub or brush it with 1 tbsp of the butter. Generously salt and pepper the chicken all over (I use a full tbsp of Diamond kosher salt on my 3-lb bird; use half of another brand). Place chicken breast side-up over the cabbage and roast for 45-60 minutes, spooning the bird and cabbage around it with butter a few times throughout. Chicken is done when a thermometer inserted into the thickest part of the breast reads 155°F, or 165°F for the thigh. If your chicken is much larger and you find it’s getting too dark for your tastes, reduce the heat to 425.
 
 Lift the chicken off the cabbage and set on a plate (or warmed tray) to rest. Flip each section of cabbage over carefully in the pan, nestling them back in, and return the pan to the oven for 5-10 minutes at 450°F, until the edges are very dark brown. Season with more salt and pepper if needed.

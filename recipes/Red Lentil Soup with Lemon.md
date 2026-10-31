@@ -46,6 +46,13 @@ uid: 75520077-38AA-4B5D-B64C-D298CC95B82D-53023-00001C773A409698
 
 ## Directions
 
+Mise en place guide:
+- Cutting board: 1 large onion, chopped; 2 garlic cloves, minced
+- Small dish: 1 tbsp tomato paste; 1 tsp ground cumin; 1/4 tsp kosher salt; 1/4 tsp black pepper; pinch of ground chile powder or cayenne
+- Measuring cup: 1 quart broth and 2 cups water
+- Bowl: 1 cup red lentils; 1 large carrot, peeled and diced
+- Small dish: juice of 1/2 lemon; 3 tbsp chopped cilantro
+
 In a large pot, heat 3 tbsp oil over high heat until hot and shimmering. Add onion and garlic, and sauté until golden, about 4 minutes.
 
 Stir in tomato paste, cumin, salt, black pepper and chili powder or cayenne, and sauté for 2 minutes longer.

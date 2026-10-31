@@ -43,6 +43,14 @@ uid: 3CA13949-A4C2-4BB9-9279-D2BBCCE06FEE-27939-0000158A731CE9BB
 
 ## Directions
 
+Mise en place guide:
+- Cutting board: 1 shallot or small onion, chopped; 1 tbsp minced garlic; 2 cups mushrooms, cleaned, trimmed and sliced
+- Bowl: 1/2 lb penne
+- Measuring cup: 1/2 cup dry white wine or water
+- Measuring cup: 3-4 cups chicken or vegetable stock
+- Bowl: 2 boneless chicken thighs, diced (keep cold until needed)
+- Small dish: chopped parsley and grated Parmesan, for garnish (optional)
+
 Put 2 tbsp olive oil in a large, deep skillet over medium heat. When hot, add shallot, garlic and mushrooms. Cook, stirring occasionally, until mushrooms soften and begin to brown on edges, about 10 minutes. Add pasta and cook, stirring occasionally, until it is glossy and coated with oil, 2-3 minutes. Add a little salt and pepper, then wine. Stir and let liquid bubble away.
 
 Ladle stock into skillet 1/2 cup or so at a time, stirring after each addition and every minute or so. When liquid is just about evaporated, add more. Mixture should be neither soupy nor dry. Keep heat at medium and stir frequently.

@@ -39,6 +39,12 @@ uid: D1433BAA-B102-4488-9F75-FB504518984A
 
 ## Directions
 
+Mise en place guide:
+- Cutting board: 1 1/2 lb small zucchini, rinsed, patted dry, ends trimmed, cut into 1/8-inch slices
+- Small dish: 2 tbsp fresh bread crumbs and 1 tbsp butter
+- Small dish: 2 tbsp chopped shallots
+- Small dish: 4 tbsp chopped parsley
+
 Rinse the zucchini and pat dry. Trim off the ends, but do not peel them. Cut into 1/8-inch slices.
 
 Heat the oil in a nonstick skillet and when the oil is hot, add the zucchini. Saute the zucchini over high heat, shaking the pan and tossing gently. Add salt and pepper, and cook a total of 5 minutes.
