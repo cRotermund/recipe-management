@@ -7,7 +7,7 @@ categories:
 cook_time: 30 minutes
 created: '2020-07-17 11:19:43'
 difficulty: ''
-hash: 30dff0343d43f2047f87a112ddaeb44b0cc07728089a67117132a0c062b91dfe
+hash: cad33612859e20eda1e5f99d1efa3f41132716913f90adc4168ae306fcfa2675
 image_url: https://static01.nyt.com/images/2019/07/16/dining/ch-shrimp-pasta-with-arugula-and-corn/merlin_157887831_c0b688ec-3ba6-4442-81f0-cb3f29eb4a4b-articleLarge.jpg
 in_trash: false
 is_pinned: false
@@ -45,13 +45,28 @@ uid: 06EDB4E4-0C80-42C1-B526-E6F5B0CEBF7E-57272-00001C3D04021AAA
 ## Directions
 
 Mise en place guide:
-- Tray: 1 lb shrimp, peeled and deveined, seasoned with salt and pepper
-- Small dish: 1/2 cup butter, divided in half
-- Bowl: 2 cups corn kernels
-- Small dish: 3 garlic cloves, thinly sliced; 1/2 tsp red-pepper flakes
-- Measuring cup: 1 cup dry white wine
-- Large bowl: 8 oz baby arugula
-- Bowl: 2 cups roughly chopped tender herbs, divided in half (half to stir in, half to top)
+
+**Tray:**
+- 1 lb shrimp, peeled and deveined, seasoned with salt and pepper
+
+**Small dish:**
+- 1/2 cup butter, divided in half
+
+**Bowl:**
+- 2 cups corn kernels
+
+**Small dish:**
+- 3 garlic cloves, thinly sliced
+- 1/2 tsp red-pepper flakes
+
+**Measuring cup:**
+- 1 cup dry white wine
+
+**Large bowl:**
+- 8 oz baby arugula
+
+**Bowl:**
+- 2 cups roughly chopped tender herbs, divided in half (half to stir in, half to top)
 
 Bring a large pot of well-salted water to a boil. Add pasta and cook according to package instructions until it is just short of al dente. Reserve 1 cup of the pasta cooking water, then drain pasta.
 

@@ -7,7 +7,7 @@ categories:
 cook_time: 25 minutes
 created: '2020-03-21 18:52:32'
 difficulty: ''
-hash: 4ddab0931ecb75a511c08ec2f726cedfd854c895350f3e3793825dc95c027ecd
+hash: 9503292ff391fcf145b0b474800498947f425650c96d7ed03eb95933fa49b5b2
 image_url: null
 in_trash: false
 is_pinned: false
@@ -40,10 +40,23 @@ uid: 1F7BF67F-2A3D-4FFA-92FD-E016AC322886-59616-0000293D146E94FF
 ## Directions
 
 Mise en place guide:
-- Small bowl: 3 tbsp softened butter; 4 anchovy fillets, minced; 1 garlic clove, minced; 1/2 tsp kosher salt; black pepper (mash together)
-- Tray: 4 (6-8 oz) skin-on salmon fillets
-- Small dish: 2 tbsp drained capers, patted dry
-- Cutting board: 1/2 lemon; chopped parsley, for serving
+
+**Small bowl (mash together):**
+- 3 tbsp softened butter
+- 4 anchovy fillets, minced
+- 1 garlic clove, minced
+- 1/2 tsp kosher salt
+- black pepper
+
+**Tray:**
+- 4 (6-8 oz) skin-on salmon fillets
+
+**Small dish:**
+- 2 tbsp drained capers, patted dry
+
+**Cutting board:**
+- 1/2 lemon
+- chopped parsley, for serving
 
 Heat oven to 400°F. In a small bowl, mash together butter, anchovies, garlic, salt and pepper.
 

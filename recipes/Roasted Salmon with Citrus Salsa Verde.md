@@ -7,7 +7,7 @@ categories:
 cook_time: ''
 created: '2020-01-26 11:07:43'
 difficulty: ''
-hash: d34cdebdd6628baf93219845d21059ad51fbc4c956128c6cf02d329b3e926b5d
+hash: a79b45178b5f0d511cabf72e6ff2e6ba060147294c93131ec22583f2d76a4137
 image_url: https://assets.bonappetit.com/photos/5c9401b69a9ff02084e4da50/16:9/w_1880,c_limit/01032019-BA17151.jpg
 in_trash: false
 is_pinned: false
@@ -45,10 +45,26 @@ uid: A80B1B00-D1D7-4B32-A3ED-D769CAA11408
 ## Directions
 
 Mise en place guide:
-- Small baking dish: 1 shallot, very thinly sliced into rings; half the orange zest; half the lemon zest; 1 tbsp olive oil
-- Tray: 1 lb salmon fillet
-- Medium bowl: 1/2 cup chopped cilantro; 1/2 cup chopped parsley; 1 small garlic clove, finely grated; 1/2 tsp smoked paprika; remaining orange and lemon zest; 1/2 cup olive oil
-- Small dish: juice of 1 orange and 1 lemon
+
+**Small baking dish:**
+- 1 shallot, very thinly sliced into rings
+- half the orange zest
+- half the lemon zest
+- 1 tbsp olive oil
+
+**Tray:**
+- 1 lb salmon fillet
+
+**Medium bowl:**
+- 1/2 cup chopped cilantro
+- 1/2 cup chopped parsley
+- 1 small garlic clove, finely grated
+- 1/2 tsp smoked paprika
+- remaining orange and lemon zest
+- 1/2 cup olive oil
+
+**Small dish:**
+- juice of 1 orange and 1 lemon
 
 Preheat oven to 250°F. Combine shallot, half of orange zest, half of lemon zest, and 1 tbsp oil in a small baking dish just large enough to fit salmon. Season salmon with salt and coat with zest mixture. Bake fish until fillet is just opaque in the center and flakes with a fork, 30-35 minutes.
 

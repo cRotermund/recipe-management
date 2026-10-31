@@ -7,7 +7,7 @@ categories:
 cook_time: 1 1/4 hours
 created: '2021-01-24 13:46:18'
 difficulty: ''
-hash: bdf16164d193d12ef00c8236148c3b7ad6cb32a74f63d5c61bb8c5154180aec1
+hash: 0039268dfaa51a720b44e9d601aab50a80d4fce90bb904ad8e1e71893c36f13a
 image_url: https://static01.nyt.com/images/2014/01/31/multimedia/clark-roasted-chicken/clark-roasted-chicken-videoHpMedium-v2.jpg
 in_trash: false
 is_pinned: false
@@ -47,13 +47,37 @@ uid: C41E2B04-A7A3-4D02-A1D0-B53C43466CB8-1254-000000BEF8E78614
 ## Directions
 
 Mise en place guide:
-- Cutting board: 2 sweet potatoes, cut into 1-inch-thick slices and reassembled; a few thyme sprigs to tuck between the slices; foil ready to wrap each potato
-- Small bowl: 1/4 cup whole-grain mustard; 2 tsp chopped thyme leaves; 2 garlic cloves, minced (set aside 1 tbsp of this mixture for the sour cream sauce)
-- Small dish: 1 tbsp softened butter; 2 tsp Dijon mustard (stir into the mustard mixture)
-- Tray: 3 lb chicken thighs or drumsticks, patted dry; 2 tsp salt; 1 tsp black pepper
-- Wide shallow bowl: 2/3 cup bread crumbs
-- Large bowl: 1 lb broccoli rabe, trimmed; 1/4 tsp salt; pinch red pepper flakes; 2 garlic cloves, smashed (olive oil is added when tossing)
-- Small bowl: 1/3 cup sour cream or Greek yogurt (keep cold until serving)
+
+**Cutting board:**
+- 2 sweet potatoes, cut into 1-inch-thick slices and reassembled
+- a few thyme sprigs to tuck between the slices
+- foil ready to wrap each potato
+
+**Small bowl (set aside 1 tbsp of this mixture for the sour cream sauce):**
+- 1/4 cup whole-grain mustard
+- 2 tsp chopped thyme leaves
+- 2 garlic cloves, minced
+
+**Small dish (stir into the mustard mixture):**
+- 1 tbsp softened butter
+- 2 tsp Dijon mustard
+
+**Tray:**
+- 3 lb chicken thighs or drumsticks, patted dry
+- 2 tsp salt
+- 1 tsp black pepper
+
+**Wide shallow bowl:**
+- 2/3 cup bread crumbs
+
+**Large bowl (olive oil is added when tossing):**
+- 1 lb broccoli rabe, trimmed
+- 1/4 tsp salt
+- pinch red pepper flakes
+- 2 garlic cloves, smashed
+
+**Small bowl:**
+- 1/3 cup sour cream or Greek yogurt (keep cold until serving)
 
 Prepare the sweet potatoes: Heat oven to 425°F. Cut the potatoes into 1-inch-thick slices. Reassemble the slices so they look like intact potatoes. Insert a sprig of thyme between each of the slices. Wrap each potato in 2 layers of foil and place on a pie tin or directly on oven rack (seam side up). Bake until very tender, 60-75 minutes.
 

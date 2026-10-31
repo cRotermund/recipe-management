@@ -7,7 +7,7 @@ categories:
 cook_time: 40 minutes
 created: '2020-02-02 12:05:52'
 difficulty: ''
-hash: c64ef743c23133f0e20e71c3fb6083627982a2e01c5d7532a16a31639d00d167
+hash: 414b3188a395bfa3240d9c1f9165df903979b9e937c83c8a5a96df69923e2857
 image_url: https://static01.nyt.com/images/2020/01/29/dining/27Romanrex/merlin_167079174_ecc032e7-071b-44ab-8852-0d5025d0e90d-articleLarge.jpg
 in_trash: false
 is_pinned: false
@@ -43,12 +43,28 @@ uid: 075F4720-050F-44E9-874A-367BFCCA53B4-10580-0000082ACB86815B
 ## Directions
 
 Mise en place guide:
-- Cutting board: 6 large shallots, very thinly sliced; 4 garlic cloves, thinly sliced
-- Small dish: 1 tsp red-pepper flakes; 1 (2 oz) can anchovy fillets, drained
-- Small dish: 1 (4.5 oz) tube or (6 oz) can tomato paste
-- Measuring cup: 1/4 cup olive oil
-- Counter: 10 oz bucatini, for the pasta water
-- Small bowl: 1 cup parsley, finely chopped; 1 garlic clove, finely chopped; flaky sea salt and pepper (the topping)
+
+**Cutting board:**
+- 6 large shallots, very thinly sliced
+- 4 garlic cloves, thinly sliced
+
+**Small dish:**
+- 1 tsp red-pepper flakes
+- 1 (2 oz) can anchovy fillets, drained
+
+**Small dish:**
+- 1 (4.5 oz) tube or (6 oz) can tomato paste
+
+**Measuring cup:**
+- 1/4 cup olive oil
+
+**Counter:**
+- 10 oz bucatini, for the pasta water
+
+**Small bowl (the topping):**
+- 1 cup parsley, finely chopped
+- 1 garlic clove, finely chopped
+- flaky sea salt and pepper
 
 Heat olive oil in a large heavy-bottomed Dutch oven over medium high. Add shallots and thinly sliced garlic, and season with salt and pepper. Cook, stirring occasionally, until the shallots have become totally softened and caramelized with golden-brown fried edges, 15-20 minutes.
 

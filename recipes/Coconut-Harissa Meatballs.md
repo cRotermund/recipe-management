@@ -7,7 +7,7 @@ categories:
 cook_time: ''
 created: '2021-11-29 15:10:57'
 difficulty: ''
-hash: 09d2aa4b14b39584c34c5a14620d42996cef7df560f620d894e9f6bc8720c559
+hash: a761f58a03205c759e2aec1d7e7c2dd94848cece97f9479bdaab9b9ecad5cc7e
 image_url: https://assets.bonappetit.com/photos/6196bd986bfa9b6cf706cd1c/1:1/w_2560%2Cc_limit/Coconut-Harissa%2520Meatballs.jpg
 in_trash: false
 is_pinned: false
@@ -45,12 +45,33 @@ uid: BB7AA5B1-6093-482A-86AA-B09C9E2BEAC1
 ## Directions
 
 Mise en place guide:
-- Large bowl (meatballs): 1 tsp garam masala; half of the finely chopped shallots; half of the finely chopped garlic; 1/2 cup finely chopped cilantro; 1 tsp Diamond Crystal or 1/2 tsp Morton salt; pepper; 1 lb ground pork added when ready to mix
-- Cutting board: remaining half of the shallots and garlic, finely chopped
-- Bowl: 1/3 cup harissa paste; 1 (13.5 oz) can coconut milk; 1 tsp Diamond Crystal or 1/2 tsp Morton salt
-- Bowl: 2 (15 oz) cans white beans, rinsed; 1/2 tsp sumac
-- Small dish: 1/4 cup coconut oil, room temperature, for the beans
-- Small dish: cilantro leaves and a pinch of sumac, for serving
+
+**Large bowl (meatballs):**
+- 1 tsp garam masala
+- half of the finely chopped shallots
+- half of the finely chopped garlic
+- 1/2 cup finely chopped cilantro
+- 1 tsp Diamond Crystal or 1/2 tsp Morton salt
+- pepper
+- 1 lb ground pork added when ready to mix
+
+**Cutting board:**
+- remaining half of the shallots and garlic, finely chopped
+
+**Bowl:**
+- 1/3 cup harissa paste
+- 1 (13.5 oz) can coconut milk
+- 1 tsp Diamond Crystal or 1/2 tsp Morton salt
+
+**Bowl:**
+- 2 (15 oz) cans white beans, rinsed
+- 1/2 tsp sumac
+
+**Small dish:**
+- 1/4 cup coconut oil, room temperature, for the beans
+
+**Small dish:**
+- cilantro leaves and a pinch of sumac, for serving
 
 Finely chop shallots and garlic. Combine garam masala, half of the shallots, half of the garlic, 1/2 cup cilantro, and 1 tsp Diamond Crystal or 1/2 tsp Morton kosher salt in a large bowl; season with pepper. Add pork and mix gently until just combined. Divide into 12 pieces and roll into balls.
 

@@ -7,7 +7,7 @@ categories:
 cook_time: ''
 created: '2020-01-26 11:27:32'
 difficulty: ''
-hash: 7c1960d383c2cbba426a50979befdce75d51d0eb29b2da9f1a9ac350e5c8dc69
+hash: 9ec2f8dc838f8b9b8fd780d5814e5455a1d46e8d1be9af7cc9a2e0e2ba5238b0
 image_url: https://assets.bonappetit.com/photos/58c97bc548ee007350aee2d6/16:9/w_1880,c_limit/one-skillet-chicken-with-buttery-orzo.jpg
 in_trash: false
 is_pinned: false
@@ -43,14 +43,34 @@ uid: 2EB1D52F-E995-404A-9A76-68DBF746953E
 ## Directions
 
 Mise en place guide:
-- Tray: 6 chicken thighs, patted dry and seasoned all over with salt and pepper
-- Small dish: 3 tbsp butter; set aside 2 tbsp for browning and 1 tbsp for finishing
-- Bowl: 1 fennel bulb, chopped; 1 leek, white and pale green parts only, chopped
-- Small bowl: 8 oz orzo
-- Measuring cup: 1/3 cup dry white wine
-- Measuring cup: 2 1/2 cups low-sodium chicken broth (add 1/2 cup at a time)
-- Small dish: 1 tbsp lemon juice; fennel fronds, chopped; 1 tbsp butter
-- Small dish: 1 tsp finely grated lemon zest
+
+**Tray:**
+- 6 chicken thighs, patted dry and seasoned all over with salt and pepper
+
+**Small dish:**
+- 3 tbsp butter
+- set aside 2 tbsp for browning and 1 tbsp for finishing
+
+**Bowl:**
+- 1 fennel bulb, chopped
+- 1 leek, white and pale green parts only, chopped
+
+**Small bowl:**
+- 8 oz orzo
+
+**Measuring cup:**
+- 1/3 cup dry white wine
+
+**Measuring cup:**
+- 2 1/2 cups low-sodium chicken broth (add 1/2 cup at a time)
+
+**Small dish:**
+- 1 tbsp lemon juice
+- fennel fronds, chopped
+- 1 tbsp butter
+
+**Small dish:**
+- 1 tsp finely grated lemon zest
 
 Preheat oven to 400°F. Rain salt and then some pepper all over chicken. Heat 2 tbsp butter in a medium cast-iron skillet over medium-high. Nestle chicken, skin side down, in skillet in a single layer with no gaps (if you can’t quite fit them all, wait until chicken shrinks slightly, then puzzle in the remaining pieces). Cook until meat is opaque around the edges and skin is deep golden brown, 6-8 minutes. Turn chicken skin side up and transfer skillet to oven; bake, uncovered, until chicken is cooked through, 10-15 minutes. Transfer chicken to a plate.
 

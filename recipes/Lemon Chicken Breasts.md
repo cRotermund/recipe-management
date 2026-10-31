@@ -7,7 +7,7 @@ categories:
 cook_time: ''
 created: '2021-02-15 20:08:10'
 difficulty: ''
-hash: b0504c6a48ffd8b0a32be09262c2891c62da0cec7451fa3a8de1411574ae5b49
+hash: 8aeed75680943dded0af5f5a1c1985e9e46b51aba60188cbfa453ed30a2a4398
 image_url: https://d14iv1hjmfkv57.cloudfront.net/assets/recipes/lemon-chicken-breasts/_600x600_crop_center-center_61_line/Page-121-web-horizon.jpg?mtime=20160727120043&focal=none&tmtime=20200930093634
 in_trash: false
 is_pinned: false
@@ -43,10 +43,23 @@ uid: 74D49BCA-E957-43B1-96EF-2C127D43FF49-10855-000003446A3F3098
 ## Directions
 
 Mise en place guide:
-- Small dish: 3 tbsp minced garlic (9 cloves)
-- Small bowl: 1/3 cup dry white wine; 1 tbsp lemon zest; 2 tbsp lemon juice; 1 1/2 tsp dried oregano; 1 tsp minced fresh thyme; 1 tsp salt
-- Tray: 4 chicken breasts, patted dry
-- Cutting board: 1 lemon, cut in 8 wedges
+
+**Small dish:**
+- 3 tbsp minced garlic (9 cloves)
+
+**Small bowl:**
+- 1/3 cup dry white wine
+- 1 tbsp lemon zest
+- 2 tbsp lemon juice
+- 1 1/2 tsp dried oregano
+- 1 tsp minced fresh thyme
+- 1 tsp salt
+
+**Tray:**
+- 4 chicken breasts, patted dry
+
+**Cutting board:**
+- 1 lemon, cut in 8 wedges
 
 Preheat the oven to 400°F.
 

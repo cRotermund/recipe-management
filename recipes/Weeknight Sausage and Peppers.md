@@ -7,7 +7,7 @@ categories:
 cook_time: ''
 created: '2020-02-16 09:09:08'
 difficulty: ''
-hash: 98fb60a5264724e4c45c0a690c81d1012dff911308ccf07ea88a9d497ad05018
+hash: 23d9f2c0a8cecee9a980122e08beea10b72ae6012d52cec4cc3a28781ba4d40d
 image_url: https://assets.bonappetit.com/photos/5dcdbc693417f4000888554c/16:9/w_1880,c_limit/0919-FIELD-ROAST15024-.jpg
 in_trash: false
 is_pinned: false
@@ -42,11 +42,22 @@ uid: 0B77B6A2-BBEF-4C01-AF4E-F1AB773E760D
 ## Directions
 
 Mise en place guide:
-- Bowl: 1 yellow onion, chopped
-- Bowl: 3 cups chopped multicolor bell peppers
-- Small dish: 4 garlic cloves, minced; 1/2 tsp red pepper flakes (extra for serving)
-- Plate: 1 (12 oz) package Italian sausage, sliced into 1/4" rounds
-- Measuring cup: 1/4 cup olive oil, divided (2 tbsp for the onion, 2 tbsp for the sausage)
+
+**Bowl:**
+- 1 yellow onion, chopped
+
+**Bowl:**
+- 3 cups chopped multicolor bell peppers
+
+**Small dish:**
+- 4 garlic cloves, minced
+- 1/2 tsp red pepper flakes (extra for serving)
+
+**Plate:**
+- 1 (12 oz) package Italian sausage, sliced into 1/4" rounds
+
+**Measuring cup:**
+- 1/4 cup olive oil, divided (2 tbsp for the onion, 2 tbsp for the sausage)
 
 In large skillet, heat 2 tbsp olive oil over medium-high. Add onion; cook, stirring occasionally, until light golden, 5 minutes. Add bell peppers. Cook stirring occasionally until tender, 5 minutes. Add garlic, fennel seeds and red pepper flakes; cook, stirring occasionally until fragrant, 30 seconds. Salt and pepper to taste.
 

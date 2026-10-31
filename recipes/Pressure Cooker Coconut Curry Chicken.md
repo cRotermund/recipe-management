@@ -7,7 +7,7 @@ categories:
 cook_time: ''
 created: '2023-01-08 11:03:36'
 difficulty: ''
-hash: c7cc5dac1b866c193cd6d9dd6a82d763bb3a271cefaf78cf9a6a8c3f5085ddeb
+hash: cff9b0c60b92277065ccfc2e3fd8c6d2a63b19a2a34e1d36dba73804a7a9ad88
 image_url: https://static01.nyt.com/images/2017/09/25/dining/coconutcurrychicken/coconutcurrychicken-articleLarge.jpg
 in_trash: false
 is_pinned: false
@@ -53,16 +53,44 @@ uid: ACE4643D-BB12-46DB-969D-EF64D3BBF569
 ## Directions
 
 Mise en place guide:
-- Bowl: 3-4 ripe tomatoes, halved through their equators (to grate)
-- Small dish: 3 tbsp ghee, butter or safflower oil; 3 tbsp virgin coconut oil
-- Bowl: 2 cups finely chopped onions
-- Small dish: 6 garlic cloves, grated or minced; 2 tbsp grated fresh ginger; 1 tsp cumin seeds
-- Small dish: cinnamon stick or 1/2 tsp ground cinnamon; 8 cardamom pods, lightly crushed, or 1 tsp ground cardamom
-- Small dish: 2 tsp ground coriander; 1 tbsp kosher salt; 1 tsp ground turmeric; 1/4 tsp crushed red pepper flakes; 1/4 tsp black pepper
-- Bowl: 2 1/2 lb boneless, skinless chicken thighs, cut into 1-inch chunks
-- Small dish: 1-2 tsp garam masala
-- Measuring cup: 1/2 cup canned unsweetened coconut milk
-- Small dish: 3 tbsp finely chopped cilantro, for garnish
+
+**Bowl:**
+- 3-4 ripe tomatoes, halved through their equators (to grate)
+
+**Small dish:**
+- 3 tbsp ghee, butter or safflower oil
+- 3 tbsp virgin coconut oil
+
+**Bowl:**
+- 2 cups finely chopped onions
+
+**Small dish:**
+- 6 garlic cloves, grated or minced
+- 2 tbsp grated fresh ginger
+- 1 tsp cumin seeds
+
+**Small dish:**
+- cinnamon stick or 1/2 tsp ground cinnamon
+- 8 cardamom pods, lightly crushed, or 1 tsp ground cardamom
+
+**Small dish:**
+- 2 tsp ground coriander
+- 1 tbsp kosher salt
+- 1 tsp ground turmeric
+- 1/4 tsp crushed red pepper flakes
+- 1/4 tsp black pepper
+
+**Bowl:**
+- 2 1/2 lb boneless, skinless chicken thighs, cut into 1-inch chunks
+
+**Small dish:**
+- 1-2 tsp garam masala
+
+**Measuring cup:**
+- 1/2 cup canned unsweetened coconut milk
+
+**Small dish:**
+- 3 tbsp finely chopped cilantro, for garnish
 
 Set a box grater over a bowl. Starting with their cut sides, grate the tomatoes through the large holes of the box grater so the tomato pulp falls into the bowl. Discard the skins. Measure out 2 cups of tomato purée.
 

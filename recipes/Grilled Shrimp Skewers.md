@@ -7,7 +7,7 @@ categories:
 cook_time: 10 minutes
 created: '2020-09-13 15:13:12'
 difficulty: ''
-hash: 52e0452f6dd65f3ff755debf22e73c04aa8774e6e6228309297234bcc589fc0b
+hash: 8e9f6b498a4083f3a8a0481a7355921d037fd6f758fe99880779e94fac6c26ee
 image_url: https://cdn.jwplayer.com/v2/media/A4SVKIly/poster.jpg?width=720
 in_trash: false
 is_pinned: false
@@ -42,10 +42,24 @@ uid: 30D37931-78CF-40F9-AB80-E86F5B4AE4EF-10837-000005014F1223FF
 ## Directions
 
 Mise en place guide:
-- Resealable bag (marinade): 1/4 cup olive oil, 2 tbsp lemon juice, 3/4 tsp salt, 1/4 tsp pepper, 1 tsp Italian seasoning, 2 tsp minced garlic; add 1 lb shrimp, peeled and deveined (marinate 15 minutes to 2 hours, no longer)
-- Skewers: if using wooden skewers, soak in water for 30 minutes
-- Small dish: 1 tbsp chopped parsley
-- Plate: lemon wedges, for serving
+
+**Resealable bag (marinade):**
+- 1/4 cup olive oil
+- 2 tbsp lemon juice
+- 3/4 tsp salt
+- 1/4 tsp pepper
+- 1 tsp Italian seasoning
+- 2 tsp minced garlic
+- add 1 lb shrimp, peeled and deveined (marinate 15 minutes to 2 hours, no longer)
+
+**Skewers:**
+- if using wooden skewers, soak in water for 30 minutes
+
+**Small dish:**
+- 1 tbsp chopped parsley
+
+**Plate:**
+- lemon wedges, for serving
 
 Place the olive oil, lemon juice, salt, pepper, Italian seasoning and garlic in a resealable plastic bag. Seal and shake to combine.
 

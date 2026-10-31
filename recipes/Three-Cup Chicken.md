@@ -7,7 +7,7 @@ categories:
 cook_time: ''
 created: '2024-05-27 13:29:21'
 difficulty: ''
-hash: 05ece5b48cb0f255aa78c77f2839370260b34353ca8e1ee267eabbfd7fea3d5e
+hash: 23a276b1496b1dc95287972f2bb6a7f3d12c65268ade6394ec360ef0508f8255
 image_url: https://static01.nyt.com/images/2024/05/01/multimedia/SS-Three-Cup-Chicken-wqjc/SS-Three-Cup-Chicken-wqjc-square640.jpg
 in_trash: false
 is_pinned: false
@@ -43,11 +43,25 @@ uid: 820BD898-C655-440C-A543-60C7582C0EA7
 ## Directions
 
 Mise en place guide:
-- Small dish (aromatics): 1 2-3 inch piece ginger, peeled and sliced into coins; 12 garlic cloves, peeled; 4 scallions, trimmed and cut into 1-inch pieces; 3 dried red peppers or 1 tsp red-pepper flakes
-- Bowl: 2 lb chicken thighs, cut into bite-size pieces
-- Small dish: 1 tbsp brown sugar
-- Measuring cup: 1/2 cup rice wine and 1/4 cup light soy sauce
-- Bowl: 2 cups Thai basil or regular basil leaves
+
+**Small dish (aromatics):**
+- 1 2-3 inch piece ginger, peeled and sliced into coins
+- 12 garlic cloves, peeled
+- 4 scallions, trimmed and cut into 1-inch pieces
+- 3 dried red peppers or 1 tsp red-pepper flakes
+
+**Bowl:**
+- 2 lb chicken thighs, cut into bite-size pieces
+
+**Small dish:**
+- 1 tbsp brown sugar
+
+**Measuring cup:**
+- 1/2 cup rice wine
+- 1/4 cup light soy sauce
+
+**Bowl:**
+- 2 cups Thai basil or regular basil leaves
 
 Heat a wok over high heat and add 2 tbsp sesame oil. When the oil shimmers, add the ginger, garlic, scallions and peppers, and cook until fragrant, approximately 2 minutes.
 

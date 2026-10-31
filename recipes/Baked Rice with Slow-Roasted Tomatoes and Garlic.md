@@ -7,7 +7,7 @@ categories:
 cook_time: ''
 created: '2023-07-15 13:33:01'
 difficulty: ''
-hash: bc1bb647de123532bfb233cfb2ef6fc1ac0f402326439c22bfc56bce0ff19847
+hash: ee9efe364fafa6bcb3392eed3338fc658f6139fb58cb0f24a7850cb7f1f56fa5
 image_url: https://static01.nyt.com/images/2018/09/26/dining/ottolenghi-baked-rice-horizontal/ottolenghi-baked-rice-horizontal-videoSixteenByNineJumbo1600.jpg
 in_trash: false
 is_pinned: false
@@ -45,12 +45,33 @@ uid: 5581830E-80AF-4AE5-BE8D-A0D4E668B6C8
 ## Directions
 
 Mise en place guide:
-- Casserole dish (8-by-12-inch): 1 3/4 lb cherry tomatoes; 12 large garlic cloves; 4 large shallots, cut into 1 1/4-inch pieces; 1 1/4 cups cilantro stems, cut into 1 1/2-inch pieces; 3 tbsp thyme leaves; 4 small cinnamon sticks; 1/2 tsp salt; black pepper
-- Measuring cup: 7 tbsp olive oil
-- Small bowl: 1 1/2 cups basmati rice; 1/2 tsp salt; black pepper
-- Measuring cup: 2 1/2 cups water (boil it during the last 10 minutes of the first bake)
-- Small dish: 1/2 cup cilantro leaves, roughly chopped
-- Counter: foil to cover the dish
+
+**Casserole dish (8-by-12-inch):**
+- 1 3/4 lb cherry tomatoes
+- 12 large garlic cloves
+- 4 large shallots, cut into 1 1/4-inch pieces
+- 1 1/4 cups cilantro stems, cut into 1 1/2-inch pieces
+- 3 tbsp thyme leaves
+- 4 small cinnamon sticks
+- 1/2 tsp salt
+- black pepper
+
+**Measuring cup:**
+- 7 tbsp olive oil
+
+**Small bowl:**
+- 1 1/2 cups basmati rice
+- 1/2 tsp salt
+- black pepper
+
+**Measuring cup:**
+- 2 1/2 cups water (boil it during the last 10 minutes of the first bake)
+
+**Small dish:**
+- 1/2 cup cilantro leaves, roughly chopped
+
+**Counter:**
+- foil to cover the dish
 
 Heat oven to 350°F.
 

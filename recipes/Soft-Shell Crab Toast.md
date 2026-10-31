@@ -7,7 +7,7 @@ categories:
 cook_time: 20 minutes
 created: '2021-06-28 18:34:00'
 difficulty: ''
-hash: eb308b29630d0d7580c32ca86398bb10f636d2f51db79cf7f017c6872148e520
+hash: f49035d00bf8a6277892e9d77cc3e0cf0b7e420a9fb7ce6481d1dff94a3b116c
 image_url: null
 in_trash: false
 is_pinned: false
@@ -42,11 +42,27 @@ uid: B1EDF90C-4D7F-4E46-9DC7-C029B4F63B50
 ## Directions
 
 Mise en place guide:
-- Blender: 2 cups parsley leaves; 2 jalapeños, seeded and coarsely chopped; 2 tsp lemon juice; 1/4 tsp salt; 1/2 cup olive oil; 3 tbsp water
-- Baking sheet: 6 slices bread, in a single layer
-- Small dish: 1 garlic clove, halved; unsalted butter (optional)
-- Tray: 6 soft-shelled crabs, cleaned (coat with oil and season with salt and pepper just before broiling)
-- Small plate: lemon wedges
+
+**Blender:**
+- 2 cups parsley leaves
+- 2 jalapeños, seeded and coarsely chopped
+- 2 tsp lemon juice
+- 1/4 tsp salt
+- 1/2 cup olive oil
+- 3 tbsp water
+
+**Baking sheet:**
+- 6 slices bread, in a single layer
+
+**Small dish:**
+- 1 garlic clove, halved
+- unsalted butter (optional)
+
+**Tray:**
+- 6 soft-shelled crabs, cleaned (coat with oil and season with salt and pepper just before broiling)
+
+**Small plate:**
+- lemon wedges
 
 In a blender, combine parsley, jalapeño, lemon juice and salt. Add oil and 3 tbsp water. Purée until sauce is smooth, adding additional water if needed, a tbsp at a time, until you have a thick yet pourable sauce. Transfer sauce to a bowl and add more salt or lemon juice, or both, if needed.
 

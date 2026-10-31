@@ -7,7 +7,7 @@ categories:
 cook_time: ''
 created: '2020-01-26 10:42:20'
 difficulty: ''
-hash: 051b89541fd0d2ad769e62d2099ec9ca5b8b25fd7e407fe67d597c135b28fd4b
+hash: dfcbbb6f13ec592442a63603b0c75c9260dece325ca47d106a3cae58663c52ee
 image_url: https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fcdn-image.myrecipes.com%2Fsites%2Fdefault%2Ffiles%2Fstyles%2Fmedium_2x%2Fpublic%2Fimage%2Frecipes%2Fsu%2F07%2F03%2Fbasted-salmon-su-653542-x.jpg%3Fitok%3DO6y4JGBt&w=800&c=sc&poi=face&q=85
 in_trash: false
 is_pinned: false
@@ -41,10 +41,22 @@ uid: 2A82CDE7-4B43-4DB2-AEA5-AFC1244F2DE9
 ## Directions
 
 Mise en place guide:
-- Large, wide bowl or 9- by 13-inch baking dish: 1/2 cup brown sugar; 1/2 cup dry white wine; 1/4 cup lemon juice; 1/2 tsp salt; 1/4 tsp pepper (stir until the sugar dissolves)
-- Plate: 8 salmon fillets (about 6 oz each), rinsed and patted dry (marinate 1-2 hours in the chilled marinade)
-- Small dish: 1/4 cup butter
-- Plate: lemon wedges, for serving
+
+**Large, wide bowl or 9- by 13-inch baking dish:**
+- 1/2 cup brown sugar
+- 1/2 cup dry white wine
+- 1/4 cup lemon juice
+- 1/2 tsp salt
+- 1/4 tsp pepper (stir until the sugar dissolves)
+
+**Plate:**
+- 8 salmon fillets (about 6 oz each), rinsed and patted dry (marinate 1-2 hours in the chilled marinade)
+
+**Small dish:**
+- 1/4 cup butter
+
+**Plate:**
+- lemon wedges, for serving
 
 In a large, wide bowl or 9- by 13-inch baking dish, stir brown sugar, wine, lemon juice, 1/2 tsp salt, and 1/4 tsp pepper until sugar is dissolved.
 

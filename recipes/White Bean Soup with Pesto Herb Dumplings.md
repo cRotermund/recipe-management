@@ -7,7 +7,7 @@ categories:
 cook_time: 25 mins
 created: '2020-03-15 16:29:40'
 difficulty: ''
-hash: dd4684efe646c1f5241f2f3e33bd992c92502d1342d47eb6ad87bcea981a9cbc
+hash: d8bd127e0e18b8010d2fc8df62b9abc0fd6048d2952a464d52459d5b7251c4b4
 image_url: https://images.101cookbooks.com/white-bean-soup-with-pesto-dumplings-h.jpg?w=680&auto=format
 in_trash: false
 is_pinned: false
@@ -50,15 +50,39 @@ uid: 9C7519BD-7BDD-4260-BB22-1B3375402AC8-4240-00000178260885C8
 ## Directions
 
 Mise en place guide:
-- Bowl: 1 large onion, peeled and finely diced; 2 carrots, peeled and diced
-- Small dish: 1 tsp caraway seeds, lightly crushed (optional)
-- Small dish: 1/2 cup whole wheat pastry flour
-- Measuring cup: 5 cups water or vegetable broth; 1 tsp fine grain sea salt
-- Bowl: 1 (14 oz) can cannellini beans, drained and rinsed
-- Mixing bowl (wet): 1 cup almond milk, 1 egg, 2 tbsp pesto
-- Small dish: 1 cup chopped herbs (add to the wet mix after whisking)
-- Mixing bowl (dry): 1 1/2 cups whole wheat pastry flour, 2 tsp baking powder, 1/2 tsp fine grain sea salt
-- Small dish: extra chopped herbs and scallions, for serving
+
+**Bowl:**
+- 1 large onion, peeled and finely diced
+- 2 carrots, peeled and diced
+
+**Small dish:**
+- 1 tsp caraway seeds, lightly crushed (optional)
+
+**Small dish:**
+- 1/2 cup whole wheat pastry flour
+
+**Measuring cup:**
+- 5 cups water or vegetable broth
+- 1 tsp fine grain sea salt
+
+**Bowl:**
+- 1 (14 oz) can cannellini beans, drained and rinsed
+
+**Mixing bowl (wet):**
+- 1 cup almond milk
+- 1 egg
+- 2 tbsp pesto
+
+**Small dish:**
+- 1 cup chopped herbs (add to the wet mix after whisking)
+
+**Mixing bowl (dry):**
+- 1 1/2 cups whole wheat pastry flour
+- 2 tsp baking powder
+- 1/2 tsp fine grain sea salt
+
+**Small dish:**
+- extra chopped herbs and scallions, for serving
 
 In a large, wide soup pot saute the onions and carrots in the olive oil over medium high heat. Cook until the vegetables are tender, 5-7 minutes. Stir in the caraway seeds, if using, and then sprinkle with the flour, stir, and allow to cook for another 2-3 minutes, allowing the flour to toast just a bit. Stir in the water, and salt, and bring to a gentle simmer, and cook until the soup thickens, 5 minutes or so. Stir in the beans. Allow to simmer gently while you make the dumplings.
 

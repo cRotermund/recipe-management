@@ -7,7 +7,7 @@ categories:
 cook_time: ''
 created: '2020-03-01 16:18:46'
 difficulty: ''
-hash: c5e8933e2b2f284c5124a5292e3397e9b1ac624239d061801fb9e806ca344ab0
+hash: f964adb2ffc2d1b0b53e6dbf68f6ef7aa464b063c310d2bd1175c51c011cd7b5
 image_url: https://assets.bonappetit.com/photos/584aea5541f5fb047faf2e38/16:9/w_2560%2Cc_limit/cwar-healthy-ish-dinner-chickpea-soup-lead.jpg
 in_trash: false
 is_pinned: false
@@ -48,13 +48,34 @@ uid: 1B16F06D-CE2E-475A-9536-C2EC622F1051-36261-00001AE2B109FC33
 ## Directions
 
 Mise en place guide:
-- Bowl: 1 lb sweet Italian sausage, removed from the casings
-- Cutting board: 1 onion, chopped; 1 fennel bulb, chopped (reserve the fronds); 4 garlic cloves, chopped
-- Small dish: 2 anchovy filets; 1/2 tsp fennel seeds; 1/2 tsp red pepper flakes
-- Strainer: 15 oz chickpeas, rinsed and drained
-- Measuring cup: 3 cups chicken stock
-- Opened can: 28 oz whole peeled tomatoes (break up by hand over the pot); 2 bay leaves
-- Small dish: chopped fennel fronds; a few sprigs each of basil and oregano; a dash of red pepper flakes
+
+**Bowl:**
+- 1 lb sweet Italian sausage, removed from the casings
+
+**Cutting board:**
+- 1 onion, chopped
+- 1 fennel bulb, chopped (reserve the fronds)
+- 4 garlic cloves, chopped
+
+**Small dish:**
+- 2 anchovy filets
+- 1/2 tsp fennel seeds
+- 1/2 tsp red pepper flakes
+
+**Strainer:**
+- 15 oz chickpeas, rinsed and drained
+
+**Measuring cup:**
+- 3 cups chicken stock
+
+**Opened can:**
+- 28 oz whole peeled tomatoes (break up by hand over the pot)
+- 2 bay leaves
+
+**Small dish:**
+- chopped fennel fronds
+- a few sprigs each of basil and oregano
+- a dash of red pepper flakes
 
 First, start with a solid base. Working in a big Dutch oven, brown 1 lb of store-bought, sweet Italian sausage that's been removed from the casings in 1 or 2 tbsp of olive oil, breaking it up into pieces. When it’s cooked through and there’s good caramelization on the pieces, remove the sausage with a slotted spoon and transfer to a bowl. You can omit the meat, but I’d highly recommend using even a little bit so that fat renders enough to to cook chopped aromatics.
 

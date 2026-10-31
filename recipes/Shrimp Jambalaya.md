@@ -7,7 +7,7 @@ categories:
 cook_time: ''
 created: '2024-10-30 16:37:29'
 difficulty: ''
-hash: 09881d33de23867ce7a4893cdb15f82cdd2497a2ca32a60ac5c7465b72e6e147
+hash: af274127298bf951f8244d8a0bacb664cbae6717e8c78fd61fee883fbacaeac9
 image_url: https://static01.nyt.com/images/2016/01/19/dining/19COOKING_JAMBALAYA/19COOKING_JAMBALAYA-square640.jpg
 in_trash: false
 is_pinned: false
@@ -50,14 +50,36 @@ uid: 8E5F3A8B-EC14-4965-A2A4-8DD5FD4640E7
 ## Directions
 
 Mise en place guide:
-- Tray: 2 lb shrimp, peeled and deveined (save shells for broth); keep cold until the end
-- Small dish: 2 tbsp flour
-- Bowl: 1 cup chopped onion; 1 cup chopped green onions; 1 cup chopped green pepper; 1 cup chopped celery; 1 tbsp minced garlic
-- Small bowl: 1 cup cooked ham, cut into 1/2-inch cubes
-- Bowl: 2 cups crushed tomatoes; 1/2 tsp dried thyme; 1 tsp dried oregano
-- Measuring cup: 1 cup uncooked long-grain rice (optional)
-- Measuring cup: 5 cups shrimp broth or water
-- Small dish: 1/2 cup chopped green onions, for garnish (optional)
+
+**Tray (keep cold until the end):**
+- 2 lb shrimp, peeled and deveined (save shells for broth)
+
+**Small dish:**
+- 2 tbsp flour
+
+**Bowl:**
+- 1 cup chopped onion
+- 1 cup chopped green onions
+- 1 cup chopped green pepper
+- 1 cup chopped celery
+- 1 tbsp minced garlic
+
+**Small bowl:**
+- 1 cup cooked ham, cut into 1/2-inch cubes
+
+**Bowl:**
+- 2 cups crushed tomatoes
+- 1/2 tsp dried thyme
+- 1 tsp dried oregano
+
+**Measuring cup:**
+- 1 cup uncooked long-grain rice (optional)
+
+**Measuring cup:**
+- 5 cups shrimp broth or water
+
+**Small dish:**
+- 1/2 cup chopped green onions, for garnish (optional)
 
 Peel and devein the shrimp. The shells may be used to make a broth (see recipe).
 

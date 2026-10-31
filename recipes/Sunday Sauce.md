@@ -7,7 +7,7 @@ categories:
 cook_time: ''
 created: '2022-05-16 12:38:44'
 difficulty: ''
-hash: 01f883dd797f3f5f0284dcbf449b7195b82b186a57929f39ac123dfb7336f113
+hash: 525e10d6d34fd25ade271eb0fc98da7806bfa55ce707efeda20049f510fd5a61
 image_url: https://static01.nyt.com/images/2022/02/08/dining/as-sunday-sauce/merlin_201238980_104949b5-4fa9-4f9d-83a5-c0c7d26a4ec1-articleLarge.jpg
 in_trash: false
 is_pinned: false
@@ -45,10 +45,20 @@ uid: 38C9F735-6231-432D-9089-58E441F1A358
 ## Directions
 
 Mise en place guide:
-- Tray: 2 lb pork shoulder, cut into 3-inch chunks and seasoned all over with salt and pepper
-- Cutting board: 1 yellow onion, coarsely chopped; 6 garlic cloves, smashed and peeled
-- Measuring cup: 1/3 cup red wine
-- Opened cans: 2 (28 oz) cans crushed tomatoes (keep one can to fill with water); 3 basil sprigs
+
+**Tray:**
+- 2 lb pork shoulder, cut into 3-inch chunks and seasoned all over with salt and pepper
+
+**Cutting board:**
+- 1 yellow onion, coarsely chopped
+- 6 garlic cloves, smashed and peeled
+
+**Measuring cup:**
+- 1/3 cup red wine
+
+**Opened cans:**
+- 2 (28 oz) cans crushed tomatoes (keep one can to fill with water)
+- 3 basil sprigs
 
 Season the pork shoulder all over with salt and pepper. In a large Dutch oven, heat 2 tbsp oil over medium high. Working in batches if necessary, cook the pork until browned on two sides, 8-10 minutes total, adding more oil if the pan looks dry. Transfer pieces to a bowl as they finish. Add the sausages to the pot and cook until browned, 4-6 minutes total. Transfer to the bowl.
 

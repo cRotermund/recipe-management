@@ -7,7 +7,7 @@ categories:
 cook_time: ''
 created: '2022-12-11 12:53:05'
 difficulty: ''
-hash: a1d27ff51e975e0b0b0e9aa8f8e251e7ce211fece122f5c1300d729d2b5dc759
+hash: 9a064494987ba71e1239c610518a88e79c2f1d2559b44931eacd4edc8ef42f73
 image_url: https://static01.nyt.com/images/2020/03/04/dining/sdg-soy-honey-braised-pork/merlin_170016639_cd25e8e8-0597-42f4-9504-c0fe53fd41b2-articleLarge.jpg
 in_trash: false
 is_pinned: false
@@ -43,11 +43,29 @@ uid: 9B7607DA-5865-492F-8FA7-B1B101E9C611
 ## Directions
 
 Mise en place guide:
-- Cutting board: 3-4 lb pork shoulder, trimmed of big hunks of fat and cut in half
-- Small bowl: 8 garlic cloves, finely chopped; 3 tbsp minced ginger; 1 tsp red-pepper flakes; 2 tsp lime zest
-- Measuring cup: 1 cup tamari or soy sauce; 1 cup honey; 1 tbsp toasted sesame oil
-- Small dish: 2 tbsp lime juice (for the end)
-- Small dishes for topping: sesame seeds; sliced scallions; chopped cilantro; lime wedges
+
+**Cutting board:**
+- 3-4 lb pork shoulder, trimmed of big hunks of fat and cut in half
+
+**Small bowl:**
+- 8 garlic cloves, finely chopped
+- 3 tbsp minced ginger
+- 1 tsp red-pepper flakes
+- 2 tsp lime zest
+
+**Measuring cup:**
+- 1 cup tamari or soy sauce
+- 1 cup honey
+- 1 tbsp toasted sesame oil
+
+**Small dish:**
+- 2 tbsp lime juice (for the end)
+
+**Small dishes for topping:**
+- sesame seeds
+- sliced scallions
+- chopped cilantro
+- lime wedges
 
 Place the pork in a 6-8 quart slow cooker. Scatter the garlic, ginger, red-pepper flakes and lime zest over the top. In a liquid measuring cup, whisk together the tamari, honey and sesame oil, then pour it over the pork. Using tongs, turn to coat all sides of the pork in the sauce, and spoon some over the top so that some of the garlic and ginger is on top of the pork. Cover and cook on low until the pork is very tender and shreds easily with a fork, 8-9 hours; it will hold well on warm. (If you are home and able to flip the pork once during cooking, that will help the flavors distribute evenly on the meat and make the color uniform. If not, it will be fine.)
 

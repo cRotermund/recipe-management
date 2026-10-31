@@ -7,7 +7,7 @@ categories:
 cook_time: ''
 created: '2024-03-31 10:34:02'
 difficulty: ''
-hash: ad4484eaaae34cce759dde179c58f12cfb9fbaeaa26ef08345838be28928d17d
+hash: e2d44395814990add708a2a541d0ab60697dfb03fad7620474c3c294507f7a5b
 image_url: https://static01.nyt.com/images/2018/08/17/dining/quinoa-salad-chicken/quinoa-salad-chicken-square640.jpg
 in_trash: false
 is_pinned: false
@@ -44,11 +44,27 @@ uid: 76CBFA52-3F96-4706-807D-7FC52EC8295C
 ## Directions
 
 Mise en place guide:
-- Sieve: 2 cups tricolor quinoa, rinsed well and drained
-- Very large bowl (dressing): 1/4 cup finely diced shallot or onion; 3 tbsp sherry vinegar; 1 tbsp Dijon mustard; 1/3 cup olive oil; a generous pinch of salt and pepper
-- Bowl: 2 cups chicken meat, torn; 3/4 cup dried cranberries; 2 cups chopped parsley
-- Small dish: 1/2 cup roasted salted almonds, chopped
-- Cutting board: 1 avocado, pitted, peeled and thinly sliced (slice just before serving)
+
+**Sieve:**
+- 2 cups tricolor quinoa, rinsed well and drained
+
+**Very large bowl (dressing):**
+- 1/4 cup finely diced shallot or onion
+- 3 tbsp sherry vinegar
+- 1 tbsp Dijon mustard
+- 1/3 cup olive oil
+- a generous pinch of salt and pepper
+
+**Bowl:**
+- 2 cups chicken meat, torn
+- 3/4 cup dried cranberries
+- 2 cups chopped parsley
+
+**Small dish:**
+- 1/2 cup roasted salted almonds, chopped
+
+**Cutting board:**
+- 1 avocado, pitted, peeled and thinly sliced (slice just before serving)
 
 Bring a large saucepan of generously salted water to a boil. Add quinoa and boil, stirring occasionally, until tender, 10-15 minutes.
 

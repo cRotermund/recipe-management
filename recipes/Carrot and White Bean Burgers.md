@@ -7,7 +7,7 @@ categories:
 cook_time: 1 hour
 created: '2021-04-05 13:19:51'
 difficulty: ''
-hash: d0cb22c19a821a7691077a0845064ca7087b4a46ad2dd866775b0a11dbf55e30
+hash: 37eb74f25c346f0ccaf46b22aa722d9b774b8cbaa39ad3dcb56a7313416219b4
 image_url: https://i2.wp.com/smittenkitchen.com/wp-content/uploads//2020/03/carrot-and-white-bean-burgers.jpg?fit=750%2C500&ssl=1
 in_trash: false
 is_pinned: false
@@ -44,15 +44,36 @@ uid: 885A743A-F7A2-4711-B714-8A2D4A74D249
 ## Directions
 
 Mise en place guide:
-- Small dish: 1/2 cup panko (toasted first)
-- Large bowl: empty, for the toasted panko
-- Cutting board: 3 shallots or 1 small onion, diced
-- Small dish: 1 tbsp tomato paste; 1 1/2 tsp salt
-- Small dish: 1 cup packed grated carrot (from 2 medium carrots)
-- Measuring cup: 1 1/2 tbsp apple cider vinegar
-- Colander: 2 (15 oz) cans cannellini beans, drained and rinsed
-- Small bowl: 1 large egg, beaten
-- Counter: olive oil (3 tbsp for the mixture, more for cooking the patties); black pepper; burger accompaniments
+
+**Small dish:**
+- 1/2 cup panko (toasted first)
+
+**Large bowl:**
+- empty, for the toasted panko
+
+**Cutting board:**
+- 3 shallots or 1 small onion, diced
+
+**Small dish:**
+- 1 tbsp tomato paste
+- 1 1/2 tsp salt
+
+**Small dish:**
+- 1 cup packed grated carrot (from 2 medium carrots)
+
+**Measuring cup:**
+- 1 1/2 tbsp apple cider vinegar
+
+**Colander:**
+- 2 (15 oz) cans cannellini beans, drained and rinsed
+
+**Small bowl:**
+- 1 large egg, beaten
+
+**Counter:**
+- olive oil (3 tbsp for the mixture, more for cooking the patties)
+- black pepper
+- burger accompaniments
 
 Heat 1 tbsp olive oil in a large skillet over low heat. Add the panko and cook, stirring often, until lightly browned and crisp, 3-5 minutes. Transfer crumbs to a large bowl, then return the pan to the heat.
 

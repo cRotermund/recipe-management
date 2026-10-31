@@ -6,7 +6,7 @@ categories:
 cook_time: 30 mins
 created: '2023-01-26 19:48:59'
 difficulty: ''
-hash: 976a5966f0cc9e86ed77593bd66a58ae67236d35722e718d95046e99151d3c44
+hash: 42463aab9b3b8248e76e955385eaf6b03359e0aa932b3b2911707d56eaeba411
 image_url: https://www.pressurecookrecipes.com/wp-content/uploads/2018/11/instant-pot-chicken-breast.jpg
 in_trash: false
 is_pinned: false
@@ -39,8 +39,16 @@ uid: 50F308EE-CCCE-4ECC-8B8C-67F725D8D9FB
 ## Directions
 
 Mise en place guide:
-- Small dish: 5 tsp fine sea salt; 2 bay leaves; 1 tsp dried thyme; 1 tsp dried rosemary; 1 tsp dried oregano
-- Measuring cup: 4 cups cold running tap water
+
+**Small dish:**
+- 5 tsp fine sea salt
+- 2 bay leaves
+- 1 tsp dried thyme
+- 1 tsp dried rosemary
+- 1 tsp dried oregano
+
+**Measuring cup:**
+- 4 cups cold running tap water
 
 Add Spice & Salt: Add 5 tsp fine sea salt, 2 bay leaves, 1 tsp dried thyme, 1 tsp dried rosemary, and 1 tsp dried oregano to Instant Pot.
 

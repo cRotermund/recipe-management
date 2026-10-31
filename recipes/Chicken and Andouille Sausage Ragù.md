@@ -7,7 +7,7 @@ categories:
 cook_time: ''
 created: '2020-01-26 10:36:37'
 difficulty: ''
-hash: 101ebd3ae563da3d5c6dd1b504f57be7daaaa3d3cd8106e5ab4bfbc350251978
+hash: 300dce261412910ed17848b59098f9f6366b137849cccf7304aa1e729ed38018
 image_url: https://assets.bonappetit.com/photos/57b0831c53e63daf11a4eb1d/16:9/w_1880,c_limit/mare_chicken_and_andouille_sausage_ragu_h.jpg
 in_trash: false
 is_pinned: false
@@ -46,13 +46,32 @@ uid: 6BC1F36E-F3FD-4666-9A87-9CD4E7ED3377
 ## Directions
 
 Mise en place guide:
-- Cutting board: 9 chicken thighs, each cut lengthwise along both sides of the bone into 2 pieces, bones reserved; season chicken and bones with salt and pepper
-- Bowl: 1 lb chicken andouille sausage, cut into 1/2-inch-thick rounds
-- Bowl: 3 medium carrots, peeled and diced; 2 large onions, chopped
-- Small dish: 1/4 cup chopped marjoram; 6 garlic cloves, minced; 1 tsp grated lemon peel; 1/4 tsp dried crushed red pepper
-- Measuring cup: 1 cup dry white wine
-- Large measuring cup: 2 (14 1/2 oz) cans diced tomatoes with juice; 2 cups chicken broth
-- Small dish: remaining 1/4 cup chopped marjoram (for the end)
+
+**Cutting board:**
+- 9 chicken thighs, each cut lengthwise along both sides of the bone into 2 pieces, bones reserved; season chicken and bones with salt and pepper
+
+**Bowl:**
+- 1 lb chicken andouille sausage, cut into 1/2-inch-thick rounds
+
+**Bowl:**
+- 3 medium carrots, peeled and diced
+- 2 large onions, chopped
+
+**Small dish:**
+- 1/4 cup chopped marjoram
+- 6 garlic cloves, minced
+- 1 tsp grated lemon peel
+- 1/4 tsp dried crushed red pepper
+
+**Measuring cup:**
+- 1 cup dry white wine
+
+**Large measuring cup:**
+- 2 (14 1/2 oz) cans diced tomatoes with juice
+- 2 cups chicken broth
+
+**Small dish:**
+- remaining 1/4 cup chopped marjoram (for the end)
 
 Place chicken thighs, skin side down, on work surface. Using sharp knife, cut each thigh lengthwise along each side of bone, forming 2 pieces of meat (some meat may remain on bones); reserve bones.
 

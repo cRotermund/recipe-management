@@ -7,7 +7,7 @@ categories:
 cook_time: ''
 created: '2020-01-26 10:32:24'
 difficulty: ''
-hash: 7b014049bb493724d8997b7f12f52778b943fa7e4a54cb09800cc37458295c29
+hash: 944dc832d57cd261b1653281702c6da67a2d4bfca54a820a87331500866d3016
 image_url: https://assets.bonappetit.com/photos/5df7e3a774d917000929589d/16:9/w_1880,c_limit/FGFP-Turmeric-Salmon-Coconut-Crisp%2016x9.jpg
 in_trash: false
 is_pinned: false
@@ -44,10 +44,23 @@ uid: 7983ABAF-8730-4272-BADC-F687AD04AB10
 ## Directions
 
 Mise en place guide:
-- Bowl: Swiss chard ribs and stems, finely chopped; 1 large shallot, thinly sliced; 1 3" piece ginger, peeled and thinly sliced lengthwise
-- Large bowl: Swiss chard leaves, coarsely chopped (add after the stems)
-- Small bowl: 2 tbsp olive oil and 1/2 tsp ground turmeric
-- Small dish (coconut crisp): 3 garlic cloves, thinly sliced; 1/2 serrano chile, thinly sliced; 1/2 cup coconut flakes
+
+**Bowl:**
+- Swiss chard ribs and stems, finely chopped
+- 1 large shallot, thinly sliced
+- 1 3" piece ginger, peeled and thinly sliced lengthwise
+
+**Large bowl:**
+- Swiss chard leaves, coarsely chopped (add after the stems)
+
+**Small bowl:**
+- 2 tbsp olive oil
+- 1/2 tsp ground turmeric
+
+**Small dish (coconut crisp):**
+- 3 garlic cloves, thinly sliced
+- 1/2 serrano chile, thinly sliced
+- 1/2 cup coconut flakes
 
 Preheat oven to 300°F. Heat 2 tbsp oil in a large ovenproof skillet over medium-high. Add Swiss chard ribs and stems, shallot, and ginger and cook, stirring occasionally, until shallot is softened but not browned, about 3 minutes. Add Swiss chard leaves and cook, stirring, until partly wilted, about 3 minutes. Remove from heat and season with salt.
 

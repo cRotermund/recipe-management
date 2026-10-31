@@ -7,7 +7,7 @@ categories:
 cook_time: ''
 created: '2023-12-03 16:51:01'
 difficulty: ''
-hash: 7055cf6f55ce4abddcd999e927b309b322469aaae6eda81c1448243dcb5df66d
+hash: 2df7e325f82f039af1c830edb051b4226f2d783b9bd0d3121981aa85f2408e3c
 image_url: https://static01.nyt.com/images/2013/01/01/science/31recipehealth/31recipehealth-square640.jpg
 in_trash: false
 is_pinned: false
@@ -49,13 +49,32 @@ uid: 503278C9-7516-415E-830F-78C72CC98F3B
 ## Directions
 
 Mise en place guide:
-- Strainer: 3/4 cup blond quinoa and 1/4 cup red quinoa, rinsed thoroughly
-- Bowl: 1 cup lentils, rinsed; 1 tsp minced ginger; 1 1/2 tsp turmeric; 1/2 medium onion, peeled and left whole
-- Small dish: 1 1/2 tbsp lime juice (or 1/4 cup tamarind water, from 1 tbsp tamarind paste soaked in warm water for 10 minutes)
-- Small dish: 1 tsp cumin seeds; 1 plump garlic clove, minced
-- Small dish: 1/2 cup finely minced red bell pepper
-- Small dish: cayenne pepper to taste; 1 tbsp chopped cilantro
-- Small dish: 2 tbsp chopped cilantro, for garnish
+
+**Strainer:**
+- 3/4 cup blond quinoa and 1/4 cup red quinoa, rinsed thoroughly
+
+**Bowl:**
+- 1 cup lentils, rinsed
+- 1 tsp minced ginger
+- 1 1/2 tsp turmeric
+- 1/2 medium onion, peeled and left whole
+
+**Small dish:**
+- 1 1/2 tbsp lime juice (or 1/4 cup tamarind water, from 1 tbsp tamarind paste soaked in warm water for 10 minutes)
+
+**Small dish:**
+- 1 tsp cumin seeds
+- 1 plump garlic clove, minced
+
+**Small dish:**
+- 1/2 cup finely minced red bell pepper
+
+**Small dish:**
+- cayenne pepper to taste
+- 1 tbsp chopped cilantro
+
+**Small dish:**
+- 2 tbsp chopped cilantro, for garnish
 
 Rinse the quinoa thoroughly and combine with the water and salt in a large saucepan. Bring to a boil, cover and reduce the heat to low. Simmer 15-20 minutes, until the white quinoa displays a little white spiral. Turn off the heat, remove the lid and place a dish towel over the top of the pot. Return the lid and let sit for 15 minutes. The quinoa will now be fluffy. Keep warm.
 

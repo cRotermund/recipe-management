@@ -7,7 +7,7 @@ categories:
 cook_time: ''
 created: '2020-03-22 14:47:29'
 difficulty: ''
-hash: 76b2aa41a7cd4606face23825fdc08e84fbb4567b76de1257f8148b2c2babce2
+hash: c307f482f1d0a0433cbbf34b54e1921f062c1ee49c43f40585617f91b6ec82dd
 image_url: https://assets.bonappetit.com/photos/5cad19a73733c07592c4a9cd/16:9/w_1880,c_limit/chicken-picatta.jpg
 in_trash: false
 is_pinned: false
@@ -43,13 +43,29 @@ uid: 7EE49867-D0A4-44F6-B68A-AE8010283CC0-60208-00002992E4C196B7
 ## Directions
 
 Mise en place guide:
-- Cutting board: 2 chicken breasts, sliced in half crosswise into 4 cutlets, pounded to 1/2" thick or less, lightly salted
-- Shallow bowl: 1/2 cup flour
-- Small dish: 4 garlic cloves, smashed
-- Measuring cup: 1/3 cup dry white wine; 1 tbsp drained capers, coarsely chopped
-- Small dish: 4 tbsp butter, cut into pieces
-- Small dish: 2 tbsp lemon juice
-- Small dish: chopped parsley and lemon wedges, for serving
+
+**Cutting board:**
+- 2 chicken breasts, sliced in half crosswise into 4 cutlets, pounded to 1/2" thick or less, lightly salted
+
+**Shallow bowl:**
+- 1/2 cup flour
+
+**Small dish:**
+- 4 garlic cloves, smashed
+
+**Measuring cup:**
+- 1/3 cup dry white wine
+- 1 tbsp drained capers, coarsely chopped
+
+**Small dish:**
+- 4 tbsp butter, cut into pieces
+
+**Small dish:**
+- 2 tbsp lemon juice
+
+**Small dish (for serving):**
+- chopped parsley
+- lemon wedges
 
 Slice chicken breasts in half crosswise into 4 cutlets and lightly pound each piece between sheets of plastic wrap until an even thickness (about 1/2" thick or less). Season lightly with salt. Place flour in a medium shallow bowl. Working one at a time, place cutlets in bowl and toss to coat in flour. Knock off excess flour and transfer to a plate.
 

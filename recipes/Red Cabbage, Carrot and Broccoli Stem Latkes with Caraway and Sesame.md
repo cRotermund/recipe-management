@@ -7,7 +7,7 @@ categories:
 cook_time: ''
 created: '2025-11-16 09:57:38'
 difficulty: ''
-hash: e161a7b98289f3c24bb0f670ba29e1e0313f4da65585da0ace120a79c2a51068
+hash: f531c972f7faf8745be68463d9bd7d3152fb6c00a54336db3014f5bf846119b8
 image_url: https://static01.nyt.com/images/2012/12/11/science/15recipehealth/15recipehealth-facebookJumbo-v2.jpg
 in_trash: false
 is_pinned: false
@@ -46,9 +46,24 @@ uid: BF76F489-75D7-4B89-9B07-190071341F4B
 ## Directions
 
 Mise en place guide:
-- Large bowl: 5 cups shredded red cabbage; 1/2 lb carrots, shredded; 1 1/2 cups shredded peeled broccoli stems
-- Small bowl: 2 tbsp sesame seeds; 2 tsp caraway seeds; 1 tsp baking powder; 3 tbsp oat bran; 3 tbsp all-purpose flour; 3 tbsp cornmeal; 2 tbsp buckwheat flour; salt
-- Small bowl: 3 eggs, beaten
+
+**Large bowl:**
+- 5 cups shredded red cabbage
+- 1/2 lb carrots, shredded
+- 1 1/2 cups shredded peeled broccoli stems
+
+**Small bowl:**
+- 2 tbsp sesame seeds
+- 2 tsp caraway seeds
+- 1 tsp baking powder
+- 3 tbsp oat bran
+- 3 tbsp all-purpose flour
+- 3 tbsp cornmeal
+- 2 tbsp buckwheat flour
+- salt
+
+**Small bowl:**
+- 3 eggs, beaten
 
 Heat the oven to 300°F. Line a sheet pan with parchment and place a rack over another sheet pan.
 

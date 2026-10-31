@@ -7,7 +7,7 @@ categories:
 cook_time: ''
 created: '2022-10-10 09:27:38'
 difficulty: ''
-hash: fe7d6e9a42998f894ddf0699a1acd7b414478b4811639593fb17ef7afe42d1df
+hash: 3e8d5aa652908a7ed853d33c333bf48d293a9ef7d6467ed6a1b07e2aad130b53
 image_url: https://i2.wp.com/smittenkitchen.com/wp-content/uploads//2008/03/alexs-chicken-and-mushroom-marsala.jpg?fit=750%2C500&ssl=1
 in_trash: false
 is_pinned: false
@@ -41,12 +41,25 @@ uid: 29D7C383-1C3D-4DB1-BF7D-1162F696AC96
 ## Directions
 
 Mise en place guide:
-- Tray: 3 whole chicken breasts, halved, patted dry and seasoned with salt and pepper
-- Small dish: 3 1/2 tbsp butter; set aside 1 1/2 tbsp for browning and keep the remaining 2 tbsp cold for finishing the sauce
-- Bowl: 1 onion, halved and sliced thin; 3/4 lb mushrooms, sliced thin
-- Measuring cup: 1/2 cup dry Marsala
-- Measuring cup: 1 cup chicken broth
-- Small dish: 2 tbsp minced parsley, for garnish
+
+**Tray:**
+- 3 whole chicken breasts, halved, patted dry and seasoned with salt and pepper
+
+**Small dish:**
+- 3 1/2 tbsp butter; set aside 1 1/2 tbsp for browning and keep the remaining 2 tbsp cold for finishing the sauce
+
+**Bowl:**
+- 1 onion, halved and sliced thin
+- 3/4 lb mushrooms, sliced thin
+
+**Measuring cup:**
+- 1/2 cup dry Marsala
+
+**Measuring cup:**
+- 1 cup chicken broth
+
+**Small dish:**
+- 2 tbsp minced parsley, for garnish
 
 Pat chicken dry and season with salt and pepper. In a large heavy skillet heat oil and 1 1/2 tbsp butter over moderately high heat until hot but not smoking and brown chicken in 2 batches, transferring with tongs to a large plate as browned.
 

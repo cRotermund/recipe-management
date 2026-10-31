@@ -7,7 +7,7 @@ categories:
 cook_time: ''
 created: '2023-07-15 13:33:32'
 difficulty: ''
-hash: 3abb415231926a4191e1075801284574e88901374e2dc5c8008d3326220f862d
+hash: 8458f24d9c5195635cfee176cafdcb59d2a69a8ee3bba3dfb8ebc07dd1807b7d
 image_url: https://static01.nyt.com/images/2019/07/31/dining/31food2/30COOKING-ZUCCHINI2-videoSixteenByNineJumbo1600.jpg
 in_trash: false
 is_pinned: false
@@ -40,10 +40,19 @@ uid: D1433BAA-B102-4488-9F75-FB504518984A
 ## Directions
 
 Mise en place guide:
-- Cutting board: 1 1/2 lb small zucchini, rinsed, patted dry, ends trimmed, cut into 1/8-inch slices
-- Small dish: 2 tbsp fresh bread crumbs and 1 tbsp butter
-- Small dish: 2 tbsp chopped shallots
-- Small dish: 4 tbsp chopped parsley
+
+**Cutting board:**
+- 1 1/2 lb small zucchini, rinsed, patted dry, ends trimmed, cut into 1/8-inch slices
+
+**Small dish:**
+- 2 tbsp fresh bread crumbs
+- 1 tbsp butter
+
+**Small dish:**
+- 2 tbsp chopped shallots
+
+**Small dish:**
+- 4 tbsp chopped parsley
 
 Rinse the zucchini and pat dry. Trim off the ends, but do not peel them. Cut into 1/8-inch slices.
 

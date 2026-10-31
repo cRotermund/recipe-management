@@ -7,7 +7,7 @@ categories:
 cook_time: 1 hour
 created: '2021-04-05 13:13:21'
 difficulty: ''
-hash: 6e40e3e7ec74f343221d6758023f0d4aba0df5eda808797ae6fc32c0b8f8afc4
+hash: ae2c2a43c506bbe42828a96496d6d8ebdfe2cf3298ba6f296952866f43833533
 image_url: https://i2.wp.com/smittenkitchen.com/wp-content/uploads/2021/04/lemon-potatoes-scaled.jpg?w=1920&ssl=1
 in_trash: false
 is_pinned: false
@@ -42,10 +42,25 @@ uid: A9E8CF22-5607-42AD-BA1D-97C54E9D2DCC
 ## Directions
 
 Mise en place guide:
-- Baking dish: 2 lb potatoes, peeled and quartered lengthwise into thick wedges; 4 tbsp olive oil (or 3 tbsp oil, with 1 tbsp butter, diced, in a small dish); 2 tsp fresh oregano; 1 tsp salt; zest of 2 lemons; 1/2 tsp pepper
-- Small dish: 3-4 garlic cloves, peeled and smashed
-- Measuring cup: 3/4 cup broth; 1/4 cup lemon juice (from the zested lemons)
-- Plate: chopped parsley or dill; lemon slices or wedges, to finish
+
+**Baking dish:**
+- 2 lb potatoes, peeled and quartered lengthwise into thick wedges
+- 4 tbsp olive oil (or 3 tbsp oil, with 1 tbsp butter, diced, in a small dish)
+- 2 tsp fresh oregano
+- 1 tsp salt
+- zest of 2 lemons
+- 1/2 tsp pepper
+
+**Small dish:**
+- 3-4 garlic cloves, peeled and smashed
+
+**Measuring cup:**
+- 3/4 cup broth
+- 1/4 cup lemon juice (from the zested lemons)
+
+**Plate:**
+- chopped parsley or dill
+- lemon slices or wedges, to finish
 
 Heat oven to 475°F.
 

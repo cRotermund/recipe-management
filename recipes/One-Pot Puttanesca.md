@@ -7,7 +7,7 @@ categories:
 cook_time: ''
 created: '2022-02-08 21:08:14'
 difficulty: ''
-hash: 85c38c9fa73a780a7069c652e51c2b080d0919995521b224df18fb5dc965731f
+hash: 3f4b4f84b7d686f0bb0eb5f5de14f03e1049f018da685a3fd7e2923c621e996f
 image_url: https://assets.bonappetit.com/photos/61f7f1b95851a853ef804dbe/1:1/w_2560%2Cc_limit/puttanesca.jpg
 in_trash: false
 is_pinned: false
@@ -44,12 +44,34 @@ uid: 298EC636-5FCA-4ACD-B1B4-4323855B0E88
 ## Directions
 
 Mise en place guide:
-- Small bowl: 6 garlic cloves, thinly sliced; 2 anchovy fillets; 1/3 cup olive oil
-- Small bowl: 1/2 cup Kalamata olives, coarsely chopped; 6 tbsp tomato paste; 3 tbsp drained capers; 1/2 tsp Diamond Crystal or 1/4 tsp Morton kosher salt; 1/4 tsp crushed red pepper flakes
-- Measuring cup: 4 cups water
-- Bowl: 8 oz ditalini; 5 oz baby spinach
-- Small dish: 2 anchovy fillets; 2 tbsp olive oil
-- Small dish: 1/2 cup panko; a pinch of crushed red pepper flakes; a pinch of salt
+
+**Small bowl:**
+- 6 garlic cloves, thinly sliced
+- 2 anchovy fillets
+- 1/3 cup olive oil
+
+**Small bowl:**
+- 1/2 cup Kalamata olives, coarsely chopped
+- 6 tbsp tomato paste
+- 3 tbsp drained capers
+- 1/2 tsp Diamond Crystal or 1/4 tsp Morton kosher salt
+- 1/4 tsp crushed red pepper flakes
+
+**Measuring cup:**
+- 4 cups water
+
+**Bowl:**
+- 8 oz ditalini
+- 5 oz baby spinach
+
+**Small dish:**
+- 2 anchovy fillets
+- 2 tbsp olive oil
+
+**Small dish:**
+- 1/2 cup panko
+- a pinch of crushed red pepper flakes
+- a pinch of salt
 
 Cook garlic, 2 anchovies, and 1/3 cup oil in a medium Dutch oven or other heavy pot over medium heat, stirring and smashing anchovies with a wooden spoon, until garlic starts to brown around the edges, about 3 minutes. Add olives, tomato paste, capers, 1/2 tsp Diamond Crystal or 1/4 tsp Morton kosher salt, and 1/4 tsp red pepper flakes and cook, stirring, until tomato paste turns a shade darker, about 3 minutes.
 

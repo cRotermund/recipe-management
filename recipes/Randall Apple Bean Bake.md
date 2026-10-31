@@ -7,7 +7,7 @@ categories:
 cook_time: ''
 created: '2020-12-13 14:48:30'
 difficulty: ''
-hash: b0520cbe4446199658d9655e470790b76732d1af42b93af3ab67f6bb2e9a80c4
+hash: a2a8d146a91dc9ce24ed060d23d5cd2bb060ba6534b4cdfae56d8f6f3acf44f2
 image_url: https://randallbeans.com/wp-content/uploads/2013/05/apple-bean-bake.jpeg
 in_trash: false
 is_pinned: false
@@ -42,11 +42,25 @@ uid: 41D652E9-FC4F-4579-A6C8-CB42C008511A-43240-00001B2B170D9988
 ## Directions
 
 Mise en place guide:
-- Small dish: 4 tbsp butter
-- Bowl: 2 large apples, cubed (3 cups)
-- Small bowl: 1/2 cup brown sugar; 1/4 cup white sugar
-- Small bowl: 1/2 cup ketchup; 1 tsp cinnamon; 1 tbsp molasses; 1 tsp salt
-- Colander: 1 (48 oz) jar beans, drained
+
+**Small dish:**
+- 4 tbsp butter
+
+**Bowl:**
+- 2 large apples, cubed (3 cups)
+
+**Small bowl:**
+- 1/2 cup brown sugar
+- 1/4 cup white sugar
+
+**Small bowl:**
+- 1/2 cup ketchup
+- 1 tsp cinnamon
+- 1 tbsp molasses
+- 1 tsp salt
+
+**Colander:**
+- 1 (48 oz) jar beans, drained
 
 In large skillet, melt butter, add cubed apples and cook until tender.
 

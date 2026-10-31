@@ -7,7 +7,7 @@ categories:
 cook_time: ''
 created: '2023-07-07 18:47:28'
 difficulty: ''
-hash: 7e30952ae14c657749990fd2c636c4333c87ce037a702c1a8e599569360ae2bc
+hash: a3b25c70aaf509501db34dfa5f5c13a0069c48491102902c2bdd5ac0c8b75825
 image_url: https://static01.nyt.com/images/2019/12/18/dining/as-sesame-noodles/merlin_165769617_7f8cc187-825d-4114-ba1a-34c342286a07-videoSixteenByNineJumbo1600.jpg
 in_trash: false
 is_pinned: false
@@ -43,11 +43,24 @@ uid: 1996B7F9-1BC7-4C47-B7CF-6014ECA350BD
 ## Directions
 
 Mise en place guide:
-- Medium heatproof bowl: 1 1/2 tbsp red-pepper flakes; 1 1/2 tbsp soy sauce; 1 1/2 tsp sesame oil (set next to the stovetop)
-- Small bowl: 6 tbsp peanuts, coarsely chopped; rind of 1/2 orange, peeled into 2-3 inch strips
-- Measuring cup: 1/2 cup neutral oil
-- Small dish: 1 tbsp neutral oil
-- Small dish: 3 tbsp finely chopped chives, for serving
+
+**Medium heatproof bowl:**
+- 1 1/2 tbsp red-pepper flakes
+- 1 1/2 tbsp soy sauce
+- 1 1/2 tsp sesame oil (set next to the stovetop)
+
+**Small bowl:**
+- 6 tbsp peanuts, coarsely chopped
+- rind of 1/2 orange, peeled into 2-3 inch strips
+
+**Measuring cup:**
+- 1/2 cup neutral oil
+
+**Small dish:**
+- 1 tbsp neutral oil
+
+**Small dish:**
+- 3 tbsp finely chopped chives, for serving
 
 In a medium heatproof bowl, stir together the red-pepper flakes, soy sauce and sesame oil. Set next to the stovetop.
 

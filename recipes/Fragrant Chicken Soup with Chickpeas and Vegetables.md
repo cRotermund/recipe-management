@@ -7,7 +7,7 @@ categories:
 cook_time: ''
 created: '2024-12-28 20:08:55'
 difficulty: ''
-hash: 1ac9557067065b8463900e6ae75a9d5c4bcf5e45c15ed0e17c3c15a1b2dd7af9
+hash: 90edd9988ec6897a6bb914d3c3d668c1189dda266abadaa2550717b4a209a5f1
 image_url: https://static01.nyt.com/images/2016/01/04/dining/fragrant-chicken-soup/fragrant-chicken-soup-videoSixteenByNine1050-v2.jpg
 in_trash: false
 is_pinned: false
@@ -53,15 +53,43 @@ uid: 7684028E-9A25-4653-A95C-B2C1D06FF327
 ## Directions
 
 Mise en place guide:
-- Bowl: 1 Spanish onion, chopped; 1/2 tsp kosher salt
-- Small dish: 3/4 tsp ground cinnamon; 3/4 tsp ground turmeric; 1/2 tsp sweet paprika; 1/2 tsp ground ginger; 1/4 tsp freshly grated nutmeg; 1/4 tsp ground black pepper; pinch of cayenne
-- Small dish: 2 tbsp tomato paste
-- Bowl: 2 celery stalks, diced; 1 turnip, peeled and diced; 1 sweet potato, peeled and diced
-- Measuring cup: 1 quart chicken broth
-- Bowl: 1 3/4 lb boneless, skinless chicken thighs, cut into bite-sized pieces (keep cold)
-- Bowl: 1 (15 oz) can chickpeas, drained; 1/2 cup chopped cilantro
-- Small dish: 1 tbsp fresh lemon juice
-- Small dish: chopped cilantro and lemon wedges, for garnish
+
+**Bowl:**
+- 1 Spanish onion, chopped
+- 1/2 tsp kosher salt
+
+**Small dish:**
+- 3/4 tsp ground cinnamon
+- 3/4 tsp ground turmeric
+- 1/2 tsp sweet paprika
+- 1/2 tsp ground ginger
+- 1/4 tsp freshly grated nutmeg
+- 1/4 tsp ground black pepper
+- pinch of cayenne
+
+**Small dish:**
+- 2 tbsp tomato paste
+
+**Bowl:**
+- 2 celery stalks, diced
+- 1 turnip, peeled and diced
+- 1 sweet potato, peeled and diced
+
+**Measuring cup:**
+- 1 quart chicken broth
+
+**Bowl:**
+- 1 3/4 lb boneless, skinless chicken thighs, cut into bite-sized pieces (keep cold)
+
+**Bowl:**
+- 1 (15 oz) can chickpeas, drained
+- 1/2 cup chopped cilantro
+
+**Small dish:**
+- 1 tbsp fresh lemon juice
+
+**Small dish:**
+- chopped cilantro and lemon wedges, for garnish
 
 Heat oil in a large soup pot over high heat. Add onion and salt and sauté until limp, 3 minutes. Add all spices and sauté until they release their fragrance, about 2 minutes. Add tomato paste and sauté another minute, until darkened but not burned. (If tomato paste looks too dark too quickly, lower heat.)
 

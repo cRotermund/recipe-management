@@ -7,7 +7,7 @@ categories:
 cook_time: 1 hour
 created: '2021-01-08 22:32:22'
 difficulty: ''
-hash: dbe4c1c8e78d9eded677df0a491a67b66befb4441e0169fae1c005a2508b54cf
+hash: 8a6f1637767a782d88b0c388c72a1a2c8e4c6de320e51ac3fcda3b91167ee84b
 image_url: https://static01.nyt.com/images/2021/01/06/dining/04Cookbooksrex2-curry/merlin_181749069_bac75581-7b0e-4426-8d8b-1803663440fd-articleLarge.jpg
 in_trash: false
 is_pinned: false
@@ -47,14 +47,36 @@ uid: 30337C40-ABFB-4F0C-BBE9-9D4E20807D5E
 ## Directions
 
 Mise en place guide:
-- Large bowl: 2 1/2 lb chicken thighs, trimmed and cut into 1/2-1 inch pieces; 1 tbsp paprika; 1/2 tsp turmeric; 2 tsp salt (marinate while you prep, or overnight in the refrigerator)
-- Bowl: 2 yellow onions, finely diced
-- Small dish: 4 garlic cloves, minced
-- Measuring cup: 1 (13 oz) can coconut milk, shaken and opened
-- Small dish: 1 1/2 tbsp fish sauce
-- Measuring cup: 1 1/2 cups water
-- Small dish: 1 tsp Madras curry powder and 1/2 tsp cayenne
-- For serving: cooked rice or noodles; 1 cup cilantro sprigs in a bowl; 1 lime or lemon, cut into wedges
+
+**Large bowl (marinate while you prep, or overnight in the refrigerator):**
+- 2 1/2 lb chicken thighs, trimmed and cut into 1/2-1 inch pieces
+- 1 tbsp paprika
+- 1/2 tsp turmeric
+- 2 tsp salt
+
+**Bowl:**
+- 2 yellow onions, finely diced
+
+**Small dish:**
+- 4 garlic cloves, minced
+
+**Measuring cup:**
+- 1 (13 oz) can coconut milk, shaken and opened
+
+**Small dish:**
+- 1 1/2 tbsp fish sauce
+
+**Measuring cup:**
+- 1 1/2 cups water
+
+**Small dish:**
+- 1 tsp Madras curry powder
+- 1/2 tsp cayenne
+
+**For serving:**
+- cooked rice or noodles
+- 1 cup cilantro sprigs in a bowl
+- 1 lime or lemon, cut into wedges
 
 Trim the chicken thighs of excess fat and cut into 1/2-1 inch pieces; transfer to a bowl. Add the paprika, turmeric and salt, and use your hands to mix well. Let the chicken marinate at room temperature while you prepare the other ingredients, or cover and refrigerate overnight.
 

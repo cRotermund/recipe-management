@@ -7,7 +7,7 @@ categories:
 cook_time: ''
 created: '2020-02-23 10:03:43'
 difficulty: ''
-hash: 0b3286f60f7a1ff5db1b08594a7758a6da7112d3375d32f92300925381ee6848
+hash: fafa8d85e487a7a4eb4a9bf4d6d4075bc1eaec9a05c9984f5ccdd7a524f0d682
 image_url: https://secureservercdn.net/198.71.233.161/fv4.276.myftpupload.com/wp-content/uploads/2019/01/smaller-wc-IMG_4655-1080x720.jpg
 in_trash: false
 is_pinned: false
@@ -45,12 +45,29 @@ uid: FCF81912-CC08-43EF-874E-358CE8B22EB2-30191-000016708727D662
 ## Directions
 
 Mise en place guide:
-- Dutch oven: rubbed inside with olive oil; 1 thick slice bread in the center
-- Tray: 1 chicken (4 1/2-5 lb) at room temperature, seasoned inside and out with salt and pepper; liver, if it came with the chicken
-- Small dish: 2 sprigs each rosemary, thyme and oregano (half a sprig of each goes inside the chicken, the rest in the pot)
-- Cutting board: 1 garlic head, halved horizontally, unpeeled (one half inside the chicken, one half in the pot)
-- Measuring cup: about 2/3 cup dry white wine or water (a few tbsp go in at the start; the rest is for the pan sauce)
-- Large bowl: 4 baby potatoes, quartered; 2 carrots, cut into thick chunks; 4 shallots or 1 quartered onion (optional, added after the chicken has roasted 45 minutes)
+
+**Dutch oven:**
+- rubbed inside with olive oil
+- 1 thick slice bread in the center
+
+**Tray:**
+- 1 chicken (4 1/2-5 lb) at room temperature, seasoned inside and out with salt and pepper
+- liver, if it came with the chicken
+
+**Small dish:**
+- 2 sprigs each rosemary, thyme and oregano (half a sprig of each goes inside the chicken, the rest in the pot)
+
+**Cutting board:**
+- 1 garlic head, halved horizontally, unpeeled (one half inside the chicken, one half in the pot)
+
+**Measuring cup:**
+- about 2/3 cup dry white wine or water (a few tbsp go in at the start
+- the rest is for the pan sauce)
+
+**Large bowl (optional, added after the chicken has roasted 45 minutes):**
+- 4 baby potatoes, quartered
+- 2 carrots, cut into thick chunks
+- 4 shallots or 1 quartered onion
 
 Center a rack in the oven and preheat the oven to 450°F.
 

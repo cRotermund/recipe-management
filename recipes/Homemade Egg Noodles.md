@@ -5,7 +5,7 @@ categories:
 cook_time: 35 mins
 created: '2022-10-12 12:45:23'
 difficulty: ''
-hash: ed6c463b5eb6fe321ff35cc8deb5093037c02974e2601870084706ffe0a291ea
+hash: 8956e1f16d6dacfd02b1f9d4a8a3651833c6968adaacbc5f0f4f769f71f6952d
 image_url: https://www.kingarthurbaking.com/sites/default/files/styles/featured_image/public/2020-05/homemade-egg-noodles.jpg?itok=QSlv1m5R
 in_trash: false
 is_pinned: false
@@ -36,10 +36,20 @@ uid: 8EC8F5C4-F6E5-470F-AFD1-55FCDB58BCB3
 ## Directions
 
 Mise en place guide:
-- Food processor bowl: 2 cups all-purpose flour; 1 tsp salt; 1 tsp baking powder
-- Small bowl: 2 large eggs, whisked well
-- Measuring cup: 1/2 cup milk (hold back the last 1-2 tbsp until needed)
-- Small dish: extra flour, for dusting
+
+**Food processor bowl:**
+- 2 cups all-purpose flour
+- 1 tsp salt
+- 1 tsp baking powder
+
+**Small bowl:**
+- 2 large eggs, whisked well
+
+**Measuring cup:**
+- 1/2 cup milk (hold back the last 1-2 tbsp until needed)
+
+**Small dish:**
+- extra flour, for dusting
 
 Place the flour, salt, and baking powder in the bowl of a food processor and pulse to aerate and combine.
 

@@ -7,7 +7,7 @@ categories:
 cook_time: ''
 created: '2023-11-13 18:35:02'
 difficulty: ''
-hash: 08d5036922ad904816fd11210165d6e7d7558d892b2ed08abeca568d4e8e87fd
+hash: 6107611ae1de26a09cfc88fa8adb50377b2d358189fd5c649d74e390ab4d7ee3
 image_url: null
 in_trash: false
 is_pinned: false
@@ -45,10 +45,24 @@ EZ Clark Baked Italian Chicken Recipe
 ## Directions
 
 Mise en place guide:
-- Shallow dish: 3 tbsp all-purpose flour
-- Shallow dish: 1 egg, beaten
-- Shallow dish: 1/2 cup fine, dry bread crumbs
-- Small bowl: 1/2 tsp salt; 1/2 tsp dried basil; 1/2 tsp dried oregano; 1/4 tsp garlic powder; 2 tbsp melted butter; 2 tbsp olive oil; 2 tbsp lemon juice (mix together for pouring over the chicken)
+
+**Shallow dish:**
+- 3 tbsp all-purpose flour
+
+**Shallow dish:**
+- 1 egg, beaten
+
+**Shallow dish:**
+- 1/2 cup fine, dry bread crumbs
+
+**Small bowl (mix together for pouring over the chicken):**
+- 1/2 tsp salt
+- 1/2 tsp dried basil
+- 1/2 tsp dried oregano
+- 1/4 tsp garlic powder
+- 2 tbsp melted butter
+- 2 tbsp olive oil
+- 2 tbsp lemon juice
 
 -Dredge each chicken breast half in flour; coat with breadcrumbs
 

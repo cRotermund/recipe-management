@@ -7,7 +7,7 @@ categories:
 cook_time: ''
 created: '2023-01-08 11:05:24'
 difficulty: ''
-hash: e7b752f05be3cdebd11742c71ebd0240149d5babd47a1c08e1b412d2a262ef08
+hash: 4f63fefb9a4300ae08cda28507c505dfec71497be2c306311485d7ce73a80b99
 image_url: https://static01.nyt.com/images/2018/04/19/dining/19COOKING-DAL3/19COOKING-DAL3-articleLarge-v3.jpg
 in_trash: false
 is_pinned: false
@@ -43,12 +43,30 @@ uid: E5AC0F15-19D6-4F95-B0D6-71FB3106E7DB
 ## Directions
 
 Mise en place guide:
-- Large saucepan: 1 cup chana dal; 1 1/2 tsp turmeric; 1/2 tsp ground cardamom; 1 bay leaf; 1 tsp salt; 4 cups water
-- Measuring cup: 1 cup extra water (only if needed)
-- Small saucepan: 2 tbsp sunflower or safflower oil (the tadka)
-- Small dish: 6 whole cloves
-- Small dish: 4 large garlic cloves, thinly sliced; 1 tsp crushed red chile flakes (optional)
-- Small dish: 3 tbsp chopped cilantro, for garnish
+
+**Large saucepan:**
+- 1 cup chana dal
+- 1 1/2 tsp turmeric
+- 1/2 tsp ground cardamom
+- 1 bay leaf
+- 1 tsp salt
+- 4 cups water
+
+**Measuring cup:**
+- 1 cup extra water (only if needed)
+
+**Small saucepan:**
+- 2 tbsp sunflower or safflower oil (the tadka)
+
+**Small dish:**
+- 6 whole cloves
+
+**Small dish (optional):**
+- 4 large garlic cloves, thinly sliced
+- 1 tsp crushed red chile flakes
+
+**Small dish:**
+- 3 tbsp chopped cilantro, for garnish
 
 Combine the chana dal, turmeric,cardamom, bay leaf, salt and 4 cups waterin a large saucepan and bring to a boil.Adjust the heat so the mixture bubblesgently, cover partly and cook for 40minutes. At that point, the mixture shouldstill be quite moist; if it is not, add 1 cupadditional water and continue cooking,covered, until the dal is tender, about 20minutes; turn off the heat. Remove thebay leaf. Use an Indian mathani (see related article)to purée the dal for about 1 minute;the dal should be saucy but not soupy.
 

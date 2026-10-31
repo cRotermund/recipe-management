@@ -4,7 +4,7 @@ categories:
 cook_time: ''
 created: '2020-01-26 10:48:24'
 difficulty: ''
-hash: 00c98a4650d22a6a77696822394ec6b2c2c1206141c4ea04682bc2b60e967be8
+hash: a440879b27dcff6b5220f6fc48a021c2494f8a6d44fdb7653389572f16b34c82
 image_url: https://cookieandkate.com/images/2019/06/cilantro-lime-brown-rice-recipe-2-768x1154.jpg
 in_trash: false
 is_pinned: false
@@ -37,8 +37,17 @@ uid: FECCE826-B8D3-421D-A83C-94500243B345
 ## Directions
 
 Mise en place guide:
-- Colander: 1 1/2 cups brown rice, rinsed; set 1 bay leaf alongside
-- Small bowl: 1/4 cup chopped cilantro; 2 tbsp lime juice; 1 1/2 tsp lemon juice; 1 tbsp plus 1 tsp olive oil; 1/2 tsp fine sea salt
+
+**Colander:**
+- 1 1/2 cups brown rice, rinsed
+- set 1 bay leaf alongside
+
+**Small bowl:**
+- 1/4 cup chopped cilantro
+- 2 tbsp lime juice
+- 1 1/2 tsp lemon juice
+- 1 tbsp plus 1 tsp olive oil
+- 1/2 tsp fine sea salt
 
 Bring a large pot of water to boil over high heat. Pour in the rinsed rice and drop in the bay leaf. Give the mixture a brief stir and let it boil for 30 minutes, reducing the heat if necessary to prevent overflow.
 

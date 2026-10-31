@@ -7,7 +7,7 @@ categories:
 cook_time: 45 minutes
 created: '2020-02-20 19:31:52'
 difficulty: ''
-hash: 144c64d79989e4bbf7a9d361e71fad1c5a65f297f571f02eb803432a7ec5d413
+hash: 6252da74f350f1f9d20890a600fd41146c067572ba38d7e664aa2b17cf25b21d
 image_url: https://static01.nyt.com/images/2018/12/01/dining/mb-pasta-with-chicken-and-mushrooms/merlin_147141321_b4c21206-fd33-4da0-a0d3-05faa52589f5-articleLarge.jpg
 in_trash: false
 is_pinned: false
@@ -44,12 +44,27 @@ uid: 3CA13949-A4C2-4BB9-9279-D2BBCCE06FEE-27939-0000158A731CE9BB
 ## Directions
 
 Mise en place guide:
-- Cutting board: 1 shallot or small onion, chopped; 1 tbsp minced garlic; 2 cups mushrooms, cleaned, trimmed and sliced
-- Bowl: 1/2 lb penne
-- Measuring cup: 1/2 cup dry white wine or water
-- Measuring cup: 3-4 cups chicken or vegetable stock
-- Bowl: 2 boneless chicken thighs, diced (keep cold until needed)
-- Small dish: chopped parsley and grated Parmesan, for garnish (optional)
+
+**Cutting board:**
+- 1 shallot or small onion, chopped
+- 1 tbsp minced garlic
+- 2 cups mushrooms, cleaned, trimmed and sliced
+
+**Bowl:**
+- 1/2 lb penne
+
+**Measuring cup:**
+- 1/2 cup dry white wine or water
+
+**Measuring cup:**
+- 3-4 cups chicken or vegetable stock
+
+**Bowl:**
+- 2 boneless chicken thighs, diced (keep cold until needed)
+
+**Small dish:**
+- chopped parsley
+- grated Parmesan, for garnish (optional)
 
 Put 2 tbsp olive oil in a large, deep skillet over medium heat. When hot, add shallot, garlic and mushrooms. Cook, stirring occasionally, until mushrooms soften and begin to brown on edges, about 10 minutes. Add pasta and cook, stirring occasionally, until it is glossy and coated with oil, 2-3 minutes. Add a little salt and pepper, then wine. Stir and let liquid bubble away.
 

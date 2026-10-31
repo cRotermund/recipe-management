@@ -7,7 +7,7 @@ categories:
 cook_time: 70 minutes
 created: '2023-12-31 13:13:12'
 difficulty: ''
-hash: c215f8e2841f937a6d046939bb54a8dcd1d26ac77b882839ea9d0ba63287e12d
+hash: cb1a83abd04fbd825df34a2fa5b35ddccf7c2afc7a544a057f77cf2c2e497f9d
 image_url: https://i0.wp.com/smittenkitchen.com/wp-content/uploads/2023/09/chicken-rice-with-buttered-onions-11-scaled.jpg?w=1920&ssl=1
 in_trash: false
 is_pinned: false
@@ -42,12 +42,26 @@ uid: BE67A849-7702-4BFB-8D81-8D078DE6B427
 ## Directions
 
 Mise en place guide:
-- Plate: 4-6 chicken thighs, seasoned generously on top with salt and pepper
-- Small dish: 3 tbsp butter (1 tbsp for browning the chicken, 2 tbsp for the onions); 1 tbsp olive oil
-- Bowl: 1 1/2 lb (3 large) yellow onions, diced just shy of 1/2" pieces
-- Small dish: thyme leaves from a few sprigs; 1 1/2 cups uncooked rice
-- Small dish: 1/4 cup white wine (optional)
-- Measuring cup: 2 cups chicken broth, plus 1/4 cup more on the side
+
+**Plate:**
+- 4-6 chicken thighs, seasoned generously on top with salt and pepper
+
+**Small dish:**
+- 3 tbsp butter (1 tbsp for browning the chicken, 2 tbsp for the onions)
+- 1 tbsp olive oil
+
+**Bowl:**
+- 1 1/2 lb (3 large) yellow onions, diced just shy of 1/2" pieces
+
+**Small dish:**
+- thyme leaves from a few sprigs
+- 1 1/2 cups uncooked rice
+
+**Small dish:**
+- 1/4 cup white wine (optional)
+
+**Measuring cup:**
+- 2 cups chicken broth, plus 1/4 cup more on the side
 
 Prepare the chicken: Arrange chicken skin side up on a plate and season generously on top with salt and freshly ground black pepper. We’ll get to the undersides in a minute.
 

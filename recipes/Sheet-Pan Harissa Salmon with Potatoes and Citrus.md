@@ -7,7 +7,7 @@ categories:
 cook_time: 30 minutes
 created: '2020-03-15 19:02:49'
 difficulty: ''
-hash: 6c3a3dd7aac07ae6789ab6d934e83e871af21a4bf312068f906de8beebd1e906
+hash: 19523de28e7aa33185ebca8095c6384cd85efdb79577a2f5cac0081ef9b011cf
 image_url: https://static01.nyt.com/images/2019/01/28/dining/ch-sheet-pan-salmon-and-potatoes-with-harissa-and-citrus/merlin_145792857_73898966-f0e3-4c7b-9a7d-4eb024fb5e8f-articleLarge.jpg
 in_trash: false
 is_pinned: false
@@ -46,10 +46,27 @@ uid: 0DD438CA-E405-4142-8E68-D753A7C35906-52825-000025907D946A54
 ## Directions
 
 Mise en place guide:
-- Plate: 4 salmon fillets, seasoned with salt and pepper
-- Shallow bowl: 2-3 tbsp harissa; 2 tsp grated ginger; 1 garlic clove, grated; 1/2 tsp orange zest; 1/4 cup orange juice (spoon over the salmon, can marinate at room temperature while the potatoes roast)
-- Large bowl: 1 lb small potatoes, halved lengthwise; 1 small red onion, cut into 1/2-inch wedges; 2 tbsp olive oil; salt and pepper
-- Small dish: 1/4 cup chopped cilantro; 3 tbsp thinly sliced scallions; flaky salt
+
+**Plate:**
+- 4 salmon fillets, seasoned with salt and pepper
+
+**Shallow bowl (spoon over the salmon, can marinate at room temperature while the potatoes roast):**
+- 2-3 tbsp harissa
+- 2 tsp grated ginger
+- 1 garlic clove, grated
+- 1/2 tsp orange zest
+- 1/4 cup orange juice
+
+**Large bowl:**
+- 1 lb small potatoes, halved lengthwise
+- 1 small red onion, cut into 1/2-inch wedges
+- 2 tbsp olive oil
+- salt and pepper
+
+**Small dish:**
+- 1/4 cup chopped cilantro
+- 3 tbsp thinly sliced scallions
+- flaky salt
 
 Heat oven to 450°F. Lay salmon on a plate, and season with salt and pepper. In a shallow bowl, whisk together harissa, ginger, garlic, orange zest and juice. Spoon the mixture over the flesh and sides of the fish, and let marinate at room temperature.
 

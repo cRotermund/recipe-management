@@ -7,7 +7,7 @@ categories:
 cook_time: 1 hr 15 mins
 created: '2023-10-07 21:28:30'
 difficulty: ''
-hash: 604abebcb238ebdeb6707e7af640230a69f90645444b2b01b07e60d8d1815f75
+hash: 722cf7d28b1037c2ea07e6652baa767e672973d7f299b9a94fcbd48370a334fc
 image_url: https://www.foodandwine.com/thmb/gPpzR_cDX3tnk2RUneD1rRrECog=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Chicken-Pozole-Verde-FT-RECIPE0422-1-a6c47eca8fd84448954f9c6596391021.jpg
 in_trash: false
 is_pinned: false
@@ -54,11 +54,34 @@ uid: EB678605-6ADB-482B-A006-212514316563
 ## Directions
 
 Mise en place guide:
-- Measuring cup: 7 cups chicken stock; 2 cups water
-- Plate: 4 chicken breast halves, on the bone, with skin
-- Large bowl (for the blender): 1 lb tomatillos, husked and halved; 1 small onion, quartered; 2 poblano chiles, cored, seeded, and quartered; 2 jalapeños, seeded and quartered; 4 garlic cloves, smashed; 1/2 cup chopped cilantro; 1 tbsp oregano
-- Colander: 3 (15 oz) cans hominy, drained
-- Tray: finely shredded iceberg lettuce; sliced radishes; chopped onion; diced avocado; sour cream; tortilla chips; lime wedges (for serving)
+
+**Measuring cup:**
+- 7 cups chicken stock
+- 2 cups water
+
+**Plate:**
+- 4 chicken breast halves, on the bone, with skin
+
+**Large bowl (for the blender):**
+- 1 lb tomatillos, husked and halved
+- 1 small onion, quartered
+- 2 poblano chiles, cored, seeded, and quartered
+- 2 jalapeños, seeded and quartered
+- 4 garlic cloves, smashed
+- 1/2 cup chopped cilantro
+- 1 tbsp oregano
+
+**Colander:**
+- 3 (15 oz) cans hominy, drained
+
+**Tray (for serving):**
+- finely shredded iceberg lettuce
+- sliced radishes
+- chopped onion
+- diced avocado
+- sour cream
+- tortilla chips
+- lime wedges
 
 Gather the ingredients.
 

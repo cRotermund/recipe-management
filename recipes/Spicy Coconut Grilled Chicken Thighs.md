@@ -7,7 +7,7 @@ categories:
 cook_time: ''
 created: '2021-08-26 18:24:31'
 difficulty: ''
-hash: 8191dc41e170b3269619ca017629da0a97440254427301cf819b65a2baf6ffcf
+hash: 356620c1d12a451ee9c96d4749ae6682d816b9cfa87362eee874d8419b19268d
 image_url: https://assets.bonappetit.com/photos/5d1232c5a99ac2f8c7ab8596/1:1/w_2560%2Cc_limit/Coconut-Grilled-Chicken-Thighs-lede.jpg
 in_trash: false
 is_pinned: false
@@ -44,9 +44,23 @@ uid: ABF727A1-5DE6-453F-85B8-BF8209BC4A82
 ## Directions
 
 Mise en place guide:
-- Medium bowl: 1 3" piece ginger, finely grated; 5 garlic cloves, finely grated; 3/4 cup coconut milk; 1/4 cup hot chili paste; 1/4 cup lime juice; 2 tbsp light brown sugar; 1 tbsp Diamond Crystal salt (or 1 3/4 tsp Morton); 2 tbsp vegetable oil. Whisk, then add 2 lb chicken thighs (can marinate 15 minutes to 4 hours)
-- Small dish: 1/2 cup cilantro leaves with tender stems, for serving
-- Plate: lime wedges, for serving
+
+**Medium bowl:**
+- 1 3" piece ginger, finely grated
+- 5 garlic cloves, finely grated
+- 3/4 cup coconut milk
+- 1/4 cup hot chili paste
+- 1/4 cup lime juice
+- 2 tbsp light brown sugar
+- 1 tbsp Diamond Crystal salt (or 1 3/4 tsp Morton)
+- 2 tbsp vegetable oil
+- Whisk, then add 2 lb chicken thighs (can marinate 15 minutes to 4 hours)
+
+**Small dish:**
+- 1/2 cup cilantro leaves with tender stems, for serving
+
+**Plate:**
+- lime wedges, for serving
 
 Prepare a grill for medium heat. Finely grate ginger and garlic into a medium bowl. Add coconut milk, chili paste, lime juice, brown sugar, salt, and 2 tbsp oil and whisk to combine. Add chicken and toss to coat. Let sit at least 15 minutes or up to 4 hours.
 

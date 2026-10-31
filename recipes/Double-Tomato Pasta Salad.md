@@ -7,7 +7,7 @@ categories:
 cook_time: 35 minutes
 created: '2022-07-21 10:04:37'
 difficulty: ''
-hash: 8c2152a5aa017fb3558878985bac3d91db2f938ac31a9fb03c9d5077cadbceaf
+hash: b297432e0dfca7a8a021bec61e75659dece180dc075cc50377bcd3bb58138ed7
 image_url: https://static01.nyt.com/images/2022/06/29/dining/27COOKOUTREX2-double-tomato-pasta-salad/merlin_207624003_5bb1aeca-1a30-4c82-8964-fada2992127c-articleLarge.jpg
 in_trash: false
 is_pinned: false
@@ -43,13 +43,31 @@ uid: 7E491BA9-0417-4667-8772-DCB929497680
 ## Directions
 
 Mise en place guide:
-- Cutting board: 1 (7-8 oz) jar sun-dried tomatoes, drained (oil goes into the pot), coarsely chopped; 1 1/2 cups nuts, coarsely chopped
-- Measuring cup: 1/4 cup olive oil
-- Small dish: 2 garlic cloves, finely grated; 1/2 tsp salt; 1/2 tsp pepper
-- Large bowl: 2 lb ripe tomatoes, coarsely chopped; 1 tsp salt (while the pasta water comes to a boil)
-- Bowl: 1 lb fusilli
-- Small dish: lemon juice or red wine vinegar, to taste
-- Cutting board: 2 cups torn basil, mint, dill or arugula leaves
+
+**Cutting board:**
+- 1 (7-8 oz) jar sun-dried tomatoes, drained (oil goes into the pot), coarsely chopped
+- 1 1/2 cups nuts, coarsely chopped
+
+**Measuring cup:**
+- 1/4 cup olive oil
+
+**Small dish:**
+- 2 garlic cloves, finely grated
+- 1/2 tsp salt
+- 1/2 tsp pepper
+
+**Large bowl (while the pasta water comes to a boil):**
+- 2 lb ripe tomatoes, coarsely chopped
+- 1 tsp salt
+
+**Bowl:**
+- 1 lb fusilli
+
+**Small dish:**
+- lemon juice or red wine vinegar, to taste
+
+**Cutting board:**
+- 2 cups torn basil, mint, dill or arugula leaves
 
 Holding back the sun-dried tomatoes with your fingers, drain the oil from the jar into a large pot. Coarsely chop the sun-dried tomatoes and add them to the pot, along with the nuts and olive oil. Set over medium-low and cook, stirring often, until the nuts are toasted, 5-6 minutes. Scrape into a large bowl (reserve the pot), then stir in the garlic and 1/2 tsp each salt and pepper. 
 

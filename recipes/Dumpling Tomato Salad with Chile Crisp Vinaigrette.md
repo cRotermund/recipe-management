@@ -7,7 +7,7 @@ categories:
 cook_time: ''
 created: '2023-07-15 13:34:45'
 difficulty: ''
-hash: da730f5ec951d7bda13666fc87e223fb12dc1d6625d401827aa5d094d44e1e94
+hash: 43f69c4353c184def23240adc4c92f074952adbb20a74c83a2122ebb4d332db5
 image_url: https://static01.nyt.com/images/2023/06/13/multimedia/as-dumpling-salad-lvtc/as-dumpling-salad-lvtc-mediumSquareAt3X.jpg
 in_trash: false
 is_pinned: false
@@ -43,10 +43,25 @@ uid: 12658B51-F120-4A0B-A933-C7670E263842
 ## Directions
 
 Mise en place guide:
-- Large serving plate: 2 1/2 lb ripe tomatoes, cut into 1-2 inch pieces, at room temperature; 1 garlic clove, grated; half of the torn basil; 1 tsp salt; big pinch of black pepper
-- Small bowl: 3 tbsp chile crisp; 2 tbsp rice vinegar; 1 tbsp soy sauce
-- Tray: 1 lb frozen potsticker dumplings (keep frozen until cooking)
-- Small dish: remaining torn basil; 1-2 tbsp crispy fried shallots (optional)
+
+**Large serving plate:**
+- 2 1/2 lb ripe tomatoes, cut into 1-2 inch pieces, at room temperature
+- 1 garlic clove, grated
+- half of the torn basil
+- 1 tsp salt
+- big pinch of black pepper
+
+**Small bowl:**
+- 3 tbsp chile crisp
+- 2 tbsp rice vinegar
+- 1 tbsp soy sauce
+
+**Tray:**
+- 1 lb frozen potsticker dumplings (keep frozen until cooking)
+
+**Small dish:**
+- remaining torn basil
+- 1-2 tbsp crispy fried shallots (optional)
 
 Place the tomatoes on a large serving plate or in a bowl. Add the garlic, half the basil leaves, 1 tsp of salt and a big pinch of black pepper. Toss to combine and set aside.
 

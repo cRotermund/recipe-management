@@ -7,7 +7,7 @@ categories:
 cook_time: 30 minutes
 created: '2022-01-02 15:12:58'
 difficulty: ''
-hash: 58b048c6f519472f19e8b4c4b7fc00d6a446286855cccda1fffd5b147e265d37
+hash: db554312269a0890a545f7a2e77bd64419b7722919a9fc1a76add7e6ad4c25f8
 image_url: https://static01.nyt.com/images/2019/11/13/dining/as-thai-chicken-meatball-soup/merlin_164331288_f7304b37-3bd7-4a8d-9d3f-d75abdf4df29-articleLarge.jpg
 in_trash: false
 is_pinned: false
@@ -47,11 +47,30 @@ uid: 95F236C4-9448-41FC-96F3-427042B9BF75
 ## Directions
 
 Mise en place guide:
-- Large bowl: half of the grated ginger, garlic and jalapeño (1 (4-inch) piece ginger, 6 garlic cloves, 1 jalapeño, grated on the small holes of a box grater); 2 lb ground chicken; 1 large bunch cilantro, leaves and stems finely chopped (reserve a few whole leaves for serving); 2 tbsp fish sauce; 1 tsp salt
-- Small bowl: remaining half of the grated ginger, garlic and jalapeño
-- Large measuring cup: 2 cups chicken broth; 1 (14 oz) can coconut milk; 1/2 tsp sugar; 1 tbsp fish sauce
-- Bowl: 5 oz baby spinach; 1 tbsp lime juice
-- Plate: reserved cilantro leaves; lime wedges, for serving
+
+**Large bowl:**
+- half of the grated ginger, garlic and jalapeño (1 (4-inch) piece ginger, 6 garlic cloves, 1 jalapeño, grated on the small holes of a box grater)
+- 2 lb ground chicken
+- 1 large bunch cilantro, leaves and stems finely chopped (reserve a few whole leaves for serving)
+- 2 tbsp fish sauce
+- 1 tsp salt
+
+**Small bowl:**
+- remaining half of the grated ginger, garlic and jalapeño
+
+**Large measuring cup:**
+- 2 cups chicken broth
+- 1 (14 oz) can coconut milk
+- 1/2 tsp sugar
+- 1 tbsp fish sauce
+
+**Bowl:**
+- 5 oz baby spinach
+- 1 tbsp lime juice
+
+**Plate:**
+- reserved cilantro leaves
+- lime wedges, for serving
 
 Using the small holes of a box grater, or a Microplane, grate the ginger, garlic and jalapeño (or finely chop them by hand). Transfer half to a large bowl and set the rest aside. To the large bowl, add the chicken, finely chopped cilantro, 2 tbsp fish sauce and 1 tsp salt. Use your hands or a fork to fully combine but do not overmix.
 

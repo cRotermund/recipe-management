@@ -7,7 +7,7 @@ categories:
 cook_time: ''
 created: '2020-01-26 11:30:35'
 difficulty: ''
-hash: 719a0f13487d0d8d097a819433fe35f9efedd394119ed51d6563baaa5e1080a0
+hash: b6944fb4279228aaf71d2c31455f6f209d15d75b46f7f3e601c1691c24d2f115
 image_url: null
 in_trash: false
 is_pinned: false
@@ -35,7 +35,9 @@ uid: 4CEFD719-4DDE-4219-8684-4A22AF2C446A
 ## Directions
 
 Mise en place guide:
-- Baking sheet: 1 head cauliflower, cut into florets and tossed with olive oil
+
+**Baking sheet:**
+- 1 head cauliflower, cut into florets and tossed with olive oil
 
 Oven @ 400
 ~ 25 min

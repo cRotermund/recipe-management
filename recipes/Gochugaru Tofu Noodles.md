@@ -7,7 +7,7 @@ categories:
 cook_time: 15 min
 created: '2022-01-31 21:21:29'
 difficulty: Easy
-hash: ca331fa1cb40a70dad8619e15810aba9b8eb571422583c1dbe299bfb294b2bce
+hash: 9a6328004954e3f32771f8716dcceebb5ba5f711360cf9cb15229f1124bd57e1
 image_url: null
 in_trash: false
 is_pinned: false
@@ -39,15 +39,34 @@ uid: D26091C5-921B-4A68-BC4D-95643B2E78D5
 ## Directions
 
 Mise en place guide:
-- Bowl: 100 g extra firm tofu, patted dry and mashed into a crumble
-- Small dish: 1 tbsp avocado oil; 2 tsp dark soy sauce
-- Cutting board: garlic and ginger, finely chopped
-- Small dish: 2 tbsp avocado oil
-- Small dish: 1 tbsp gochugaru
-- Small dish: 1 tbsp plantbased oyster sauce
-- Plate: 150 g knife-cut noodles
-- Small dish: 1 tsp dark soy sauce
-- Cutting board: 3 green onions, finely chopped
+
+**Bowl:**
+- 100 g extra firm tofu, patted dry and mashed into a crumble
+
+**Small dish:**
+- 1 tbsp avocado oil
+- 2 tsp dark soy sauce
+
+**Cutting board:**
+- garlic and ginger, finely chopped
+
+**Small dish:**
+- 2 tbsp avocado oil
+
+**Small dish:**
+- 1 tbsp gochugaru
+
+**Small dish:**
+- 1 tbsp plantbased oyster sauce
+
+**Plate:**
+- 150 g knife-cut noodles
+
+**Small dish:**
+- 1 tsp dark soy sauce
+
+**Cutting board:**
+- 3 green onions, finely chopped
 
 LAY HO LAY HO! Before we get into this delicious recipe, I must warn you that it is incredibly addictive and you may want to eat this multiple times a week! Now that you've been warned, join me in this episode and learn how to make the savoury noodle lover's dream - a delicious garlic chili noodles recipe. Let's begin
 

@@ -7,7 +7,7 @@ categories:
 cook_time: 1 1/2 hours
 created: '2020-07-12 10:41:48'
 difficulty: ''
-hash: 225f3f753c7b046c55f6d79818be5daba8f9079c37775f299a95089fdee918a0
+hash: 19171c936708732e3aa4103ebfd9c11ba87e7edd8261efc7b3dd5b9155aa1f82
 image_url: https://static01.nyt.com/images/2019/06/26/dining/24Nigerianrex1/merlin_156459840_f874ce2c-2a73-4c58-b4e4-15cf91169bbb-articleLarge.jpg
 in_trash: false
 is_pinned: false
@@ -53,14 +53,39 @@ uid: A1C279A7-9143-4086-A4C5-BCCCA93D9AF3
 ## Directions
 
 Mise en place guide:
-- Blender: 1 (14 oz) can whole peeled tomatoes with their juices; 1 medium red bell pepper, stemmed, seeded and roughly chopped; 1/2 medium red onion, roughly chopped; 4 garlic cloves, peeled; 1 (1-inch) piece ginger, peeled and finely chopped; 1 red habanero chile, stemmed
-- Measuring cup: 2 tbsp canola oil
-- Measuring cup: 1/2 cup canola oil
-- Bowl: 2 medium red onions, halved and thinly sliced
-- Small dish: 4 garlic cloves, thinly sliced
-- Small dish: 1 tbsp tomato paste; 1 tsp ground turmeric; 1/4 tsp smoked paprika (optional)
-- Large bowl: 3 cups rice; 5 thyme sprigs; 1 bay leaf
-- Measuring cup: 2 cups stock
+
+**Blender:**
+- 1 (14 oz) can whole peeled tomatoes with their juices
+- 1 medium red bell pepper, stemmed, seeded and roughly chopped
+- 1/2 medium red onion, roughly chopped
+- 4 garlic cloves, peeled
+- 1 (1-inch) piece ginger, peeled and finely chopped
+- 1 red habanero chile, stemmed
+
+**Measuring cup:**
+- 2 tbsp canola oil
+
+**Measuring cup:**
+- 1/2 cup canola oil
+
+**Bowl:**
+- 2 medium red onions, halved and thinly sliced
+
+**Small dish:**
+- 4 garlic cloves, thinly sliced
+
+**Small dish:**
+- 1 tbsp tomato paste
+- 1 tsp ground turmeric
+- 1/4 tsp smoked paprika (optional)
+
+**Large bowl:**
+- 3 cups rice
+- 5 thyme sprigs
+- 1 bay leaf
+
+**Measuring cup:**
+- 2 cups stock
 
 Prepare the obe ata: Working in batches if needed, combine all the obe ata ingredients except the canola oil in a blender and purée on high until smooth. The liquid from the can of tomatoes should suffice, but you can add up to 1/4 cup of water if necessary to get the purée going. (You should have about 3 cups of purée.)
 

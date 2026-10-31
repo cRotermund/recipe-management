@@ -7,7 +7,7 @@ categories:
 cook_time: 50 min
 created: '2023-03-19 17:22:11'
 difficulty: Easy
-hash: 1f5ca5fe15d46135cbe6c06cee68f36faa28f55ce22d164fb6393631f51df873
+hash: 63236c3877e6f227f385014c7d59d465c5775119c8f30e4c41270e1cdc691f1c
 image_url: https://food.fnr.sndimg.com/content/dam/images/food/fullset/2019/4/8/0/BX1602_Salmon-and-Melting-Cherry-Tomatoes_s4x3.jpg.rend.hgtvcom.406.305.suffix/1554767123290.jpeg
 in_trash: false
 is_pinned: false
@@ -48,11 +48,24 @@ uid: 31D29F88-6C7C-4456-A61F-5A9B4DDAA6F8
 ## Directions
 
 Mise en place guide:
-- Cutting board: 1 cup sweet onion, chopped
-- Small dish: 2 tsp minced garlic (2 cloves)
-- Bowl: 2 cups (1 pint) cherry tomatoes, halved through the stem; 1 tsp kosher salt; 1/2 tsp black pepper
-- Small dish: 1 1/2 tbsp balsamic vinegar; 1 1/2 tbsp julienned basil
-- Tray: 2 lb salmon fillet, cut crosswise into 4 pieces
+
+**Cutting board:**
+- 1 cup sweet onion, chopped
+
+**Small dish:**
+- 2 tsp minced garlic (2 cloves)
+
+**Bowl:**
+- 2 cups (1 pint) cherry tomatoes, halved through the stem
+- 1 tsp kosher salt
+- 1/2 tsp black pepper
+
+**Small dish:**
+- 1 1/2 tbsp balsamic vinegar
+- 1 1/2 tbsp julienned basil
+
+**Tray:**
+- 2 lb salmon fillet, cut crosswise into 4 pieces
 
 Preheat the oven to 425°F.
 

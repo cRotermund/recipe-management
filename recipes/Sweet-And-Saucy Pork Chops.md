@@ -7,7 +7,7 @@ categories:
 cook_time: ''
 created: '2020-01-26 10:27:56'
 difficulty: ''
-hash: 4d54d9ad806df63fe6ea1dd5e2b4c8aa5c67e736c64143a304dd3c36630bac4f
+hash: 72d5e44352d3355b12c906db8b4e3a089839f3c59ee9710b0aa3e70302e5c33e
 image_url: https://assets.bonappetit.com/photos/5d4ddd5c3bde88000879f7ce/16:9/w_1880,c_limit/0919-BA-Sweet-Saucy-Pork-Chop-Playbook.jpg
 in_trash: false
 is_pinned: false
@@ -43,12 +43,27 @@ uid: 2E88E0A5-8503-4510-AFDB-4B5731ADB9BC
 ## Directions
 
 Mise en place guide:
-- Tray: 2 pork chops, seasoned with salt and sprinkled with 1/2 tsp sugar
-- Small dish: 1 large shallot, chopped; 4 garlic cloves, thinly sliced
-- Measuring cup: 1/4 cup red wine vinegar; 1 tsp sugar
-- Small dish: 3 rosemary sprigs; 1 tbsp drained capers
-- Measuring cup: 1/2 cup water
-- Small dish: 2 tbsp butter, cut into pieces (keep cold)
+
+**Tray:**
+- 2 pork chops, seasoned with salt and sprinkled with 1/2 tsp sugar
+
+**Small dish:**
+- 1 large shallot, chopped
+- 4 garlic cloves, thinly sliced
+
+**Measuring cup:**
+- 1/4 cup red wine vinegar
+- 1 tsp sugar
+
+**Small dish:**
+- 3 rosemary sprigs
+- 1 tbsp drained capers
+
+**Measuring cup:**
+- 1/2 cup water
+
+**Small dish:**
+- 2 tbsp butter, cut into pieces (keep cold)
 
 Season pork chops with salt and sprinkle evenly with 1/2 tsp sugar. Heat 1 tbsp oil in a large skillet over medium-high. Cook chops, undisturbed, until well browned underneath, about 3 minutes. Turn and cook just until second side is lightly browned, about 1 minute. Transfer chops to a plate (they won’t be fully cooked); reduce heat to medium.
 

@@ -7,7 +7,7 @@ categories:
 cook_time: ''
 created: '2023-01-08 09:50:35'
 difficulty: ''
-hash: 7c3e8c6ddc0be34f88f650a980232d6b2c9b39e46dc00c25d0076d874a17db6c
+hash: a5aff214595f97aa1252bca066a8354fd0ae5803e2a0e402b60082562dcece80
 image_url: https://static01.nyt.com/images/2021/04/28/dining/coconutfishrex/merlin_186997626_6bf4dc0b-2582-406b-b4ca-8a64ca49c825-articleLarge.jpg
 in_trash: false
 is_pinned: false
@@ -46,12 +46,32 @@ uid: 6EF78987-CA6B-408D-916C-83F6149D1921
 ## Directions
 
 Mise en place guide:
-- Large bowl (marinade): 3/4 cup coconut milk; 1 (1-inch) piece ginger, finely grated; 1 garlic clove, finely grated; 1/2 tsp turmeric; 1/2 tsp red-pepper flakes; 1 tbsp honey; 1 tsp salt; zest and juice of 1 lime; 1/4 cup chopped cilantro
-- Tray: 4 (6 oz) fish fillets (go into the marinade for 15-30 minutes)
-- Sheet pan: 2 pints cherry or grape tomatoes
-- Small dish: 3 tbsp olive oil (2 tbsp for the tomatoes, 1 tbsp for the fish)
-- Cutting board: remaining lime, cut into wedges, for serving
-- Small dish: 1/4 cup chopped cilantro, for garnish
+
+**Large bowl (marinade):**
+- 3/4 cup coconut milk
+- 1 (1-inch) piece ginger, finely grated
+- 1 garlic clove, finely grated
+- 1/2 tsp turmeric
+- 1/2 tsp red-pepper flakes
+- 1 tbsp honey
+- 1 tsp salt
+- zest and juice of 1 lime
+- 1/4 cup chopped cilantro
+
+**Tray:**
+- 4 (6 oz) fish fillets (go into the marinade for 15-30 minutes)
+
+**Sheet pan:**
+- 2 pints cherry or grape tomatoes
+
+**Small dish:**
+- 3 tbsp olive oil (2 tbsp for the tomatoes, 1 tbsp for the fish)
+
+**Cutting board:**
+- remaining lime, cut into wedges, for serving
+
+**Small dish:**
+- 1/4 cup chopped cilantro, for garnish
 
 In a large bowl, whisk together the coconut milk, ginger, garlic, turmeric, red-pepper flakes, honey and 1 tsp salt.
 

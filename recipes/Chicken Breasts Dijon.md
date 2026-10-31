@@ -7,7 +7,7 @@ categories:
 cook_time: ''
 created: '2020-01-26 10:35:53'
 difficulty: ''
-hash: 30f93215d99bd6aa161a91cdf89ccd950d01c59cbee9f6f2935dc7f600eaa694
+hash: d34044c681cc4f3ec1f090cf72049f73931e56f9c887fa63c375ecb027bd7c56
 image_url: https://assets.bonappetit.com/photos/57ae4aef53e63daf11a4e4d5/16:9/w_1880,c_limit/chicken-breasts-with-dijon-646.jpeg
 in_trash: false
 is_pinned: false
@@ -44,12 +44,28 @@ uid: 3E7ED922-82A7-4630-9FD5-F1F995940622
 ## Directions
 
 Mise en place guide:
-- Plate: 4 chicken breasts, ready to season with salt and pepper
-- Bowl: 2 small leeks, white and pale-green parts only, thinly sliced; 1 small onion, minced
-- Small dish: 4 garlic cloves, minced
-- Measuring cup: 2 cups chicken broth; 1 cup dry white wine; 1/2 cup Dijon mustard; 2 tbsp minced thyme
-- Small dish: 1 tbsp butter
-- Small dish: thyme leaves, for garnish
+
+**Plate:**
+- 4 chicken breasts, ready to season with salt and pepper
+
+**Bowl:**
+- 2 small leeks, white and pale-green parts only, thinly sliced
+- 1 small onion, minced
+
+**Small dish:**
+- 4 garlic cloves, minced
+
+**Measuring cup:**
+- 2 cups chicken broth
+- 1 cup dry white wine
+- 1/2 cup Dijon mustard
+- 2 tbsp minced thyme
+
+**Small dish:**
+- 1 tbsp butter
+
+**Small dish:**
+- thyme leaves, for garnish
 
 Heat oil in a large heavy Dutch oven over medium-high heat. Season chicken breasts with salt and pepper. Place chicken in Dutch oven and cook until brown on both sides, 12-15 minutes total. Transfer to a plate and set aside.
 

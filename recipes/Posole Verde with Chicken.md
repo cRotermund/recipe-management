@@ -7,7 +7,7 @@ categories:
 cook_time: ''
 created: '2021-01-08 07:54:05'
 difficulty: ''
-hash: 798603a815b6b5be8f96310114f59646a2809854e0b8443e7440d9c29897c2c5
+hash: 466a4ef3f8b7004f682b07ff3916724867ae3b5b2d03e4de53109dd264107562
 image_url: https://assets.bonappetit.com/photos/58a734d61eb70c6fd2bd2463/1:1/w_2560%2Cc_limit/Posole_HEALTHYISH%252520BLOODROOT%2525208.jpg
 in_trash: false
 is_pinned: false
@@ -49,13 +49,36 @@ uid: 08A9E187-79D1-4223-96F9-8D370114181B-67785-0000306C35CD6E60
 ## Directions
 
 Mise en place guide:
-- Bowl: 1 large yellow onion, chopped; 6 garlic cloves, sliced
-- Small dish: 2 tsp ground coriander; 1 tsp ground cumin; 1/2 tsp dried oregano
-- Tray: 1 whole chicken (about 4 lb)
-- Baking sheet: 1 1/2 lb tomatillos, husked and rinsed; 4 poblano chiles; 3 serrano chiles; 2 Cubanelle peppers
-- Bowl: 2 (15 oz) cans hominy, drained and rinsed
-- Small bowl: 2 cups cilantro leaves with tender stems
-- Small dish: 1/2 small red onion, very finely chopped; extra cilantro, extra oregano, lime slices, for serving
+
+**Bowl:**
+- 1 large yellow onion, chopped
+- 6 garlic cloves, sliced
+
+**Small dish:**
+- 2 tsp ground coriander
+- 1 tsp ground cumin
+- 1/2 tsp dried oregano
+
+**Tray:**
+- 1 whole chicken (about 4 lb)
+
+**Baking sheet:**
+- 1 1/2 lb tomatillos, husked and rinsed
+- 4 poblano chiles
+- 3 serrano chiles
+- 2 Cubanelle peppers
+
+**Bowl:**
+- 2 (15 oz) cans hominy, drained and rinsed
+
+**Small bowl:**
+- 2 cups cilantro leaves with tender stems
+
+**Small dish (for serving):**
+- 1/2 small red onion, very finely chopped
+- extra cilantro
+- extra oregano
+- lime slices
 
 Heat oil in a large heavy pot or Dutch oven over medium. Cook yellow onion and garlic, stirring occasionally, until very tender, 12-15 minutes. Add coriander, cumin, and 1/2 tsp oregano and cook, stirring constantly, until very fragrant, about 1 minute.
 

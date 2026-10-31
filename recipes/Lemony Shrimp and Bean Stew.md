@@ -7,7 +7,7 @@ categories:
 cook_time: 30 minutes
 created: '2020-02-02 12:04:19'
 difficulty: ''
-hash: 36e30597c39b7d5be04f9c4d937ff3a0a9be805222ce1956909dfe152cb95cd8
+hash: 5770033bb02b358e1a3166934025da42f50cf9cedde7d468cc4c1b8fdc94d88b
 image_url: https://static01.nyt.com/images/2020/01/24/dining/sl-shrimp-and-bean/sl-shrimp-and-bean-articleLarge-v2.jpg
 in_trash: false
 is_pinned: false
@@ -44,13 +44,33 @@ uid: BD0727A7-C461-4C21-93CB-D4CFF63A76C2-10580-0000082A4BED5F7B
 ## Directions
 
 Mise en place guide:
-- Medium bowl: 1 tsp lemon zest; 1 tsp sweet paprika; 2 garlic cloves, grated; 3/4 tsp salt; 3/4 tsp pepper; 1 lb shrimp, peeled and deveined
-- Small dish: 4 tbsp butter
-- Bowl: 2 large leeks, halved lengthwise and sliced crosswise 1/2-inch thick
-- Colander: 1 (15 oz) can cannellini beans, rinsed
-- Measuring cup: 2 cups chicken broth
-- Small dish: 2 tbsp chopped parsley; 2 tbsp lemon juice
-- Toasted bread, for serving
+
+**Medium bowl:**
+- 1 tsp lemon zest
+- 1 tsp sweet paprika
+- 2 garlic cloves, grated
+- 3/4 tsp salt
+- 3/4 tsp pepper
+- 1 lb shrimp, peeled and deveined
+
+**Small dish:**
+- 4 tbsp butter
+
+**Bowl:**
+- 2 large leeks, halved lengthwise and sliced crosswise 1/2-inch thick
+
+**Colander:**
+- 1 (15 oz) can cannellini beans, rinsed
+
+**Measuring cup:**
+- 2 cups chicken broth
+
+**Small dish:**
+- 2 tbsp chopped parsley
+- 2 tbsp lemon juice
+
+**For serving:**
+- Toasted bread
 
 Combine lemon zest, paprika, garlic, 3/4 tsp salt and 3/4 tsp pepper in a medium bowl. Add shrimp and toss to coat.
 

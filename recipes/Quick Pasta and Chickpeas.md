@@ -7,7 +7,7 @@ categories:
 cook_time: 20 minutes
 created: '2020-01-26 10:45:05'
 difficulty: ''
-hash: 17699d85be17903f55a3b6883890a88053a380783eccbb072a09ae54b5e224c0
+hash: b7bcd5d3d121511496ea83c4b3a8e337766dddb2eb4b558375083384e1faf267
 image_url: https://smittenkitchendotcom.files.wordpress.com/2017/10/quick-pasta-e-ceci-pasta-with-chickpeas.jpg?w=1024
 in_trash: false
 is_pinned: false
@@ -46,11 +46,27 @@ uid: ADEF96C0-D0AC-48AE-8873-B523A887C435
 ## Directions
 
 Mise en place guide:
-- Small dish: 2 garlic cloves, peeled and smashed
-- Small dish: 3 tbsp tomato paste; 1 tsp kosher salt; black pepper or red pepper flakes to taste
-- Bowl: 1 1/2 cups cooked chickpeas, drained and rinsed; 1/2 cup (2 oz) ditalini
-- Measuring cup: 2 cups boiling water
-- Small dish (finishing oil): 2-3 tbsp olive oil; 1 garlic clove, finely chopped; 1 tsp minced rosemary; a pinch of salt and red pepper flakes
+
+**Small dish:**
+- 2 garlic cloves, peeled and smashed
+
+**Small dish:**
+- 3 tbsp tomato paste
+- 1 tsp kosher salt
+- black pepper or red pepper flakes to taste
+
+**Bowl:**
+- 1 1/2 cups cooked chickpeas, drained and rinsed
+- 1/2 cup (2 oz) ditalini
+
+**Measuring cup:**
+- 2 cups boiling water
+
+**Small dish (finishing oil):**
+- 2-3 tbsp olive oil
+- 1 garlic clove, finely chopped
+- 1 tsp minced rosemary
+- a pinch of salt and red pepper flakes
 
 In a medium-large heavy-bottomed pot or deep saute pan, heat 2 tbsp olive oil until it shimmers. Add 2 smashed garlic cloves and cook, stirring until it becomes lightly, barely browned but very fragrant. Stir in the tomato paste, salt, and pepper and cook them with the garlic for 30 seconds or so. Add the chickpeas, pasta, and boiling water. Stir to scrape up any browned bits on the bottom of the pot, lower the heat, and simmer until the pasta is cooked and a lot of the liquid has been absorbed, about 15-20 minutes. Taste and adjust seasoning and ladle into bowls.
 

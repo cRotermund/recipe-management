@@ -7,7 +7,7 @@ categories:
 cook_time: ''
 created: '2022-12-08 12:58:59'
 difficulty: ''
-hash: 0844d9b42d1b1a1914bb6690caf770705fbc9e21efc992a5f25289e54dac4181
+hash: 7dec67a62dfd9c7dd76177b90300b2d7fffdeb4fa839f850e13ae7d7b6695772
 image_url: https://static01.nyt.com/images/2022/11/08/dining/PF-Chicken-Breasts-with-Lemon/merlin_216285030_fd31034f-e5ef-429f-892d-9846cda8840b-articleLarge.jpg
 in_trash: false
 is_pinned: false
@@ -44,11 +44,25 @@ uid: F0F368A4-7305-4A20-AC7A-E37282708800
 ## Directions
 
 Mise en place guide:
-- Shallow dish: 1/2 cup flour, seasoned with salt and pepper
-- Plate: 4 chicken breasts
-- Small dish: 4 thyme sprigs; 2 tbsp finely chopped shallots; 2 tsp finely chopped garlic
-- Measuring cup: 2 tsp grated lemon zest; 3 tbsp lemon juice; 1/2 cup chicken broth
-- Small dish: 2 tbsp butter
+
+**Shallow dish:**
+- 1/2 cup flour, seasoned with salt and pepper
+
+**Plate:**
+- 4 chicken breasts
+
+**Small dish:**
+- 4 thyme sprigs
+- 2 tbsp finely chopped shallots
+- 2 tsp finely chopped garlic
+
+**Measuring cup:**
+- 2 tsp grated lemon zest
+- 3 tbsp lemon juice
+- 1/2 cup chicken broth
+
+**Small dish:**
+- 2 tbsp butter
 
 Season flour with salt and pepper, and dredge the chicken all over. Remove the excess flour.
 

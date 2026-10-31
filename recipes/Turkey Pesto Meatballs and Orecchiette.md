@@ -7,7 +7,7 @@ categories:
 cook_time: 1 hour
 created: '2022-09-18 09:21:37'
 difficulty: ''
-hash: 54993ed505c8fe428fc26aa9e4e160d06ed82389a98b1c5f8a0861dce6143bb4
+hash: 9bb121d1371eae2af1d149f2c23d4919124ff47252d4a3bfa4121d85154e6c35
 image_url: https://i1.wp.com/smittenkitchen.com/wp-content/uploads/2022/09/turkey-pesto-meatballs-11-scaled.jpg?w=1920&ssl=1
 in_trash: false
 is_pinned: false
@@ -46,13 +46,39 @@ uid: 252AAC31-7C6C-4FF9-87C2-7DA077064C3B
 ## Directions
 
 Mise en place guide:
-- Large sheet pan: coated with olive oil or lined with nonstick foil
-- Large bowl (meatballs): 1 lb ground turkey; 1/2 cup panko; 1/4 cup pesto; 2 garlic cloves, minced; 2 tbsp grated parmesan; 1 tbsp water; 1 tsp kosher salt; black pepper; 1 large egg
-- Big bowl (zucchini): 1 lb zucchini, sliced into 1/4″ half-moons; 1-2 tbsp olive oil; 1 tsp kosher salt; black pepper
-- Small dish: 2 garlic cloves, minced (for the pasta pot)
-- Measuring cup: 2 cups chicken or vegetable broth
-- Small bowl: 1/2 cup pesto (for the brothy sauce)
-- Small bowl: 1/4 cup pesto and extra grated parmesan, for finishing the bowls
+
+**Large sheet pan:**
+- coated with olive oil or lined with nonstick foil
+
+**Large bowl (meatballs):**
+- 1 lb ground turkey
+- 1/2 cup panko
+- 1/4 cup pesto
+- 2 garlic cloves, minced
+- 2 tbsp grated parmesan
+- 1 tbsp water
+- 1 tsp kosher salt
+- black pepper
+- 1 large egg
+
+**Big bowl (zucchini):**
+- 1 lb zucchini, sliced into 1/4″ half-moons
+- 1-2 tbsp olive oil
+- 1 tsp kosher salt
+- black pepper
+
+**Small dish:**
+- 2 garlic cloves, minced (for the pasta pot)
+
+**Measuring cup:**
+- 2 cups chicken or vegetable broth
+
+**Small bowl:**
+- 1/2 cup pesto (for the brothy sauce)
+
+**Small bowl (for finishing the bowls):**
+- 1/4 cup pesto
+- extra grated parmesan
 
 Heat your oven: To 450°F. Coat a large sheet pan with oil, or line it with nonstick foil for easier cleanup.
 

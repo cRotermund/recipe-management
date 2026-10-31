@@ -7,7 +7,7 @@ categories:
 cook_time: about 20 minutes
 created: '2021-10-24 21:39:49'
 difficulty: ''
-hash: 8d0bbe6092220ff09480228bf3f8721a2e521ccf890f69b0e80c7dfc9fc76420
+hash: 5c8aee0ba7d753d23beea8bbb9b65a3ec69c9210c4b9f66aecc4bc49f0f50020
 image_url: https://static01.nyt.com/images/2014/03/11/dining/11flounder/11flounder-articleLarge.jpg
 in_trash: false
 is_pinned: false
@@ -44,12 +44,26 @@ uid: 09789F76-5B67-441B-B7D0-FC65BD99F36C
 ## Directions
 
 Mise en place guide:
-- Tray: 4 (6 oz) flounder or sole fillets, seasoned with salt and pepper
-- Shallow bowl: 2 large eggs whisked with 1/2 cup milk and a pinch of salt (fish can sit in the batter up to 30 minutes)
-- Plate: 1/2 cup flour
-- Small dish: 4 tbsp butter; 1/3 cup finely chopped green garlic
-- Small dish: juice of 1/2 lemon
-- Small dish: 3 tbsp chopped flat-leaf parsley; lemon wedges, for serving
+
+**Tray:**
+- 4 (6 oz) flounder or sole fillets, seasoned with salt and pepper
+
+**Shallow bowl:**
+- 2 large eggs whisked with 1/2 cup milk and a pinch of salt (fish can sit in the batter up to 30 minutes)
+
+**Plate:**
+- 1/2 cup flour
+
+**Small dish:**
+- 4 tbsp butter
+- 1/3 cup finely chopped green garlic
+
+**Small dish:**
+- juice of 1/2 lemon
+
+**Small dish:**
+- 3 tbsp chopped flat-leaf parsley
+- lemon wedges, for serving
 
 Season the fish fillets with salt and pepper. Make the egg batter by whisking together the eggs and milk in a shallow bowl, along with a pinch of salt.
 

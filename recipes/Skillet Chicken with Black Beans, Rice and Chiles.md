@@ -7,7 +7,7 @@ categories:
 cook_time: ''
 created: '2026-03-08 09:33:58'
 difficulty: ''
-hash: 55dae2ad0efaf751ac4add9d7e3e76d973e4f09a25658b6ae166622481646618
+hash: 5c9ef0ea42f9781a32f4734f4c600dca33e10a11ea1981e57f789f45e17329f8
 image_url: https://static01.nyt.com/images/2020/10/11/dining/ml-chicken-and-black-beans/ml-chicken-and-black-beans-videoSixteenByNineJumbo1600-v3.jpg
 in_trash: false
 is_pinned: false
@@ -48,14 +48,38 @@ uid: 8FDCFAAF-898A-47D7-917E-4CD87DEDA226
 ## Directions
 
 Mise en place guide:
-- Tray: 8 chicken thighs, seasoned with salt and pepper on both sides
-- Bowl: 1 large onion, chopped; 2 bell peppers, halved, seeded and sliced
-- Measuring cup: 2 1/2 cups chicken stock
-- Small bowl: 2 Fresno chiles or jalapeños, halved, seeded and chopped; 1 cinnamon stick, broken in half; 3 garlic cloves, finely grated; 1 tsp cumin
-- Bowl: 1 (15 oz) can black beans, rinsed; 1/3 lb cherry tomatoes, halved
-- Sieve: 1 cup basmati rice, rinsed until the water runs clear
-- Small dish: 3 tbsp chopped cilantro
-- Serving dishes: lime wedges, pickled chiles, sliced fresh chiles, sour cream
+
+**Tray:**
+- 8 chicken thighs, seasoned with salt and pepper on both sides
+
+**Bowl:**
+- 1 large onion, chopped
+- 2 bell peppers, halved, seeded and sliced
+
+**Measuring cup:**
+- 2 1/2 cups chicken stock
+
+**Small bowl:**
+- 2 Fresno chiles or jalapeños, halved, seeded and chopped
+- 1 cinnamon stick, broken in half
+- 3 garlic cloves, finely grated
+- 1 tsp cumin
+
+**Bowl:**
+- 1 (15 oz) can black beans, rinsed
+- 1/3 lb cherry tomatoes, halved
+
+**Sieve:**
+- 1 cup basmati rice, rinsed until the water runs clear
+
+**Small dish:**
+- 3 tbsp chopped cilantro
+
+**Serving dishes:**
+- lime wedges
+- pickled chiles
+- sliced fresh chiles
+- sour cream
 
 Heat the oven to 375°F. Season the chicken with salt and pepper on both sides. Heat the oil in a 12-inch ovenproof skillet (the pan size is very important) over medium-high. Brown the chicken on both sides to give it good color, 3-5 minutes per side. Transfer to a plate. Add the onion and bell peppers to the pan and sauté until just starting to soften, about 5 minutes. Season with salt and pepper.
 

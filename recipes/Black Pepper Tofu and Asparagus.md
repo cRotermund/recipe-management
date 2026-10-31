@@ -7,7 +7,7 @@ categories:
 cook_time: ''
 created: '2020-06-02 08:02:26'
 difficulty: ''
-hash: 00f76ea9fc5bfa96eb2c3ffeb4935fc28b1f5498e15cab203ff602910cc43fe3
+hash: e1646167254a3ee52166e7ab1b357b9d4121fe6ef2fd13a2062dd1d036dc2c94
 image_url: https://assets.bonappetit.com/photos/5eb5c703af0a613afd3886f0/16:9/w_1880,c_limit/HLY-Black-Pepper-Tofu-6x9.jpg
 in_trash: false
 is_pinned: false
@@ -45,15 +45,35 @@ uid: 4F907E9E-ACB7-4C69-B43E-28F352EFB064
 ## Directions
 
 Mise en place guide:
-- Baking dish: 1 (14 oz) package tofu, drained, wrapped in a clean kitchen towel and weighted (press 15 minutes to 1 hour)
-- Small dish: 1 tbsp black peppercorns, coarsely cracked
-- Small bowl: 2 garlic cloves and 1 1/2" piece ginger, peeled, both finely grated
-- Medium bowl: 1 tbsp cornstarch; 1/2 tsp salt (the pressed tofu, cut into 1" cubes, goes in)
-- Cutting board: 1 lb asparagus, trimmed and cut into 1 1/2" pieces
-- Small dish: 1/3 cup soy sauce; 1 tbsp sugar
-- Small dish: 1 tsp rice vinegar
-- Large plate: for the browned tofu
-- Pot: cooked rice for serving
+
+**Baking dish:**
+- 1 (14 oz) package tofu, drained, wrapped in a clean kitchen towel and weighted (press 15 minutes to 1 hour)
+
+**Small dish:**
+- 1 tbsp black peppercorns, coarsely cracked
+
+**Small bowl:**
+- 2 garlic cloves and 1 1/2" piece ginger, peeled, both finely grated
+
+**Medium bowl (the pressed tofu, cut into 1" cubes, goes in):**
+- 1 tbsp cornstarch
+- 1/2 tsp salt
+
+**Cutting board:**
+- 1 lb asparagus, trimmed and cut into 1 1/2" pieces
+
+**Small dish:**
+- 1/3 cup soy sauce
+- 1 tbsp sugar
+
+**Small dish:**
+- 1 tsp rice vinegar
+
+**Large plate:**
+- for the browned tofu
+
+**Pot:**
+- cooked rice for serving
 
 Wrap tofu in a clean kitchen towel and place in a shallow baking dish or on a rimmed baking sheet. Weigh down with a heavy object (a cast-iron skillet topped with a couple of heavy cans works well). Let sit at least 15 minutes and up to 1 hour (go the full time if you can).
 

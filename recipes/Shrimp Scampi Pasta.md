@@ -7,7 +7,7 @@ categories:
 cook_time: ''
 created: '2020-01-26 10:32:00'
 difficulty: ''
-hash: 14418d0b9c89a5b81b328186153f8322ca99eff4ad1dfa24bb3f5d9201f67542
+hash: 8db8cfb778281708c595cc776c721f24bd1816f0e4735bd03af4d332b1f77c56
 image_url: https://assets.bonappetit.com/photos/5cddd90b634f1e65e14578f9/3:2/w_1880,c_limit/Basically-Shrimp-Scampi-Recipe.jpg
 in_trash: false
 is_pinned: false
@@ -45,14 +45,39 @@ uid: FB5E0F86-854E-4D6E-9FE7-49C6A4D14C98
 ## Directions
 
 Mise en place guide:
-- Large bowl: 1 lb shrimp, thawed, patted dry and seasoned with 1 tsp salt
-- Small bowl: 3/4 cup panko; 2 tbsp olive oil; 1/4 tsp salt; 2 garlic cloves, grated
-- Medium bowl: 1 medium onion, finely chopped; 5 garlic cloves, grated; zest of 1/2 lemon
-- Small dish: 4 tbsp butter; 1 tsp salt; 1/2 tsp red pepper flakes (go in with the onion mixture)
-- Measuring cup: 3/4 cup dry white wine
-- Small dish: 4 tbsp butter; 2 tbsp olive oil (for finishing the pasta)
-- Small bowl: 1 cup parsley leaves with tender stems, coarsely chopped
-- Cutting board: 1 lemon, halved for juicing; 1 lemon, cut into wedges for serving
+
+**Large bowl:**
+- 1 lb shrimp, thawed, patted dry and seasoned with 1 tsp salt
+
+**Small bowl:**
+- 3/4 cup panko
+- 2 tbsp olive oil
+- 1/4 tsp salt
+- 2 garlic cloves, grated
+
+**Medium bowl:**
+- 1 medium onion, finely chopped
+- 5 garlic cloves, grated
+- zest of 1/2 lemon
+
+**Small dish (go in with the onion mixture):**
+- 4 tbsp butter
+- 1 tsp salt
+- 1/2 tsp red pepper flakes
+
+**Measuring cup:**
+- 3/4 cup dry white wine
+
+**Small dish (for finishing the pasta):**
+- 4 tbsp butter
+- 2 tbsp olive oil
+
+**Small bowl:**
+- 1 cup parsley leaves with tender stems, coarsely chopped
+
+**Cutting board:**
+- 1 lemon, halved for juicing
+- 1 lemon, cut into wedges for serving
 
 Thaw that shrimp! Place unopened 1-lb bag of shrimp in a large bowl and fill with cool water. Place a heavy plate on top to submerge until thawed, about 45 minutes. If you're the kind of person who actually thinks about dinner more than a few hours before you're going to make it, you can also let the shrimp thaw overnight in the fridge. Alternatively, if you're in a hurry, take the shrimp out of the bag and let them soak in a big bowl of cold water—they'll be ready in about 15 minutes. However you thaw them, make sure to pat them dry before proceeding. Season shrimp with 1 tsp salt. Let sit until ready to use. While all that's happening, bring a large pot of salted water to a boil.
 

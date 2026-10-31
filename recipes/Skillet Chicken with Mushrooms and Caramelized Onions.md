@@ -7,7 +7,7 @@ categories:
 cook_time: ''
 created: '2025-10-04 22:56:24'
 difficulty: ''
-hash: 50a129aff991ce3577b2c67505aca448f4d6869b8b6989c3e0b954521d0ba079
+hash: 2cb883d2fc2f4f24917576c2749a67eb66702893fdd4478722a5e8975d45f3b4
 image_url: https://static01.nyt.com/images/2021/03/30/dining/yf-chicken-with-mushrooms-and-onions/merlin_185308269_36ffc313-cc76-49cf-b406-3e6e20a4d34f-videoSixteenByNineJumbo1600.jpg
 in_trash: false
 is_pinned: false
@@ -45,13 +45,33 @@ uid: 13DD9B73-4D33-4F68-9861-E095AC77B32B
 ## Directions
 
 Mise en place guide:
-- Large mixing bowl: 2 tbsp olive oil; 2 tbsp sherry vinegar; 2 tsp honey; 1 tsp Dijon mustard; 1/4 tsp red-pepper flakes; 1 tsp salt (whisk, then add the chicken)
-- Tray: 1 1/2 lb chicken thighs, cut into 3-inch pieces, patted dry and seasoned with salt and pepper (can sit in the marinade at room temperature while the onions cook)
-- Bowl: 2 medium yellow onions, thinly sliced
-- Bowl: 3/4 lb cremini mushrooms, stems removed and thinly sliced
-- Small dish: 3 tbsp olive oil
-- Small dish: 2 tsp sherry vinegar
-- Small dish: 1/2 cup chopped parsley or dill; 1/4 cup grated Parmesan or pecorino (optional)
+
+**Large mixing bowl (whisk, then add the chicken):**
+- 2 tbsp olive oil
+- 2 tbsp sherry vinegar
+- 2 tsp honey
+- 1 tsp Dijon mustard
+- 1/4 tsp red-pepper flakes
+- 1 tsp salt
+
+**Tray:**
+- 1 1/2 lb chicken thighs, cut into 3-inch pieces, patted dry and seasoned with salt and pepper (can sit in the marinade at room temperature while the onions cook)
+
+**Bowl:**
+- 2 medium yellow onions, thinly sliced
+
+**Bowl:**
+- 3/4 lb cremini mushrooms, stems removed and thinly sliced
+
+**Small dish:**
+- 3 tbsp olive oil
+
+**Small dish:**
+- 2 tsp sherry vinegar
+
+**Small dish:**
+- 1/2 cup chopped parsley or dill
+- 1/4 cup grated Parmesan or pecorino (optional)
 
 In a large mixing bowl, combine 2 tbsp oil, 2 tbsp vinegar, the honey, mustard, red-pepper flakes and 1 tsp salt; whisk until smooth. Pat the chicken dry and season with salt and pepper, then add to the mixture, coating it well. Set aside at room temperature, stirring it once while you make the onions.
 

@@ -7,7 +7,7 @@ categories:
 cook_time: 45 minutes
 created: '2020-10-18 11:02:20'
 difficulty: ''
-hash: 06e3484074c28754f7d7ffb939526657060d1fd8077bf6f63e550ece3f18c424
+hash: ca8249d15a0b648f0f6ed07d4e66fe2c12d7c7fabcda5a5074404a6de45fbad7
 image_url: https://static01.nyt.com/images/2019/01/17/dining/mc-red-lentil-soup/merlin_146234352_d7bc8486-b067-4cff-a4c0-7741f166fb60-articleLarge.jpg
 in_trash: false
 is_pinned: false
@@ -47,11 +47,29 @@ uid: 75520077-38AA-4B5D-B64C-D298CC95B82D-53023-00001C773A409698
 ## Directions
 
 Mise en place guide:
-- Cutting board: 1 large onion, chopped; 2 garlic cloves, minced
-- Small dish: 1 tbsp tomato paste; 1 tsp ground cumin; 1/4 tsp kosher salt; 1/4 tsp black pepper; pinch of ground chile powder or cayenne
-- Measuring cup: 1 quart broth and 2 cups water
-- Bowl: 1 cup red lentils; 1 large carrot, peeled and diced
-- Small dish: juice of 1/2 lemon; 3 tbsp chopped cilantro
+
+**Cutting board:**
+- 1 large onion, chopped
+- 2 garlic cloves, minced
+
+**Small dish:**
+- 1 tbsp tomato paste
+- 1 tsp ground cumin
+- 1/4 tsp kosher salt
+- 1/4 tsp black pepper
+- pinch of ground chile powder or cayenne
+
+**Measuring cup:**
+- 1 quart broth
+- 2 cups water
+
+**Bowl:**
+- 1 cup red lentils
+- 1 large carrot, peeled and diced
+
+**Small dish:**
+- juice of 1/2 lemon
+- 3 tbsp chopped cilantro
 
 In a large pot, heat 3 tbsp oil over high heat until hot and shimmering. Add onion and garlic, and sauté until golden, about 4 minutes.
 

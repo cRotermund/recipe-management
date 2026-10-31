@@ -7,7 +7,7 @@ categories:
 cook_time: ''
 created: '2020-01-26 10:34:55'
 difficulty: ''
-hash: 57bcbf221bfa8fa3b0408ca750df7056b8d91229d152d077453df946c1d297cc
+hash: 66707bdb16ef5c78b26f983f72b660ea779f4cc2d305c534eb4f02f5c9e92e5e
 image_url: https://assets.bonappetit.com/photos/5d7bdc893f44610008d75f6e/16:9/w_1880,c_limit/1019-Picky-Eaters-Instant-Pot-Red-Bean-Quinoa-Soup.jpg
 in_trash: false
 is_pinned: false
@@ -54,12 +54,39 @@ uid: 63A5B9DB-86D7-4480-8CD0-F4EDE8F346D7
 ## Directions
 
 Mise en place guide:
-- Small bowl (pickled onions, make first): 1/2 small red onion, thinly sliced; 2 tbsp red wine vinegar; 1/2 tsp kosher salt; 1/4 tsp sugar; 4 tsp water (chill until serving)
-- Bowl: 1 large red onion, finely chopped
-- Small dish: 4 garlic cloves, finely grated; 1 tbsp ground cumin
-- Large bowl: 1 (16 oz) package dried red beans; 1/2 cup red quinoa, rinsed; 1 tbsp adobo sauce; 2 tsp kosher salt; 7 cups water
-- Cutting board: 1/2 lime, for squeezing into the finished soup
-- Serving plate: lime wedges; sliced avocado; sour cream; chopped cilantro; crumbled queso fresco or shredded cheese; hot sauce; tortilla strips
+
+**Small bowl (pickled onions, make first):**
+- 1/2 small red onion, thinly sliced
+- 2 tbsp red wine vinegar
+- 1/2 tsp kosher salt
+- 1/4 tsp sugar
+- 4 tsp water (chill until serving)
+
+**Bowl:**
+- 1 large red onion, finely chopped
+
+**Small dish:**
+- 4 garlic cloves, finely grated
+- 1 tbsp ground cumin
+
+**Large bowl:**
+- 1 (16 oz) package dried red beans
+- 1/2 cup red quinoa, rinsed
+- 1 tbsp adobo sauce
+- 2 tsp kosher salt
+- 7 cups water
+
+**Cutting board:**
+- 1/2 lime, for squeezing into the finished soup
+
+**Serving plate:**
+- lime wedges
+- sliced avocado
+- sour cream
+- chopped cilantro
+- crumbled queso fresco or shredded cheese
+- hot sauce
+- tortilla strips
 
 Soup
 

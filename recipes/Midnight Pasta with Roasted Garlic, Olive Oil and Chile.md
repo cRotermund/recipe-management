@@ -7,7 +7,7 @@ categories:
 cook_time: 1 hour
 created: '2021-01-08 22:34:12'
 difficulty: ''
-hash: 94593cc37eee5c05da9b2310d82d06478365eb3b048dd895460e608e4931194c
+hash: 16dddbdb5b80c16bb3735f020be7cfd859b434251f63f160e614886b49fcdd0c
 image_url: https://static01.nyt.com/images/2019/11/25/dining/as-Pasta-With-Caramelized-Garlic--Olive-Oil-and-Chile/merlin_161591019_30ca057a-225a-4635-a0ba-059da1d10806-articleLarge.jpg
 in_trash: false
 is_pinned: false
@@ -41,12 +41,26 @@ uid: 450B3360-350D-4015-83D7-7784237C7095
 ## Directions
 
 Mise en place guide:
-- Foil: 1 head garlic, top 1/4 inch cut off, cut-side up, sprinkled with salt and drizzled with 1 tsp olive oil
-- Cutting board: 1 cup parsley leaves, finely chopped
-- Measuring cup: 1/2 cup olive oil
-- Small dish: 1/2 tsp red-pepper flakes; black pepper
-- Measuring cup: for 1 cup reserved pasta water
-- Plate: grated Parmesan; extra red-pepper flakes and black pepper, for serving
+
+**Foil:**
+- 1 head garlic, top 1/4 inch cut off, cut-side up, sprinkled with salt and drizzled with 1 tsp olive oil
+
+**Cutting board:**
+- 1 cup parsley leaves, finely chopped
+
+**Measuring cup:**
+- 1/2 cup olive oil
+
+**Small dish:**
+- 1/2 tsp red-pepper flakes
+- black pepper
+
+**Measuring cup:**
+- for 1 cup reserved pasta water
+
+**Plate:**
+- grated Parmesan
+- extra red-pepper flakes and black pepper, for serving
 
 Heat the oven to 400°F. Cut off the top 1/4 inch of the head of garlic to expose the top of the cloves, then place on a piece of foil, cut-side up. Sprinkle exposed cloves with salt, then drizzle with 1 tsp oil. Wrap the garlic in the foil and roast until soft and golden brown, 40-50 minutes.
 

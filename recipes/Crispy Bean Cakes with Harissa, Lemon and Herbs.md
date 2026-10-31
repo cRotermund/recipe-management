@@ -7,7 +7,7 @@ categories:
 cook_time: 30 minutes
 created: '2022-01-02 15:19:19'
 difficulty: ''
-hash: dfb85b6807f764a3a887f990ac7e3fad290e9fe0ad0cdb3d1a23ad810ea47183
+hash: 620dad4ef6fe25c0db533531ef8024981ab28123a4d9064e2c5a52619415c667
 image_url: https://static01.nyt.com/images/2020/12/06/dining/yk-crispy-bean-cakes/yk-crispy-bean-cakes-articleLarge-v2.jpg
 in_trash: false
 is_pinned: false
@@ -47,12 +47,35 @@ uid: F29E3568-9847-4DF8-A609-E6C3DE9B2768
 ## Directions
 
 Mise en place guide:
-- Large bowl: 2 (15 oz) cans beans, drained
-- Cutting board: 1/2 cup chopped cilantro leaves and tender stems; 1/4 cup chopped dill; 1/4 cup sliced scallions; zest of 1 lemon
-- Small dish: 3 tbsp cornstarch; 1 tbsp harissa; 3/4 tsp ground coriander; 1/2 tsp ground cumin; 2 tsp kosher salt; 1 tsp black pepper
-- Small bowl: 1 egg white
-- Measuring cup: 6 tbsp olive oil (3 tbsp to start, the rest as needed)
-- Serving plate: zested lemon cut into wedges; extra cilantro and dill; extra harissa; labneh or Greek yogurt (optional)
+
+**Large bowl:**
+- 2 (15 oz) cans beans, drained
+
+**Cutting board:**
+- 1/2 cup chopped cilantro leaves and tender stems
+- 1/4 cup chopped dill
+- 1/4 cup sliced scallions
+- zest of 1 lemon
+
+**Small dish:**
+- 3 tbsp cornstarch
+- 1 tbsp harissa
+- 3/4 tsp ground coriander
+- 1/2 tsp ground cumin
+- 2 tsp kosher salt
+- 1 tsp black pepper
+
+**Small bowl:**
+- 1 egg white
+
+**Measuring cup:**
+- 6 tbsp olive oil (3 tbsp to start, the rest as needed)
+
+**Serving plate:**
+- zested lemon cut into wedges
+- extra cilantro and dill
+- extra harissa
+- labneh or Greek yogurt (optional)
 
 Place the drained beans in a large bowl and crush using a fork or your fingers until coarsely mashed. Add the cilantro, dill, scallions, cornstarch, harissa, coriander, cumin, salt and pepper. Add the lemon zest and stir to incorporate. Alternatively, you can incorporate ingredients using a food processor and pulse to combine.
 

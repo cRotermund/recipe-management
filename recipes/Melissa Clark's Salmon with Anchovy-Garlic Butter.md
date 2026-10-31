@@ -7,7 +7,7 @@ categories:
 cook_time: 25 minutes
 created: '2020-03-21 19:56:39'
 difficulty: ''
-hash: 89c829096c7422cc437183b4b1293fef5fa22bf84f77ec96105536122a389614
+hash: 0349295e0ebc005277688ed35d4e1fb783a6364e1c34f3d0c0486d35143a7abf
 image_url: https://media2.s-nbcnews.com/j/newscms/2019_46/1506800/melissa-clark-oven-salmon-today-main-191113_b73818359315537ab9e21ab4f2be49a6.today-inline-small2x.jpg
 in_trash: false
 is_pinned: false
@@ -42,10 +42,23 @@ uid: FAFD9EAC-7426-4954-9132-21406806BE9F-59616-0000294318083D03
 ## Directions
 
 Mise en place guide:
-- Small bowl: 3 tbsp softened butter; 4 anchovy fillets, minced; 1 garlic clove, minced; 1/2 tsp salt; black pepper (mash together)
-- Tray: 4 salmon fillets
-- Small dish: 2 tbsp capers, drained and patted dry
-- Cutting board: 1/2 lemon; chopped parsley, for serving
+
+**Small bowl (mash together):**
+- 3 tbsp softened butter
+- 4 anchovy fillets, minced
+- 1 garlic clove, minced
+- 1/2 tsp salt
+- black pepper
+
+**Tray:**
+- 4 salmon fillets
+
+**Small dish:**
+- 2 tbsp capers, drained and patted dry
+
+**Cutting board:**
+- 1/2 lemon
+- chopped parsley, for serving
 
 Heat oven to 400°F. In a small bowl, mash together butter, anchovies, garlic, salt and pepper.
 

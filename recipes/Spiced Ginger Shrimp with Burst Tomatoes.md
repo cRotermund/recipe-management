@@ -7,7 +7,7 @@ categories:
 cook_time: 20 minutes
 created: '2020-10-25 10:38:08'
 difficulty: ''
-hash: c09d7d1cd0df19d35fcdd4d3bbccae6c8a877296713c6cbc993486dba4d9e9d4
+hash: 51a459eef3982cf674feb72e8439685b2c99c3d56dd90273873fe063abfaa31e
 image_url: https://static01.nyt.com/images/2020/09/20/dining/11Apperex/merlin_176534631_992abc2b-e91b-410a-b350-3de82a73627e-articleLarge.jpg
 in_trash: false
 is_pinned: false
@@ -45,11 +45,29 @@ uid: CC536982-5EEB-4DD8-86D3-C5683B14C845-69958-000021DA81D590AC
 ## Directions
 
 Mise en place guide:
-- Medium bowl: 1 1/2 tsp spice blend; 1 1/2 tsp grated ginger; 2 garlic cloves, minced; scallion whites from 3 scallions, thinly sliced; 1/2 tsp salt; 1/4 tsp pepper; 1 lb shrimp, shelled and deveined
-- Small bowl: 3/4 cup cherry tomatoes (halve large ones); 1/4 tsp salt
-- Small dish: 2 tbsp butter
-- Small dish: 1/2 cup mint leaves, torn; scallion greens, thinly sliced, for garnish
-- Cutting board: 1 lime, cut for juicing
+
+**Medium bowl:**
+- 1 1/2 tsp spice blend
+- 1 1/2 tsp grated ginger
+- 2 garlic cloves, minced
+- scallion whites from 3 scallions, thinly sliced
+- 1/2 tsp salt
+- 1/4 tsp pepper
+- 1 lb shrimp, shelled and deveined
+
+**Small bowl:**
+- 3/4 cup cherry tomatoes (halve large ones)
+- 1/4 tsp salt
+
+**Small dish:**
+- 2 tbsp butter
+
+**Small dish:**
+- 1/2 cup mint leaves, torn
+- scallion greens, thinly sliced, for garnish
+
+**Cutting board:**
+- 1 lime, cut for juicing
 
 In a medium bowl, combine spice blend, ginger, garlic, scallion whites, 1/2 tsp salt and 1/4 tsp pepper. Add shrimp and toss well. Heat a large skillet over high heat, then add the oil. Add the tomatoes and 1/4 tsp salt. Cook until the whole tomatoes burst and the halved ones start to wrinkle, about 2 minutes.
 

@@ -7,7 +7,7 @@ categories:
 cook_time: ''
 created: '2023-06-11 11:37:00'
 difficulty: ''
-hash: 37b5fce805234cdd8d59b7af5ad2a70dd94d8c9626823c8edda5e413ca253a06
+hash: b8ce7fce54e93d9125f3798e6bccb39fdae07a69107ca038732a81e2f5c99094
 image_url: https://static01.nyt.com/images/2019/09/25/dining/20canrex2/merlin_160763166_1a6f5c09-3b72-48bb-8f78-3bdbc5d752f2-videoSixteenByNineJumbo1600.jpg
 in_trash: false
 is_pinned: false
@@ -49,12 +49,34 @@ uid: EB7231BF-DA72-43CE-B996-118B3C80BD3B
 ## Directions
 
 Mise en place guide:
-- Cutting board: 1 large onion, chopped; 2 jalapeños, thinly sliced; 1 bay leaf
-- Small dish: 1 inch ginger, minced; 4 garlic cloves, minced
-- Small dish: 1 1/2 tsp garam masala; 1 tsp ground cumin; 1/2 tsp ground turmeric
-- Large bowl: 2 (15 oz) cans chickpeas, rinsed; 1 (13.5 oz) can coconut milk; 1 (13.5 oz) can pumpkin purée; 1/2 cup water; 1 1/2 tsp salt
-- Small dish: 3/4 cup chopped cilantro (plus more for serving); 2-3 tbsp lime juice
-- Plate: lime wedges, for serving
+
+**Cutting board:**
+- 1 large onion, chopped
+- 2 jalapeños, thinly sliced
+- 1 bay leaf
+
+**Small dish:**
+- 1 inch ginger, minced
+- 4 garlic cloves, minced
+
+**Small dish:**
+- 1 1/2 tsp garam masala
+- 1 tsp ground cumin
+- 1/2 tsp ground turmeric
+
+**Large bowl:**
+- 2 (15 oz) cans chickpeas, rinsed
+- 1 (13.5 oz) can coconut milk
+- 1 (13.5 oz) can pumpkin purée
+- 1/2 cup water
+- 1 1/2 tsp salt
+
+**Small dish:**
+- 3/4 cup chopped cilantro (plus more for serving)
+- 2-3 tbsp lime juice
+
+**Plate:**
+- lime wedges, for serving
 
 Heat oil in a large skillet over medium-high heat. Stir in onion, jalapeño and bay leaf. Cook, stirring occasionally, until onion is golden on the edges, about 8 minutes.
 

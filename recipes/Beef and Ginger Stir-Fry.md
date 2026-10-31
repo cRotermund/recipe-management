@@ -7,7 +7,7 @@ categories:
 cook_time: ''
 created: '2020-02-16 09:17:50'
 difficulty: ''
-hash: b88bd2d57387c8f9fa8dca1675848ea9456a6b16b72b1fae7fad48803daed3b4
+hash: 2be2ba9144b9adbb56927907b424c735ead845ce90ee20c25156e4261a814741
 image_url: https://assets.bonappetit.com/photos/5d4ddd5ba4141200091cc7f5/16:9/w_1880,c_limit/BA-0919-Beef-Ginger-Stirfry-Playbook.jpg
 in_trash: false
 is_pinned: false
@@ -45,11 +45,29 @@ uid: B656D3AB-5883-41C8-8B4F-A63CEBEBCF40
 ## Directions
 
 Mise en place guide:
-- Medium bowl: 1 lb skirt steak, trimmed, sliced against the grain into 1/4"-thick strips, patted dry; 1 tsp sugar; 1 tsp sesame oil; 1 tsp soy sauce; 1 tsp salt (marinates 20 minutes)
-- Cutting board: 1 medium sweet onion, sliced into 1/2"-thick rounds; 1 3" piece ginger, peeled and very thinly sliced
-- Small dish: black pepper (lots); 1/3 cup water
-- Small dish: 3 tbsp butter, cut into pieces; 1 tbsp lemon juice; 1 tbsp soy sauce (add off the heat)
-- Pot: cooked rice, kept warm for serving
+
+**Medium bowl (marinates 20 minutes):**
+- 1 lb skirt steak, trimmed, sliced against the grain into 1/4"-thick strips, patted dry
+- 1 tsp sugar
+- 1 tsp sesame oil
+- 1 tsp soy sauce
+- 1 tsp salt
+
+**Cutting board:**
+- 1 medium sweet onion, sliced into 1/2"-thick rounds
+- 1 3" piece ginger, peeled and very thinly sliced
+
+**Small dish:**
+- black pepper (lots)
+- 1/3 cup water
+
+**Small dish (add off the heat):**
+- 3 tbsp butter, cut into pieces
+- 1 tbsp lemon juice
+- 1 tbsp soy sauce
+
+**Pot:**
+- cooked rice, kept warm for serving
 
 Toss steak in a medium bowl with sugar, sesame oil, 1 tsp soy sauce, and 1 tsp salt to coat and let sit 20 minutes.
 

@@ -7,7 +7,7 @@ categories:
 cook_time: 25 minutes
 created: '2021-10-24 21:37:48'
 difficulty: ''
-hash: d666f9ba853175ff0da5c990063ec1a355ccb0fbaba8377a6bdcf8ff3847b51f
+hash: f80ef661735b0e4e313e7841d2a0a99e0ac3d23f159fab6fb86ec97bb5e47f8c
 image_url: https://static01.nyt.com/images/2021/03/28/dining/11as-shrimp-scampi-with-orzo/11as-shrimp-scampi-with-orzo-articleLarge-v2.jpg
 in_trash: false
 is_pinned: false
@@ -44,12 +44,34 @@ uid: 01AC1237-4BBA-45C8-98B6-384678D4531A
 ## Directions
 
 Mise en place guide:
-- Medium bowl: 1 lb shrimp, peeled and deveined; 1 tbsp olive oil; 1 tbsp lemon zest; 1/2 tsp red-pepper flakes; 1/2 tsp salt; 1/4 tsp pepper; 2 garlic cloves, minced (can marinate up to 1 hour)
-- Small dish: 2 garlic cloves, minced; 2 tbsp butter; 2 tbsp olive oil
-- Small bowl: 1 cup orzo and 1/2 tsp salt
-- Measuring cup: 1/3 cup dry white wine
-- Measuring cup: 2 cups boiling water or stock (heat while the orzo toasts)
-- Small dish: 3 tbsp finely chopped parsley and 1 tbsp lemon juice (from the zested lemon)
+
+**Medium bowl (can marinate up to 1 hour):**
+- 1 lb shrimp, peeled and deveined
+- 1 tbsp olive oil
+- 1 tbsp lemon zest
+- 1/2 tsp red-pepper flakes
+- 1/2 tsp salt
+- 1/4 tsp pepper
+- 2 garlic cloves, minced
+
+**Small dish:**
+- 2 garlic cloves, minced
+- 2 tbsp butter
+- 2 tbsp olive oil
+
+**Small bowl:**
+- 1 cup orzo
+- 1/2 tsp salt
+
+**Measuring cup:**
+- 1/3 cup dry white wine
+
+**Measuring cup:**
+- 2 cups boiling water or stock (heat while the orzo toasts)
+
+**Small dish:**
+- 3 tbsp finely chopped parsley
+- 1 tbsp lemon juice (from the zested lemon)
 
 In a medium bowl, stir together shrimp, 1 tbsp olive oil, lemon zest, red-pepper flakes, 1/2 tsp salt, 1/4 tsp pepper and half the garlic. Set aside to marinate. (This step can be done up to 1 hour in advance.)
 

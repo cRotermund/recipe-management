@@ -6,7 +6,7 @@ categories:
 cook_time: ''
 created: '2024-10-30 16:38:27'
 difficulty: ''
-hash: f45bd2d2a5161355e4dc335069ba6a7e60f0e0a86d13323da6eac98895a96f3f
+hash: 26dcff1111fb310f2750428f9ab70fd77fa7263259ac6936c7c3600531caa7c6
 image_url: https://static01.nyt.com/applications/cooking/3d5d75f/assets/14.jpg?1
 in_trash: false
 is_pinned: false
@@ -39,6 +39,12 @@ uid: B48A3CE4-3D88-4419-BD2F-07AE2C061BEF
 ## Directions
 
 Mise en place guide:
-- Bowl: shells from 2 lb shrimp; 1/2 cup coarsely chopped onion; 1 celery rib, coarsely chopped; 6 peppercorns; 1 bay leaf
+
+**Bowl:**
+- shells from 2 lb shrimp
+- 1/2 cup coarsely chopped onion
+- 1 celery rib, coarsely chopped
+- 6 peppercorns
+- 1 bay leaf
 
 Put all the ingredients into a saucepan and bring to a boil. Let simmer about 20 minutes. Strain, discarding the solids.

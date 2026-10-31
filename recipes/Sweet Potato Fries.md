@@ -7,7 +7,7 @@ categories:
 cook_time: 35 minutes
 created: '2022-01-11 09:07:16'
 difficulty: ''
-hash: 32564e88a34c9f16f16a665903f2f6514ae62b3b8da7552a280da2ffdf8f7dd8
+hash: 1ffaf6809cbe4b41239ce3327d7e0da41983705d177f0637f0ba0110409d06df
 image_url: null
 in_trash: false
 is_pinned: false
@@ -39,8 +39,16 @@ uid: 5735E47E-7A75-451B-A88D-C17BD352FBCC
 ## Directions
 
 Mise en place guide:
-- Large bowl: 2 lb sweet potatoes, peeled and cut into sticks 1/4-1/2 inch wide and 3 inches long; 2 tbsp olive oil
-- Small bowl: 1 tsp garlic powder; 1 tsp paprika; 1 tsp salt; 1/2 tsp black pepper
+
+**Large bowl:**
+- 2 lb sweet potatoes, peeled and cut into sticks 1/4-1/2 inch wide and 3 inches long
+- 2 tbsp olive oil
+
+**Small bowl:**
+- 1 tsp garlic powder
+- 1 tsp paprika
+- 1 tsp salt
+- 1/2 tsp black pepper
 
 Heat the oven to 400.
 

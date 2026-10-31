@@ -7,7 +7,7 @@ categories:
 cook_time: 4 hours
 created: '2021-09-01 14:23:18'
 difficulty: ''
-hash: f80ac5a48354025c64a442c977235b7456a06eae118e256b8e4e4e10b5c4965f
+hash: 8ab8ad965f08d87eca227668cd4fd2305f5245c525557bb428a1324340d3d116
 image_url: https://sparklesofyum.com/wp-content/uploads/2018/01/trishayearwood_N4-188x300.jpg
 in_trash: false
 is_pinned: false
@@ -44,10 +44,23 @@ uid: 8B61DA7E-8E64-49A5-8713-A3CE664A070D
 ## Directions
 
 Mise en place guide:
-- Tray: 2 1/2-3 lb pork tenderloin, trimmed of all visible fat
-- Small bowl: 1 tsp garlic powder, 1/4 tsp ground ginger, 1/2 tsp dried thyme, 1/2 tsp black pepper
-- Measuring cup: 2 cups chicken broth, 2 tbsp lemon juice, 1 tbsp soy sauce
-- Small dish: 3 tbsp cornstarch (for the gravy)
+
+**Tray:**
+- 2 1/2-3 lb pork tenderloin, trimmed of all visible fat
+
+**Small bowl:**
+- 1 tsp garlic powder
+- 1/4 tsp ground ginger
+- 1/2 tsp dried thyme
+- 1/2 tsp black pepper
+
+**Measuring cup:**
+- 2 cups chicken broth
+- 2 tbsp lemon juice
+- 1 tbsp soy sauce
+
+**Small dish:**
+- 3 tbsp cornstarch (for the gravy)
 
 Season the pork loin lightly with salt. In a small bowl combine the garlic powder, ginger, dried thyme, and black pepper. Rub the seasoning over the surface of the pork loin.
 

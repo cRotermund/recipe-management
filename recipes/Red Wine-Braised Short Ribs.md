@@ -7,7 +7,7 @@ categories:
 cook_time: ''
 created: '2020-05-26 09:10:35'
 difficulty: ''
-hash: 430562e5128dea234788ce721b0f1b546564acce86bfb67c4dec87558180080f
+hash: 87d086e2e60b56896f50def9a51e8306ed9950ead83f3732f13e34a036ef7511
 image_url: https://assets.bonappetit.com/photos/5c4b21e785b9bd2cf3b17454/16:9/w_1880,c_limit/red-wine-braised-short-ribs.jpg
 in_trash: false
 is_pinned: false
@@ -49,11 +49,30 @@ uid: 1A113C4A-51A0-47C6-890C-2B70B202EB2B-381-000000C319C173BB
 ## Directions
 
 Mise en place guide:
-- Tray: 5 lb short ribs, cut into 2-inch pieces, patted dry and seasoned with salt and pepper
-- Large bowl: 3 medium onions, chopped; 3 medium carrots, peeled and chopped; 2 celery stalks, chopped
-- Small dish: 3 tbsp flour and 1 tbsp tomato paste
-- Plate: 10 parsley sprigs, 8 thyme sprigs, 4 oregano sprigs, 2 rosemary sprigs, 2 bay leaves, and 1 head of garlic, halved crosswise
-- Measuring cups: 1 bottle (750 ml) red wine, opened; 4 cups beef stock
+
+**Tray:**
+- 5 lb short ribs, cut into 2-inch pieces, patted dry and seasoned with salt and pepper
+
+**Large bowl:**
+- 3 medium onions, chopped
+- 3 medium carrots, peeled and chopped
+- 2 celery stalks, chopped
+
+**Small dish:**
+- 3 tbsp flour
+- 1 tbsp tomato paste
+
+**Plate:**
+- 10 parsley sprigs
+- 8 thyme sprigs
+- 4 oregano sprigs
+- 2 rosemary sprigs
+- 2 bay leaves
+- 1 head of garlic, halved crosswise
+
+**Measuring cups:**
+- 1 bottle (750 ml) red wine, opened
+- 4 cups beef stock
 
 Preheat oven to 350°F. Season short ribs with salt and pepper. Heat oil in a large Dutch oven over medium-high. Working in 2 batches, brown short ribs on all sides, about 8 minutes per batch. Transfer short ribs to a plate. Pour off all but 3 tbsp drippings from pot.
 

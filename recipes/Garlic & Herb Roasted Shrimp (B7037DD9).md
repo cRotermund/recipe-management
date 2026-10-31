@@ -7,7 +7,7 @@ categories:
 cook_time: 40 min
 created: '2021-03-09 07:33:55'
 difficulty: Easy
-hash: b30d6a5e1787e10338e36c81c3571c76f81c104431854574afcc3c0f617fa3d2
+hash: 1157666968431b34d23f551c5937df969dd4a877f3446eba92176350aca94e47
 image_url: https://food.fnr.sndimg.com/content/dam/images/food/fullset/2017/5/18/0/BX1302H_Garlic-and-Herb-Roasted-Shrimp_s4x3.jpg.rend.hgtvcom.826.620.suffix/1495125455576.jpeg
 in_trash: false
 is_pinned: false
@@ -43,12 +43,32 @@ uid: B7037DD9-6F5A-401D-8DA4-77A10BB1C4F9
 ## Directions
 
 Mise en place guide:
-- Small dish: 1/4 lb (1 stick) unsalted butter
-- Small bowl: 2 tbsp olive oil; 2 tbsp minced garlic (6 cloves); 2 tsp minced fresh rosemary; 1/4 tsp crushed red pepper flakes; 1 tsp kosher salt; 1/2 tsp black pepper
-- Cutting board: zest of 1 lemon; then 5 slices (1/4-inch thick) cut from that zested lemon, ends sliced off
-- Large ovenproof pan: 2 lb shrimp, peeled with tails on, arranged snugly in one layer
-- Small dish: 1 tsp coarse sea salt; 1/2 tsp black pepper
-- Plate: 1 lemon, halved; 4 slices country bread, toasted (toast just before serving)
+
+**Small dish:**
+- 1/4 lb (1 stick) unsalted butter
+
+**Small bowl:**
+- 2 tbsp olive oil
+- 2 tbsp minced garlic (6 cloves)
+- 2 tsp minced fresh rosemary
+- 1/4 tsp crushed red pepper flakes
+- 1 tsp kosher salt
+- 1/2 tsp black pepper
+
+**Cutting board:**
+- zest of 1 lemon
+- then 5 slices (1/4-inch thick) cut from that zested lemon, ends sliced off
+
+**Large ovenproof pan:**
+- 2 lb shrimp, peeled with tails on, arranged snugly in one layer
+
+**Small dish:**
+- 1 tsp coarse sea salt
+- 1/2 tsp black pepper
+
+**Plate:**
+- 1 lemon, halved
+- 4 slices country bread, toasted (toast just before serving)
 
 Preheat the oven to 400°F.
 

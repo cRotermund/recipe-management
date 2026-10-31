@@ -7,7 +7,7 @@ categories:
 cook_time: ''
 created: '2023-01-08 11:04:26'
 difficulty: ''
-hash: 92f0cd1856b5c3f0a15848260bf8dac7c95b6758b7ce9a1129208a11f2577c61
+hash: 33147718efc874f02ed02fec494ae2525583f3d2bb175c62359174d14ebda1da
 image_url: https://static01.nyt.com/images/2020/11/05/dining/ns-chicken-kebabs/ns-chicken-kebabs-articleLarge.jpg
 in_trash: false
 is_pinned: false
@@ -52,11 +52,36 @@ uid: 9DCF3799-6586-4F94-A2ED-B915CBFFB525
 ## Directions
 
 Mise en place guide:
-- Measuring cup: 1 1/2 cups chicken stock; 2 tbsp lime juice; 1 tbsp olive oil; 1 tsp red-pepper flakes; 1 tsp salt
-- Small bowl: 1 cup couscous
-- Food processor bowl: 1 lb ground chicken; 2 shallots, minced; 1 large egg, lightly whisked; 2 tbsp chopped parsley; 1 serrano chile, trimmed and chopped; 4 garlic cloves, minced; 2 tbsp grated ginger; 1 tsp salt; 1 tsp pepper
-- Large mixing bowl (for the finished couscous): 1/2 tsp lime zest; 1/4 cup chopped parsley; 1/4 cup dried cherries or cranberries; 3 tbsp toasted pine nuts
-- Cutting board: 1 lime, cut into wedges
+
+**Measuring cup:**
+- 1 1/2 cups chicken stock
+- 2 tbsp lime juice
+- 1 tbsp olive oil
+- 1 tsp red-pepper flakes
+- 1 tsp salt
+
+**Small bowl:**
+- 1 cup couscous
+
+**Food processor bowl:**
+- 1 lb ground chicken
+- 2 shallots, minced
+- 1 large egg, lightly whisked
+- 2 tbsp chopped parsley
+- 1 serrano chile, trimmed and chopped
+- 4 garlic cloves, minced
+- 2 tbsp grated ginger
+- 1 tsp salt
+- 1 tsp pepper
+
+**Large mixing bowl (for the finished couscous):**
+- 1/2 tsp lime zest
+- 1/4 cup chopped parsley
+- 1/4 cup dried cherries or cranberries
+- 3 tbsp toasted pine nuts
+
+**Cutting board:**
+- 1 lime, cut into wedges
 
 Make the couscous: In a medium saucepan over high heat, bring the stock, lime juice, olive oil, red-pepper flakes and 1 tsp salt to a rolling boil. Remove from the heat and stir in the couscous. Cover with a lid and let sit for 10 minutes.
 

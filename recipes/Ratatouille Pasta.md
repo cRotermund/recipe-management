@@ -7,7 +7,7 @@ categories:
 cook_time: ''
 created: '2020-01-26 10:33:01'
 difficulty: ''
-hash: 2b9d481995034bfbefb4ba2d7a05b8b29f84f3ed3b42a2945d06e5b3684c0ddd
+hash: 718f18d337e057be71d259656c234045b8940adb2a372b836937c3e8dd2fff39
 image_url: https://assets.bonappetit.com/photos/5d4356436f98a4000898782b/3:2/w_1880,c_limit/Basically-Ratatouille-Pasta.jpg
 in_trash: false
 is_pinned: false
@@ -47,12 +47,28 @@ uid: FD31C20B-BF2D-4738-AC33-0E8708296E6E
 ## Directions
 
 Mise en place guide:
-- Colander set over a medium bowl: eggplant, cut into 1/2" pieces and tossed with 2 tsp salt (let sit 30 minutes, then squeeze gently)
-- Small dish: 1/4 cup capers; 1/2 tsp crushed red pepper flakes
-- Medium bowl: bell peppers and zucchini, cut into 1/2" pieces; 2 medium onions, peeled and sliced into thin slivers
-- Small bowl: 1 pint cherry tomatoes, halved; 4 garlic cloves, smashed and coarsely chopped
-- Small bowl: 1 1/2 oz Parmesan, finely grated
-- Cutting board: 1 lemon, halved; 1 1/2 cups basil leaves, torn if large
+
+**Colander set over a medium bowl:**
+- eggplant, cut into 1/2" pieces and tossed with 2 tsp salt (let sit 30 minutes, then squeeze gently)
+
+**Small dish:**
+- 1/4 cup capers
+- 1/2 tsp crushed red pepper flakes
+
+**Medium bowl:**
+- bell peppers and zucchini, cut into 1/2" pieces
+- 2 medium onions, peeled and sliced into thin slivers
+
+**Small bowl:**
+- 1 pint cherry tomatoes, halved
+- 4 garlic cloves, smashed and coarsely chopped
+
+**Small bowl:**
+- 1 1/2 oz Parmesan, finely grated
+
+**Cutting board:**
+- 1 lemon, halved
+- 1 1/2 cups basil leaves, torn if large
 
 Cut 1 large or 2 medium Italian eggplants into 1/2" pieces. Transfer to a colander set over a medium bowl and sprinkle with 2 tsp salt. Let sit 30 minutes. Your eggplant might start to discolor and should start to release some brownish liquid that will fall into the bowl below. That’s good! It’s losing excess moisture that would prevent it from getting silky-soft.
 

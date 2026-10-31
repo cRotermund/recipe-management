@@ -7,7 +7,7 @@ categories:
 cook_time: 30 minutes
 created: '2020-06-08 19:46:55'
 difficulty: ''
-hash: fb289e1c859c004bebde221c4bdf3ea53145deb69211a0f9f64949b231eace3c
+hash: cdc334aa887fec0e39fe8fc7ded03070fa169061d807c7e498aaeda51ed6cf73
 image_url: https://static01.nyt.com/images/2014/04/18/multimedia/clark-spaghetti-bread/clark-spaghetti-bread-mediumThreeByTwo440.jpg
 in_trash: false
 is_pinned: false
@@ -45,12 +45,28 @@ uid: BC2CEB0C-688D-42B2-8B8A-6D7672A1B5A2-1611-000001650420DB67
 ## Directions
 
 Mise en place guide:
-- Small bowl: 12 anchovies, chopped; 6 garlic cloves, minced; 1/4 tsp red pepper flakes
-- Small bowl: 1 cup bread crumbs
-- Measuring cup: 1/3 cup olive oil
-- Large bowl (warm it if you can): 2 egg yolks; 1 tbsp fish sauce (optional); 1 tsp hot sauce
-- Small dish: 1/2 cup roughly chopped parsley
-- Plate: lemon wedges, for serving
+
+**Small bowl:**
+- 12 anchovies, chopped
+- 6 garlic cloves, minced
+- 1/4 tsp red pepper flakes
+
+**Small bowl:**
+- 1 cup bread crumbs
+
+**Measuring cup:**
+- 1/3 cup olive oil
+
+**Large bowl (warm it if you can):**
+- 2 egg yolks
+- 1 tbsp fish sauce (optional)
+- 1 tsp hot sauce
+
+**Small dish:**
+- 1/2 cup roughly chopped parsley
+
+**Plate:**
+- lemon wedges, for serving
 
 In a medium skillet over medium-high heat, warm oil. Add anchovies, garlic and red pepper flakes; cook until fragrant, 1 minute. Stir in bread crumbs and cook until golden, 2-3 minutes. Season liberally with black pepper, and a little salt if needed.
 

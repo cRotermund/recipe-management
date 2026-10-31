@@ -7,7 +7,7 @@ categories:
 cook_time: ''
 created: '2022-11-19 08:14:32'
 difficulty: ''
-hash: e0bf58ba74fa4c807cd45631cf8f74d5bc28e0e18efa538a32b5917d8cbb0f62
+hash: 62070b8e19fb02f96ed200df23052f9c2f7cd569724788cb5cb71b011dc88bf1
 image_url: https://assets.bonappetit.com/photos/6318d732b5baa4714d0513c7/1:1/w_2560%2Cc_limit/220628_GuangXu_BA_Supperland_MisoMacCheese_095.jpg
 in_trash: false
 is_pinned: false
@@ -43,11 +43,26 @@ uid: 2D95ADE7-4667-47E9-8301-B3CBD0E74777
 ## Directions
 
 Mise en place guide:
-- Small saucepan: 3 cups whole milk; 2 tbsp white miso; 1 tsp garlic powder; 1/2 tsp black pepper; 1 1/2 tsp Diamond Crystal or 1 tsp Morton kosher salt; 1/2 tsp crushed red pepper flakes
-- Small dish: 4 tbsp unsalted butter
-- Small bowl: 1/2 cup all-purpose flour
-- Bowl: 8 oz sharp yellow cheddar, coarsely grated
-- Measuring cup: 1 cup pasta cooking liquid, reserved from the pasta pot
+
+**Small saucepan:**
+- 3 cups whole milk
+- 2 tbsp white miso
+- 1 tsp garlic powder
+- 1/2 tsp black pepper
+- 1 1/2 tsp Diamond Crystal or 1 tsp Morton kosher salt
+- 1/2 tsp crushed red pepper flakes
+
+**Small dish:**
+- 4 tbsp unsalted butter
+
+**Small bowl:**
+- 1/2 cup all-purpose flour
+
+**Bowl:**
+- 8 oz sharp yellow cheddar, coarsely grated
+
+**Measuring cup:**
+- 1 cup pasta cooking liquid, reserved from the pasta pot
 
 Cook 12 oz conchigliette (small shells) in a large pot of boiling salted water, stirring occasionally, until al dente. Drain, reserving 1 cup pasta cooking liquid (do not rinse pasta). Spread pasta out on a rimmed baking sheet and set aside.
 

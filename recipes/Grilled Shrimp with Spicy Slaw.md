@@ -7,7 +7,7 @@ categories:
 cook_time: ''
 created: '2024-05-27 13:38:12'
 difficulty: ''
-hash: 3a70096b8314cdf68d5c0d9bd4697f14700a65c65d14a1d66d70f77a40ddcfc6
+hash: 06928e39f250dc7c4e0634fa38e2b3f36b84096ced591e50d34e87086a4eda4d
 image_url: https://static01.nyt.com/images/2023/05/03/multimedia/ya-spicy-cabbage-slaw-lvhp/ya-spicy-cabbage-slaw-lvhp-square640.jpg
 in_trash: false
 is_pinned: false
@@ -44,10 +44,26 @@ uid: 3511D50C-6CA4-4AC8-9664-17A1E640AD42
 ## Directions
 
 Mise en place guide:
-- Large bowl: 1/4 cup orange juice; 3 tbsp lime juice; 1/4 cup neutral oil; 2 tbsp honey; 2 tbsp thinly sliced jalapeño; 1/2 tsp kosher salt (whisked together as the dressing)
-- Medium bowl: 1 lb shrimp, peeled and deveined
-- Cutting board: 4 packed cups thinly shredded green cabbage; 1 mango, peeled and julienned (optional); 1 cup chopped cilantro; 2 scallions, thinly sliced
-- Serving platter: set out for the slaw and shrimp
+
+**Large bowl (whisked together as the dressing):**
+- 1/4 cup orange juice
+- 3 tbsp lime juice
+- 1/4 cup neutral oil
+- 2 tbsp honey
+- 2 tbsp thinly sliced jalapeño
+- 1/2 tsp kosher salt
+
+**Medium bowl:**
+- 1 lb shrimp, peeled and deveined
+
+**Cutting board:**
+- 4 packed cups thinly shredded green cabbage
+- 1 mango, peeled and julienned (optional)
+- 1 cup chopped cilantro
+- 2 scallions, thinly sliced
+
+**Serving platter:**
+- set out for the slaw and shrimp
 
 Make the dressing: In a large bowl, whisk together the orange juice, lime juice, oil, honey, jalapeño and salt. Taste and add more jalapeño if you’d like more heat.
 

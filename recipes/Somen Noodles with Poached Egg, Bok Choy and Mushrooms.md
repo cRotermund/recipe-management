@@ -7,7 +7,7 @@ categories:
 cook_time: 20 minutes
 created: '2021-02-15 20:41:12'
 difficulty: ''
-hash: 0b05ef58ddf894af03a8db48e6c768cef3175eda39d5f7b9d8dd7fb654fdbc37
+hash: dcd37e76e1535c4f7f704850c92b1f9a49cc11db8ffcc6ad80860dd48fcc7c58
 image_url: https://static01.nyt.com/images/2020/11/01/dining/sl-somen-noodle-soup/merlin_150549918_35657d55-ee09-4a20-9a9f-467176c9e5fa-articleLarge.jpg
 in_trash: false
 is_pinned: false
@@ -42,11 +42,23 @@ uid: DAAF712B-67F6-4B0D-A838-1FF6FAEA9941-3367-0000010584357EE6
 ## Directions
 
 Mise en place guide:
-- Bowl: 3 scallion whites, thinly sliced; 8 oz shiitake caps (stems discarded), thinly sliced
-- Bowl: 1 medium bok choy, cut into bite-size pieces
-- Small bowl: 3 tbsp soy sauce; 2 tsp sesame oil
-- 2 small bowls: 1 egg cracked into each (discard the shells)
-- Small dish: 3 scallion greens, thinly sliced, for serving
+
+**Bowl:**
+- 3 scallion whites, thinly sliced
+- 8 oz shiitake caps (stems discarded), thinly sliced
+
+**Bowl:**
+- 1 medium bok choy, cut into bite-size pieces
+
+**Small bowl:**
+- 3 tbsp soy sauce
+- 2 tsp sesame oil
+
+**2 small bowls:**
+- 1 egg cracked into each (discard the shells)
+
+**Small dish:**
+- 3 scallion greens, thinly sliced, for serving
 
 Bring a large saucepan of water to a simmer.
 

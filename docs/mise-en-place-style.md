@@ -10,15 +10,21 @@ The guide goes inside Directions because Paprika uploads only Ingredients, Direc
 ## Directions
 
 Mise en place guide:
-- Large bowl: 1 onion, halved and sliced thin; 3/4 lb mushrooms, sliced thin
-- Small dish: 1 tsp cumin, 1/2 tsp salt
+
+**Large bowl:**
+- 1 onion, halved and sliced thin
+- 3/4 lb mushrooms, sliced thin
+
+**Small dish:**
+- 1 tsp cumin
+- 1/2 tsp salt
 
 (original directions, unchanged)
 ```
 
-- Lead-in line is exactly `Mise en place guide:` (plain text, no bold, so it reads cleanly in Paprika). A re-run replaces everything from that line to the first blank line after the last bullet.
-- One bullet per container, starting with the container (`Cutting board:`, `Large bowl:`, `Small dish:`, `Measuring cup:`, `Tray:`, `Baking sheet:`). Items inside a bullet are separated by semicolons or commas, whichever reads clearer.
-- A blank line separates the guide from the first original paragraph.
+- Lead-in line is exactly `Mise en place guide:` (plain text). A re-run replaces everything from that line to the blank line before the first original paragraph.
+- One block per container. The container name (`Cutting board`, `Large bowl`, `Small dish`, `Measuring cup`, `Tray`, `Baking sheet`) is bold and ends in a colon, on its own line. Each item in the container is its own `- ` bullet. Keep any timing or prep note in parentheses at the end of the item it belongs to.
+- A blank line separates each container block, and a blank line separates the guide from the first original paragraph.
 
 ## Rules
 

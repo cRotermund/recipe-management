@@ -7,7 +7,7 @@ categories:
 cook_time: ''
 created: '2020-01-26 10:33:39'
 difficulty: ''
-hash: dd0ad68d97ca3e2aa3552513b070ce669efe2ce1123667a6773c6410afbf40f4
+hash: b5fab0ccabe1900f3875157565308916fcb21fec4798745447c0b6b565ceeb31
 image_url: https://assets.bonappetit.com/photos/5db77fe7b9cf6400088fe7e1/16:9/w_1880,c_limit/HLY-Oba-Ata-16x9.jpg
 in_trash: false
 is_pinned: false
@@ -45,13 +45,30 @@ uid: 475EA7F8-AC08-4B62-9E80-3F83435880D7
 ## Directions
 
 Mise en place guide:
-- Tray: 4 chicken legs, seasoned with salt
-- Bowl: 2 red bell peppers, seeds and ribs removed, coarsely chopped; 1 large onion, coarsely chopped
-- Bowl: 2 beefsteak tomatoes, seeds removed, coarsely chopped; 2 habanero chiles, stemmed, halved, seeds removed; 1 tsp black pepper
-- Measuring cup: 2 cups low-sodium chicken broth
-- Bowl: 2 small sweet potatoes or yams, sliced into 1/2" rounds (or 2 medium Yukon Gold potatoes, cut into 1" pieces)
-- Small bowl: 1 small bunch spinach, stems trimmed
-- Small dish: sliced chives, for serving
+
+**Tray:**
+- 4 chicken legs, seasoned with salt
+
+**Bowl:**
+- 2 red bell peppers, seeds and ribs removed, coarsely chopped
+- 1 large onion, coarsely chopped
+
+**Bowl:**
+- 2 beefsteak tomatoes, seeds removed, coarsely chopped
+- 2 habanero chiles, stemmed, halved, seeds removed
+- 1 tsp black pepper
+
+**Measuring cup:**
+- 2 cups low-sodium chicken broth
+
+**Bowl:**
+- 2 small sweet potatoes or yams, sliced into 1/2" rounds (or 2 medium Yukon Gold potatoes, cut into 1" pieces)
+
+**Small bowl:**
+- 1 small bunch spinach, stems trimmed
+
+**Small dish:**
+- sliced chives, for serving
 
 Heat oil in a large Dutch oven over medium-high heat. Season chicken with salt and cook (skin side down), undisturbed, until skin is browned and crisp, 8-10 minutes. Turn and cook just until lightly browned, about 3 minutes longer. Using tongs, transfer chicken to a plate (it will not be cooked through).
 

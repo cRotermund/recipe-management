@@ -7,7 +7,7 @@ categories:
 cook_time: ''
 created: '2023-06-25 15:48:58'
 difficulty: ''
-hash: ce56ae66e83e07665beb5305f20610b30f9eb6afa8f731febb50fc72e91ca57d
+hash: f110e7cd3a5ec11522a065c875587eea032b3c41383965d5e737c41fab4706ab
 image_url: https://assets.bonappetit.com/photos/60775dd7e1360146c458ce9e/1:1/w_2560%2Cc_limit/0521-Yasmin-Khan-Chana-Masala.jpg
 in_trash: false
 is_pinned: false
@@ -50,14 +50,37 @@ uid: E87D5E78-64FF-4A7C-90FF-C02C48B4C2DB
 ## Directions
 
 Mise en place guide:
-- Cutting board: 1 medium onion, finely chopped (cooks first)
-- Small dish: 1 tsp coriander seeds; 1 tsp cumin seeds (toast, then grind)
-- Small bowl: 4 garlic cloves, finely chopped; 1 2" piece ginger, peeled and finely chopped; 1 tsp garam masala; 1/4 tsp turmeric; pinch of cayenne
-- Bowl: 1 medium tomato, peeled and chopped; 2 (14.5 oz) cans chickpeas, rinsed; 1 tbsp tomato paste
-- Measuring cup: 2 cups very hot water, plus 1 cup more hot water if needed
-- Small bowl: 1 tsp cornstarch stirred with 2 tsp water
-- Small dish: 2 tbsp olive oil
-- Small dish: chopped cilantro, for serving
+
+**Cutting board:**
+- 1 medium onion, finely chopped (cooks first)
+
+**Small dish (toast, then grind):**
+- 1 tsp coriander seeds
+- 1 tsp cumin seeds
+
+**Small bowl:**
+- 4 garlic cloves, finely chopped
+- 1 2" piece ginger, peeled and finely chopped
+- 1 tsp garam masala
+- 1/4 tsp turmeric
+- pinch of cayenne
+
+**Bowl:**
+- 1 medium tomato, peeled and chopped
+- 2 (14.5 oz) cans chickpeas, rinsed
+- 1 tbsp tomato paste
+
+**Measuring cup:**
+- 2 cups very hot water, plus 1 cup more hot water if needed
+
+**Small bowl:**
+- 1 tsp cornstarch stirred with 2 tsp water
+
+**Small dish:**
+- 2 tbsp olive oil
+
+**Small dish:**
+- chopped cilantro, for serving
 
 Heat vegetable oil in a large saucepan or small pot over medium-low. Cook onion, stirring occasionally, until golden brown and very tender, 15-20 minutes.
 

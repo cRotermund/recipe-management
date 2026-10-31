@@ -7,7 +7,7 @@ categories:
 cook_time: ''
 created: '2022-11-13 09:44:47'
 difficulty: ''
-hash: 144c537ea3378a8966fb28f4f661cf28acedea89d56991bb447802a931d82cf3
+hash: f8a2788166848532da2d53ce3ed34bee7d5fd9aef3d208f445135349abf6059c
 image_url: https://assets.bonappetit.com/photos/589a4cfff12ac6e639bf247e/master/w_1280%2Cc_limit/chicken-curry-pot-pie.jpg
 in_trash: false
 is_pinned: false
@@ -51,12 +51,33 @@ uid: 9DAE46E5-22AF-41F1-A513-8A9A713777AB
 ## Directions
 
 Mise en place guide:
-- Bowl: 1 large onion, chopped; 1 green apple, peeled and chopped
-- Large bowl: 1 delicata or small butternut squash, cut into 3/4-inch pieces; 3 medium carrots, peeled and cut into 1-inch pieces; 1 medium russet potato, peeled and cut into 1/2-inch pieces; 1 small daikon, peeled and cut into 3/4-inch pieces; 6 garlic cloves, thinly sliced
-- Small dish: 1 (1-inch) piece ginger, finely chopped; 2 tbsp curry powder; 2 tbsp flour
-- Medium bowl: 2 cups chicken broth; 1/4 cup soy sauce; 3 tbsp cornstarch (whisk smooth just before using)
-- Bowl: 1 1/2 lb chicken thighs, cut into 1-inch pieces
-- Small dish: 1 large egg, beaten
+
+**Bowl:**
+- 1 large onion, chopped
+- 1 green apple, peeled and chopped
+
+**Large bowl:**
+- 1 delicata or small butternut squash, cut into 3/4-inch pieces
+- 3 medium carrots, peeled and cut into 1-inch pieces
+- 1 medium russet potato, peeled and cut into 1/2-inch pieces
+- 1 small daikon, peeled and cut into 3/4-inch pieces
+- 6 garlic cloves, thinly sliced
+
+**Small dish:**
+- 1 (1-inch) piece ginger, finely chopped
+- 2 tbsp curry powder
+- 2 tbsp flour
+
+**Medium bowl (whisk smooth just before using):**
+- 2 cups chicken broth
+- 1/4 cup soy sauce
+- 3 tbsp cornstarch
+
+**Bowl:**
+- 1 1/2 lb chicken thighs, cut into 1-inch pieces
+
+**Small dish:**
+- 1 large egg, beaten
 
 Preheat oven to 425°F. Heat butter in a large shallow braising pot or large skillet (around 12" in diameter) over medium. Cook onion and apple, stirring often, until very soft, 8-10 minutes. Add squash, carrots, potato, daikon, and garlic and cook, stirring occasionally, until vegetables are partly tender, 12-15 minutes. Add ginger and sprinkle with curry powder and 2 tbsp flour; cook, stirring to coat, just until curry powder darkens, about 1 minute. Whisk broth, soy sauce, and cornstarch in a small bowl until smooth. Add broth mixture to pot and bring to a simmer, stirring often. Cook, still stirring frequently, until mixture is very thick. Taste and season with salt, if needed. Add chicken and stir to evenly distribute. The mixture will look so thick at this point that it will seem wrong. Trust us, the vegetables and chicken will release liquid as they cook under the pastry, creating a rich and just-thick-enough sauce as they do so.
 

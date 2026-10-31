@@ -7,7 +7,7 @@ categories:
 cook_time: 20 minutes
 created: '2020-08-15 11:06:58'
 difficulty: ''
-hash: 2353cbcb76c3e7f7eb7b7fb1ea9644d8ae3ec7f36d3c91aad54b607d3e67452f
+hash: cf2cc51806eb7bf5fde637b4a65116d3172aac65f7491a2804c1cd66df9049d8
 image_url: https://static01.nyt.com/images/2015/08/14/dining/14CHICKENBREASTS/14CHICKENBREASTS-articleLarge.jpg
 in_trash: false
 is_pinned: false
@@ -46,13 +46,31 @@ uid: 3AE4C381-90C9-486E-BB80-A109E4285079-87110-00002C4BFADD5F81
 ## Directions
 
 Mise en place guide:
-- Plate: 4 chicken breasts, seasoned with salt and white pepper
-- Small dish: 2 tbsp butter
-- Small dish: 6 tbsp finely chopped shallots; 2 tsp finely chopped garlic
-- Bowl: 8 plum tomatoes, cut into small cubes; 4 tsp finely chopped tarragon; 1/4 cup drained capers
-- Measuring cup: 1/4 cup red wine vinegar; 1 cup dry white wine
-- Small dish: 2 tbsp tomato paste
-- Small dish: 1/4 cup chopped parsley, for garnish
+
+**Plate:**
+- 4 chicken breasts, seasoned with salt and white pepper
+
+**Small dish:**
+- 2 tbsp butter
+
+**Small dish:**
+- 6 tbsp finely chopped shallots
+- 2 tsp finely chopped garlic
+
+**Bowl:**
+- 8 plum tomatoes, cut into small cubes
+- 4 tsp finely chopped tarragon
+- 1/4 cup drained capers
+
+**Measuring cup:**
+- 1/4 cup red wine vinegar
+- 1 cup dry white wine
+
+**Small dish:**
+- 2 tbsp tomato paste
+
+**Small dish:**
+- 1/4 cup chopped parsley, for garnish
 
 Sprinkle the chicken with salt and pepper. Heat the oil and butter in a heavy-bottom skillet. Add the chicken breasts and saute over medium-high heat, turning the pieces often until lightly browned, about 5 minutes.
 

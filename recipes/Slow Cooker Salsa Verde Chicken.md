@@ -7,7 +7,7 @@ categories:
 cook_time: 5-6 hours
 created: '2020-06-01 19:10:16'
 difficulty: ''
-hash: fe91a2fc57d5c3abcf9490e17fd9d6670d738ca199d5085a3fe783bfd7001e70
+hash: e819e5f0d55ee109e719acc03997022f8bfc25785bc11d3285f3934253ce9880
 image_url: https://static01.nyt.com/images/2019/11/25/dining/sd-slow-cooker-salsa-verde-chicken/sd-slow-cooker-salsa-verde-chicken-articleLarge.jpg
 in_trash: false
 is_pinned: false
@@ -46,10 +46,30 @@ uid: 1E2AB0B2-A8DB-4FAA-B3B3-9F5A2E8F4645-272-0000000EC790F960
 ## Directions
 
 Mise en place guide:
-- Bowl: 1 1/2 lb chicken thighs; 1 1/2 cups salsa verde; 1 (4 oz) can chopped green chiles
-- Small bowl: 8 garlic cloves, finely chopped; 1 jalapeño, stemmed, seeded and diced; 1 tsp garlic powder; 1 tsp onion powder; 1 tsp cumin
-- Small bowl: 3 scallions, thinly sliced; 1 small bunch cilantro, finely chopped (stir in at the end)
-- Serving dishes: rice, tortillas, pepitas, queso fresco, diced avocado, crushed tortilla chips
+
+**Bowl:**
+- 1 1/2 lb chicken thighs
+- 1 1/2 cups salsa verde
+- 1 (4 oz) can chopped green chiles
+
+**Small bowl:**
+- 8 garlic cloves, finely chopped
+- 1 jalapeño, stemmed, seeded and diced
+- 1 tsp garlic powder
+- 1 tsp onion powder
+- 1 tsp cumin
+
+**Small bowl (stir in at the end):**
+- 3 scallions, thinly sliced
+- 1 small bunch cilantro, finely chopped
+
+**Serving dishes:**
+- rice
+- tortillas
+- pepitas
+- queso fresco
+- diced avocado
+- crushed tortilla chips
 
 Combine the chicken thighs, salsa verde, green chiles, chopped garlic, jalapeño, garlic powder, onion powder and cumin in a 6-8 quart slow cooker. Stir to evenly combine. (Don’t add salt now; jarred salsas are often high in sodium.) Cook on low until the chicken is tender and the flavors are blended, 5-6 hours. (If you will be away for 8 hours or more, set the cook time for 4 hours on low and set the slow cooker auto-switch to warm for the remaining time.)
 

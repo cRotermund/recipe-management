@@ -7,7 +7,7 @@ categories:
 cook_time: 20 minutes
 created: '2020-01-26 10:47:25'
 difficulty: ''
-hash: 1d539e826a33b28290f9d002a818b9126a6bc6cb09bedc9a0b015488dc0342ed
+hash: 7fa5d21bf233d9e810b7a87bf31fce027c9116281965918c9eb6b010571e61b2
 image_url: https://static01.nyt.com/images/2017/12/13/dining/13COOKING-4SPICE-SALMON1/13COOKING-4SPICE-SALMON1-articleLarge.jpg
 in_trash: false
 is_pinned: false
@@ -40,8 +40,15 @@ uid: E0CF386C-1D2A-4D48-8E1B-12AFAAA8F164
 ## Directions
 
 Mise en place guide:
-- Tray: 4 (6 oz) skinned salmon fillets, seasoned on both sides with salt and pepper
-- Small dish (spice mix): 1 tbsp coriander; 1/4 tsp cloves; 1 1/2 tsp cumin; 1 tsp freshly grated nutmeg (ground to a coarse powder if whole)
+
+**Tray:**
+- 4 (6 oz) skinned salmon fillets, seasoned on both sides with salt and pepper
+
+**Small dish (spice mix):**
+- 1 tbsp coriander
+- 1/4 tsp cloves
+- 1 1/2 tsp cumin
+- 1 tsp freshly grated nutmeg (ground to a coarse powder if whole)
 
 Season fillets on both sides with salt and pepper. If necessary, combine spices and grind them to a coarse powder in a coffee or spice grinder. Press some of the mixture onto the top of each fillet.
 

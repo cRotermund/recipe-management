@@ -7,7 +7,7 @@ categories:
 cook_time: ''
 created: '2020-07-29 22:06:07'
 difficulty: ''
-hash: f3e845f051db59cc37711bb5c6a3fd9787ac8cbb631cf627ab2a8d79561fbfe2
+hash: d7e4b523552fc4464ce65e21327a58b2e056b2546ad90d5115bff9a2705a6759
 image_url: https://assets.bonappetit.com/photos/57acae77f1c801a1038bc6da/16:9/w_1880,c_limit/potato-salad-with-old-bay-and-potato-chips.jpg
 in_trash: false
 is_pinned: false
@@ -45,11 +45,26 @@ uid: F2DA5E6E-0A9C-41A0-B7E3-0236244FF099-69016-0000233FBA302634
 ## Directions
 
 Mise en place guide:
-- Large pot: 2 lb small waxy potatoes, scrubbed and halved
-- Cutting board: 1 small red onion, thinly sliced
-- Large bowl (vinaigrette): 1/4 cup apple cider vinegar; 1 tbsp whole grain mustard; 1 tsp Old Bay seasoning; 1 tsp coarsely ground black pepper; a pinch of cayenne (can be made up to 3 days ahead and chilled)
-- Bowl: 2 cups kettle-cooked potato chips (keep crisp until the end)
-- Small dish: 1/4 cup coarsely chopped parsley; 3 tbsp finely chopped chives
+
+**Large pot:**
+- 2 lb small waxy potatoes, scrubbed and halved
+
+**Cutting board:**
+- 1 small red onion, thinly sliced
+
+**Large bowl (vinaigrette, can be made up to 3 days ahead and chilled):**
+- 1/4 cup apple cider vinegar
+- 1 tbsp whole grain mustard
+- 1 tsp Old Bay seasoning
+- 1 tsp coarsely ground black pepper
+- a pinch of cayenne
+
+**Bowl:**
+- 2 cups kettle-cooked potato chips (keep crisp until the end)
+
+**Small dish:**
+- 1/4 cup coarsely chopped parsley
+- 3 tbsp finely chopped chives
 
 Place potatoes in a large pot and pour in cold water to cover; season with salt. Bring to a boil; reduce heat and simmer until tender, 15-18 minutes. Drain and return to pot to dry out; let cool.
 

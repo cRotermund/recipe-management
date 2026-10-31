@@ -7,7 +7,7 @@ categories:
 cook_time: ''
 created: '2020-03-01 16:43:17'
 difficulty: ''
-hash: a7154b70077160c07608d46dacb41fac9ad0eb868994f261cc734db01c847db9
+hash: 475ccdf5a0f76b2fb0a5896bb0d7fa305d7ee409e568ba8290b17c26411a00ae
 image_url: https://assets.bonappetit.com/photos/5df7e5d82ee9fc000883a479/16:9/w_1880,c_limit/HLY-FGFP-Chicken-Lentil-Soup-16x9.jpg
 in_trash: false
 is_pinned: false
@@ -44,13 +44,29 @@ uid: 02C82CE9-B712-489E-BD1C-1E8F1991EDE5-36261-00001AE9016FA1DF
 ## Directions
 
 Mise en place guide:
-- Tray: 4 chicken thighs, patted dry and lightly seasoned with salt
-- Bowl: 2 large Vidalia onions, thinly sliced
-- Small bowl: 6 garlic cloves, thinly sliced
-- Small bowl: 1 cup red lentils, rinsed, and 1 tsp turmeric
-- Measuring cup: 6 cups water
-- Small dish: 1/2 cup finely chopped parsley and 2 tbsp lemon juice
-- For serving: plain yogurt
+
+**Tray:**
+- 4 chicken thighs, patted dry and lightly seasoned with salt
+
+**Bowl:**
+- 2 large Vidalia onions, thinly sliced
+
+**Small bowl:**
+- 6 garlic cloves, thinly sliced
+
+**Small bowl:**
+- 1 cup red lentils, rinsed
+- 1 tsp turmeric
+
+**Measuring cup:**
+- 6 cups water
+
+**Small dish:**
+- 1/2 cup finely chopped parsley
+- 2 tbsp lemon juice
+
+**For serving:**
+- plain yogurt
 
 Lightly season chicken thighs all over with salt and set aside.
 

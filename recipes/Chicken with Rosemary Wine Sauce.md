@@ -7,7 +7,7 @@ categories:
 cook_time: 20 minutes
 created: '2020-01-26 10:49:13'
 difficulty: ''
-hash: fe5ae7ba491d880ecfa001d37e766aee2ac3b7167c84a86b76414261bc7b0c04
+hash: 865406a9e53f923a2f7bbed474cc08e42cd00d59a6f1bafbbd6175a21c35755c
 image_url: http://cdn1.girlgonegourmet.com/wp-content/uploads/2015/01/Chicken-with-a-Rosemary-Butter-Sauce-1-260x195.jpg
 in_trash: false
 is_pinned: false
@@ -44,15 +44,35 @@ uid: 39522CD9-22A8-4E46-91DD-D1AA0E9F472A
 ## Directions
 
 Mise en place guide:
-- Cutting board: 2 slices bacon, chopped
-- Plate: 4 chicken thighs, patted dry and seasoned with salt and pepper
-- Bowl: 1 small onion, sliced thin
-- Small dish: 2 garlic cloves, mashed
-- Small dish: 1 tbsp butter
-- Small dish: 1 tbsp flour
-- Measuring cup: 3/4 cup chicken stock; 3/4 cup white wine (keep extra of each nearby to top up)
-- Small dish: 1-2 sprigs rosemary; 3 sprigs thyme
-- Small dish: 1 tsp chopped parsley, for garnish
+
+**Cutting board:**
+- 2 slices bacon, chopped
+
+**Plate:**
+- 4 chicken thighs, patted dry and seasoned with salt and pepper
+
+**Bowl:**
+- 1 small onion, sliced thin
+
+**Small dish:**
+- 2 garlic cloves, mashed
+
+**Small dish:**
+- 1 tbsp butter
+
+**Small dish:**
+- 1 tbsp flour
+
+**Measuring cup (keep extra of each nearby to top up):**
+- 3/4 cup chicken stock
+- 3/4 cup white wine
+
+**Small dish:**
+- 1-2 sprigs rosemary
+- 3 sprigs thyme
+
+**Small dish:**
+- 1 tsp chopped parsley, for garnish
 
 In a large pan, cook the bacon over medium heat until it’s crispy. Remove it from the pan and leave the fat in the pan. You won’t use the bacon in the recipe, so store it in the fridge to use on salads, eggs, etc. You just need the bacon fat.
 

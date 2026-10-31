@@ -7,7 +7,7 @@ categories:
 cook_time: ''
 created: '2020-01-26 10:30:15'
 difficulty: ''
-hash: 94ec81e0bb1fa199715787e843cab6e918d0364d3d4c428913722fd408d4e60f
+hash: e9671ee1fe8fab61ea8d2f1d21ac197c5203b5bd4754c7f6739ba54e211b12c2
 image_url: https://assets.bonappetit.com/photos/5d1cb813e1b4270008a82ec4/16:9/w_1880,c_limit/Print-Summer-Marinade-Chicken.jpg
 in_trash: false
 is_pinned: false
@@ -47,10 +47,27 @@ uid: AFAB946A-A9F9-45BB-B3CA-039670F20088
 ## Directions
 
 Mise en place guide:
-- Medium bowl: 2 lemongrass stalks, grated; 1 serrano chile, grated; 3 garlic cloves, grated; 1 piece ginger (1"), grated; 1 tbsp dark brown sugar; 1 tbsp olive oil; 1 tbsp fish sauce; 1 tbsp soy sauce
-- Tray: 1 1/4 lb chicken thighs, seasoned with salt (add to the marinade; can marinate 10 minutes to 2 hours)
-- Small dish: 2 scallions, thinly sliced; 1/2 cup cilantro leaves; sesame seeds
-- Small plate: lime wedges
+
+**Medium bowl:**
+- 2 lemongrass stalks, grated
+- 1 serrano chile, grated
+- 3 garlic cloves, grated
+- 1 piece ginger (1"), grated
+- 1 tbsp dark brown sugar
+- 1 tbsp olive oil
+- 1 tbsp fish sauce
+- 1 tbsp soy sauce
+
+**Tray:**
+- 1 1/4 lb chicken thighs, seasoned with salt (add to the marinade; can marinate 10 minutes to 2 hours)
+
+**Small dish:**
+- 2 scallions, thinly sliced
+- 1/2 cup cilantro leaves
+- sesame seeds
+
+**Small plate:**
+- lime wedges
 
 Prepare a grill for high indirect heat (for a gas grill, leave one or two burners off; for a charcoal grill, bank coals on one side); oil grate. Using a Microplane, finely grate lemongrass, chile (seeds and all!), garlic, and ginger into a medium bowl. (Alternatively, you can chop very finely, then mash to a paste using the side of your knife.) Add brown sugar, oil, fish sauce, and soy sauce and mix well.
 

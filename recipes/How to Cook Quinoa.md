@@ -4,7 +4,7 @@ categories:
 cook_time: 25-30 minutes
 created: '2022-07-19 12:35:36'
 difficulty: ''
-hash: 85f3d7a5ee78b91347361794bdd34757563cc2a9a5186a25c5ac0d0ff97800d4
+hash: 97d61111d5081e6ba1df22b89cb93c6a54354db8d21a18d714efac84f1cf8ec9
 image_url: https://cdn.apartmenttherapy.info/image/upload/f_auto,q_auto:eco,c_fill,g_center,w_730,h_913/k%2Farchive%2Fd4fc553aa34f8086392b5cd44695759b57b5795d
 in_trash: false
 is_pinned: false
@@ -35,9 +35,15 @@ uid: C3D09721-B363-43B4-A834-284BA15D4D4B
 ## Directions
 
 Mise en place guide:
-- Fine-mesh strainer: 1 cup quinoa, rinsed thoroughly and drained
-- Measuring cup: 1 3/4 cups water or low-sodium broth
-- Small dish: 1/2 tsp kosher salt
+
+**Fine-mesh strainer:**
+- 1 cup quinoa, rinsed thoroughly and drained
+
+**Measuring cup:**
+- 1 3/4 cups water or low-sodium broth
+
+**Small dish:**
+- 1/2 tsp kosher salt
 
 Rinse the quinoa. Place the quinoa in a fine-mesh strainer. Rinse thoroughly under cool, running water. Rub and swish the quinoa with your hand while rinsing. Drain.
 

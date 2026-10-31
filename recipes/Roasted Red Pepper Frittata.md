@@ -7,7 +7,7 @@ categories:
 cook_time: ''
 created: '2020-07-28 18:58:49'
 difficulty: ''
-hash: 589029d32ca15142aa40ef19d988be7886f1867ae45736002dc28b102e06d4a4
+hash: f5508fe678a0550d86f654152c3a728c4b1b2d5bd83471b3a714d482961f95f2
 image_url: https://assets.bonappetit.com/photos/5d1caf7b0813410008e914fa/16:9/w_1880,c_limit/Print-Scribe-Roasted-Red-Pepper-Frittata.jpg
 in_trash: false
 is_pinned: false
@@ -39,9 +39,17 @@ uid: 742E7CDF-D1F4-4319-95C5-2BBF3BE0DAA9-532-000000A1CA3A33D5
 ## Directions
 
 Mise en place guide:
-- Baking sheet: 2 red bell peppers (can be roasted up to 2 days ahead; bring to room temperature before using)
-- Cutting board: 1 large onion, thinly sliced; 1 1/2 lb potatoes, peeled and sliced 1/4" thick
-- Medium bowl: 8 large eggs
+
+**Baking sheet:**
+- 2 red bell peppers (can be roasted up to 2 days ahead
+- bring to room temperature before using)
+
+**Cutting board:**
+- 1 large onion, thinly sliced
+- 1 1/2 lb potatoes, peeled and sliced 1/4" thick
+
+**Medium bowl:**
+- 8 large eggs
 
 Preheat oven to 400°F. Place bell peppers on a rimmed baking sheet, drizzle with oil, and turn to coat. Season with salt. Roast peppers, turning every 5 minutes, until softened and skins look wrinkly and lightly blistered, 20-25 minutes. Let cool slightly. Peel and remove seeds from bell peppers, then cut flesh into 1/2"-thick slices. (You should have about 1 cup.)
 

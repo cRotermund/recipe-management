@@ -7,7 +7,7 @@ categories:
 cook_time: 35 minutes
 created: '2020-03-22 14:42:41'
 difficulty: ''
-hash: 5aaf9acc960a7b59e4122a3da3cc3b0b2f31c224abd9aff5e3629d461c8fc17c
+hash: 1fb8b8a10767ddfd99a66576841556e2761316093e612149dc4c41e4972eb99d
 image_url: https://static01.nyt.com/images/2018/10/24/dining/ar-chicken-scallions-lime/merlin_145231437_0eb34433-46b7-49a8-85f9-b8c1260db84c-articleLarge.jpg
 in_trash: false
 is_pinned: false
@@ -41,12 +41,27 @@ uid: EE4DDBC3-D9E0-4987-9131-DA6E46B78923-60208-00002990E95331AF
 ## Directions
 
 Mise en place guide:
-- Tray: 1 1/2 lb chicken thighs, seasoned with salt and pepper on both sides
-- Cutting board: 2 scallions, thinly sliced (set aside for serving)
-- Small dish: remaining scallions, left whole; 1 head garlic, halved crosswise
-- Small dish: 2 garlic cloves, peeled and finely grated
-- Measuring cup: 2 tbsp fresh lime juice; 1 tbsp low-sodium soy sauce; 1 cup water
-- Plate: 1 lime, whole, for zesting and quartering at the end
+
+**Tray:**
+- 1 1/2 lb chicken thighs, seasoned with salt and pepper on both sides
+
+**Cutting board:**
+- 2 scallions, thinly sliced (set aside for serving)
+
+**Small dish:**
+- remaining scallions, left whole
+- 1 head garlic, halved crosswise
+
+**Small dish:**
+- 2 garlic cloves, peeled and finely grated
+
+**Measuring cup:**
+- 2 tbsp fresh lime juice
+- 1 tbsp low-sodium soy sauce
+- 1 cup water
+
+**Plate:**
+- 1 lime, whole, for zesting and quartering at the end
 
 Season chicken with salt and pepper on both sides.
 

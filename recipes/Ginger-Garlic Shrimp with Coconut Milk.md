@@ -7,7 +7,7 @@ categories:
 cook_time: ''
 created: '2025-03-16 11:56:20'
 difficulty: ''
-hash: 6b40c392cb67def17d5d59d1bf38a7ba656ce92582448aed38d102bb8ca06022
+hash: 32dcccc5507c1084cab02a9cfe42161c085bba3b67fff30a18ae89722fbb624a
 image_url: https://static01.nyt.com/images/2022/05/18/dining/yf-Ginger-Garlic-Shrimp-With-Coconut-Milk/yf-Ginger-Garlic-Shrimp-With-Coconut-Milk-videoSixteenByNineJumbo1600-v2.jpg
 in_trash: false
 is_pinned: false
@@ -48,11 +48,30 @@ uid: E95D4303-C50C-4414-85A9-74806AC69C9D
 ## Directions
 
 Mise en place guide:
-- Mixing bowl: 2 garlic cloves, minced or grated; 1 tsp minced or grated ginger; 1 tsp ground turmeric; 1 tsp salt; 1/2 tsp pepper; 1 tbsp olive oil; 1 lb shrimp, peeled and deveined
-- Measuring cup: 1 (14 oz) can full-fat coconut milk, shaken; 1 tbsp soy sauce
-- Bowl: 3 packed cups baby spinach
-- Plate: 1 lime, halved
-- Small dish: 1 chile, thinly sliced; 2 scallions, white and light green parts, thinly sliced; 1/2 packed cup cilantro leaves and tender stems, roughly chopped (for topping)
+
+**Mixing bowl:**
+- 2 garlic cloves, minced or grated
+- 1 tsp minced or grated ginger
+- 1 tsp ground turmeric
+- 1 tsp salt
+- 1/2 tsp pepper
+- 1 tbsp olive oil
+- 1 lb shrimp, peeled and deveined
+
+**Measuring cup:**
+- 1 (14 oz) can full-fat coconut milk, shaken
+- 1 tbsp soy sauce
+
+**Bowl:**
+- 3 packed cups baby spinach
+
+**Plate:**
+- 1 lime, halved
+
+**Small dish:**
+- 1 chile, thinly sliced
+- 2 scallions, white and light green parts, thinly sliced
+- 1/2 packed cup cilantro leaves and tender stems, roughly chopped (for topping)
 
 In a mixing bowl, mix together the garlic, ginger, turmeric, 1 tsp salt, 1/2 tsp pepper and the olive oil. Add the shrimp and mix to coat well.
 

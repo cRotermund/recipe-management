@@ -7,7 +7,7 @@ categories:
 cook_time: 30 minutes
 created: '2021-03-02 08:18:15'
 difficulty: ''
-hash: 7ad84e624f7bdda2a6e998b2f7e2e3cc82292309769b5e30c2759c765b856efc
+hash: c8c2e0d7a806b827e6bcd1e1be44d1253bf94e06bea0ae1082fd9f08dd80f9ff
 image_url: https://static01.nyt.com/images/2017/01/17/dining/17COOKING-CURRIEDSHRIMP1/17COOKING-CURRIEDSHRIMP1-articleLarge.jpg
 in_trash: false
 is_pinned: false
@@ -44,12 +44,27 @@ uid: 04DA4C34-8725-4852-9EAD-3443AC6D47C8-9653-000002C1B7E2EB87
 ## Directions
 
 Mise en place guide:
-- Bowl: 1 cup minced onion; 1 tbsp minced garlic; 1 tbsp minced galangal or ginger; 1 tsp minced hot chili or red pepper flakes
-- Small dish: 1 tbsp curry powder
-- Measuring cup: 1 cup coconut milk
-- Tray: 1 1/2-2 lb shrimp, peeled (keep cold until the end)
-- Small dish: 2 tbsp nam pla (added half at a time)
-- Small dish: 1/4 cup minced cilantro or mint, for garnish
+
+**Bowl:**
+- 1 cup minced onion
+- 1 tbsp minced garlic
+- 1 tbsp minced galangal or ginger
+- 1 tsp minced hot chili or red pepper flakes
+
+**Small dish:**
+- 1 tbsp curry powder
+
+**Measuring cup:**
+- 1 cup coconut milk
+
+**Tray:**
+- 1 1/2-2 lb shrimp, peeled (keep cold until the end)
+
+**Small dish:**
+- 2 tbsp nam pla (added half at a time)
+
+**Small dish:**
+- 1/4 cup minced cilantro or mint, for garnish
 
 Place the oil in a large, deep skillet and turn the heat to medium. Add the onion, garlic, ginger, and chilies and cook, stirring frequently, until the vegetables are tender and the mixture pasty. Add the curry and cook, stirring, another minute.
 

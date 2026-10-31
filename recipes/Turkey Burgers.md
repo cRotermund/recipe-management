@@ -7,7 +7,7 @@ categories:
 cook_time: 30 minutes
 created: '2022-01-11 09:04:10'
 difficulty: ''
-hash: ea52f50b7afcb07cf31f2623347bdbf915f723aed82a54c2e3edd483a62d0feb
+hash: 21b8f17695df3cf0ba6a9d37cea90441be64b2a5a0b8816f5908472286fa9564
 image_url: https://static01.nyt.com/images/2014/04/02/dining/Turkey-Burgers/Turkey-Burgers-articleLarge.jpg
 in_trash: false
 is_pinned: false
@@ -47,9 +47,22 @@ uid: 8C56E515-F9C6-4BAB-8730-2D4F82B26F3A
 ## Directions
 
 Mise en place guide:
-- Large bowl: 1/2 onion, grated on the fine holes (about 2 tbsp; discard the juice); 1 lb ground turkey; 1 tbsp Worcestershire sauce; 2 tbsp ketchup; 3/4 tsp salt; freshly ground pepper
-- Plate: 4 hamburger buns
-- Serving plate: sliced red onion, sliced avocado, sliced red pepper
+
+**Large bowl:**
+- 1/2 onion, grated on the fine holes (about 2 tbsp; discard the juice)
+- 1 lb ground turkey
+- 1 tbsp Worcestershire sauce
+- 2 tbsp ketchup
+- 3/4 tsp salt
+- freshly ground pepper
+
+**Plate:**
+- 4 hamburger buns
+
+**Serving plate:**
+- sliced red onion
+- sliced avocado
+- sliced red pepper
 
 Grate the onion on the fine holes of a grater. You should have about two tbsp of grated onion (and a lot of juice, which you can discard). Place in a bowl with the ground turkey, Worcestershire sauce, ketchup, salt and pepper. Using a fork, mix together well. Shape into four patties — the mixture will be quite moist — and press the patties into 1/2-inch thick rounds.
 

@@ -7,7 +7,7 @@ categories:
 cook_time: 1 hour 10 minutes
 created: '2020-08-15 11:09:30'
 difficulty: ''
-hash: 0d842f7e9255f3da77d426bb7ca0f515f837d3dceab02e8e2a188bffef06fd61
+hash: 7594d962742c329400c59d16f8dc0db985bdd30a8eed495aae2eddf029ed7938
 image_url: https://static01.nyt.com/images/2020/01/01/dining/31lessmeat1/merlin_166151946_479509dd-67c1-4c00-9aef-d01504e72355-articleLarge.jpg
 in_trash: false
 is_pinned: false
@@ -48,15 +48,39 @@ uid: 14069927-26C4-4ED1-BEE9-3F14869D3F8F-87110-00002C4CCC786CC7
 ## Directions
 
 Mise en place guide:
-- Small dish: 4 tbsp butter
-- Bowl: 1 large onion, minced; 1/2 tsp salt
-- Small dish: 4 garlic cloves, finely grated or minced; 1 tbsp grated fresh ginger
-- Small dish: 2 tsp cumin; 2 tsp sweet paprika; 2 tsp garam masala; 1 small cinnamon stick
-- Can: 1 (28 oz) can whole peeled plum tomatoes, opened with their juices
-- Small bowl: 1 (15 oz) can coconut milk; remaining 1 tsp salt
-- Colander: 2 (15 oz) cans chickpeas, drained
-- Small dish: pinch of cayenne (optional)
-- Small dish: 1/2 cup cilantro leaves and tender stems, for serving
+
+**Small dish:**
+- 4 tbsp butter
+
+**Bowl:**
+- 1 large onion, minced
+- 1/2 tsp salt
+
+**Small dish:**
+- 4 garlic cloves, finely grated or minced
+- 1 tbsp grated fresh ginger
+
+**Small dish:**
+- 2 tsp cumin
+- 2 tsp sweet paprika
+- 2 tsp garam masala
+- 1 small cinnamon stick
+
+**Can:**
+- 1 (28 oz) can whole peeled plum tomatoes, opened with their juices
+
+**Small bowl:**
+- 1 (15 oz) can coconut milk
+- remaining 1 tsp salt
+
+**Colander:**
+- 2 (15 oz) cans chickpeas, drained
+
+**Small dish:**
+- pinch of cayenne (optional)
+
+**Small dish:**
+- 1/2 cup cilantro leaves and tender stems, for serving
 
 Melt butter in a large heavy-bottomed pot or Dutch oven over medium heat. Stir in onion and 1/2 tsp salt; cook until golden and browned around the edges, stirring occasionally, about 20 minutes. (Don’t be tempted to turn the heat up to medium-high; keeping the heat on medium ensures even browning without burning the butter.)
 

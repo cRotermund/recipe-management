@@ -7,7 +7,7 @@ categories:
 cook_time: ''
 created: '2023-07-18 20:42:33'
 difficulty: ''
-hash: 738eafcd2eb2eb53dbf684ba7d069145e3ac2dd265657616f5cd8246439ce84a
+hash: cf93d0990c8521150f5cb070002f7040f9b81cf6b91aad3ebbcb8d788dcf2aae
 image_url: https://static01.nyt.com/images/2020/01/02/dining/lh-red-lentils/lh-red-lentils-videoSixteenByNineJumbo1600.jpg
 in_trash: false
 is_pinned: false
@@ -49,13 +49,33 @@ uid: 42C7B1C4-46EE-4705-979B-444CCAFB3473
 ## Directions
 
 Mise en place guide:
-- Bowl: 1 lb sweet potatoes, peeled and cut into 3/4-inch cubes
-- Cutting board: 1 medium yellow onion, chopped
-- Small bowl: 3 tbsp Thai red curry paste; 3 garlic cloves, minced; 1 tbsp grated fresh ginger; 1 red chile, seeds and ribs removed, minced; 1 tsp ground turmeric
-- Bowl: 1 cup red lentils, rinsed; 2 tsp kosher salt
-- Measuring cup: 4 cups vegetable stock
-- Small dish: juice of 1/2 lime
-- Small dish: fresh cilantro leaves; toasted coconut flakes (optional)
+
+**Bowl:**
+- 1 lb sweet potatoes, peeled and cut into 3/4-inch cubes
+
+**Cutting board:**
+- 1 medium yellow onion, chopped
+
+**Small bowl:**
+- 3 tbsp Thai red curry paste
+- 3 garlic cloves, minced
+- 1 tbsp grated fresh ginger
+- 1 red chile, seeds and ribs removed, minced
+- 1 tsp ground turmeric
+
+**Bowl:**
+- 1 cup red lentils, rinsed
+- 2 tsp kosher salt
+
+**Measuring cup:**
+- 4 cups vegetable stock
+
+**Small dish:**
+- juice of 1/2 lime
+
+**Small dish:**
+- fresh cilantro leaves
+- toasted coconut flakes (optional)
 
 In a Dutch oven or pot, heat 2 tbsp olive oil over medium-high. Add the sweet potatoes and cook, stirring occasionally, until browned all over, 5-7 minutes. Transfer the browned sweet potatoes to a plate and set aside.
 

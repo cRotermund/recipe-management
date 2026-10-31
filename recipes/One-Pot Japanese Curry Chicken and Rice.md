@@ -7,7 +7,7 @@ categories:
 cook_time: 1 hour
 created: '2020-08-15 11:05:04'
 difficulty: ''
-hash: 10d403d4e96d3a92e5909635300f9ba8013cb5e17b3225eb73e69185e9a1ae9c
+hash: 46e299a68394395089324572782301a7e46490a68085816dc200932b12a62129
 image_url: https://static01.nyt.com/images/2020/06/24/dining/kc-japanese-curry-chicken/kc-japanese-curry-chicken-articleLarge.jpg
 in_trash: false
 is_pinned: false
@@ -48,14 +48,36 @@ uid: FCB5CFEC-CB88-458E-B87E-CD32305ABE09-87110-00002C4B49EF262C
 ## Directions
 
 Mise en place guide:
-- Tray: 2 lb chicken thighs, rubbed with 1 tbsp oil and seasoned with salt and pepper
-- Small dish: 1 tbsp butter (with the remaining 1 tbsp oil for browning)
-- Bowl: 1/2 cup finely chopped onion
-- Small bowl: 3 tbsp Madras curry powder; 1 tbsp minced garlic; 1 tbsp minced ginger; 3/4 tsp ground nutmeg; 2 tbsp butter
-- Bowl: 1 1/2 cups short-grain white rice, rinsed until water runs clear
-- Bowl: 1 large baking potato, peeled and cut into 1/2-inch cubes; 3 medium carrots, sliced 1/2-inch thick
-- Measuring cup: 3 1/2 cups low-sodium chicken broth; 2 tbsp Worcestershire sauce
-- Small dish: chopped scallions, for serving
+
+**Tray:**
+- 2 lb chicken thighs, rubbed with 1 tbsp oil and seasoned with salt and pepper
+
+**Small dish:**
+- 1 tbsp butter (with the remaining 1 tbsp oil for browning)
+
+**Bowl:**
+- 1/2 cup finely chopped onion
+
+**Small bowl:**
+- 3 tbsp Madras curry powder
+- 1 tbsp minced garlic
+- 1 tbsp minced ginger
+- 3/4 tsp ground nutmeg
+- 2 tbsp butter
+
+**Bowl:**
+- 1 1/2 cups short-grain white rice, rinsed until water runs clear
+
+**Bowl:**
+- 1 large baking potato, peeled and cut into 1/2-inch cubes
+- 3 medium carrots, sliced 1/2-inch thick
+
+**Measuring cup:**
+- 3 1/2 cups low-sodium chicken broth
+- 2 tbsp Worcestershire sauce
+
+**Small dish:**
+- chopped scallions, for serving
 
 Heat oven to 375°F. Rub chicken with 1 tbsp oil, and season with salt and pepper.
 

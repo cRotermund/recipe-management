@@ -7,7 +7,7 @@ categories:
 cook_time: 25 minutes
 created: '2021-09-01 11:53:38'
 difficulty: ''
-hash: 1764cc8a7c294e8ac67d21d8a31edfb4e41d06abcf9e8f7c3886b382bc77f0b1
+hash: 1f0799fa2535bf535e283e76d665124b3c4378c839c7ffb50b3fc254780ba88f
 image_url: https://s23209.pcdn.co/wp-content/uploads/2019/07/Sheet-Pan-Chicken-FajitasIMG_9933-600x900.jpg
 in_trash: false
 is_pinned: false
@@ -49,10 +49,30 @@ uid: BFE2F283-4F73-4AE2-82C5-4589F99B1F0A
 ## Directions
 
 Mise en place guide:
-- Small bowl: 2 tsp chili powder; 2 tsp ground cumin; 2 tsp dried oregano; 3/4 tsp paprika; 1/4 tsp smoked paprika; pinch of cayenne; 1 1/4 tsp salt; 1 1/4 tsp pepper; 3 garlic cloves, grated; 3 tbsp olive oil
-- Large bowl: 1 1/2 lb chicken breasts, cut into thin strips; 1 red and 1 yellow bell pepper, cut into strips; 2 medium red onions, cut into wedges
-- Small dish: 1/4 cup chopped cilantro; 2 tbsp lime juice
-- Plate: 6 tortillas (warm before serving)
+
+**Small bowl:**
+- 2 tsp chili powder
+- 2 tsp ground cumin
+- 2 tsp dried oregano
+- 3/4 tsp paprika
+- 1/4 tsp smoked paprika
+- pinch of cayenne
+- 1 1/4 tsp salt
+- 1 1/4 tsp pepper
+- 3 garlic cloves, grated
+- 3 tbsp olive oil
+
+**Large bowl:**
+- 1 1/2 lb chicken breasts, cut into thin strips
+- 1 red and 1 yellow bell pepper, cut into strips
+- 2 medium red onions, cut into wedges
+
+**Small dish:**
+- 1/4 cup chopped cilantro
+- 2 tbsp lime juice
+
+**Plate:**
+- 6 tortillas (warm before serving)
 
 Preheat oven to 425°F. Lightly oil a baking sheet or coat with nonstick spray.
 

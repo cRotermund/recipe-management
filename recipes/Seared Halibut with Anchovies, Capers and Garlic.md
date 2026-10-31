@@ -7,7 +7,7 @@ categories:
 cook_time: ''
 created: '2024-09-01 14:21:25'
 difficulty: ''
-hash: 844e0d80a724ba0e678ec172e998bb0dfa120c1a2a823d22e169f9e67f8bbc3d
+hash: 892257a3f917810712bfffb11a7a4259a9ffa42f2bcf74b4cca38cfcf4a2d831
 image_url: https://static01.nyt.com/images/2016/12/19/dining/19COOKING-SEAREDHALIBUT2/19COOKING-SEAREDHALIBUT2-square640.jpg
 in_trash: false
 is_pinned: false
@@ -43,12 +43,28 @@ uid: 1722D85D-B3C0-46A2-9D7C-F1803100BB7E
 ## Directions
 
 Mise en place guide:
-- Small dish: 2 tbsp olive oil; 2 tbsp butter
-- Tray: 1 1/2-2 lb halibut or swordfish steaks; salt and pepper
-- Small dish: 4 anchovy fillets; 1 tbsp minced garlic
-- Measuring cup: 1/2 cup dry white wine; 1 tbsp drained capers
-- Small dish: 1 tsp lemon juice
-- Small dish: chopped parsley, for garnish
+
+**Small dish:**
+- 2 tbsp olive oil
+- 2 tbsp butter
+
+**Tray:**
+- 1 1/2-2 lb halibut or swordfish steaks
+- salt and pepper
+
+**Small dish:**
+- 4 anchovy fillets
+- 1 tbsp minced garlic
+
+**Measuring cup:**
+- 1/2 cup dry white wine
+- 1 tbsp drained capers
+
+**Small dish:**
+- 1 tsp lemon juice
+
+**Small dish:**
+- chopped parsley, for garnish
 
 Heat oven to 400°F. Put a large skillet, preferably nonstick, over medium-high heat, and leave it there until hot. Add oil and butter together. Butter should sizzle. When butter foam subsides, add fish, and season it lightly with salt and pepper. Brown fish, basting with pan juices, then turn, and brown again. Do not worry about cooking through. Turn off heat, put fish on an ovenproof plate, and place it in oven.
 

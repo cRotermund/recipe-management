@@ -7,7 +7,7 @@ categories:
 cook_time: 1 hour
 created: '2021-01-24 13:43:47'
 difficulty: ''
-hash: 4689ccfa37591e71f076c0c5af748bd6f9e2c51980a038ecb78d84957f06fbb0
+hash: 91c539ef25f63490d06403d824e2baf70ef109ba876e43fae7b551fdca92f4cf
 image_url: https://static01.nyt.com/images/2018/11/21/dining/ar-sheetpan-chicken-with-chickpeas/ar-sheetpan-chicken-with-chickpeas-articleLarge.jpg
 in_trash: false
 is_pinned: false
@@ -44,11 +44,35 @@ uid: 776DD0BE-740F-46A3-943C-820DFDCD51DC-1254-000000BE007FEEE2
 ## Directions
 
 Mise en place guide:
-- Large bowl (marinade): 3/4 cup Greek yogurt, 2 tbsp lemon juice, 1 tsp turmeric, 2 tbsp water, salt and pepper; add the chicken parts, seasoned with salt and pepper (marinate 30 minutes at room temperature or overnight in the refrigerator)
-- Baking sheet: 2 (15 oz) cans chickpeas, drained and rinsed; 1 tbsp fennel seed; 1 tsp cumin; 1 tsp turmeric; half of 1 large red onion, thinly sliced; 2 tbsp olive oil
-- Small bowl: the other half of the red onion, thinly sliced, with 2 tbsp lemon juice, salt and pepper
-- Small bowl: 3/4 cup Greek yogurt, 1 tbsp lemon juice, salt and pepper (chill until serving)
-- Small dish: 1/2 cup mint or cilantro leaves, torn
+
+**Large bowl (marinade):**
+- 3/4 cup Greek yogurt
+- 2 tbsp lemon juice
+- 1 tsp turmeric
+- 2 tbsp water
+- salt and pepper
+- add the chicken parts, seasoned with salt and pepper (marinate 30 minutes at room temperature or overnight in the refrigerator)
+
+**Baking sheet:**
+- 2 (15 oz) cans chickpeas, drained and rinsed
+- 1 tbsp fennel seed
+- 1 tsp cumin
+- 1 tsp turmeric
+- half of 1 large red onion, thinly sliced
+- 2 tbsp olive oil
+
+**Small bowl:**
+- the other half of the red onion, thinly sliced
+- 2 tbsp lemon juice
+- salt and pepper
+
+**Small bowl:**
+- 3/4 cup Greek yogurt
+- 1 tbsp lemon juice
+- salt and pepper (chill until serving)
+
+**Small dish:**
+- 1/2 cup mint or cilantro leaves, torn
 
 Season chicken parts with salt and pepper.
 

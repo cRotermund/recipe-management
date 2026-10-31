@@ -7,7 +7,7 @@ categories:
 cook_time: 'prep/total time: 30 min.'
 created: '2023-01-22 10:53:08'
 difficulty: ''
-hash: a225606bed2dd639b973a57ce8194f3d2ff8bea2c0aee0babb0c00d8d2907625
+hash: 0407852f072387f0b54e529e2e3d3960d48c03d2afab419c55246ad9282ec7fd
 image_url: https://www.tasteofhome.com/wp-content/uploads/2018/01/Easy-Chicken-Creole_EXPS_TOHDJ22_5142_B08_05_11b-9.jpg?fit=700,1024
 in_trash: false
 is_pinned: false
@@ -49,12 +49,33 @@ uid: DF89D0F0-F17B-42C3-A6E6-4353C0C0A87F
 ## Directions
 
 Mise en place guide:
-- Cutting board: 1 cup sliced celery; 1 cup chopped green pepper; 1 cup chopped onion
-- Small dish: 2 garlic cloves, minced
-- Small dish: 1/4 cup all-purpose flour
-- Measuring cup: 5 cups chicken broth
-- Large bowl: 6 cups shredded or cubed cooked chicken; 2 (6 oz) cans tomato paste; 1/4 cup chopped parsley; 4 tsp Worcestershire sauce; 2 tsp lemon juice; 1 tsp salt; 1/2 tsp each pepper, sugar and dried thyme; 12-16 drops hot pepper sauce
-- Small dish: extra chopped parsley, for topping (optional)
+
+**Cutting board:**
+- 1 cup sliced celery
+- 1 cup chopped green pepper
+- 1 cup chopped onion
+
+**Small dish:**
+- 2 garlic cloves, minced
+
+**Small dish:**
+- 1/4 cup all-purpose flour
+
+**Measuring cup:**
+- 5 cups chicken broth
+
+**Large bowl:**
+- 6 cups shredded or cubed cooked chicken
+- 2 (6 oz) cans tomato paste
+- 1/4 cup chopped parsley
+- 4 tsp Worcestershire sauce
+- 2 tsp lemon juice
+- 1 tsp salt
+- 1/2 tsp each pepper, sugar and dried thyme
+- 12-16 drops hot pepper sauce
+
+**Small dish:**
+- extra chopped parsley, for topping (optional)
 
 In a large skillet over medium heat, saute the celery, green pepper and onion in oil until tender; Add garlic; cook 1 minute longer. Add flour; cook and stir for 5 minutes or until browned.
 

@@ -7,7 +7,7 @@ categories:
 cook_time: ''
 created: '2025-12-29 10:29:09'
 difficulty: ''
-hash: c007f07a199e22575d140b8da1ed7d7dc1cc699f3b1e6845f3a68f20cfdac619
+hash: 6ec0bf38c039716346c906ae66411038dc68ad1650b382f1e9f7a43930522370
 image_url: https://static01.nyt.com/images/2012/04/13/health/nutrition/13recipehealth/13recipehealth-facebookJumbo-v2.jpg
 in_trash: false
 is_pinned: false
@@ -43,11 +43,25 @@ uid: 78485C52-889C-4956-94ED-BB4FC19CFC46
 ## Directions
 
 Mise en place guide:
-- Plate lined with paper towels: 1 lb shrimp, rinsed, salted and rinsed as directed, then drained and patted dry (can be done several hours ahead)
-- Small bowl: 1/4-1/2 tsp salt; 1/8 tsp sugar (set next to the wok)
-- Small dish: 1 tbsp minced garlic; 1 tbsp minced ginger; 1/4-1/2 tsp crumbled dried red chili
-- Large bowl: 1 bunch spinach (about 1 lb), stems trimmed and rinsed in 2 changes of water; 2 tbsp sesame seeds
-- Small dish: 2 tsp dark sesame oil
+
+**Plate lined with paper towels:**
+- 1 lb shrimp, rinsed, salted and rinsed as directed, then drained and patted dry (can be done several hours ahead)
+
+**Small bowl:**
+- 1/4-1/2 tsp salt
+- 1/8 tsp sugar (set next to the wok)
+
+**Small dish:**
+- 1 tbsp minced garlic
+- 1 tbsp minced ginger
+- 1/4-1/2 tsp crumbled dried red chili
+
+**Large bowl:**
+- 1 bunch spinach (about 1 lb), stems trimmed and rinsed in 2 changes of water
+- 2 tbsp sesame seeds
+
+**Small dish:**
+- 2 tsp dark sesame oil
 
 Place the shrimp in a large colander and rinse with water. Sprinkle generously with salt and toss together for about a minute. Rinse with water and repeat. After rinsing one more time, drain on paper towels. Pat dry with more paper towels.
 

@@ -7,7 +7,7 @@ categories:
 cook_time: ''
 created: '2023-07-15 13:31:57'
 difficulty: ''
-hash: a490406ffe9ced110257dd323625242589d9984e0566d73ac8b135437758b925
+hash: 126a078a8cc9581daf511fee799cb2995672178be00ba444b7449cf95d2dfbfe
 image_url: https://static01.nyt.com/images/2015/06/17/multimedia/clark-grilled-chicken/clark-grilled-chicken-mediumThreeByTwo440.jpg
 in_trash: false
 is_pinned: false
@@ -41,9 +41,21 @@ uid: 511746A0-583E-418A-8AA9-5178F5A8194D
 ## Directions
 
 Mise en place guide:
-- Cutting board: 4 chicken breasts, pounded to an even 1/2 inch between parchment or plastic wrap
-- Large bowl: 1 1/2 tsp salt; 1 tsp pepper; 2 tbsp chopped thyme; 4 garlic cloves, crushed; zest and juice of 1 lemon; 2 tbsp olive oil (chicken marinates 1-2 hours in the refrigerator)
-- Plate: 1 lemon, cut for juice; torn basil or mint leaves
+
+**Cutting board:**
+- 4 chicken breasts, pounded to an even 1/2 inch between parchment or plastic wrap
+
+**Large bowl (chicken marinates 1-2 hours in the refrigerator):**
+- 1 1/2 tsp salt
+- 1 tsp pepper
+- 2 tbsp chopped thyme
+- 4 garlic cloves, crushed
+- zest and juice of 1 lemon
+- 2 tbsp olive oil
+
+**Plate:**
+- 1 lemon, cut for juice
+- torn basil or mint leaves
 
 Place chicken breasts between two sheets of parchment or plastic wrap. Using a mallet or rolling pin, pound each to an even thickness of 1/2 inch. Do not make them any thinner or they could dry out.
 

@@ -7,7 +7,7 @@ categories:
 cook_time: ''
 created: '2023-07-15 13:30:53'
 difficulty: ''
-hash: 5d44d3dd5d73f998a148ce96039f9a736508b1bfcf1b2e27b8ff88270c8a6a23
+hash: 0756e604b0bf9bdfe49657e8f14ea1c70fd0e263d95f0f2cc2cb6979e78f279a
 image_url: https://static01.nyt.com/images/2019/08/01/dining/mc-spiced-chickpeas/mc-spiced-chickpeas-videoSixteenByNineJumbo1600.jpg
 in_trash: false
 is_pinned: false
@@ -50,11 +50,36 @@ uid: 04F7BEC2-93BA-4513-8AB7-81F7657ECC30
 ## Directions
 
 Mise en place guide:
-- Large bowl (chickpeas): 2 (15 oz) cans chickpeas, rinsed and patted dry; 2 tbsp oil; 2 tsp cumin; 1 tsp coriander; 1/2 tsp turmeric; 1/4 tsp cayenne; 1/2 tsp salt
-- Small dish: 3 thyme sprigs, to top the chickpeas
-- Large bowl (vegetables): 2 bell peppers, sliced lengthwise 1/4-inch thick; 2 medium tomatoes, diced; 1 small red onion, sliced; 2 jalapeños, sliced; 3 thyme sprigs; 2 tbsp oil; 1/2 tsp salt
-- Small bowl (dressing): juice of 1 lemon; 1 garlic clove, finely grated; 1/4 cup oil (make while the pans roast)
-- Small dish: 1 cup fresh herbs; 1/2 cup pomegranate seeds
+
+**Large bowl (chickpeas):**
+- 2 (15 oz) cans chickpeas, rinsed and patted dry
+- 2 tbsp oil
+- 2 tsp cumin
+- 1 tsp coriander
+- 1/2 tsp turmeric
+- 1/4 tsp cayenne
+- 1/2 tsp salt
+
+**Small dish:**
+- 3 thyme sprigs, to top the chickpeas
+
+**Large bowl (vegetables):**
+- 2 bell peppers, sliced lengthwise 1/4-inch thick
+- 2 medium tomatoes, diced
+- 1 small red onion, sliced
+- 2 jalapeños, sliced
+- 3 thyme sprigs
+- 2 tbsp oil
+- 1/2 tsp salt
+
+**Small bowl (dressing, make while the pans roast):**
+- juice of 1 lemon
+- 1 garlic clove, finely grated
+- 1/4 cup oil
+
+**Small dish:**
+- 1 cup fresh herbs
+- 1/2 cup pomegranate seeds
 
 Heat the oven to 450°F and arrange racks on the top and bottom thirds of the oven.
 

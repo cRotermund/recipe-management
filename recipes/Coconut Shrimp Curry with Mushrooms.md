@@ -7,7 +7,7 @@ categories:
 cook_time: 40 minutes
 created: '2021-03-02 08:14:56'
 difficulty: ''
-hash: c70454f94f402490b935c439b45ad5eb05dbdc24cffbeca98b4865fcdc59a06d
+hash: ed662d8ad41ba259286bc1561543e74a400d51db1f29cd7c432cef26e448b40b
 image_url: https://static01.nyt.com/images/2018/06/20/dining/20kitchen1/20kitchen1-articleLarge.jpg
 in_trash: false
 is_pinned: false
@@ -49,12 +49,33 @@ uid: C735107C-8A7B-478F-B100-A7550CC1E9E4-9653-000002C093679F20
 ## Directions
 
 Mise en place guide:
-- Medium bowl: 1 lb shrimp, peeled and deveined; salt and pepper; 1 tsp grated ginger; 1 tsp grated garlic; 1 tsp turmeric; 1/2 tsp coriander seeds, toasted and ground; 1/2 tsp cumin seeds, toasted and ground; 1 tbsp tamarind paste; 1 serrano chile, finely diced; pinch of cayenne (can marinate 5-10 minutes)
-- Small dish: a few curry leaves (optional)
-- Cutting board: 6 oz mushrooms, chopped
-- Measuring cup: 2 cups coconut milk
-- Small dish: a few mint and cilantro leaves, for garnish
-- Plate: lime wedges, for garnish
+
+**Medium bowl (can marinate 5-10 minutes):**
+- 1 lb shrimp, peeled and deveined
+- salt and pepper
+- 1 tsp grated ginger
+- 1 tsp grated garlic
+- 1 tsp turmeric
+- 1/2 tsp coriander seeds, toasted and ground
+- 1/2 tsp cumin seeds, toasted and ground
+- 1 tbsp tamarind paste
+- 1 serrano chile, finely diced
+- pinch of cayenne
+
+**Small dish:**
+- a few curry leaves (optional)
+
+**Cutting board:**
+- 6 oz mushrooms, chopped
+
+**Measuring cup:**
+- 2 cups coconut milk
+
+**Small dish:**
+- a few mint and cilantro leaves, for garnish
+
+**Plate:**
+- lime wedges, for garnish
 
 Put shrimp in a medium bowl, and season generously with salt and pepper. Add ginger, garlic, turmeric, coriander, cumin, tamarind paste, serrano chile and cayenne, and mix to coat well. Leave to marinate for 5-10 minutes.
 

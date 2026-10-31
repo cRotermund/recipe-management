@@ -7,7 +7,7 @@ categories:
 cook_time: ''
 created: '2026-10-04 17:22:38'
 difficulty: ''
-hash: 21c2a0b394dd41f09fbb7ec09fde153c154485e545cea5e8367e6d2aab81a169
+hash: 958e81218d5ffd549ac0751d63560b27786d9e2b3d6d7f12e9164cc025dff5b3
 image_url: https://static01.nyt.com/images/2025/07/22/multimedia/22MS-FOODMANREX-lzwf/22MS-FOODMANREX-lzwf-videoSixteenByNineJumbo1600.jpg
 in_trash: false
 is_pinned: false
@@ -44,12 +44,26 @@ uid: 54886CF1-033E-4C5E-8FDB-4C9D9CD84BEF
 ## Directions
 
 Mise en place guide:
-- Tray: 4 chicken legs or 8 chicken thighs, seasoned with 2 tsp kosher salt and 1 tsp black pepper
-- Shallow pan: 1/2-3/4 cup all-purpose flour
-- Small dish: 2 tbsp herbes de Provence
-- Bowl: 1 lemon, quartered; 8-10 garlic cloves, peeled; 4-6 shallots, peeled and halved
-- Measuring cup: 1/3 cup dry vermouth
-- Small dish: 4 sprigs thyme, for garnish
+
+**Tray:**
+- 4 chicken legs or 8 chicken thighs, seasoned with 2 tsp kosher salt and 1 tsp black pepper
+
+**Shallow pan:**
+- 1/2-3/4 cup all-purpose flour
+
+**Small dish:**
+- 2 tbsp herbes de Provence
+
+**Bowl:**
+- 1 lemon, quartered
+- 8-10 garlic cloves, peeled
+- 4-6 shallots, peeled and halved
+
+**Measuring cup:**
+- 1/3 cup dry vermouth
+
+**Small dish:**
+- 4 sprigs thyme, for garnish
 
 Heat oven to 400°F. Season the chicken with salt and pepper. Put the flour in a shallow pan, and lightly dredge the chicken in it, shaking the pieces to remove excess flour.
 

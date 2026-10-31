@@ -7,7 +7,7 @@ categories:
 cook_time: 25 minutes
 created: '2020-11-15 12:15:36'
 difficulty: ''
-hash: d2e3f6c78a4309287545494461ab8c1c7f6fcbb6a8a4cbd13fcac69fd7f83690
+hash: f1e28c4c7df50b2d1aaef625fa3577ce9ae7e272eaa9f2b5df83bf3aae3c4a0a
 image_url: https://static01.nyt.com/images/2019/02/20/dining/kc-miso-salmon-coconut-curry/merlin_150673143_c1eaa896-8f16-4688-9e2f-1de30b42c54c-articleLarge.jpg
 in_trash: false
 is_pinned: false
@@ -46,13 +46,32 @@ uid: 9C9F5AB1-9531-48C7-8F3B-7A5D71BF69B8-13802-0000087C359A61AA
 ## Directions
 
 Mise en place guide:
-- Cutting board: 1 medium red onion, halved and sliced 1/2-inch thick; 1 (1-inch) piece ginger, minced; 3 garlic cloves, thinly sliced
-- Small dish: 1/4 cup white miso
-- Measuring cup: 1/2 cup coconut milk; 3 cups water
-- Tray: 1 1/2-lb salmon fillet, cut into 2-inch pieces
-- Bowl: 5 oz baby spinach; 1 tbsp lime juice
-- Small dish: 1/4 cup chopped basil; 1/4 cup chopped cilantro, for serving
-- Plate: lime wedges, for serving
+
+**Cutting board:**
+- 1 medium red onion, halved and sliced 1/2-inch thick
+- 1 (1-inch) piece ginger, minced
+- 3 garlic cloves, thinly sliced
+
+**Small dish:**
+- 1/4 cup white miso
+
+**Measuring cup:**
+- 1/2 cup coconut milk
+- 3 cups water
+
+**Tray:**
+- 1 1/2-lb salmon fillet, cut into 2-inch pieces
+
+**Bowl:**
+- 5 oz baby spinach
+- 1 tbsp lime juice
+
+**Small dish:**
+- 1/4 cup chopped basil
+- 1/4 cup chopped cilantro, for serving
+
+**Plate:**
+- lime wedges, for serving
 
 In a large pot, heat 2 tbsp oil over medium. Add onion, ginger and garlic and season with salt and pepper. Cook, stirring occasionally, until softened, about 3 minutes. Add miso and cook, stirring frequently, until miso is lightly caramelized, about 2 minutes.
 

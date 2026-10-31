@@ -7,7 +7,7 @@ categories:
 cook_time: 55 min
 created: '2020-01-26 10:34:14'
 difficulty: ''
-hash: e142b890282edad90f9f1fd292d62be36a16d57ae7180880573832486e696a52
+hash: e281abfefe3d1f9501e55dedcc56b5535ce1d1976f529303aea6e8eb9e29e6f7
 image_url: https://assets.bonappetit.com/photos/57b04e7853e63daf11a4ea1b/16:9/w_1880,c_limit/mare_lime_and_honey_glazed_salmon_with_basmati_and_broccolini_h.jpg
 in_trash: false
 is_pinned: false
@@ -44,13 +44,31 @@ uid: B172CD22-8DBC-4A35-AA81-6A596FBC3F4B
 ## Directions
 
 Mise en place guide:
-- Small bowl: 1/4 cup lime juice; 2 tbsp grated lime peel; 2 tbsp honey; 2 tbsp chopped cilantro; 4 tsp soy sauce (whisk together)
-- Bowl: 3/4 cup sliced shallots
-- Bowl: 1 1/2 cups basmati rice
-- Measuring cup: 3 1/4 cups chicken broth (plus extra on hand)
-- Tray: 4 salmon fillets, seasoned with salt and pepper
-- Bowl: 1 bunch broccolini, bottom inch trimmed, stalks separated if necessary
-- Small dish: additional chopped cilantro, for sprinkling
+
+**Small bowl (whisk together):**
+- 1/4 cup lime juice
+- 2 tbsp grated lime peel
+- 2 tbsp honey
+- 2 tbsp chopped cilantro
+- 4 tsp soy sauce
+
+**Bowl:**
+- 3/4 cup sliced shallots
+
+**Bowl:**
+- 1 1/2 cups basmati rice
+
+**Measuring cup:**
+- 3 1/4 cups chicken broth (plus extra on hand)
+
+**Tray:**
+- 4 salmon fillets, seasoned with salt and pepper
+
+**Bowl:**
+- 1 bunch broccolini, bottom inch trimmed, stalks separated if necessary
+
+**Small dish:**
+- additional chopped cilantro, for sprinkling
 
 Preheat oven to 450°F. Whisk lime juice, lime peel, honey, 2 tbsp cilantro, and soy sauce in small bowl; set aside.
 

@@ -7,7 +7,7 @@ categories:
 cook_time: 35-45 minutes
 created: '2020-01-26 10:50:37'
 difficulty: ''
-hash: eb6e48b9e51ef56629be6e11fe53c0cc89d651b52c272207efc8149007d9ed13
+hash: 1e296efcea69d1c06919dd290509294a58c0ad9e7571c61ce16db033ae2e8828
 image_url: https://static01.nyt.com/images/2016/04/18/dining/18COOKING-MCBITTYBEANBURGERS2/18COOKING-MCBITTYBEANBURGERS2-articleLarge.jpg
 in_trash: false
 is_pinned: false
@@ -44,11 +44,27 @@ uid: 763B3CF9-3496-43FA-BC65-354BF063FCFC
 ## Directions
 
 Mise en place guide:
-- Small bowl: 1/4 cup dried porcini mushrooms covered with hot water (soak 5-10 minutes, then drain, keep the soaking liquid, and chop)
-- Food processor: 2 cups black beans, drained; 1 tsp chopped garlic; 3/4 cup rolled oats; 2 tsp smoked paprika; 1 tsp cumin; 1 tbsp soy sauce; salt and pepper (add the chopped mushrooms)
-- Small dish: 1/4 cup chopped cilantro
-- Measuring cup: bean liquid, porcini soaking liquid, or water, for thinning
-- Small dish: 2 tbsp olive oil
+
+**Small bowl:**
+- 1/4 cup dried porcini mushrooms covered with hot water (soak 5-10 minutes, then drain, keep the soaking liquid, and chop)
+
+**Food processor (add the chopped mushrooms):**
+- 2 cups black beans, drained
+- 1 tsp chopped garlic
+- 3/4 cup rolled oats
+- 2 tsp smoked paprika
+- 1 tsp cumin
+- 1 tbsp soy sauce
+- salt and pepper
+
+**Small dish:**
+- 1/4 cup chopped cilantro
+
+**Measuring cup:**
+- bean liquid, porcini soaking liquid, or water, for thinning
+
+**Small dish:**
+- 2 tbsp olive oil
 
 Soak the mushrooms in hot water for 5-10 minutes; roughly chop.
 

@@ -7,7 +7,7 @@ categories:
 cook_time: ''
 created: '2021-02-15 20:05:38'
 difficulty: ''
-hash: 159819680328d1ce9935a178774c0bfabf577cb0449cc8159fc558f25388f3df
+hash: d143f245d9b0119bf6cc1b8f30a69490cc98d12762db4645b53877b8c09a93c4
 image_url: https://d14iv1hjmfkv57.cloudfront.net/assets/recipes/avocado-toasts/_600x600_crop_center-center_61_line/IMG_1209.jpg?mtime=20200529114147&focal=none&tmtime=20200930132624
 in_trash: false
 is_pinned: false
@@ -39,10 +39,21 @@ uid: EE19E755-175A-4FC5-A388-AE29455A590E-10855-00000343827F14BA
 ## Directions
 
 Mise en place guide:
-- Plate: 4 eggs, set next to the stove
-- Small dish: 2 tbsp lemon juice; 1/2 tsp Sriracha; 1 tsp salt; 1/2 tsp pepper
-- Cutting board: 2 avocados, halved, pitted, and peeled (cut just before mashing)
-- Cutting board: 4 slices bread, ready to toast
+
+**Plate:**
+- 4 eggs, set next to the stove
+
+**Small dish:**
+- 2 tbsp lemon juice
+- 1/2 tsp Sriracha
+- 1 tsp salt
+- 1/2 tsp pepper
+
+**Cutting board:**
+- 2 avocados, halved, pitted, and peeled (cut just before mashing)
+
+**Cutting board:**
+- 4 slices bread, ready to toast
 
 Fill a medium saucepan with water and bring to a simmer. Very carefully (you don’t want to crack the shells!), lower the eggs into the pan with a spoon. Simmer the eggs for exactly 6 1/2 minutes, take them out of the water and run them under cool tap water, until cool enough to handle. Peel the eggs and set them aside.
 

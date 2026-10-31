@@ -7,7 +7,7 @@ categories:
 cook_time: 20 min
 created: '2024-03-31 10:27:55'
 difficulty: ''
-hash: 4e7b3c0c6c830da1bf0d31fd83fd44464df161add28c71ec1ddabd5f9917c13e
+hash: 3af29e671f516aabfc78c15ad74d5477b609cffda910d99eb6d7e71225be8f16
 image_url: https://static01.nyt.com/images/2024/01/24/multimedia/24BIG-APPETITE-COCONUTMILKrex3-qphm/24BIG-APPETITE-COCONUTMILKrex3-qphm-square640.jpg
 in_trash: false
 is_pinned: false
@@ -46,14 +46,39 @@ uid: 7968834E-3228-4F83-BFEA-43F09C59C281
 ## Directions
 
 Mise en place guide:
-- Small bowl: 1 quarter of the onion, sliced thin; juice of 1/2 lime; 1/4 tsp salt (pickled onions for serving)
-- Cutting board: remaining 3 quarters of the onion, diced
-- Small dish: 4 garlic cloves, minced
-- Small dish: 1 jalapeño, seeded if desired and minced; 1/4 cup minced cilantro stems
-- Small dish: 1 tbsp tomato paste; 1 tsp cumin seeds; 1/2 tsp black pepper; 1 1/2 tsp salt
-- Large bowl: 3 (15.5 oz) cans black beans, drained; 1 (13.5 oz) can coconut milk; 1 cup stock
-- Small dish: 1/2 cup chopped cilantro leaves, plus more for serving; the remaining lime half for juicing at the end
-- Plate: 1 lime cut into wedges, for serving
+
+**Small bowl (pickled onions for serving):**
+- 1 quarter of the onion, sliced thin
+- juice of 1/2 lime
+- 1/4 tsp salt
+
+**Cutting board:**
+- remaining 3 quarters of the onion, diced
+
+**Small dish:**
+- 4 garlic cloves, minced
+
+**Small dish:**
+- 1 jalapeño, seeded if desired and minced
+- 1/4 cup minced cilantro stems
+
+**Small dish:**
+- 1 tbsp tomato paste
+- 1 tsp cumin seeds
+- 1/2 tsp black pepper
+- 1 1/2 tsp salt
+
+**Large bowl:**
+- 3 (15.5 oz) cans black beans, drained
+- 1 (13.5 oz) can coconut milk
+- 1 cup stock
+
+**Small dish:**
+- 1/2 cup chopped cilantro leaves, plus more for serving
+- the remaining lime half for juicing at the end
+
+**Plate:**
+- 1 lime cut into wedges, for serving
 
 Cut the white onion in half lengthwise and then cut lengthwise again into quarters. Thinly slice one quarter of the onion. Add slices to a small bowl and stir in the juice of 1/2 lime and 1/4 tsp salt. Set aside for serving. Dice the remaining onion and reserve.
 
